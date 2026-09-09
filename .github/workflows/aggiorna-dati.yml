@@ -1,0 +1,42 @@
+name: Aggiorna dati calcio
+
+# Quando girare:
+on:
+  schedule:
+    # Ogni giorno alle 05:30 UTC (07:30 in Italia d'estate, 06:30 d'inverno).
+    # I risultati del weekend sono pubblicati in genere entro la notte.
+    - cron: "30 5 * * *"
+  # Permette di lanciarlo a mano dalla scheda Actions, senza aspettare.
+  workflow_dispatch:
+
+# Serve il permesso di scrivere nel repository per salvare i dati aggiornati.
+permissions:
+  contents: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica il repository
+        uses: actions/checkout@v4
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Esegui il raccoglitore
+        run: python scarica_dati.py
+
+      - name: Salva i dati aggiornati
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add dati
+          # Se non è cambiato nulla, non crea un commit inutile.
+          if git diff --staged --quiet; then
+            echo "Nessuna novità: niente da salvare."
+          else
+            git commit -m "Aggiornamento dati $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
