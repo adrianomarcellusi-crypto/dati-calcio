@@ -1,0 +1,468 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "F1",
+ "nome": "Ligue 1",
+ "paese": "Francia",
+ "partite": [
+  {
+   "casa": "Marseille",
+   "data": "2026-08-21",
+   "fuori": "Strasbourg",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.25,
+    "over25": 1.51,
+    "pari": 4.02,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Lens",
+   "data": "2026-08-22",
+   "fuori": "Auxerre",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.9,
+    "over25": 1.65,
+    "pari": 4.56,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Le Mans",
+   "data": "2026-08-22",
+   "fuori": "Brest",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.76,
+    "over25": 1.9,
+    "pari": 3.32,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Nice",
+   "data": "2026-08-22",
+   "fuori": "Lorient",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 3.1,
+    "over25": 2.06,
+    "pari": 3.23,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Toulouse",
+   "data": "2026-08-22",
+   "fuori": "Lyon",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.09,
+    "over25": 1.83,
+    "pari": 3.42,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2026-08-22",
+   "fuori": "Paris FC",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.11,
+    "over25": 1.73,
+    "pari": 3.52,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2026-08-23",
+   "fuori": "Lille",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.67,
+    "fuori": 1.76,
+    "over25": 2.04,
+    "pari": 3.58,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Le Havre",
+   "data": "2026-08-23",
+   "fuori": "Monaco",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 3.89,
+    "fuori": 1.92,
+    "over25": 1.86,
+    "pari": 3.5,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Rennes",
+   "data": "2026-08-23",
+   "fuori": "Paris SG",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.94,
+    "fuori": 1.45,
+    "over25": 1.41,
+    "pari": 4.84,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "Lille",
+   "data": "2026-08-28",
+   "fuori": "Paris SG",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.46,
+    "fuori": 1.73,
+    "over25": 1.65,
+    "pari": 3.85,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Strasbourg",
+   "data": "2026-08-29",
+   "fuori": "Lens",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 3.76,
+    "fuori": 1.86,
+    "over25": 1.54,
+    "pari": 3.8,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2026-08-29",
+   "fuori": "Angers",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.39,
+    "over25": 2.05,
+    "pari": 3.28,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Brest",
+   "data": "2026-08-29",
+   "fuori": "Toulouse",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.84,
+    "over25": 1.89,
+    "pari": 3.35,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Lorient",
+   "data": "2026-08-29",
+   "fuori": "Troyes",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 4.1,
+    "over25": 2.16,
+    "pari": 3.33,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Lyon",
+   "data": "2026-08-29",
+   "fuori": "Le Havre",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.21,
+    "over25": 1.66,
+    "pari": 4.7,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2026-08-30",
+   "fuori": "Nice",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.94,
+    "over25": 1.97,
+    "pari": 3.42,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Rennes",
+   "data": "2026-08-30",
+   "fuori": "Le Mans",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 7.81,
+    "over25": 1.49,
+    "pari": 5.22,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Monaco",
+   "data": "2026-08-30",
+   "fuori": "Marseille",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.13,
+    "over25": 1.7,
+    "pari": 3.5,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Toulouse",
+   "data": "2026-09-03",
+   "fuori": "Lille",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.71,
+    "fuori": 2.01,
+    "over25": 1.87,
+    "pari": 3.41,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Lyon",
+   "data": "2026-09-04",
+   "fuori": "Auxerre",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 6.92,
+    "over25": 1.44,
+    "pari": 5.02,
+    "under25": 2.66
+   }
+  },
+  {
+   "casa": "Paris SG",
+   "data": "2026-09-04",
+   "fuori": "Monaco",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:05",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 7.93,
+    "over25": 1.34,
+    "pari": 5.72,
+    "under25": 3.15
+   }
+  },
+  {
+   "casa": "Lens",
+   "data": "2026-09-05",
+   "fuori": "Lorient",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.82,
+    "over25": 1.61,
+    "pari": 4.37,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Le Havre",
+   "data": "2026-09-05",
+   "fuori": "Brest",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.51,
+    "over25": 2.06,
+    "pari": 3.21,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Nice",
+   "data": "2026-09-05",
+   "fuori": "Le Mans",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.91,
+    "over25": 1.68,
+    "pari": 3.98,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2026-09-06",
+   "fuori": "Strasbourg",
+   "gol": [
+    2,
+    6
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.45,
+    "over25": 1.73,
+    "pari": 3.42,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2026-09-06",
+   "fuori": "Rennes",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 4.41,
+    "fuori": 1.7,
+    "over25": 1.53,
+    "pari": 4.0,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Marseille",
+   "data": "2026-09-06",
+   "fuori": "Paris FC",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.83,
+    "over25": 1.63,
+    "pari": 3.75,
+    "under25": 2.19
+   }
+  }
+ ],
+ "stagione": "2026-27"
+}

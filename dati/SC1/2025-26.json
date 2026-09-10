@@ -1,0 +1,3069 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "SC1",
+ "nome": "Championship",
+ "paese": "Scozia",
+ "partite": [
+  {
+   "casa": "Arbroath",
+   "data": "2025-08-01",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.17,
+    "fuori": 1.71,
+    "over25": 1.82,
+    "pari": 3.67,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-08-02",
+   "fuori": "Ross County",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.0,
+    "over25": 1.85,
+    "pari": 3.42,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-08-02",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.68,
+    "over25": 2.54,
+    "pari": 2.89,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-08-02",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 7.32,
+    "over25": 1.76,
+    "pari": 4.48,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-08-02",
+   "fuori": "Partick",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.64,
+    "over25": 2.01,
+    "pari": 3.3,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-08-08",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.45,
+    "over25": 1.72,
+    "pari": 3.39,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2025-08-09",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 2.98,
+    "over25": 2.16,
+    "pari": 3.12,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-08-09",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.86,
+    "over25": 2.02,
+    "pari": 3.29,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-08-09",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.58,
+    "over25": 2.1,
+    "pari": 3.22,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2025-08-09",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.27,
+    "over25": 1.78,
+    "pari": 3.36,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-08-22",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.9,
+    "over25": 2.23,
+    "pari": 3.22,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-08-23",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.37,
+    "over25": 1.73,
+    "pari": 3.5,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-08-23",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.19,
+    "over25": 2.1,
+    "pari": 3.13,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-08-23",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.37,
+    "over25": 1.94,
+    "pari": 3.34,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-08-23",
+   "fuori": "Arbroath",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 6.91,
+    "over25": 1.72,
+    "pari": 4.41,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2025-08-30",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.06,
+    "over25": 1.81,
+    "pari": 3.4,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2025-08-30",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.09,
+    "over25": 1.81,
+    "pari": 3.63,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-08-30",
+   "fuori": "Ross County",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.69,
+    "over25": 2.17,
+    "pari": 3.13,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-08-30",
+   "fuori": "Raith Rvs",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.6,
+    "over25": 2.17,
+    "pari": 3.14,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-08-30",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 6.88,
+    "over25": 1.77,
+    "pari": 4.38,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-09-06",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.65,
+    "fuori": 1.97,
+    "over25": 2.18,
+    "pari": 3.18,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-09-06",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 4.65,
+    "over25": 1.78,
+    "pari": 3.81,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-09-12",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.09,
+    "over25": 1.71,
+    "pari": 3.92,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2025-09-13",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.15,
+    "over25": 2.1,
+    "pari": 3.17,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2025-09-13",
+   "fuori": "Ross County",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.62,
+    "over25": 1.86,
+    "pari": 3.31,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2025-09-13",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.5,
+    "over25": 1.94,
+    "pari": 3.24,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-09-13",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.28,
+    "over25": 1.89,
+    "pari": 3.24,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-09-19",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.27,
+    "over25": 2.06,
+    "pari": 3.6,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-09-20",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.59,
+    "fuori": 1.94,
+    "over25": 2.03,
+    "pari": 3.29,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2025-09-20",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.73,
+    "over25": 2.13,
+    "pari": 3.12,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-09-20",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 5.41,
+    "over25": 1.65,
+    "pari": 4.1,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-09-23",
+   "fuori": "St Johnstone",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.01,
+    "fuori": 1.56,
+    "over25": 1.73,
+    "pari": 3.88,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-09-23",
+   "fuori": "Ayr",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.05,
+    "over25": 2.23,
+    "pari": 3.07,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2025-09-27",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 4.93,
+    "over25": 1.77,
+    "pari": 3.81,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-09-27",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.75,
+    "over25": 2.17,
+    "pari": 3.09,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-09-27",
+   "fuori": "Ross County",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.12,
+    "over25": 2.0,
+    "pari": 3.22,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2025-09-27",
+   "fuori": "St Johnstone",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.81,
+    "fuori": 1.45,
+    "over25": 1.68,
+    "pari": 4.16,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-09-27",
+   "fuori": "Arbroath",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.97,
+    "over25": 1.96,
+    "pari": 3.6,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2025-09-30",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 1.87,
+    "over25": 1.78,
+    "pari": 3.5,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-10-04",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.26,
+    "over25": 2.05,
+    "pari": 3.18,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-10-04",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.0,
+    "over25": 2.04,
+    "pari": 3.3,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-10-04",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.52,
+    "over25": 1.76,
+    "pari": 3.94,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-10-04",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.52,
+    "over25": 2.07,
+    "pari": 3.2,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-10-04",
+   "fuori": "Ayr",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.45,
+    "over25": 1.83,
+    "pari": 3.66,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2025-10-11",
+   "fuori": "Queens Park",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.25,
+    "over25": 2.0,
+    "pari": 3.22,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-10-11",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.13,
+    "fuori": 2.15,
+    "over25": 2.01,
+    "pari": 3.21,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-10-11",
+   "fuori": "Ayr",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.17,
+    "over25": 2.22,
+    "pari": 3.08,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-10-11",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 4.84,
+    "over25": 1.65,
+    "pari": 3.92,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-10-17",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.45,
+    "over25": 2.59,
+    "pari": 2.81,
+    "under25": 1.44
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2025-10-18",
+   "fuori": "St Johnstone",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.1,
+    "fuori": 1.56,
+    "over25": 1.79,
+    "pari": 3.86,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2025-10-18",
+   "fuori": "Morton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.21,
+    "over25": 2.07,
+    "pari": 3.31,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-10-18",
+   "fuori": "Ross County",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 3.8,
+    "over25": 1.78,
+    "pari": 3.53,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2025-10-18",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.75,
+    "over25": 2.22,
+    "pari": 3.01,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-10-21",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.92,
+    "fuori": 1.88,
+    "over25": 2.14,
+    "pari": 3.22,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-10-21",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.31,
+    "over25": 2.05,
+    "pari": 3.16,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-10-25",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.28,
+    "over25": 1.97,
+    "pari": 3.24,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-10-25",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.76,
+    "fuori": 1.65,
+    "over25": 1.88,
+    "pari": 3.59,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2025-10-25",
+   "fuori": "Ayr",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.92,
+    "fuori": 1.84,
+    "over25": 2.03,
+    "pari": 3.35,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-10-25",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.55,
+    "over25": 2.16,
+    "pari": 3.07,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-10-25",
+   "fuori": "Dunfermline",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.06,
+    "over25": 2.08,
+    "pari": 3.13,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2025-10-31",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.62,
+    "over25": 2.27,
+    "pari": 3.2,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2025-11-01",
+   "fuori": "Ross County",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.99,
+    "fuori": 2.21,
+    "over25": 2.0,
+    "pari": 3.24,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-11-01",
+   "fuori": "Queens Park",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.9,
+    "over25": 1.82,
+    "pari": 4.22,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-11-01",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.08,
+    "over25": 2.1,
+    "pari": 3.37,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-11-01",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 11.27,
+    "over25": 1.59,
+    "pari": 5.74,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-11-07",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.38,
+    "fuori": 1.52,
+    "over25": 1.81,
+    "pari": 3.94,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-11-08",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.55,
+    "fuori": 1.99,
+    "over25": 2.12,
+    "pari": 3.21,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-11-08",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.08,
+    "over25": 2.13,
+    "pari": 3.1,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2025-11-08",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.4,
+    "fuori": 1.75,
+    "over25": 2.14,
+    "pari": 3.39,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-11-08",
+   "fuori": "Ayr",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.63,
+    "over25": 1.94,
+    "pari": 3.22,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2025-11-15",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.19,
+    "over25": 1.91,
+    "pari": 3.68,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-11-15",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.25,
+    "over25": 1.97,
+    "pari": 3.83,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-11-15",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 3.78,
+    "over25": 1.93,
+    "pari": 3.41,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-11-15",
+   "fuori": "Queens Park",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 12.34,
+    "over25": 1.57,
+    "pari": 5.8,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-11-22",
+   "fuori": "Ayr",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.23,
+    "fuori": 1.76,
+    "over25": 1.94,
+    "pari": 3.41,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2025-11-22",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.4,
+    "over25": 2.15,
+    "pari": 3.12,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-11-22",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.0,
+    "over25": 2.39,
+    "pari": 3.11,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-11-22",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.89,
+    "fuori": 2.29,
+    "over25": 1.97,
+    "pari": 3.15,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-11-25",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.07,
+    "over25": 2.12,
+    "pari": 3.23,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-12-05",
+   "fuori": "Queens Park",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.49,
+    "over25": 2.04,
+    "pari": 3.39,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2025-12-06",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.74,
+    "over25": 2.04,
+    "pari": 3.11,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-12-06",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.86,
+    "over25": 2.16,
+    "pari": 3.18,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-12-06",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.65,
+    "over25": 1.8,
+    "pari": 3.71,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-12-06",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.29,
+    "over25": 2.02,
+    "pari": 3.62,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2025-12-12",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.65,
+    "fuori": 1.91,
+    "over25": 1.98,
+    "pari": 3.31,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2025-12-13",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.18,
+    "fuori": 2.1,
+    "over25": 1.98,
+    "pari": 3.22,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-12-13",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.73,
+    "over25": 2.1,
+    "pari": 3.22,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2025-12-13",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.91,
+    "fuori": 1.81,
+    "over25": 1.9,
+    "pari": 3.43,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-12-13",
+   "fuori": "Ross County",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.47,
+    "over25": 2.07,
+    "pari": 3.2,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2025-12-20",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.68,
+    "over25": 1.93,
+    "pari": 3.29,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2025-12-20",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.71,
+    "over25": 2.24,
+    "pari": 3.0,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2025-12-20",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.76,
+    "over25": 2.12,
+    "pari": 3.2,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-12-20",
+   "fuori": "Arbroath",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.08,
+    "over25": 1.89,
+    "pari": 3.31,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-12-20",
+   "fuori": "Morton",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 7.24,
+    "over25": 1.71,
+    "pari": 4.4,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2025-12-27",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.2,
+    "over25": 1.93,
+    "pari": 3.36,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2025-12-27",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.32,
+    "over25": 2.15,
+    "pari": 3.07,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2025-12-27",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.81,
+    "fuori": 1.63,
+    "over25": 1.85,
+    "pari": 3.61,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2025-12-27",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.41,
+    "over25": 2.24,
+    "pari": 3.09,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-12-27",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.41,
+    "fuori": 1.66,
+    "over25": 1.74,
+    "pari": 3.72,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2026-01-03",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.1,
+    "over25": 2.19,
+    "pari": 3.09,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-01-03",
+   "fuori": "Morton",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.15,
+    "over25": 1.91,
+    "pari": 3.61,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2026-01-03",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 7.38,
+    "over25": 1.73,
+    "pari": 4.42,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2026-01-09",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.13,
+    "over25": 1.99,
+    "pari": 3.16,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-01-10",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.91,
+    "over25": 1.88,
+    "pari": 3.61,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-01-10",
+   "fuori": "Arbroath",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.57,
+    "over25": 2.19,
+    "pari": 3.14,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-01-23",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.0,
+    "over25": 2.02,
+    "pari": 3.29,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2026-01-24",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.41,
+    "over25": 1.95,
+    "pari": 3.13,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-01-24",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.72,
+    "over25": 1.95,
+    "pari": 3.29,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-01-24",
+   "fuori": "Queens Park",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.12,
+    "over25": 2.01,
+    "pari": 3.52,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2026-01-24",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.26,
+    "over25": 1.87,
+    "pari": 3.89,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2026-01-30",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.76,
+    "over25": 1.9,
+    "pari": 3.6,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-01-31",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.57,
+    "over25": 2.22,
+    "pari": 3.1,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-01-31",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.65,
+    "over25": 2.07,
+    "pari": 3.37,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-01-31",
+   "fuori": "Ross County",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.52,
+    "over25": 2.03,
+    "pari": 3.1,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-01-31",
+   "fuori": "Arbroath",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.11,
+    "over25": 1.99,
+    "pari": 3.12,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-02-03",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.26,
+    "fuori": 2.1,
+    "over25": 1.95,
+    "pari": 3.19,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2026-02-13",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.63,
+    "fuori": 1.51,
+    "over25": 1.82,
+    "pari": 3.84,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-02-14",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.0,
+    "fuori": 2.33,
+    "over25": 2.3,
+    "pari": 2.98,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2026-02-14",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.51,
+    "over25": 1.9,
+    "pari": 3.52,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-02-17",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.35,
+    "over25": 2.23,
+    "pari": 3.0,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-02-20",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.74,
+    "fuori": 1.94,
+    "over25": 2.12,
+    "pari": 3.16,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-02-21",
+   "fuori": "Dunfermline",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.95,
+    "over25": 2.12,
+    "pari": 3.07,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-02-21",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.63,
+    "over25": 1.91,
+    "pari": 3.28,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-02-21",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.38,
+    "over25": 1.81,
+    "pari": 3.75,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-02-21",
+   "fuori": "Morton",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.73,
+    "fuori": 2.49,
+    "over25": 2.16,
+    "pari": 3.02,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-02-24",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.31,
+    "over25": 2.06,
+    "pari": 3.09,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-02-24",
+   "fuori": "St Johnstone",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 6.5,
+    "fuori": 1.42,
+    "over25": 1.73,
+    "pari": 4.21,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2026-02-28",
+   "fuori": "Morton",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 2.87,
+    "over25": 2.09,
+    "pari": 3.1,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-02-28",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.19,
+    "over25": 1.92,
+    "pari": 3.38,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-02-28",
+   "fuori": "Arbroath",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.78,
+    "over25": 1.79,
+    "pari": 3.67,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2026-02-28",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.8,
+    "over25": 2.36,
+    "pari": 2.91,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2026-02-28",
+   "fuori": "Ayr",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.45,
+    "over25": 1.83,
+    "pari": 3.78,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-03-03",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.79,
+    "over25": 2.05,
+    "pari": 3.15,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-03-03",
+   "fuori": "Ross County",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.51,
+    "over25": 2.09,
+    "pari": 3.03,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-03-07",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.6,
+    "over25": 1.96,
+    "pari": 3.13,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-03-07",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.21,
+    "over25": 2.16,
+    "pari": 3.08,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-03-07",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.43,
+    "fuori": 1.53,
+    "over25": 1.87,
+    "pari": 3.78,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-03-10",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.35,
+    "over25": 1.99,
+    "pari": 3.36,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-03-13",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.03,
+    "fuori": 1.8,
+    "over25": 1.98,
+    "pari": 3.38,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2026-03-14",
+   "fuori": "Arbroath",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.45,
+    "over25": 2.08,
+    "pari": 3.11,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-03-14",
+   "fuori": "Raith Rvs",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.84,
+    "over25": 2.44,
+    "pari": 2.9,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-03-14",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.3,
+    "over25": 2.13,
+    "pari": 3.08,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2026-03-14",
+   "fuori": "Ross County",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.1,
+    "over25": 1.77,
+    "pari": 3.94,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-03-20",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.99,
+    "fuori": 2.19,
+    "over25": 1.85,
+    "pari": 3.23,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-03-21",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.18,
+    "over25": 2.33,
+    "pari": 3.12,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-03-21",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 3.9,
+    "over25": 1.75,
+    "pari": 3.41,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-03-21",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.73,
+    "over25": 2.09,
+    "pari": 3.18,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2026-03-21",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.05,
+    "over25": 2.41,
+    "pari": 2.93,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-03-24",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.38,
+    "over25": 2.13,
+    "pari": 3.06,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-03-27",
+   "fuori": "Ross County",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.55,
+    "over25": 1.88,
+    "pari": 3.46,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-03-27",
+   "fuori": "Ayr",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.98,
+    "over25": 2.25,
+    "pari": 3.03,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-03-28",
+   "fuori": "Arbroath",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.69,
+    "over25": 2.23,
+    "pari": 2.94,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2026-03-28",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 9.37,
+    "over25": 1.62,
+    "pari": 5.16,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-04-04",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.92,
+    "fuori": 1.64,
+    "over25": 1.97,
+    "pari": 3.53,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-04-04",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.89,
+    "fuori": 2.24,
+    "over25": 1.9,
+    "pari": 3.25,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-04-04",
+   "fuori": "Morton",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 3.94,
+    "over25": 1.99,
+    "pari": 3.31,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2026-04-04",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.03,
+    "over25": 1.87,
+    "pari": 3.41,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-04-07",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.3,
+    "over25": 2.13,
+    "pari": 3.11,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-04-10",
+   "fuori": "Ross County",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.44,
+    "over25": 2.11,
+    "pari": 3.07,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-04-11",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.26,
+    "over25": 2.37,
+    "pari": 2.95,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-04-11",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 3.94,
+    "over25": 1.93,
+    "pari": 3.42,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-04-11",
+   "fuori": "Morton",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.01,
+    "over25": 2.07,
+    "pari": 3.26,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2026-04-11",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 8.62,
+    "over25": 1.58,
+    "pari": 5.01,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2026-04-14",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.16,
+    "over25": 1.9,
+    "pari": 3.52,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-04-14",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.14,
+    "fuori": 1.83,
+    "over25": 2.29,
+    "pari": 3.19,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2026-04-18",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.26,
+    "fuori": 1.68,
+    "over25": 1.7,
+    "pari": 3.72,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-04-18",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.47,
+    "over25": 2.38,
+    "pari": 2.93,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-04-18",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.72,
+    "over25": 1.84,
+    "pari": 3.33,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2026-04-18",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.4,
+    "over25": 2.28,
+    "pari": 3.08,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-04-21",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.28,
+    "fuori": 1.75,
+    "over25": 1.95,
+    "pari": 3.36,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2026-04-24",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.15,
+    "over25": 1.93,
+    "pari": 3.71,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2026-04-25",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 2.95,
+    "over25": 1.93,
+    "pari": 3.22,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-04-25",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.63,
+    "over25": 2.02,
+    "pari": 3.11,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-04-25",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.5,
+    "fuori": 1.7,
+    "over25": 2.03,
+    "pari": 3.41,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2026-04-25",
+   "fuori": "Morton",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.54,
+    "over25": 1.92,
+    "pari": 3.27,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-05-01",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.47,
+    "fuori": 1.65,
+    "over25": 1.76,
+    "pari": 3.67,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-05-01",
+   "fuori": "Arbroath",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.37,
+    "over25": 2.13,
+    "pari": 3.11,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-05-01",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 2.86,
+    "over25": 1.82,
+    "pari": 3.28,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-05-01",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 5.82,
+    "over25": 1.67,
+    "pari": 4.1,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-05-01",
+   "fuori": "Ross County",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.14,
+    "over25": 1.86,
+    "pari": 3.4,
+    "under25": 1.85
+   }
+  }
+ ],
+ "stagione": "2025-26"
+}

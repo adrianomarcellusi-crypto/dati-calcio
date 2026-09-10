@@ -1,0 +1,3885 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "SC0",
+ "nome": "Premiership",
+ "paese": "Scozia",
+ "partite": [
+  {
+   "casa": "Hearts",
+   "data": "2024-08-03",
+   "fuori": "Rangers",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.3,
+    "fuori": 1.72,
+    "over25": 1.56,
+    "pari": 4.11,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-08-03",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.32,
+    "over25": 2.11,
+    "pari": 3.21,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-08-04",
+   "fuori": "Dundee",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 3.04,
+    "over25": 2.09,
+    "pari": 3.19,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-08-04",
+   "fuori": "Hibernian",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.59,
+    "over25": 1.96,
+    "pari": 3.27,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2024-08-04",
+   "fuori": "Kilmarnock",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 19.68,
+    "over25": 1.34,
+    "pari": 8.94,
+    "under25": 3.2
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2024-08-05",
+   "fuori": "Aberdeen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 4.01,
+    "fuori": 1.9,
+    "over25": 1.85,
+    "pari": 3.57,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2024-08-10",
+   "fuori": "Motherwell",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 12.86,
+    "over25": 1.4,
+    "pari": 7.15,
+    "under25": 2.89
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-08-10",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 2.19,
+    "over25": 1.93,
+    "pari": 3.39,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2024-08-10",
+   "fuori": "Hearts",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.99,
+    "fuori": 2.27,
+    "over25": 1.72,
+    "pari": 3.49,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-08-11",
+   "fuori": "Celtic",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 8.71,
+    "fuori": 1.3,
+    "over25": 1.38,
+    "pari": 5.72,
+    "under25": 2.98
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-08-11",
+   "fuori": "St Mirren",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.74,
+    "over25": 1.89,
+    "pari": 3.7,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2024-08-11",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.29,
+    "over25": 1.81,
+    "pari": 4.02,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-08-24",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.44,
+    "over25": 1.89,
+    "pari": 3.74,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-08-24",
+   "fuori": "Dundee",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.42,
+    "over25": 1.71,
+    "pari": 3.63,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2024-08-24",
+   "fuori": "Ross County",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 15.2,
+    "over25": 1.34,
+    "pari": 7.95,
+    "under25": 3.13
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-08-25",
+   "fuori": "Celtic",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 12.45,
+    "fuori": 1.21,
+    "over25": 1.5,
+    "pari": 6.55,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-08-25",
+   "fuori": "Kilmarnock",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.84,
+    "over25": 2.02,
+    "pari": 3.49,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-08-25",
+   "fuori": "Hearts",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.3,
+    "over25": 1.96,
+    "pari": 3.3,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2024-08-31",
+   "fuori": "St Mirren",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.11,
+    "over25": 1.93,
+    "pari": 3.35,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2024-08-31",
+   "fuori": "Motherwell",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.99,
+    "fuori": 2.37,
+    "over25": 2.04,
+    "pari": 3.31,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-08-31",
+   "fuori": "Aberdeen",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 4.24,
+    "fuori": 1.83,
+    "over25": 1.94,
+    "pari": 3.6,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2024-09-01",
+   "fuori": "Rangers",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.78,
+    "over25": 1.55,
+    "pari": 4.08,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2024-09-01",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.96,
+    "over25": 1.89,
+    "pari": 3.6,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2024-09-01",
+   "fuori": "Hibernian",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.78,
+    "over25": 2.02,
+    "pari": 3.18,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-09-14",
+   "fuori": "Motherwell",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 5.1,
+    "over25": 1.9,
+    "pari": 3.75,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2024-09-14",
+   "fuori": "Hearts",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 16.97,
+    "over25": 1.31,
+    "pari": 8.75,
+    "under25": 3.34
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-09-14",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.39,
+    "over25": 1.74,
+    "pari": 4.15,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-09-14",
+   "fuori": "Dundee",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.38,
+    "over25": 1.8,
+    "pari": 3.51,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-09-14",
+   "fuori": "Kilmarnock",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 3.07,
+    "over25": 2.3,
+    "pari": 3.13,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-09-15",
+   "fuori": "Rangers",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 5.86,
+    "fuori": 1.51,
+    "over25": 1.65,
+    "pari": 4.44,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-09-21",
+   "fuori": "St Johnstone",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.15,
+    "over25": 2.14,
+    "pari": 3.43,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-09-21",
+   "fuori": "Hearts",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.56,
+    "over25": 2.06,
+    "pari": 3.27,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2024-09-28",
+   "fuori": "Aberdeen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.2,
+    "over25": 1.83,
+    "pari": 3.57,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2024-09-28",
+   "fuori": "Ross County",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.45,
+    "over25": 1.89,
+    "pari": 3.94,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2024-09-28",
+   "fuori": "Dundee United",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.65,
+    "over25": 2.07,
+    "pari": 3.3,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-09-28",
+   "fuori": "St Mirren",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.49,
+    "over25": 2.08,
+    "pari": 3.26,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2024-09-28",
+   "fuori": "Celtic",
+   "gol": [
+    0,
+    6
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 17.73,
+    "fuori": 1.13,
+    "over25": 1.33,
+    "pari": 8.42,
+    "under25": 3.28
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2024-09-29",
+   "fuori": "Hibernian",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 10.31,
+    "over25": 1.53,
+    "pari": 5.51,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2024-10-05",
+   "fuori": "Kilmarnock",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.09,
+    "over25": 1.9,
+    "pari": 3.44,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-10-05",
+   "fuori": "Motherwell",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.27,
+    "over25": 1.9,
+    "pari": 3.61,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-10-05",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.1,
+    "over25": 2.07,
+    "pari": 3.23,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-10-06",
+   "fuori": "Celtic",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 13.81,
+    "fuori": 1.17,
+    "over25": 1.39,
+    "pari": 7.48,
+    "under25": 2.91
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-10-06",
+   "fuori": "Hearts",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.01,
+    "over25": 1.8,
+    "pari": 3.74,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2024-10-06",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.08,
+    "fuori": 24.5,
+    "over25": 1.26,
+    "pari": 10.81,
+    "under25": 3.75
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2024-10-19",
+   "fuori": "Aberdeen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 12.69,
+    "over25": 1.36,
+    "pari": 7.14,
+    "under25": 3.06
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-10-19",
+   "fuori": "Hibernian",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.49,
+    "over25": 1.93,
+    "pari": 3.32,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2024-10-19",
+   "fuori": "St Mirren",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.45,
+    "over25": 1.88,
+    "pari": 3.72,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-10-19",
+   "fuori": "Dundee",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.51,
+    "over25": 1.71,
+    "pari": 3.66,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2024-10-19",
+   "fuori": "Ross County",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.83,
+    "over25": 2.22,
+    "pari": 3.14,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2024-10-20",
+   "fuori": "Rangers",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 5.75,
+    "fuori": 1.52,
+    "over25": 1.6,
+    "pari": 4.37,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2024-10-26",
+   "fuori": "St Johnstone",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.46,
+    "over25": 1.83,
+    "pari": 3.7,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-10-26",
+   "fuori": "Kilmarnock",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.81,
+    "fuori": 2.01,
+    "over25": 2.12,
+    "pari": 3.33,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-10-26",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.37,
+    "over25": 1.89,
+    "pari": 3.65,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-10-27",
+   "fuori": "Hearts",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.09,
+    "over25": 1.96,
+    "pari": 3.3,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-10-27",
+   "fuori": "Celtic",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 11.57,
+    "fuori": 1.21,
+    "over25": 1.37,
+    "pari": 6.86,
+    "under25": 3.0
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2024-10-27",
+   "fuori": "St Mirren",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 10.68,
+    "over25": 1.62,
+    "pari": 5.56,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2024-10-30",
+   "fuori": "Dundee",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 14.55,
+    "over25": 1.3,
+    "pari": 7.94,
+    "under25": 3.43
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-10-30",
+   "fuori": "Motherwell",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.89,
+    "over25": 1.9,
+    "pari": 3.53,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2024-10-30",
+   "fuori": "Kilmarnock",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.4,
+    "over25": 1.91,
+    "pari": 3.67,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-10-30",
+   "fuori": "Hibernian",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.08,
+    "fuori": 1.92,
+    "over25": 2.07,
+    "pari": 3.4,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-10-30",
+   "fuori": "St Johnstone",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.93,
+    "over25": 2.08,
+    "pari": 3.36,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-10-30",
+   "fuori": "Rangers",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.81,
+    "fuori": 1.93,
+    "over25": 1.83,
+    "pari": 3.59,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2024-11-02",
+   "fuori": "Hearts",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.7,
+    "fuori": 1.97,
+    "over25": 1.87,
+    "pari": 3.57,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-11-02",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 5.06,
+    "over25": 2.15,
+    "pari": 3.55,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2024-11-03",
+   "fuori": "Kilmarnock",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.54,
+    "over25": 1.94,
+    "pari": 3.36,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-11-03",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.42,
+    "over25": 1.92,
+    "pari": 3.62,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-11-09",
+   "fuori": "Ross County",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.62,
+    "over25": 2.1,
+    "pari": 3.45,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-11-09",
+   "fuori": "St Mirren",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.54,
+    "over25": 1.98,
+    "pari": 3.55,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-11-09",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.4,
+    "over25": 2.0,
+    "pari": 3.4,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-11-09",
+   "fuori": "Dundee",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.07,
+    "over25": 1.89,
+    "pari": 3.64,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2024-11-10",
+   "fuori": "Celtic",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 10.41,
+    "fuori": 1.26,
+    "over25": 1.5,
+    "pari": 5.93,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2024-11-10",
+   "fuori": "Hearts",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 7.77,
+    "over25": 1.52,
+    "pari": 5.05,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2024-11-23",
+   "fuori": "Kilmarnock",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.37,
+    "fuori": 2.12,
+    "over25": 1.91,
+    "pari": 3.46,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-11-23",
+   "fuori": "Motherwell",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:15",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.88,
+    "over25": 2.34,
+    "pari": 3.0,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2024-11-23",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 11.99,
+    "over25": 1.48,
+    "pari": 6.33,
+    "under25": 2.59
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-11-23",
+   "fuori": "Aberdeen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.56,
+    "over25": 1.96,
+    "pari": 3.36,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2024-11-23",
+   "fuori": "Hibernian",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.5,
+    "over25": 1.89,
+    "pari": 3.31,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2024-11-23",
+   "fuori": "Celtic",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 6.37,
+    "fuori": 1.44,
+    "over25": 1.54,
+    "pari": 4.77,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-11-26",
+   "fuori": "Aberdeen",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.79,
+    "over25": 1.92,
+    "pari": 3.3,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2024-11-30",
+   "fuori": "Ross County",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.06,
+    "fuori": 30.2,
+    "over25": 1.24,
+    "pari": 12.3,
+    "under25": 3.84
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-11-30",
+   "fuori": "St Mirren",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.13,
+    "over25": 2.06,
+    "pari": 3.3,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2024-11-30",
+   "fuori": "Dundee",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.6,
+    "over25": 1.83,
+    "pari": 3.53,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-11-30",
+   "fuori": "Hibernian",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.47,
+    "over25": 1.91,
+    "pari": 3.33,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2024-12-01",
+   "fuori": "Rangers",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 8.79,
+    "fuori": 1.3,
+    "over25": 1.51,
+    "pari": 5.68,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2024-12-01",
+   "fuori": "Aberdeen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.02,
+    "over25": 1.81,
+    "pari": 3.61,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2024-12-04",
+   "fuori": "Motherwell",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.51,
+    "over25": 1.82,
+    "pari": 3.5,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2024-12-04",
+   "fuori": "Kilmarnock",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 12.93,
+    "over25": 1.55,
+    "pari": 6.27,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-12-04",
+   "fuori": "Celtic",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 10.33,
+    "fuori": 1.26,
+    "over25": 1.39,
+    "pari": 5.98,
+    "under25": 2.93
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-12-07",
+   "fuori": "St Johnstone",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.28,
+    "over25": 1.76,
+    "pari": 4.08,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2024-12-07",
+   "fuori": "Hibernian",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.17,
+    "fuori": 14.8,
+    "over25": 1.37,
+    "pari": 7.55,
+    "under25": 3.01
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-12-07",
+   "fuori": "Kilmarnock",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.79,
+    "over25": 2.06,
+    "pari": 3.42,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2024-12-07",
+   "fuori": "Dundee",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.01,
+    "over25": 1.69,
+    "pari": 4.05,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-12-07",
+   "fuori": "Motherwell",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.25,
+    "over25": 2.1,
+    "pari": 3.43,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-12-08",
+   "fuori": "Rangers",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 14.0,
+    "fuori": 1.19,
+    "over25": 1.49,
+    "pari": 6.77,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-12-14",
+   "fuori": "Ross County",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 7.19,
+    "over25": 1.82,
+    "pari": 4.43,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-12-14",
+   "fuori": "Dundee United",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.78,
+    "over25": 2.01,
+    "pari": 3.33,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2024-12-14",
+   "fuori": "St Mirren",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.56,
+    "over25": 2.18,
+    "pari": 3.18,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2024-12-15",
+   "fuori": "Hearts",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.6,
+    "over25": 2.13,
+    "pari": 3.21,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-12-20",
+   "fuori": "Kilmarnock",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.45,
+    "over25": 1.94,
+    "pari": 3.38,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2024-12-21",
+   "fuori": "Hibernian",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.47,
+    "over25": 1.8,
+    "pari": 3.56,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2024-12-21",
+   "fuori": "Dundee",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.08,
+    "fuori": 23.58,
+    "over25": 1.27,
+    "pari": 11.16,
+    "under25": 3.69
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-12-21",
+   "fuori": "St Mirren",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.54,
+    "over25": 2.2,
+    "pari": 3.14,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-12-22",
+   "fuori": "Celtic",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 8.21,
+    "fuori": 1.33,
+    "over25": 1.46,
+    "pari": 5.25,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2024-12-22",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.29,
+    "over25": 1.92,
+    "pari": 3.92,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2024-12-26",
+   "fuori": "Hibernian",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.34,
+    "over25": 1.86,
+    "pari": 3.42,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2024-12-26",
+   "fuori": "Motherwell",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 17.23,
+    "over25": 1.3,
+    "pari": 8.98,
+    "under25": 3.4
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2024-12-26",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.43,
+    "over25": 1.9,
+    "pari": 3.59,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2024-12-26",
+   "fuori": "Aberdeen",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.81,
+    "over25": 1.98,
+    "pari": 3.33,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2024-12-26",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.41,
+    "over25": 2.18,
+    "pari": 3.18,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-12-26",
+   "fuori": "Rangers",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 9.04,
+    "fuori": 1.32,
+    "over25": 1.64,
+    "pari": 5.26,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2024-12-29",
+   "fuori": "St Johnstone",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.07,
+    "fuori": 28.13,
+    "over25": 1.28,
+    "pari": 10.83,
+    "under25": 3.49
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2024-12-29",
+   "fuori": "Kilmarnock",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.82,
+    "over25": 1.88,
+    "pari": 3.51,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2024-12-29",
+   "fuori": "Rangers",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 8.2,
+    "fuori": 1.34,
+    "over25": 1.61,
+    "pari": 5.16,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2024-12-29",
+   "fuori": "Hearts",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.31,
+    "over25": 2.04,
+    "pari": 3.31,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2024-12-29",
+   "fuori": "Dundee",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.96,
+    "over25": 1.89,
+    "pari": 3.59,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-12-29",
+   "fuori": "Aberdeen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.11,
+    "over25": 1.9,
+    "pari": 3.45,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2025-01-02",
+   "fuori": "Ross County",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.88,
+    "over25": 1.8,
+    "pari": 3.82,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2025-01-02",
+   "fuori": "Motherwell",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.9,
+    "over25": 1.87,
+    "pari": 3.76,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-01-02",
+   "fuori": "St Mirren",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.32,
+    "over25": 2.05,
+    "pari": 3.21,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-01-02",
+   "fuori": "Celtic",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.1,
+    "over25": 1.56,
+    "pari": 3.7,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-01-02",
+   "fuori": "Hibernian",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.7,
+    "fuori": 1.98,
+    "over25": 1.85,
+    "pari": 3.51,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-01-02",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.26,
+    "over25": 1.79,
+    "pari": 3.39,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2025-01-05",
+   "fuori": "Rangers",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 5.67,
+    "fuori": 1.52,
+    "over25": 1.56,
+    "pari": 4.44,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2025-01-05",
+   "fuori": "Aberdeen",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.6,
+    "over25": 1.95,
+    "pari": 3.26,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-01-05",
+   "fuori": "St Mirren",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 17.06,
+    "over25": 1.41,
+    "pari": 8.57,
+    "under25": 2.84
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2025-01-05",
+   "fuori": "Hearts",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.96,
+    "over25": 2.03,
+    "pari": 3.28,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-01-05",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.73,
+    "over25": 2.0,
+    "pari": 3.88,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-01-05",
+   "fuori": "Dundee",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.77,
+    "over25": 1.87,
+    "pari": 3.29,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-01-08",
+   "fuori": "Dundee United",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 18.69,
+    "over25": 1.37,
+    "pari": 8.34,
+    "under25": 3.01
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-01-08",
+   "fuori": "Motherwell",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.34,
+    "over25": 2.1,
+    "pari": 3.44,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-01-09",
+   "fuori": "Rangers",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 9.31,
+    "fuori": 1.28,
+    "over25": 1.43,
+    "pari": 5.73,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-01-11",
+   "fuori": "Celtic",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 13.49,
+    "fuori": 1.2,
+    "over25": 1.49,
+    "pari": 6.68,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2025-01-11",
+   "fuori": "Motherwell",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 6.15,
+    "over25": 1.74,
+    "pari": 4.34,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2025-01-11",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.92,
+    "over25": 2.34,
+    "pari": 2.97,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2025-01-12",
+   "fuori": "Hearts",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.65,
+    "over25": 1.87,
+    "pari": 3.37,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-01-12",
+   "fuori": "St Johnstone",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.11,
+    "fuori": 19.83,
+    "over25": 1.29,
+    "pari": 9.3,
+    "under25": 3.45
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-01-14",
+   "fuori": "Celtic",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 12.98,
+    "fuori": 1.19,
+    "over25": 1.42,
+    "pari": 7.09,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-01-15",
+   "fuori": "Aberdeen",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 13.1,
+    "over25": 1.37,
+    "pari": 7.0,
+    "under25": 3.03
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2025-01-25",
+   "fuori": "St Mirren",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.68,
+    "over25": 1.94,
+    "pari": 3.43,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2025-01-25",
+   "fuori": "Kilmarnock",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.18,
+    "over25": 2.0,
+    "pari": 3.53,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-01-25",
+   "fuori": "Hibernian",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.99,
+    "fuori": 1.94,
+    "over25": 2.04,
+    "pari": 3.42,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-01-25",
+   "fuori": "Motherwell",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.77,
+    "over25": 2.19,
+    "pari": 3.21,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2025-01-26",
+   "fuori": "Rangers",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 5.33,
+    "fuori": 1.57,
+    "over25": 1.61,
+    "pari": 4.23,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-02-01",
+   "fuori": "Hearts",
+   "gol": [
+    0,
+    6
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.17,
+    "fuori": 2.21,
+    "over25": 1.86,
+    "pari": 3.42,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2025-02-01",
+   "fuori": "Aberdeen",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.35,
+    "over25": 1.83,
+    "pari": 3.62,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2025-02-01",
+   "fuori": "St Johnstone",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.5,
+    "over25": 2.16,
+    "pari": 3.37,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-02-01",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 3.04,
+    "over25": 2.0,
+    "pari": 3.32,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2025-02-02",
+   "fuori": "Celtic",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 14.65,
+    "fuori": 1.17,
+    "over25": 1.47,
+    "pari": 7.15,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-02-02",
+   "fuori": "Ross County",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.09,
+    "fuori": 23.91,
+    "over25": 1.33,
+    "pari": 10.3,
+    "under25": 3.23
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-02-05",
+   "fuori": "Dundee",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.06,
+    "fuori": 29.05,
+    "over25": 1.23,
+    "pari": 12.18,
+    "under25": 3.96
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-02-15",
+   "fuori": "Dundee United",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 13.91,
+    "over25": 1.4,
+    "pari": 7.27,
+    "under25": 2.88
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-02-15",
+   "fuori": "Aberdeen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.53,
+    "over25": 1.82,
+    "pari": 3.4,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-02-15",
+   "fuori": "St Johnstone",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.49,
+    "over25": 2.14,
+    "pari": 3.42,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2025-02-15",
+   "fuori": "Ross County",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.79,
+    "over25": 2.21,
+    "pari": 3.12,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2025-02-16",
+   "fuori": "Rangers",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 5.4,
+    "fuori": 1.57,
+    "over25": 1.62,
+    "pari": 4.2,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2025-02-16",
+   "fuori": "Hibernian",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.52,
+    "over25": 2.16,
+    "pari": 3.16,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2025-02-22",
+   "fuori": "Celtic",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 6.57,
+    "fuori": 1.46,
+    "over25": 1.64,
+    "pari": 4.48,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2025-02-22",
+   "fuori": "Kilmarnock",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.51,
+    "over25": 1.96,
+    "pari": 3.31,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2025-02-22",
+   "fuori": "Motherwell",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.86,
+    "over25": 1.92,
+    "pari": 3.7,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-02-22",
+   "fuori": "St Mirren",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.17,
+    "fuori": 15.43,
+    "over25": 1.43,
+    "pari": 7.22,
+    "under25": 2.75
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-02-22",
+   "fuori": "Dundee",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 3.13,
+    "over25": 2.1,
+    "pari": 3.18,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-02-23",
+   "fuori": "Hearts",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 4.01,
+    "fuori": 1.9,
+    "over25": 1.91,
+    "pari": 3.56,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-02-25",
+   "fuori": "Aberdeen",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 17.8,
+    "over25": 1.31,
+    "pari": 8.85,
+    "under25": 3.35
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2025-02-26",
+   "fuori": "Hibernian",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.63,
+    "over25": 2.25,
+    "pari": 3.13,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2025-02-26",
+   "fuori": "St Mirren",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.49,
+    "over25": 1.95,
+    "pari": 3.62,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2025-02-26",
+   "fuori": "Dundee",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 3.04,
+    "over25": 1.99,
+    "pari": 3.32,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-02-26",
+   "fuori": "Ross County",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 3.08,
+    "over25": 2.27,
+    "pari": 3.14,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-02-26",
+   "fuori": "Rangers",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 6.32,
+    "fuori": 1.47,
+    "over25": 1.61,
+    "pari": 4.47,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-03-01",
+   "fuori": "St Johnstone",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.11,
+    "over25": 1.94,
+    "pari": 3.3,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-03-01",
+   "fuori": "Motherwell",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 20.14,
+    "over25": 1.36,
+    "pari": 8.42,
+    "under25": 3.04
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-03-01",
+   "fuori": "Kilmarnock",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.12,
+    "fuori": 2.42,
+    "over25": 2.26,
+    "pari": 3.07,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2025-03-01",
+   "fuori": "Celtic",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 9.2,
+    "fuori": 1.3,
+    "over25": 1.62,
+    "pari": 5.44,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2025-03-02",
+   "fuori": "Hearts",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.84,
+    "over25": 1.88,
+    "pari": 3.26,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2025-03-02",
+   "fuori": "Dundee United",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.61,
+    "over25": 1.94,
+    "pari": 3.36,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2025-03-15",
+   "fuori": "Ross County",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 7.31,
+    "over25": 1.87,
+    "pari": 4.38,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-03-15",
+   "fuori": "Hibernian",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.98,
+    "over25": 2.05,
+    "pari": 3.23,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2025-03-15",
+   "fuori": "St Mirren",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.64,
+    "over25": 2.28,
+    "pari": 3.0,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-03-15",
+   "fuori": "Aberdeen",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.97,
+    "fuori": 2.4,
+    "over25": 2.01,
+    "pari": 3.27,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-03-16",
+   "fuori": "Rangers",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.95,
+    "over25": 1.63,
+    "pari": 4.0,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2025-03-16",
+   "fuori": "Dundee",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.04,
+    "over25": 1.85,
+    "pari": 3.69,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2025-03-29",
+   "fuori": "Motherwell",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 5.05,
+    "over25": 1.9,
+    "pari": 3.74,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-03-29",
+   "fuori": "Hearts",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 11.81,
+    "over25": 1.38,
+    "pari": 6.87,
+    "under25": 2.97
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2025-03-29",
+   "fuori": "St Johnstone",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.68,
+    "over25": 2.06,
+    "pari": 3.81,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2025-03-29",
+   "fuori": "Kilmarnock",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.13,
+    "over25": 2.15,
+    "pari": 3.2,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-03-29",
+   "fuori": "Rangers",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 7.16,
+    "fuori": 1.35,
+    "over25": 1.46,
+    "pari": 5.41,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-03-30",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.0,
+    "fuori": 2.43,
+    "over25": 2.1,
+    "pari": 3.18,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-04-05",
+   "fuori": "St Mirren",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.73,
+    "fuori": 2.53,
+    "over25": 1.87,
+    "pari": 3.36,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-04-05",
+   "fuori": "Motherwell",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.61,
+    "over25": 2.0,
+    "pari": 3.62,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-04-05",
+   "fuori": "Hibernian",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.11,
+    "over25": 1.54,
+    "pari": 4.51,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-04-05",
+   "fuori": "Aberdeen",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.74,
+    "fuori": 1.98,
+    "over25": 2.03,
+    "pari": 3.47,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-04-06",
+   "fuori": "Celtic",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 18.02,
+    "fuori": 1.15,
+    "over25": 1.48,
+    "pari": 7.49,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2025-04-06",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.77,
+    "over25": 1.92,
+    "pari": 3.75,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-04-12",
+   "fuori": "Kilmarnock",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 14.26,
+    "over25": 1.39,
+    "pari": 7.11,
+    "under25": 2.92
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2025-04-12",
+   "fuori": "St Johnstone",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.27,
+    "over25": 2.09,
+    "pari": 3.54,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2025-04-12",
+   "fuori": "Hearts",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.23,
+    "fuori": 1.8,
+    "over25": 1.88,
+    "pari": 3.74,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2025-04-12",
+   "fuori": "Ross County",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 6.21,
+    "over25": 2.06,
+    "pari": 4.02,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2025-04-13",
+   "fuori": "Rangers",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.62,
+    "over25": 1.57,
+    "pari": 3.64,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2025-04-13",
+   "fuori": "Dundee",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 5.98,
+    "over25": 1.61,
+    "pari": 4.59,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2025-04-26",
+   "fuori": "Celtic",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 8.79,
+    "fuori": 1.32,
+    "over25": 1.45,
+    "pari": 5.29,
+    "under25": 2.71
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2025-04-26",
+   "fuori": "Hibernian",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.85,
+    "over25": 1.87,
+    "pari": 3.4,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2025-04-26",
+   "fuori": "Dundee",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.0,
+    "over25": 1.78,
+    "pari": 4.27,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-04-26",
+   "fuori": "Ross County",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.88,
+    "over25": 2.23,
+    "pari": 3.4,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2025-04-26",
+   "fuori": "St Johnstone",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.65,
+    "over25": 2.04,
+    "pari": 3.33,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2025-04-26",
+   "fuori": "Rangers",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.96,
+    "fuori": 1.81,
+    "over25": 1.67,
+    "pari": 3.99,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-05-03",
+   "fuori": "Motherwell",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.6,
+    "over25": 1.84,
+    "pari": 3.46,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2025-05-03",
+   "fuori": "Dundee United",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.82,
+    "over25": 1.81,
+    "pari": 3.91,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-05-03",
+   "fuori": "Hearts",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.12,
+    "fuori": 1.87,
+    "over25": 2.11,
+    "pari": 3.53,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-05-03",
+   "fuori": "Kilmarnock",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.99,
+    "fuori": 2.39,
+    "over25": 2.08,
+    "pari": 3.26,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2025-05-03",
+   "fuori": "Aberdeen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.91,
+    "over25": 1.87,
+    "pari": 3.35,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-05-04",
+   "fuori": "Celtic",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.86,
+    "fuori": 2.24,
+    "over25": 1.48,
+    "pari": 3.78,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-05-10",
+   "fuori": "Hibernian",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 8.94,
+    "over25": 1.43,
+    "pari": 5.79,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2025-05-10",
+   "fuori": "St Mirren",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.91,
+    "over25": 2.01,
+    "pari": 3.38,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2025-05-10",
+   "fuori": "Motherwell",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.23,
+    "over25": 1.71,
+    "pari": 4.1,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-05-10",
+   "fuori": "Dundee",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.96,
+    "over25": 1.81,
+    "pari": 3.59,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-05-10",
+   "fuori": "Ross County",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.78,
+    "over25": 2.01,
+    "pari": 3.38,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-05-11",
+   "fuori": "Aberdeen",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.12,
+    "over25": 1.48,
+    "pari": 4.67,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Dundee",
+   "data": "2025-05-14",
+   "fuori": "Ross County",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.76,
+    "over25": 1.78,
+    "pari": 3.66,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Hearts",
+   "data": "2025-05-14",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.78,
+    "over25": 1.87,
+    "pari": 3.65,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2025-05-14",
+   "fuori": "Kilmarnock",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.72,
+    "over25": 2.06,
+    "pari": 3.16,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2025-05-14",
+   "fuori": "Dundee United",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.26,
+    "fuori": 10.11,
+    "over25": 1.33,
+    "pari": 6.01,
+    "under25": 3.27
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2025-05-14",
+   "fuori": "Hibernian",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.73,
+    "over25": 1.94,
+    "pari": 3.31,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Aberdeen",
+   "data": "2025-05-14",
+   "fuori": "Celtic",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.54,
+    "fuori": 1.98,
+    "over25": 1.61,
+    "pari": 3.71,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Celtic",
+   "data": "2025-05-17",
+   "fuori": "St Mirren",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 10.9,
+    "over25": 1.35,
+    "pari": 6.93,
+    "under25": 3.11
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2025-05-17",
+   "fuori": "Aberdeen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.59,
+    "over25": 1.76,
+    "pari": 3.52,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2025-05-17",
+   "fuori": "Rangers",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.41,
+    "fuori": 1.91,
+    "over25": 1.38,
+    "pari": 4.1,
+    "under25": 2.95
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2025-05-18",
+   "fuori": "Hearts",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.86,
+    "over25": 1.81,
+    "pari": 3.41,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Ross County",
+   "data": "2025-05-18",
+   "fuori": "Motherwell",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.08,
+    "over25": 1.81,
+    "pari": 3.76,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2025-05-18",
+   "fuori": "Dundee",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.4,
+    "fuori": 2.04,
+    "over25": 1.76,
+    "pari": 3.66,
+    "under25": 2.03
+   }
+  }
+ ],
+ "stagione": "2024-25"
+}

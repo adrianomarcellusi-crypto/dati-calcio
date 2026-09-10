@@ -1,0 +1,9393 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "E2",
+ "nome": "League One",
+ "paese": "Inghilterra",
+ "partite": [
+  {
+   "casa": "Barnsley",
+   "data": "2023-08-05",
+   "fuori": "Port Vale",
+   "gol": [
+    7,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.49,
+    "over25": 2.04,
+    "pari": 3.59,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-08-05",
+   "fuori": "Burton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.66,
+    "over25": 1.71,
+    "pari": 3.91,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-08-05",
+   "fuori": "Lincoln",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.85,
+    "over25": 2.17,
+    "pari": 3.56,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-08-05",
+   "fuori": "Oxford",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 2.21,
+    "over25": 2.1,
+    "pari": 3.32,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-08-05",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 3.08,
+    "over25": 2.26,
+    "pari": 3.18,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-08-05",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.25,
+    "over25": 1.95,
+    "pari": 3.37,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-08-05",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.58,
+    "over25": 1.91,
+    "pari": 3.95,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-08-05",
+   "fuori": "Stevenage",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.69,
+    "over25": 2.36,
+    "pari": 3.1,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-08-05",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.49,
+    "over25": 1.84,
+    "pari": 3.51,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-08-05",
+   "fuori": "Peterboro",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.33,
+    "over25": 1.9,
+    "pari": 3.45,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-08-05",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.23,
+    "over25": 2.24,
+    "pari": 3.2,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-08-05",
+   "fuori": "Exeter",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.37,
+    "over25": 1.87,
+    "pari": 3.45,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-08-12",
+   "fuori": "Barnsley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.2,
+    "over25": 1.92,
+    "pari": 3.36,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-08-12",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.01,
+    "fuori": 1.88,
+    "over25": 1.94,
+    "pari": 3.54,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-08-12",
+   "fuori": "Bolton",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.23,
+    "fuori": 1.86,
+    "over25": 2.03,
+    "pari": 3.48,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-08-12",
+   "fuori": "Blackpool",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.28,
+    "over25": 1.92,
+    "pari": 3.34,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-08-12",
+   "fuori": "Cambridge",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.28,
+    "over25": 2.07,
+    "pari": 3.29,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-08-12",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.06,
+    "fuori": 2.4,
+    "over25": 2.25,
+    "pari": 3.14,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-08-12",
+   "fuori": "Wycombe",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.96,
+    "over25": 2.14,
+    "pari": 3.22,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-08-12",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.87,
+    "over25": 1.94,
+    "pari": 3.48,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-08-12",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.63,
+    "over25": 1.62,
+    "pari": 3.84,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-08-12",
+   "fuori": "Reading",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.64,
+    "over25": 1.98,
+    "pari": 3.27,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-08-12",
+   "fuori": "Shrewsbury",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.65,
+    "over25": 2.15,
+    "pari": 3.26,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-08-12",
+   "fuori": "Northampton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.97,
+    "over25": 2.36,
+    "pari": 3.17,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-08-15",
+   "fuori": "Peterboro",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.38,
+    "over25": 1.86,
+    "pari": 3.44,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-08-15",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.91,
+    "over25": 1.93,
+    "pari": 3.45,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-08-15",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.95,
+    "over25": 1.84,
+    "pari": 3.88,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-08-15",
+   "fuori": "Stevenage",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.73,
+    "fuori": 2.7,
+    "over25": 2.34,
+    "pari": 3.05,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-08-15",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.73,
+    "over25": 2.09,
+    "pari": 3.2,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-08-15",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.13,
+    "over25": 1.78,
+    "pari": 3.45,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-08-15",
+   "fuori": "Oxford",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.89,
+    "over25": 2.04,
+    "pari": 3.42,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-08-15",
+   "fuori": "Lincoln",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.6,
+    "over25": 2.26,
+    "pari": 3.09,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-08-15",
+   "fuori": "Burton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.81,
+    "over25": 2.09,
+    "pari": 3.23,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-08-15",
+   "fuori": "Leyton Orient",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.47,
+    "over25": 2.04,
+    "pari": 3.34,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-08-15",
+   "fuori": "Exeter",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.57,
+    "over25": 1.88,
+    "pari": 3.46,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-08-15",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.67,
+    "over25": 2.01,
+    "pari": 3.34,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-08-19",
+   "fuori": "Wigan",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.51,
+    "over25": 1.93,
+    "pari": 3.68,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-08-19",
+   "fuori": "Oxford",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.25,
+    "over25": 1.93,
+    "pari": 3.36,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-08-19",
+   "fuori": "Leyton Orient",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.32,
+    "over25": 1.83,
+    "pari": 3.92,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-08-19",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.65,
+    "over25": 1.93,
+    "pari": 3.36,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-08-19",
+   "fuori": "Exeter",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.57,
+    "over25": 2.07,
+    "pari": 3.22,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-08-19",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.68,
+    "over25": 1.86,
+    "pari": 3.53,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-08-19",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.75,
+    "over25": 1.82,
+    "pari": 3.86,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-08-19",
+   "fuori": "Peterboro",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 2.16,
+    "over25": 1.86,
+    "pari": 3.42,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-08-19",
+   "fuori": "Cheltenham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 8.15,
+    "over25": 1.83,
+    "pari": 4.54,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-08-19",
+   "fuori": "Stevenage",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.33,
+    "over25": 2.13,
+    "pari": 3.21,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-08-19",
+   "fuori": "Lincoln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.62,
+    "over25": 2.31,
+    "pari": 3.1,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-08-19",
+   "fuori": "Burton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.91,
+    "over25": 1.85,
+    "pari": 3.53,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-08-26",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.07,
+    "over25": 1.87,
+    "pari": 3.43,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-08-26",
+   "fuori": "Bolton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.13,
+    "fuori": 1.86,
+    "over25": 1.87,
+    "pari": 3.55,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-08-26",
+   "fuori": "Northampton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.53,
+    "over25": 2.1,
+    "pari": 3.23,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-08-26",
+   "fuori": "Reading",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.78,
+    "over25": 2.06,
+    "pari": 3.4,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-08-26",
+   "fuori": "Shrewsbury",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.67,
+    "over25": 2.18,
+    "pari": 3.27,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-08-26",
+   "fuori": "Cambridge",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.74,
+    "over25": 2.13,
+    "pari": 3.23,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-08-26",
+   "fuori": "Blackpool",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.73,
+    "fuori": 2.65,
+    "over25": 2.31,
+    "pari": 3.13,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-08-26",
+   "fuori": "Charlton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.23,
+    "over25": 1.78,
+    "pari": 3.74,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-08-26",
+   "fuori": "Derby",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.08,
+    "over25": 1.89,
+    "pari": 3.35,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-08-26",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.17,
+    "over25": 1.98,
+    "pari": 3.37,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-08-26",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.78,
+    "over25": 2.07,
+    "pari": 3.22,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-08-26",
+   "fuori": "Barnsley",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.0,
+    "over25": 1.74,
+    "pari": 3.5,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-09-02",
+   "fuori": "Wigan",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.41,
+    "over25": 1.95,
+    "pari": 3.42,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-09-02",
+   "fuori": "Derby",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.28,
+    "over25": 1.95,
+    "pari": 3.37,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-09-02",
+   "fuori": "Lincoln",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.62,
+    "over25": 2.16,
+    "pari": 3.24,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-09-02",
+   "fuori": "Exeter",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.39,
+    "over25": 1.9,
+    "pari": 3.34,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-09-02",
+   "fuori": "Shrewsbury",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.43,
+    "over25": 2.15,
+    "pari": 3.19,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-09-02",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.37,
+    "over25": 1.68,
+    "pari": 3.63,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-09-02",
+   "fuori": "Barnsley",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.71,
+    "fuori": 1.95,
+    "over25": 1.84,
+    "pari": 3.55,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-09-02",
+   "fuori": "Stevenage",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.64,
+    "over25": 2.27,
+    "pari": 3.08,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-09-02",
+   "fuori": "Wycombe",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.9,
+    "over25": 1.97,
+    "pari": 3.3,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-09-02",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.81,
+    "over25": 1.94,
+    "pari": 3.7,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-09-02",
+   "fuori": "Peterboro",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.29,
+    "over25": 1.85,
+    "pari": 3.47,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-09-04",
+   "fuori": "Reading",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.82,
+    "over25": 1.92,
+    "pari": 3.42,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-09-09",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.84,
+    "over25": 1.95,
+    "pari": 3.53,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-09-09",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.8,
+    "over25": 2.13,
+    "pari": 3.52,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-09-16",
+   "fuori": "Burton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.72,
+    "over25": 1.73,
+    "pari": 3.98,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-09-16",
+   "fuori": "Portsmouth",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.35,
+    "over25": 1.92,
+    "pari": 3.38,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-09-16",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 6.19,
+    "over25": 1.9,
+    "pari": 4.02,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-09-16",
+   "fuori": "Oxford",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.26,
+    "over25": 1.86,
+    "pari": 3.42,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-09-16",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.86,
+    "over25": 2.29,
+    "pari": 3.22,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-09-16",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.89,
+    "over25": 1.73,
+    "pari": 3.77,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-09-16",
+   "fuori": "Northampton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.16,
+    "over25": 2.03,
+    "pari": 3.27,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-09-16",
+   "fuori": "Bolton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.12,
+    "over25": 1.83,
+    "pari": 3.47,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-09-16",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.13,
+    "fuori": 2.28,
+    "over25": 2.05,
+    "pari": 3.29,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-09-16",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.74,
+    "over25": 1.93,
+    "pari": 3.53,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-09-16",
+   "fuori": "Cambridge",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.75,
+    "over25": 1.86,
+    "pari": 3.57,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-09-16",
+   "fuori": "Blackpool",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.56,
+    "over25": 2.02,
+    "pari": 3.33,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-09-19",
+   "fuori": "Portsmouth",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.81,
+    "over25": 1.82,
+    "pari": 3.41,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-09-19",
+   "fuori": "Cheltenham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.69,
+    "over25": 1.67,
+    "pari": 4.5,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-09-19",
+   "fuori": "Burton",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.83,
+    "over25": 2.08,
+    "pari": 3.37,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-09-23",
+   "fuori": "Reading",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.61,
+    "over25": 1.97,
+    "pari": 3.45,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-09-23",
+   "fuori": "Peterboro",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.29,
+    "over25": 1.74,
+    "pari": 3.51,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-09-23",
+   "fuori": "Wigan",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.2,
+    "over25": 1.83,
+    "pari": 3.47,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-09-23",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.55,
+    "over25": 1.92,
+    "pari": 3.34,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-09-23",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.93,
+    "over25": 1.99,
+    "pari": 3.28,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-09-23",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.36,
+    "fuori": 2.12,
+    "over25": 1.97,
+    "pari": 3.41,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-09-23",
+   "fuori": "Wycombe",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.29,
+    "over25": 1.74,
+    "pari": 3.5,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-09-23",
+   "fuori": "Stevenage",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.43,
+    "fuori": 1.83,
+    "over25": 2.15,
+    "pari": 3.46,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-09-23",
+   "fuori": "Shrewsbury",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.13,
+    "over25": 2.13,
+    "pari": 3.41,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-09-23",
+   "fuori": "Barnsley",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.86,
+    "fuori": 2.45,
+    "over25": 1.95,
+    "pari": 3.29,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-09-23",
+   "fuori": "Exeter",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.29,
+    "over25": 1.86,
+    "pari": 3.68,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-09-23",
+   "fuori": "Lincoln",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.13,
+    "over25": 1.98,
+    "pari": 3.74,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-09-30",
+   "fuori": "Blackpool",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.78,
+    "over25": 1.83,
+    "pari": 3.51,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-09-30",
+   "fuori": "Cambridge",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.08,
+    "over25": 1.84,
+    "pari": 4.01,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-09-30",
+   "fuori": "Northampton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.38,
+    "over25": 2.07,
+    "pari": 3.41,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-09-30",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.14,
+    "over25": 1.95,
+    "pari": 3.44,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-09-30",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.9,
+    "over25": 2.14,
+    "pari": 3.6,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-09-30",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.17,
+    "over25": 1.71,
+    "pari": 3.85,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-09-30",
+   "fuori": "Bolton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.6,
+    "over25": 1.9,
+    "pari": 3.39,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-09-30",
+   "fuori": "Burton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.87,
+    "over25": 1.86,
+    "pari": 3.7,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-09-30",
+   "fuori": "Charlton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.3,
+    "over25": 1.99,
+    "pari": 3.37,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-09-30",
+   "fuori": "Oxford",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.89,
+    "over25": 2.04,
+    "pari": 3.34,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-09-30",
+   "fuori": "Portsmouth",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.24,
+    "over25": 1.86,
+    "pari": 3.5,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-09-30",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.98,
+    "over25": 2.04,
+    "pari": 3.48,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-10-03",
+   "fuori": "Derby",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.89,
+    "over25": 2.08,
+    "pari": 3.18,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-10-03",
+   "fuori": "Stevenage",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.4,
+    "over25": 2.01,
+    "pari": 3.31,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-10-03",
+   "fuori": "Port Vale",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.54,
+    "over25": 1.85,
+    "pari": 3.5,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-10-03",
+   "fuori": "Wigan",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.76,
+    "over25": 2.08,
+    "pari": 3.2,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-10-03",
+   "fuori": "Barnsley",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.46,
+    "over25": 1.97,
+    "pari": 3.38,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-10-03",
+   "fuori": "Peterboro",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.63,
+    "fuori": 1.97,
+    "over25": 1.84,
+    "pari": 3.54,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-10-03",
+   "fuori": "Exeter",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.85,
+    "over25": 1.73,
+    "pari": 3.67,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-10-03",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.18,
+    "fuori": 2.28,
+    "over25": 2.2,
+    "pari": 3.2,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-10-03",
+   "fuori": "Reading",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.84,
+    "over25": 1.93,
+    "pari": 3.4,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-10-03",
+   "fuori": "Shrewsbury",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.36,
+    "over25": 1.91,
+    "pari": 4.03,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-10-03",
+   "fuori": "Wycombe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.4,
+    "over25": 1.77,
+    "pari": 3.69,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-10-07",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.24,
+    "over25": 1.76,
+    "pari": 3.79,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-10-07",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.65,
+    "over25": 1.79,
+    "pari": 4.1,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-10-07",
+   "fuori": "Blackpool",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.0,
+    "over25": 1.88,
+    "pari": 3.39,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-10-07",
+   "fuori": "Derby",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 6.0,
+    "fuori": 1.55,
+    "over25": 1.87,
+    "pari": 4.01,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-10-07",
+   "fuori": "Barnsley",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.4,
+    "over25": 1.88,
+    "pari": 3.42,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-10-07",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.16,
+    "over25": 1.93,
+    "pari": 3.35,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-10-07",
+   "fuori": "Reading",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.99,
+    "over25": 1.95,
+    "pari": 3.37,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-10-07",
+   "fuori": "Lincoln",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.43,
+    "over25": 1.85,
+    "pari": 3.96,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-10-07",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.0,
+    "over25": 1.78,
+    "pari": 4.0,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-10-07",
+   "fuori": "Northampton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.94,
+    "fuori": 2.44,
+    "over25": 2.22,
+    "pari": 3.19,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-10-07",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.7,
+    "over25": 1.95,
+    "pari": 3.62,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-10-09",
+   "fuori": "Cambridge",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.18,
+    "over25": 2.05,
+    "pari": 3.3,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-10-14",
+   "fuori": "Stevenage",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.39,
+    "over25": 2.14,
+    "pari": 3.26,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-10-14",
+   "fuori": "Shrewsbury",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.87,
+    "over25": 2.27,
+    "pari": 3.26,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-10-14",
+   "fuori": "Leyton Orient",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.67,
+    "over25": 2.06,
+    "pari": 3.21,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-10-14",
+   "fuori": "Burton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.86,
+    "over25": 2.21,
+    "pari": 3.3,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-10-21",
+   "fuori": "Northampton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.29,
+    "over25": 1.91,
+    "pari": 3.69,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-10-21",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.52,
+    "over25": 1.86,
+    "pari": 3.45,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-10-21",
+   "fuori": "Reading",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.79,
+    "over25": 1.67,
+    "pari": 3.81,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-10-21",
+   "fuori": "Cambridge",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.39,
+    "over25": 2.23,
+    "pari": 3.19,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-10-21",
+   "fuori": "Wigan",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.43,
+    "over25": 1.94,
+    "pari": 3.41,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-10-21",
+   "fuori": "Lincoln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.41,
+    "over25": 2.11,
+    "pari": 3.31,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-10-21",
+   "fuori": "Barnsley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.65,
+    "over25": 1.92,
+    "pari": 3.29,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-10-21",
+   "fuori": "Blackpool",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.67,
+    "over25": 1.92,
+    "pari": 3.42,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-10-21",
+   "fuori": "Wycombe",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.31,
+    "over25": 1.67,
+    "pari": 3.93,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-10-21",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.31,
+    "over25": 1.71,
+    "pari": 4.61,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-10-21",
+   "fuori": "Derby",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.19,
+    "fuori": 1.87,
+    "over25": 2.06,
+    "pari": 3.43,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-10-21",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.95,
+    "over25": 2.01,
+    "pari": 3.44,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-10-24",
+   "fuori": "Shrewsbury",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.99,
+    "over25": 1.98,
+    "pari": 3.64,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-10-24",
+   "fuori": "Cheltenham",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 8.77,
+    "over25": 1.85,
+    "pari": 4.67,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-10-24",
+   "fuori": "Stevenage",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.86,
+    "over25": 1.95,
+    "pari": 3.33,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-10-24",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.19,
+    "fuori": 1.84,
+    "over25": 1.97,
+    "pari": 3.54,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-10-24",
+   "fuori": "Burton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.91,
+    "over25": 2.13,
+    "pari": 3.22,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-10-24",
+   "fuori": "Exeter",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.6,
+    "over25": 1.82,
+    "pari": 4.06,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-10-24",
+   "fuori": "Charlton",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.37,
+    "over25": 1.99,
+    "pari": 3.35,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-10-24",
+   "fuori": "Leyton Orient",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.88,
+    "over25": 2.23,
+    "pari": 3.17,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-10-24",
+   "fuori": "Peterboro",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.2,
+    "fuori": 2.15,
+    "over25": 1.85,
+    "pari": 3.5,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-10-24",
+   "fuori": "Oxford",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.2,
+    "over25": 1.89,
+    "pari": 3.42,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-10-24",
+   "fuori": "Bolton",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.76,
+    "over25": 1.89,
+    "pari": 3.38,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-10-24",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.3,
+    "over25": 1.85,
+    "pari": 3.46,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-10-28",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.22,
+    "over25": 1.8,
+    "pari": 3.73,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-10-28",
+   "fuori": "Peterboro",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.06,
+    "over25": 1.87,
+    "pari": 3.38,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-10-28",
+   "fuori": "Northampton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.93,
+    "over25": 1.87,
+    "pari": 3.56,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-10-28",
+   "fuori": "Leyton Orient",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.32,
+    "over25": 2.01,
+    "pari": 3.29,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-10-28",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.14,
+    "over25": 2.2,
+    "pari": 3.15,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-10-28",
+   "fuori": "Bolton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.78,
+    "over25": 1.63,
+    "pari": 3.54,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-10-28",
+   "fuori": "Lincoln",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.1,
+    "over25": 2.26,
+    "pari": 3.17,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-10-28",
+   "fuori": "Wycombe",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.86,
+    "over25": 1.8,
+    "pari": 3.55,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-10-28",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 5.11,
+    "over25": 1.96,
+    "pari": 3.72,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-10-28",
+   "fuori": "Portsmouth",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 2.0,
+    "over25": 1.82,
+    "pari": 3.55,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-10-28",
+   "fuori": "Derby",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.56,
+    "over25": 2.12,
+    "pari": 3.21,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-10-28",
+   "fuori": "Shrewsbury",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.52,
+    "over25": 2.06,
+    "pari": 3.34,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-10-31",
+   "fuori": "Northampton",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 6.2,
+    "over25": 1.95,
+    "pari": 3.89,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-10-31",
+   "fuori": "Oxford",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.25,
+    "over25": 2.27,
+    "pari": 3.18,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-10-31",
+   "fuori": "Charlton",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 2.9,
+    "over25": 1.69,
+    "pari": 3.57,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-10-31",
+   "fuori": "Cambridge",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.66,
+    "over25": 1.86,
+    "pari": 3.74,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-11-01",
+   "fuori": "Blackpool",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.21,
+    "over25": 2.02,
+    "pari": 3.25,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-11-07",
+   "fuori": "Bolton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.71,
+    "fuori": 1.98,
+    "over25": 1.99,
+    "pari": 3.48,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-11-07",
+   "fuori": "Peterboro",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.97,
+    "fuori": 2.23,
+    "over25": 1.74,
+    "pari": 3.58,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-11-07",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.54,
+    "over25": 1.68,
+    "pari": 3.53,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-11-11",
+   "fuori": "Cambridge",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.33,
+    "over25": 1.72,
+    "pari": 4.4,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-11-11",
+   "fuori": "Blackpool",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.14,
+    "over25": 1.8,
+    "pari": 3.47,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-11-11",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.31,
+    "over25": 1.99,
+    "pari": 3.32,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-11-11",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.21,
+    "over25": 2.07,
+    "pari": 3.3,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-11-11",
+   "fuori": "Barnsley",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.56,
+    "over25": 1.8,
+    "pari": 3.78,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-11-11",
+   "fuori": "Exeter",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.24,
+    "over25": 1.86,
+    "pari": 3.48,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-11-11",
+   "fuori": "Oxford",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.52,
+    "over25": 2.0,
+    "pari": 3.25,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-11-11",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.93,
+    "over25": 2.21,
+    "pari": 3.17,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-11-11",
+   "fuori": "Burton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.18,
+    "over25": 2.08,
+    "pari": 3.3,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-11-11",
+   "fuori": "Charlton",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.13,
+    "over25": 1.68,
+    "pari": 3.87,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-11-11",
+   "fuori": "Reading",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.91,
+    "over25": 2.09,
+    "pari": 3.27,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-11-11",
+   "fuori": "Stevenage",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.68,
+    "over25": 1.98,
+    "pari": 3.29,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-11-18",
+   "fuori": "Shrewsbury",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 6.53,
+    "over25": 1.93,
+    "pari": 4.03,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-11-18",
+   "fuori": "Lincoln",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.75,
+    "over25": 2.25,
+    "pari": 3.33,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-11-21",
+   "fuori": "Lincoln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 4.19,
+    "over25": 2.15,
+    "pari": 3.33,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-11-25",
+   "fuori": "Exeter",
+   "gol": [
+    7,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.63,
+    "over25": 1.72,
+    "pari": 4.47,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-11-25",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.12,
+    "fuori": 2.19,
+    "over25": 1.84,
+    "pari": 3.47,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-11-25",
+   "fuori": "Oxford",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.25,
+    "fuori": 1.82,
+    "over25": 1.98,
+    "pari": 3.6,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-11-25",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.66,
+    "over25": 1.77,
+    "pari": 4.12,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-11-25",
+   "fuori": "Stevenage",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.89,
+    "fuori": 2.39,
+    "over25": 1.94,
+    "pari": 3.34,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-11-25",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.77,
+    "over25": 1.98,
+    "pari": 3.45,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-11-25",
+   "fuori": "Barnsley",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.11,
+    "fuori": 2.25,
+    "over25": 1.98,
+    "pari": 3.36,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-11-25",
+   "fuori": "Cambridge",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.84,
+    "over25": 2.25,
+    "pari": 3.27,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-11-25",
+   "fuori": "Burton",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 8.1,
+    "over25": 1.65,
+    "pari": 4.97,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-11-25",
+   "fuori": "Blackpool",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.41,
+    "over25": 1.84,
+    "pari": 3.54,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-11-25",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.55,
+    "over25": 2.16,
+    "pari": 3.18,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-11-25",
+   "fuori": "Reading",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.45,
+    "over25": 1.82,
+    "pari": 3.59,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-11-28",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.04,
+    "over25": 1.89,
+    "pari": 3.6,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-11-28",
+   "fuori": "Northampton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.86,
+    "over25": 1.77,
+    "pari": 4.37,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-11-28",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.5,
+    "over25": 1.89,
+    "pari": 3.44,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-11-28",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.04,
+    "fuori": 1.88,
+    "over25": 1.88,
+    "pari": 3.55,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-11-28",
+   "fuori": "Lincoln",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.93,
+    "over25": 2.5,
+    "pari": 3.05,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-11-28",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.31,
+    "over25": 1.61,
+    "pari": 4.26,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-11-28",
+   "fuori": "Shrewsbury",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.87,
+    "over25": 2.22,
+    "pari": 3.33,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-11-28",
+   "fuori": "Bolton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.61,
+    "over25": 1.91,
+    "pari": 3.39,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-11-28",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.81,
+    "fuori": 1.97,
+    "over25": 2.13,
+    "pari": 3.4,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-11-28",
+   "fuori": "Peterboro",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.86,
+    "over25": 1.89,
+    "pari": 3.36,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-11-28",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.69,
+    "over25": 1.84,
+    "pari": 3.49,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-11-28",
+   "fuori": "Carlisle",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.2,
+    "over25": 1.9,
+    "pari": 3.58,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-12-02",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.23,
+    "over25": 1.97,
+    "pari": 3.43,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-12-09",
+   "fuori": "Carlisle",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 8.3,
+    "over25": 1.76,
+    "pari": 4.72,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-12-09",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.98,
+    "over25": 1.8,
+    "pari": 3.85,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-12-09",
+   "fuori": "Stevenage",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.38,
+    "fuori": 2.11,
+    "over25": 2.06,
+    "pari": 3.35,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-12-09",
+   "fuori": "Cambridge",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.9,
+    "over25": 1.7,
+    "pari": 3.97,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-12-09",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.54,
+    "over25": 2.22,
+    "pari": 3.24,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-12-09",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.83,
+    "fuori": 1.94,
+    "over25": 2.1,
+    "pari": 3.42,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-12-09",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.23,
+    "over25": 1.99,
+    "pari": 3.38,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-12-09",
+   "fuori": "Oxford",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 3.99,
+    "over25": 1.71,
+    "pari": 3.75,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-12-09",
+   "fuori": "Barnsley",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.51,
+    "over25": 1.72,
+    "pari": 3.45,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-12-09",
+   "fuori": "Lincoln",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.45,
+    "over25": 2.19,
+    "pari": 3.25,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-12-09",
+   "fuori": "Shrewsbury",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.13,
+    "over25": 2.14,
+    "pari": 3.39,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-12-11",
+   "fuori": "Bolton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.14,
+    "over25": 1.89,
+    "pari": 3.4,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-12-12",
+   "fuori": "Oxford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.49,
+    "over25": 1.78,
+    "pari": 3.5,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-12-16",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.67,
+    "over25": 1.66,
+    "pari": 3.79,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-12-16",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.98,
+    "over25": 1.73,
+    "pari": 4.03,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-12-16",
+   "fuori": "Blackpool",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.99,
+    "fuori": 1.88,
+    "over25": 2.0,
+    "pari": 3.54,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-12-16",
+   "fuori": "Northampton",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.56,
+    "over25": 2.32,
+    "pari": 3.11,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-12-16",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.64,
+    "over25": 2.12,
+    "pari": 3.24,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-12-16",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.63,
+    "over25": 1.79,
+    "pari": 4.38,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-12-16",
+   "fuori": "Peterboro",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.32,
+    "fuori": 1.7,
+    "over25": 1.56,
+    "pari": 4.13,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-12-16",
+   "fuori": "Reading",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.08,
+    "over25": 2.07,
+    "pari": 3.28,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-12-16",
+   "fuori": "Burton",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.89,
+    "over25": 1.92,
+    "pari": 4.01,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-12-16",
+   "fuori": "Wigan",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.26,
+    "over25": 2.15,
+    "pari": 3.23,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-12-16",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.02,
+    "fuori": 1.71,
+    "over25": 2.09,
+    "pari": 3.57,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-12-16",
+   "fuori": "Exeter",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.85,
+    "over25": 1.95,
+    "pari": 3.95,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2023-12-21",
+   "fuori": "Lincoln",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.79,
+    "over25": 2.05,
+    "pari": 4.06,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2023-12-22",
+   "fuori": "Exeter",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.9,
+    "over25": 2.17,
+    "pari": 3.29,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2023-12-23",
+   "fuori": "Stevenage",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.12,
+    "over25": 1.96,
+    "pari": 3.38,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2023-12-23",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.34,
+    "over25": 1.76,
+    "pari": 3.82,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2023-12-23",
+   "fuori": "Leyton Orient",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.39,
+    "over25": 1.83,
+    "pari": 3.96,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2023-12-23",
+   "fuori": "Cheltenham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.94,
+    "over25": 2.1,
+    "pari": 3.22,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2023-12-23",
+   "fuori": "Burton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.45,
+    "over25": 1.63,
+    "pari": 4.27,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2023-12-23",
+   "fuori": "Oxford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.11,
+    "fuori": 2.23,
+    "over25": 1.99,
+    "pari": 3.38,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2023-12-23",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 9.15,
+    "over25": 1.58,
+    "pari": 5.39,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2023-12-23",
+   "fuori": "Wigan",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.0,
+    "over25": 1.81,
+    "pari": 3.59,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2023-12-23",
+   "fuori": "Peterboro",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.84,
+    "fuori": 1.53,
+    "over25": 1.85,
+    "pari": 4.18,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2023-12-23",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.43,
+    "over25": 2.1,
+    "pari": 3.32,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-12-26",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.73,
+    "over25": 1.76,
+    "pari": 3.48,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-12-26",
+   "fuori": "Portsmouth",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.19,
+    "fuori": 2.17,
+    "over25": 1.9,
+    "pari": 3.42,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-12-26",
+   "fuori": "Blackpool",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.36,
+    "fuori": 1.76,
+    "over25": 1.95,
+    "pari": 3.69,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-12-26",
+   "fuori": "Shrewsbury",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.61,
+    "over25": 2.3,
+    "pari": 3.21,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-12-26",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.31,
+    "over25": 2.13,
+    "pari": 3.26,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-12-26",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.85,
+    "over25": 1.9,
+    "pari": 3.54,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-12-26",
+   "fuori": "Bolton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.73,
+    "fuori": 1.99,
+    "over25": 2.05,
+    "pari": 3.39,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-12-26",
+   "fuori": "Cambridge",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.11,
+    "over25": 1.93,
+    "pari": 3.79,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-12-26",
+   "fuori": "Reading",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.66,
+    "over25": 1.52,
+    "pari": 4.77,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-12-26",
+   "fuori": "Barnsley",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 2.14,
+    "over25": 1.85,
+    "pari": 3.46,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2023-12-26",
+   "fuori": "Northampton",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 5.0,
+    "over25": 2.02,
+    "pari": 3.59,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-12-26",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.52,
+    "fuori": 1.74,
+    "over25": 1.9,
+    "pari": 3.7,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2023-12-29",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.15,
+    "over25": 2.1,
+    "pari": 3.36,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2023-12-29",
+   "fuori": "Charlton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.37,
+    "over25": 1.7,
+    "pari": 3.61,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2023-12-29",
+   "fuori": "Shrewsbury",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.74,
+    "over25": 2.45,
+    "pari": 3.04,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2023-12-29",
+   "fuori": "Reading",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.41,
+    "over25": 1.91,
+    "pari": 3.4,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2023-12-29",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.46,
+    "fuori": 1.76,
+    "over25": 1.93,
+    "pari": 3.62,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2023-12-29",
+   "fuori": "Bolton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.81,
+    "fuori": 1.71,
+    "over25": 1.86,
+    "pari": 3.65,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2023-12-29",
+   "fuori": "Wycombe",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 3.01,
+    "over25": 2.21,
+    "pari": 3.16,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2023-12-29",
+   "fuori": "Northampton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.55,
+    "over25": 2.49,
+    "pari": 3.04,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2023-12-29",
+   "fuori": "Derby",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.27,
+    "over25": 2.04,
+    "pari": 3.24,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2023-12-29",
+   "fuori": "Barnsley",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 3.83,
+    "over25": 1.6,
+    "pari": 3.85,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2023-12-29",
+   "fuori": "Blackpool",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.45,
+    "fuori": 2.09,
+    "over25": 2.03,
+    "pari": 3.36,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-01-01",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.09,
+    "over25": 1.73,
+    "pari": 3.96,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-01-01",
+   "fuori": "Lincoln",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 6.33,
+    "over25": 1.95,
+    "pari": 4.06,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-01-01",
+   "fuori": "Burton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 9.35,
+    "over25": 1.69,
+    "pari": 5.11,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-01-01",
+   "fuori": "Leyton Orient",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.88,
+    "over25": 2.26,
+    "pari": 3.08,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-01-01",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.47,
+    "over25": 2.15,
+    "pari": 3.16,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-01-01",
+   "fuori": "Oxford",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.64,
+    "over25": 1.68,
+    "pari": 3.47,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-01-01",
+   "fuori": "Peterboro",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.78,
+    "over25": 1.65,
+    "pari": 3.74,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-01-01",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.02,
+    "over25": 2.15,
+    "pari": 3.15,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-01-01",
+   "fuori": "Stevenage",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.8,
+    "over25": 2.03,
+    "pari": 3.36,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-01-01",
+   "fuori": "Exeter",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.49,
+    "over25": 1.84,
+    "pari": 3.64,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-01-01",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.51,
+    "over25": 2.13,
+    "pari": 3.22,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-01-01",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.74,
+    "over25": 1.93,
+    "pari": 3.35,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-01-06",
+   "fuori": "Derby",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.97,
+    "fuori": 1.62,
+    "over25": 1.76,
+    "pari": 3.98,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-01-06",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.37,
+    "fuori": 2.15,
+    "over25": 2.12,
+    "pari": 3.24,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-01-06",
+   "fuori": "Portsmouth",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.47,
+    "fuori": 1.73,
+    "over25": 1.89,
+    "pari": 3.72,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-01-06",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.6,
+    "over25": 2.15,
+    "pari": 3.27,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-01-06",
+   "fuori": "Charlton",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 2.95,
+    "over25": 1.8,
+    "pari": 3.51,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-01-13",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.58,
+    "over25": 1.71,
+    "pari": 3.58,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-01-13",
+   "fuori": "Exeter",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.94,
+    "over25": 1.83,
+    "pari": 4.11,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-01-13",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.63,
+    "over25": 2.03,
+    "pari": 3.36,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-01-13",
+   "fuori": "Oxford",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.47,
+    "fuori": 2.08,
+    "over25": 1.99,
+    "pari": 3.37,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-01-13",
+   "fuori": "Peterboro",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.49,
+    "fuori": 1.91,
+    "over25": 1.54,
+    "pari": 3.89,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-01-13",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.18,
+    "over25": 2.01,
+    "pari": 3.36,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-01-13",
+   "fuori": "Leyton Orient",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.27,
+    "over25": 1.92,
+    "pari": 3.78,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-01-13",
+   "fuori": "Stevenage",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.98,
+    "fuori": 1.95,
+    "over25": 2.28,
+    "pari": 3.29,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-01-13",
+   "fuori": "Lincoln",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.5,
+    "over25": 2.23,
+    "pari": 3.39,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-01-15",
+   "fuori": "Burton",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.24,
+    "fuori": 11.28,
+    "over25": 1.61,
+    "pari": 5.72,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-01-16",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.9,
+    "over25": 1.7,
+    "pari": 4.27,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-01-20",
+   "fuori": "Blackpool",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.62,
+    "over25": 1.81,
+    "pari": 3.41,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-01-20",
+   "fuori": "Charlton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.19,
+    "over25": 1.93,
+    "pari": 3.37,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-01-20",
+   "fuori": "Cambridge",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.16,
+    "over25": 2.27,
+    "pari": 3.14,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-01-20",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.36,
+    "fuori": 1.75,
+    "over25": 1.82,
+    "pari": 3.72,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-01-20",
+   "fuori": "Bolton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.33,
+    "over25": 2.1,
+    "pari": 3.24,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-01-20",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.71,
+    "fuori": 1.72,
+    "over25": 2.04,
+    "pari": 3.61,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-01-20",
+   "fuori": "Shrewsbury",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 9.57,
+    "over25": 1.56,
+    "pari": 5.49,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-01-20",
+   "fuori": "Reading",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 2.92,
+    "over25": 1.83,
+    "pari": 3.45,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-01-23",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.97,
+    "over25": 1.74,
+    "pari": 4.21,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-01-23",
+   "fuori": "Exeter",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.65,
+    "over25": 1.77,
+    "pari": 3.85,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-01-23",
+   "fuori": "Northampton",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.95,
+    "over25": 1.87,
+    "pari": 3.54,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-01-23",
+   "fuori": "Barnsley",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 2.98,
+    "over25": 1.7,
+    "pari": 3.53,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-01-23",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.69,
+    "over25": 2.09,
+    "pari": 3.15,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-01-23",
+   "fuori": "Derby",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 4.02,
+    "fuori": 1.8,
+    "over25": 1.68,
+    "pari": 3.77,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-01-27",
+   "fuori": "Exeter",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.68,
+    "over25": 1.85,
+    "pari": 3.84,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-01-27",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.11,
+    "over25": 1.72,
+    "pari": 4.04,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-01-27",
+   "fuori": "Oxford",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 2.95,
+    "over25": 1.7,
+    "pari": 3.53,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-01-27",
+   "fuori": "Burton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.29,
+    "over25": 2.19,
+    "pari": 3.44,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-01-27",
+   "fuori": "Bolton",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.09,
+    "fuori": 1.87,
+    "over25": 2.02,
+    "pari": 3.47,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-01-27",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.79,
+    "over25": 1.73,
+    "pari": 4.29,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-01-27",
+   "fuori": "Peterboro",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.07,
+    "fuori": 1.84,
+    "over25": 1.89,
+    "pari": 3.59,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-01-27",
+   "fuori": "Shrewsbury",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.57,
+    "over25": 2.22,
+    "pari": 3.42,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-01-27",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.48,
+    "fuori": 2.02,
+    "over25": 1.85,
+    "pari": 3.5,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-01-27",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.54,
+    "over25": 1.92,
+    "pari": 3.27,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-01-27",
+   "fuori": "Stevenage",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.12,
+    "fuori": 2.29,
+    "over25": 2.33,
+    "pari": 3.21,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-01-27",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.12,
+    "over25": 1.8,
+    "pari": 3.93,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-01-30",
+   "fuori": "Portsmouth",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.23,
+    "over25": 1.96,
+    "pari": 3.32,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-02-03",
+   "fuori": "Reading",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.34,
+    "over25": 1.78,
+    "pari": 3.48,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-02-03",
+   "fuori": "Barnsley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.67,
+    "over25": 1.79,
+    "pari": 3.56,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-02-03",
+   "fuori": "Lincoln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.51,
+    "fuori": 2.2,
+    "over25": 2.47,
+    "pari": 3.03,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-02-03",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.05,
+    "over25": 1.68,
+    "pari": 3.62,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-02-03",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.76,
+    "over25": 2.14,
+    "pari": 3.21,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-02-03",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.49,
+    "over25": 2.0,
+    "pari": 3.24,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-02-03",
+   "fuori": "Port Vale",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.32,
+    "over25": 1.87,
+    "pari": 3.39,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-02-03",
+   "fuori": "Carlisle",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 6.34,
+    "over25": 2.08,
+    "pari": 3.93,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-02-03",
+   "fuori": "Wigan",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.47,
+    "over25": 1.64,
+    "pari": 4.19,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-02-03",
+   "fuori": "Northampton",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 6.89,
+    "over25": 1.74,
+    "pari": 4.46,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-02-03",
+   "fuori": "Cambridge",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.14,
+    "over25": 2.53,
+    "pari": 3.01,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-02-03",
+   "fuori": "Blackpool",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.15,
+    "over25": 2.19,
+    "pari": 3.21,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-02-06",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.32,
+    "over25": 1.66,
+    "pari": 3.88,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-02-06",
+   "fuori": "Peterboro",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.55,
+    "fuori": 1.97,
+    "over25": 1.77,
+    "pari": 3.6,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-02-06",
+   "fuori": "Leyton Orient",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.2,
+    "over25": 2.13,
+    "pari": 3.32,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-02-06",
+   "fuori": "Reading",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.62,
+    "over25": 2.0,
+    "pari": 3.6,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-02-10",
+   "fuori": "Leyton Orient",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.98,
+    "over25": 1.93,
+    "pari": 3.32,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-02-10",
+   "fuori": "Oxford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.18,
+    "over25": 2.01,
+    "pari": 3.47,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-02-10",
+   "fuori": "Burton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.43,
+    "over25": 1.84,
+    "pari": 3.91,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-02-10",
+   "fuori": "Cheltenham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.06,
+    "over25": 2.3,
+    "pari": 3.14,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-02-10",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.35,
+    "fuori": 1.59,
+    "over25": 1.86,
+    "pari": 3.94,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-02-10",
+   "fuori": "Shrewsbury",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 7.06,
+    "over25": 1.85,
+    "pari": 4.28,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-02-10",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.62,
+    "over25": 2.13,
+    "pari": 3.3,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-02-10",
+   "fuori": "Bolton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.41,
+    "fuori": 1.77,
+    "over25": 1.95,
+    "pari": 3.6,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-02-10",
+   "fuori": "Stevenage",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.8,
+    "fuori": 1.98,
+    "over25": 2.27,
+    "pari": 3.3,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-02-10",
+   "fuori": "Charlton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.07,
+    "over25": 1.72,
+    "pari": 3.53,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-02-10",
+   "fuori": "Exeter",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.44,
+    "over25": 2.15,
+    "pari": 3.24,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-02-10",
+   "fuori": "Peterboro",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.17,
+    "over25": 1.74,
+    "pari": 3.49,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-02-13",
+   "fuori": "Wycombe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.22,
+    "over25": 1.87,
+    "pari": 3.6,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-02-13",
+   "fuori": "Lincoln",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.13,
+    "over25": 2.15,
+    "pari": 3.24,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-02-13",
+   "fuori": "Blackpool",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.27,
+    "over25": 2.15,
+    "pari": 3.26,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-02-13",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 1.97,
+    "over25": 1.99,
+    "pari": 3.42,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-02-13",
+   "fuori": "Reading",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.73,
+    "fuori": 2.43,
+    "over25": 1.79,
+    "pari": 3.43,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-02-13",
+   "fuori": "Northampton",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.42,
+    "over25": 2.02,
+    "pari": 3.78,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-02-13",
+   "fuori": "Wigan",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.95,
+    "over25": 2.11,
+    "pari": 3.34,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-02-13",
+   "fuori": "Cambridge",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 7.16,
+    "over25": 1.89,
+    "pari": 4.24,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-02-13",
+   "fuori": "Barnsley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.54,
+    "fuori": 2.02,
+    "over25": 2.03,
+    "pari": 3.4,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-02-13",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.51,
+    "over25": 2.08,
+    "pari": 3.56,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-02-17",
+   "fuori": "Charlton",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.34,
+    "over25": 1.68,
+    "pari": 3.91,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-02-17",
+   "fuori": "Cambridge",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.62,
+    "over25": 2.34,
+    "pari": 3.07,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-02-17",
+   "fuori": "Port Vale",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.34,
+    "over25": 2.06,
+    "pari": 3.53,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-02-17",
+   "fuori": "Stevenage",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.43,
+    "over25": 2.23,
+    "pari": 3.25,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-02-17",
+   "fuori": "Barnsley",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 1.86,
+    "over25": 1.63,
+    "pari": 3.82,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-02-17",
+   "fuori": "Burton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 6.26,
+    "over25": 1.99,
+    "pari": 4.03,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-02-17",
+   "fuori": "Exeter",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.45,
+    "over25": 2.35,
+    "pari": 3.14,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-02-17",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.59,
+    "over25": 2.0,
+    "pari": 3.27,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-02-17",
+   "fuori": "Blackpool",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.9,
+    "over25": 1.7,
+    "pari": 3.61,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-02-17",
+   "fuori": "Reading",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.56,
+    "over25": 1.72,
+    "pari": 4.08,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-02-17",
+   "fuori": "Wigan",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.64,
+    "over25": 2.1,
+    "pari": 3.19,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-02-17",
+   "fuori": "Oxford",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.47,
+    "over25": 2.0,
+    "pari": 3.29,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-02-20",
+   "fuori": "Bolton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.31,
+    "over25": 2.15,
+    "pari": 3.22,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-02-20",
+   "fuori": "Northampton",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.51,
+    "over25": 1.87,
+    "pari": 3.73,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-02-20",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.25,
+    "over25": 1.93,
+    "pari": 3.56,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-02-23",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.63,
+    "over25": 2.15,
+    "pari": 3.16,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-02-24",
+   "fuori": "Peterboro",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.88,
+    "fuori": 1.83,
+    "over25": 1.76,
+    "pari": 3.74,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-02-24",
+   "fuori": "Derby",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.69,
+    "over25": 1.94,
+    "pari": 3.29,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-02-24",
+   "fuori": "Bolton",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.78,
+    "over25": 2.07,
+    "pari": 3.26,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-02-24",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.93,
+    "over25": 1.93,
+    "pari": 3.8,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-02-24",
+   "fuori": "Northampton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.92,
+    "over25": 2.3,
+    "pari": 3.08,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-02-24",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.37,
+    "fuori": 2.05,
+    "over25": 1.79,
+    "pari": 3.51,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-02-24",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.41,
+    "over25": 1.92,
+    "pari": 3.39,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-02-24",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.18,
+    "over25": 1.95,
+    "pari": 3.31,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-02-24",
+   "fuori": "Lincoln",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.57,
+    "over25": 2.29,
+    "pari": 3.1,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-02-24",
+   "fuori": "Shrewsbury",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.61,
+    "over25": 1.99,
+    "pari": 3.59,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-02-24",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.14,
+    "over25": 2.18,
+    "pari": 3.35,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-02-27",
+   "fuori": "Carlisle",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.78,
+    "over25": 2.34,
+    "pari": 3.21,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-02-27",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.88,
+    "over25": 1.88,
+    "pari": 3.95,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-02-27",
+   "fuori": "Blackpool",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.9,
+    "over25": 2.26,
+    "pari": 3.13,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-02-27",
+   "fuori": "Shrewsbury",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.35,
+    "over25": 2.48,
+    "pari": 3.17,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-02-27",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.87,
+    "over25": 1.96,
+    "pari": 3.27,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-02-27",
+   "fuori": "Cambridge",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.45,
+    "over25": 2.28,
+    "pari": 3.58,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-02-27",
+   "fuori": "Bolton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.64,
+    "fuori": 1.98,
+    "over25": 1.87,
+    "pari": 3.53,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-02-27",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.34,
+    "over25": 2.18,
+    "pari": 3.26,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-03-02",
+   "fuori": "Cambridge",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 6.11,
+    "over25": 1.76,
+    "pari": 4.25,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-03-02",
+   "fuori": "Reading",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.44,
+    "fuori": 2.08,
+    "over25": 1.98,
+    "pari": 3.39,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-03-02",
+   "fuori": "Burton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.5,
+    "over25": 2.35,
+    "pari": 3.36,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-03-02",
+   "fuori": "Port Vale",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.93,
+    "over25": 1.85,
+    "pari": 4.4,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-03-02",
+   "fuori": "Wigan",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.93,
+    "over25": 1.93,
+    "pari": 3.31,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-03-02",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.22,
+    "over25": 2.0,
+    "pari": 3.45,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-03-02",
+   "fuori": "Stevenage",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.69,
+    "over25": 2.63,
+    "pari": 2.99,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-03-02",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.28,
+    "over25": 1.95,
+    "pari": 3.34,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-03-02",
+   "fuori": "Exeter",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.23,
+    "over25": 1.58,
+    "pari": 4.78,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-03-02",
+   "fuori": "Oxford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.72,
+    "over25": 1.88,
+    "pari": 3.73,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-03-02",
+   "fuori": "Blackpool",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.26,
+    "fuori": 1.81,
+    "over25": 2.04,
+    "pari": 3.55,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-03-02",
+   "fuori": "Barnsley",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.75,
+    "over25": 1.82,
+    "pari": 3.41,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-03-05",
+   "fuori": "Bolton",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.85,
+    "over25": 1.77,
+    "pari": 3.46,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-03-05",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.92,
+    "over25": 2.19,
+    "pari": 3.12,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-03-05",
+   "fuori": "Northampton",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 6.86,
+    "over25": 1.49,
+    "pari": 5.0,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-03-09",
+   "fuori": "Lincoln",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.44,
+    "over25": 2.05,
+    "pari": 3.28,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-03-09",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.79,
+    "over25": 2.05,
+    "pari": 3.23,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-03-09",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.95,
+    "fuori": 1.94,
+    "over25": 2.13,
+    "pari": 3.37,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-03-09",
+   "fuori": "Peterboro",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.41,
+    "fuori": 1.56,
+    "over25": 1.71,
+    "pari": 4.18,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-03-09",
+   "fuori": "Northampton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.65,
+    "over25": 2.18,
+    "pari": 3.26,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-03-09",
+   "fuori": "Carlisle",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.47,
+    "over25": 1.83,
+    "pari": 4.28,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-03-09",
+   "fuori": "Bolton",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.35,
+    "fuori": 1.75,
+    "over25": 1.8,
+    "pari": 3.77,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-03-09",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.28,
+    "over25": 2.12,
+    "pari": 3.46,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-03-09",
+   "fuori": "Shrewsbury",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.16,
+    "over25": 2.15,
+    "pari": 3.24,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-03-09",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.07,
+    "over25": 1.89,
+    "pari": 3.38,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-03-09",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 5.05,
+    "over25": 1.97,
+    "pari": 3.72,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-03-09",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.24,
+    "over25": 2.21,
+    "pari": 3.2,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-03-12",
+   "fuori": "Barnsley",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.53,
+    "fuori": 1.74,
+    "over25": 1.85,
+    "pari": 3.69,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-03-12",
+   "fuori": "Reading",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.55,
+    "over25": 1.76,
+    "pari": 4.05,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-03-12",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.4,
+    "over25": 1.96,
+    "pari": 3.35,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-03-12",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.86,
+    "over25": 2.18,
+    "pari": 3.54,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-03-12",
+   "fuori": "Cambridge",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 5.07,
+    "over25": 2.3,
+    "pari": 3.45,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-03-12",
+   "fuori": "Blackpool",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.86,
+    "fuori": 2.01,
+    "over25": 2.3,
+    "pari": 3.23,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-03-12",
+   "fuori": "Burton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 7.95,
+    "over25": 1.95,
+    "pari": 4.4,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-03-12",
+   "fuori": "Exeter",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.76,
+    "over25": 2.35,
+    "pari": 3.07,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-03-12",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.05,
+    "over25": 2.01,
+    "pari": 3.44,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-03-12",
+   "fuori": "Oxford",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.36,
+    "over25": 1.78,
+    "pari": 3.74,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-03-13",
+   "fuori": "Stevenage",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.03,
+    "over25": 1.86,
+    "pari": 3.51,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-03-16",
+   "fuori": "Cheltenham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.27,
+    "over25": 1.68,
+    "pari": 4.11,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-03-16",
+   "fuori": "Bolton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.12,
+    "over25": 2.08,
+    "pari": 3.21,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-03-16",
+   "fuori": "Burton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.43,
+    "over25": 2.23,
+    "pari": 3.21,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-03-16",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.51,
+    "over25": 1.81,
+    "pari": 3.36,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-03-16",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.73,
+    "over25": 2.04,
+    "pari": 3.48,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-03-16",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.19,
+    "over25": 1.68,
+    "pari": 3.51,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-03-16",
+   "fuori": "Oxford",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.25,
+    "over25": 2.25,
+    "pari": 3.12,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-03-16",
+   "fuori": "Cambridge",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.3,
+    "over25": 1.9,
+    "pari": 3.59,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-03-16",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.99,
+    "over25": 2.23,
+    "pari": 3.31,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-03-16",
+   "fuori": "Leyton Orient",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 4.14,
+    "over25": 2.6,
+    "pari": 3.16,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-03-16",
+   "fuori": "Blackpool",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.26,
+    "over25": 2.18,
+    "pari": 3.25,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-03-16",
+   "fuori": "Northampton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.74,
+    "over25": 2.11,
+    "pari": 3.46,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-03-23",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.49,
+    "over25": 2.32,
+    "pari": 3.15,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-03-23",
+   "fuori": "Stevenage",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.26,
+    "fuori": 1.62,
+    "over25": 2.03,
+    "pari": 3.88,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-03-23",
+   "fuori": "Derby",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 6.5,
+    "fuori": 1.5,
+    "over25": 1.97,
+    "pari": 4.05,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-03-29",
+   "fuori": "Cambridge",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.36,
+    "over25": 1.63,
+    "pari": 4.76,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-03-29",
+   "fuori": "Blackpool",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.5,
+    "over25": 2.21,
+    "pari": 3.44,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-03-29",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.54,
+    "over25": 1.86,
+    "pari": 3.33,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-03-29",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.59,
+    "over25": 2.08,
+    "pari": 3.31,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-03-29",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.67,
+    "over25": 2.28,
+    "pari": 3.19,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-03-29",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 10.76,
+    "over25": 1.39,
+    "pari": 6.43,
+    "under25": 2.86
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-03-29",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.12,
+    "over25": 1.92,
+    "pari": 3.41,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-03-29",
+   "fuori": "Northampton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.64,
+    "over25": 1.77,
+    "pari": 3.85,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-03-29",
+   "fuori": "Oxford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 2.04,
+    "over25": 2.14,
+    "pari": 3.29,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-03-29",
+   "fuori": "Bolton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.48,
+    "over25": 2.18,
+    "pari": 3.23,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-03-29",
+   "fuori": "Burton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.93,
+    "over25": 2.17,
+    "pari": 3.37,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-03-29",
+   "fuori": "Portsmouth",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.47,
+    "fuori": 2.07,
+    "over25": 2.01,
+    "pari": 3.41,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-04-01",
+   "fuori": "Wycombe",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.25,
+    "over25": 2.15,
+    "pari": 3.44,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-04-01",
+   "fuori": "Reading",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.62,
+    "over25": 1.62,
+    "pari": 4.29,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-04-01",
+   "fuori": "Shrewsbury",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.3,
+    "over25": 2.02,
+    "pari": 3.24,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-04-01",
+   "fuori": "Barnsley",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.84,
+    "fuori": 1.91,
+    "over25": 1.89,
+    "pari": 3.5,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-04-01",
+   "fuori": "Wigan",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.85,
+    "over25": 2.31,
+    "pari": 3.11,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-04-01",
+   "fuori": "Lincoln",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.43,
+    "fuori": 1.6,
+    "over25": 1.94,
+    "pari": 3.84,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-04-01",
+   "fuori": "Stevenage",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.56,
+    "over25": 2.15,
+    "pari": 3.15,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-04-01",
+   "fuori": "Exeter",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.3,
+    "over25": 2.08,
+    "pari": 3.28,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-04-01",
+   "fuori": "Peterboro",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.19,
+    "fuori": 2.15,
+    "over25": 1.81,
+    "pari": 3.44,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-04-01",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.78,
+    "over25": 2.19,
+    "pari": 3.17,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-04-01",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.83,
+    "over25": 1.76,
+    "pari": 3.86,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-04-02",
+   "fuori": "Derby",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.17,
+    "over25": 2.14,
+    "pari": 3.2,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-04-06",
+   "fuori": "Cambridge",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 6.09,
+    "over25": 2.0,
+    "pari": 4.01,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-04-06",
+   "fuori": "Bolton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.69,
+    "fuori": 1.53,
+    "over25": 1.68,
+    "pari": 4.22,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-04-06",
+   "fuori": "Oxford",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.74,
+    "fuori": 1.94,
+    "over25": 1.91,
+    "pari": 3.55,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-04-06",
+   "fuori": "Barnsley",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.44,
+    "over25": 1.64,
+    "pari": 3.49,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-04-06",
+   "fuori": "Stevenage",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.93,
+    "fuori": 1.98,
+    "over25": 2.37,
+    "pari": 3.26,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-04-06",
+   "fuori": "Cheltenham",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.52,
+    "over25": 2.15,
+    "pari": 3.35,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-04-06",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.92,
+    "over25": 1.95,
+    "pari": 3.51,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-04-06",
+   "fuori": "Shrewsbury",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 7.57,
+    "over25": 1.78,
+    "pari": 4.54,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-04-06",
+   "fuori": "Lincoln",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.62,
+    "over25": 1.93,
+    "pari": 3.3,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-04-06",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.1,
+    "over25": 2.17,
+    "pari": 3.29,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-04-09",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.67,
+    "over25": 1.93,
+    "pari": 3.7,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-04-09",
+   "fuori": "Reading",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.32,
+    "over25": 1.74,
+    "pari": 3.44,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-04-09",
+   "fuori": "Wigan",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.76,
+    "over25": 2.1,
+    "pari": 3.27,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-04-09",
+   "fuori": "Carlisle",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.91,
+    "over25": 2.19,
+    "pari": 3.46,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-04-09",
+   "fuori": "Exeter",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.68,
+    "over25": 2.05,
+    "pari": 3.41,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-04-09",
+   "fuori": "Barnsley",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.98,
+    "over25": 2.21,
+    "pari": 3.17,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-04-10",
+   "fuori": "Port Vale",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.69,
+    "over25": 1.54,
+    "pari": 4.65,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-04-10",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.68,
+    "fuori": 1.71,
+    "over25": 1.92,
+    "pari": 3.68,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-04-13",
+   "fuori": "Reading",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.21,
+    "over25": 1.59,
+    "pari": 3.89,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-04-13",
+   "fuori": "Portsmouth",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.52,
+    "over25": 1.85,
+    "pari": 3.45,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-04-13",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.2,
+    "fuori": 2.21,
+    "over25": 1.92,
+    "pari": 3.31,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-04-13",
+   "fuori": "Blackpool",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.02,
+    "fuori": 1.66,
+    "over25": 1.97,
+    "pari": 3.78,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-04-13",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.47,
+    "over25": 1.94,
+    "pari": 3.42,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-04-13",
+   "fuori": "Leyton Orient",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 7.54,
+    "over25": 1.98,
+    "pari": 4.23,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-04-13",
+   "fuori": "Northampton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.64,
+    "over25": 1.89,
+    "pari": 3.45,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-04-13",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.19,
+    "over25": 2.05,
+    "pari": 3.73,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-04-13",
+   "fuori": "Peterboro",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.86,
+    "fuori": 2.22,
+    "over25": 1.54,
+    "pari": 3.74,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-04-13",
+   "fuori": "Exeter",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.91,
+    "over25": 1.92,
+    "pari": 3.61,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-04-13",
+   "fuori": "Wycombe",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.86,
+    "over25": 2.2,
+    "pari": 3.14,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-04-13",
+   "fuori": "Burton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 6.42,
+    "over25": 2.17,
+    "pari": 4.01,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-04-16",
+   "fuori": "Shrewsbury",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.6,
+    "over25": 1.65,
+    "pari": 4.85,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-04-16",
+   "fuori": "Cambridge",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.57,
+    "over25": 1.9,
+    "pari": 3.51,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-04-16",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.25,
+    "over25": 2.41,
+    "pari": 3.09,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-04-16",
+   "fuori": "Lincoln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.51,
+    "over25": 1.81,
+    "pari": 3.58,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-04-16",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 5.51,
+    "over25": 1.41,
+    "pari": 4.7,
+    "under25": 2.8
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-04-16",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.92,
+    "over25": 2.18,
+    "pari": 3.24,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-04-16",
+   "fuori": "Barnsley",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.41,
+    "over25": 1.64,
+    "pari": 3.52,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2024-04-19",
+   "fuori": "Stevenage",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.35,
+    "over25": 1.95,
+    "pari": 3.57,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2024-04-20",
+   "fuori": "Exeter",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.78,
+    "over25": 2.04,
+    "pari": 3.22,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2024-04-20",
+   "fuori": "Barnsley",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.46,
+    "over25": 1.75,
+    "pari": 3.61,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2024-04-20",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 8.48,
+    "over25": 1.65,
+    "pari": 5.01,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Bristol Rvs",
+   "data": "2024-04-20",
+   "fuori": "Peterboro",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.53,
+    "fuori": 1.65,
+    "over25": 1.51,
+    "pari": 4.17,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Burton",
+   "data": "2024-04-20",
+   "fuori": "Reading",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.34,
+    "over25": 1.88,
+    "pari": 3.42,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-04-20",
+   "fuori": "Derby",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 6.64,
+    "fuori": 1.51,
+    "over25": 2.03,
+    "pari": 3.96,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-04-20",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.6,
+    "fuori": 2.02,
+    "over25": 2.12,
+    "pari": 3.37,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2024-04-20",
+   "fuori": "Shrewsbury",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.66,
+    "over25": 1.98,
+    "pari": 3.56,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-04-20",
+   "fuori": "Lincoln",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.7,
+    "fuori": 2.02,
+    "over25": 2.18,
+    "pari": 3.32,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Leyton Orient",
+   "data": "2024-04-20",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.9,
+    "over25": 1.85,
+    "pari": 3.47,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Portsmouth",
+   "data": "2024-04-20",
+   "fuori": "Wigan",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.76,
+    "over25": 1.76,
+    "pari": 3.89,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2024-04-23",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.21,
+    "over25": 2.16,
+    "pari": 3.19,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-04-23",
+   "fuori": "Peterboro",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.54,
+    "over25": 1.57,
+    "pari": 3.78,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Barnsley",
+   "data": "2024-04-27",
+   "fuori": "Northampton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.01,
+    "over25": 1.52,
+    "pari": 4.86,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2024-04-27",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 13.03,
+    "over25": 1.66,
+    "pari": 5.9,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2024-04-27",
+   "fuori": "Oxford",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.59,
+    "fuori": 1.66,
+    "over25": 1.56,
+    "pari": 4.06,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-04-27",
+   "fuori": "Burton",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.77,
+    "over25": 1.69,
+    "pari": 3.53,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2024-04-27",
+   "fuori": "Portsmouth",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.84,
+    "over25": 1.88,
+    "pari": 3.57,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Peterboro",
+   "data": "2024-04-27",
+   "fuori": "Bolton",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.12,
+    "over25": 1.4,
+    "pari": 3.89,
+    "under25": 2.81
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-04-27",
+   "fuori": "Cambridge",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.89,
+    "over25": 2.05,
+    "pari": 3.25,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Reading",
+   "data": "2024-04-27",
+   "fuori": "Blackpool",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.36,
+    "fuori": 1.98,
+    "over25": 1.61,
+    "pari": 3.79,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2024-04-27",
+   "fuori": "Leyton Orient",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.94,
+    "over25": 2.03,
+    "pari": 3.3,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2024-04-27",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.68,
+    "over25": 2.0,
+    "pari": 3.35,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2024-04-27",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.39,
+    "over25": 1.75,
+    "pari": 3.51,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2024-04-27",
+   "fuori": "Charlton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.85,
+    "over25": 1.7,
+    "pari": 3.53,
+    "under25": 2.11
+   }
+  }
+ ],
+ "stagione": "2023-24"
+}

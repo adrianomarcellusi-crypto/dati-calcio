@@ -1,0 +1,215 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "leghe": [
+  {
+   "codice": "B1",
+   "nome": "Pro League",
+   "paese": "Belgio",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "F1",
+   "nome": "Ligue 1",
+   "paese": "Francia",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "F2",
+   "nome": "Ligue 2",
+   "paese": "Francia",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "D2",
+   "nome": "2. Bundesliga",
+   "paese": "Germania",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "D1",
+   "nome": "Bundesliga",
+   "paese": "Germania",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "G1",
+   "nome": "Super League",
+   "paese": "Grecia",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "E1",
+   "nome": "Championship",
+   "paese": "Inghilterra",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "E2",
+   "nome": "League One",
+   "paese": "Inghilterra",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "E3",
+   "nome": "League Two",
+   "paese": "Inghilterra",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "E0",
+   "nome": "Premier League",
+   "paese": "Inghilterra",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "I1",
+   "nome": "Serie A",
+   "paese": "Italia",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "I2",
+   "nome": "Serie B",
+   "paese": "Italia",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "N1",
+   "nome": "Eredivisie",
+   "paese": "Olanda",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "P1",
+   "nome": "Primeira Liga",
+   "paese": "Portogallo",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "SC1",
+   "nome": "Championship",
+   "paese": "Scozia",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "SC0",
+   "nome": "Premiership",
+   "paese": "Scozia",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "SP1",
+   "nome": "La Liga",
+   "paese": "Spagna",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "SP2",
+   "nome": "La Liga 2",
+   "paese": "Spagna",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  },
+  {
+   "codice": "T1",
+   "nome": "Super Lig",
+   "paese": "Turchia",
+   "stagioni": [
+    "2026-27",
+    "2025-26",
+    "2024-25",
+    "2023-24"
+   ]
+  }
+ ],
+ "prossime": 0
+}

@@ -1,0 +1,3069 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "SC1",
+ "nome": "Championship",
+ "paese": "Scozia",
+ "partite": [
+  {
+   "casa": "Arbroath",
+   "data": "2023-08-04",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 2.04,
+    "over25": 2.07,
+    "pari": 3.19,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2023-08-05",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.44,
+    "over25": 1.89,
+    "pari": 3.41,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2023-08-05",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 2.92,
+    "over25": 1.71,
+    "pari": 3.43,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2023-08-05",
+   "fuori": "Ayr",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.73,
+    "over25": 1.92,
+    "pari": 3.23,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2023-08-05",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.27,
+    "over25": 1.89,
+    "pari": 3.66,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2023-08-12",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.06,
+    "over25": 1.72,
+    "pari": 3.51,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2023-08-12",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.57,
+    "over25": 1.89,
+    "pari": 3.45,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2023-08-12",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.24,
+    "over25": 1.9,
+    "pari": 3.64,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2023-08-12",
+   "fuori": "Arbroath",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.43,
+    "over25": 1.75,
+    "pari": 3.67,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2023-08-12",
+   "fuori": "Morton",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.79,
+    "over25": 1.92,
+    "pari": 3.27,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2023-08-19",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.04,
+    "over25": 1.85,
+    "pari": 3.45,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2023-08-26",
+   "fuori": "Inverness C",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.3,
+    "over25": 1.83,
+    "pari": 3.48,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2023-08-26",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.2,
+    "over25": 2.05,
+    "pari": 3.28,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2023-08-26",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.77,
+    "over25": 1.99,
+    "pari": 3.27,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2023-08-26",
+   "fuori": "Arbroath",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.94,
+    "over25": 2.01,
+    "pari": 3.49,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2023-08-26",
+   "fuori": "Queens Park",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.23,
+    "over25": 1.57,
+    "pari": 3.67,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2023-09-02",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.71,
+    "over25": 2.15,
+    "pari": 3.09,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2023-09-02",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.58,
+    "over25": 1.73,
+    "pari": 4.09,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2023-09-02",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.89,
+    "over25": 2.0,
+    "pari": 3.22,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2023-09-02",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.33,
+    "over25": 1.8,
+    "pari": 3.47,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2023-09-02",
+   "fuori": "Queens Park",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.08,
+    "over25": 1.74,
+    "pari": 3.5,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2023-09-15",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.0,
+    "over25": 1.74,
+    "pari": 3.58,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2023-09-16",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.56,
+    "over25": 1.89,
+    "pari": 3.31,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2023-09-16",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.34,
+    "over25": 1.75,
+    "pari": 4.02,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2023-09-16",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.61,
+    "over25": 1.85,
+    "pari": 3.4,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2023-09-16",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 3.93,
+    "over25": 1.85,
+    "pari": 3.6,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2023-09-22",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.29,
+    "over25": 1.71,
+    "pari": 3.48,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2023-09-23",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.49,
+    "over25": 1.86,
+    "pari": 3.29,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2023-09-23",
+   "fuori": "Morton",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.41,
+    "over25": 1.9,
+    "pari": 3.38,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2023-09-23",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.28,
+    "fuori": 1.76,
+    "over25": 1.88,
+    "pari": 3.6,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2023-09-23",
+   "fuori": "Arbroath",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.1,
+    "over25": 1.73,
+    "pari": 3.96,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2023-09-30",
+   "fuori": "Inverness C",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.03,
+    "over25": 1.98,
+    "pari": 3.3,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2023-09-30",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.35,
+    "over25": 1.96,
+    "pari": 3.28,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2023-09-30",
+   "fuori": "Queens Park",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.61,
+    "over25": 1.58,
+    "pari": 4.32,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2023-09-30",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 2.95,
+    "over25": 1.72,
+    "pari": 3.46,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2023-09-30",
+   "fuori": "Dunfermline",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.81,
+    "over25": 1.75,
+    "pari": 3.44,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2023-10-07",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.12,
+    "over25": 1.81,
+    "pari": 3.41,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2023-10-07",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.38,
+    "over25": 1.69,
+    "pari": 3.41,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2023-10-07",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 2.82,
+    "over25": 1.64,
+    "pari": 3.47,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2023-10-07",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.2,
+    "over25": 1.9,
+    "pari": 3.31,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2023-10-20",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.15,
+    "over25": 1.66,
+    "pari": 3.66,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2023-10-21",
+   "fuori": "Ayr",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.74,
+    "over25": 1.85,
+    "pari": 3.48,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2023-10-21",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.36,
+    "over25": 1.8,
+    "pari": 3.42,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2023-10-27",
+   "fuori": "Arbroath",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.49,
+    "over25": 1.72,
+    "pari": 4.6,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2023-10-27",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.29,
+    "over25": 1.61,
+    "pari": 3.56,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2023-10-28",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.14,
+    "over25": 1.85,
+    "pari": 3.39,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2023-10-28",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.06,
+    "over25": 1.81,
+    "pari": 3.44,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2023-10-28",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.21,
+    "over25": 1.93,
+    "pari": 3.34,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2023-10-31",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.36,
+    "fuori": 1.54,
+    "over25": 1.66,
+    "pari": 4.07,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2023-10-31",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.46,
+    "over25": 2.19,
+    "pari": 3.09,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2023-10-31",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.4,
+    "over25": 1.62,
+    "pari": 3.72,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2023-11-03",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.79,
+    "over25": 1.87,
+    "pari": 3.23,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2023-11-04",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.86,
+    "fuori": 2.23,
+    "over25": 1.63,
+    "pari": 3.54,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2023-11-04",
+   "fuori": "Queens Park",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 2.8,
+    "over25": 1.72,
+    "pari": 3.55,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2023-11-04",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 7.79,
+    "over25": 1.77,
+    "pari": 4.64,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2023-11-04",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.14,
+    "over25": 1.78,
+    "pari": 3.65,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2023-11-10",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.52,
+    "fuori": 1.7,
+    "over25": 1.87,
+    "pari": 3.65,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2023-11-11",
+   "fuori": "Arbroath",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.15,
+    "over25": 1.83,
+    "pari": 3.44,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2023-11-11",
+   "fuori": "Ayr",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.88,
+    "over25": 2.03,
+    "pari": 3.2,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2023-11-11",
+   "fuori": "Morton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.06,
+    "over25": 1.66,
+    "pari": 3.77,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2023-11-11",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.35,
+    "over25": 1.94,
+    "pari": 3.29,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2023-11-18",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.82,
+    "over25": 2.07,
+    "pari": 3.14,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2023-11-28",
+   "fuori": "Arbroath",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.84,
+    "over25": 1.82,
+    "pari": 3.55,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2023-12-02",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.55,
+    "over25": 2.41,
+    "pari": 3.0,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2023-12-02",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 3.68,
+    "over25": 1.69,
+    "pari": 3.79,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2023-12-08",
+   "fuori": "Partick",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.1,
+    "over25": 1.78,
+    "pari": 3.37,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2023-12-09",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.51,
+    "over25": 1.89,
+    "pari": 3.22,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2023-12-09",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.44,
+    "over25": 1.97,
+    "pari": 3.21,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2023-12-09",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 8.78,
+    "over25": 1.58,
+    "pari": 5.12,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2023-12-09",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.31,
+    "over25": 1.9,
+    "pari": 3.41,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2023-12-12",
+   "fuori": "Inverness C",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.48,
+    "over25": 2.02,
+    "pari": 3.16,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2023-12-13",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.3,
+    "fuori": 1.57,
+    "over25": 1.75,
+    "pari": 3.97,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2023-12-16",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.17,
+    "over25": 2.26,
+    "pari": 3.15,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2023-12-16",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.54,
+    "over25": 1.95,
+    "pari": 3.57,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2023-12-16",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.61,
+    "over25": 1.73,
+    "pari": 3.39,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2023-12-16",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.03,
+    "over25": 1.83,
+    "pari": 3.91,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2023-12-16",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.06,
+    "over25": 1.73,
+    "pari": 3.52,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2023-12-22",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 6.14,
+    "fuori": 1.45,
+    "over25": 1.61,
+    "pari": 4.35,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2023-12-22",
+   "fuori": "Ayr",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.33,
+    "over25": 1.67,
+    "pari": 4.1,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2023-12-23",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.12,
+    "over25": 1.9,
+    "pari": 3.31,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2023-12-23",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.82,
+    "fuori": 1.84,
+    "over25": 1.75,
+    "pari": 3.66,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2023-12-23",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.84,
+    "over25": 1.78,
+    "pari": 3.53,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2023-12-29",
+   "fuori": "Partick",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 5.99,
+    "over25": 1.69,
+    "pari": 4.29,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2023-12-30",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.7,
+    "over25": 1.88,
+    "pari": 3.34,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2023-12-30",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.23,
+    "over25": 2.52,
+    "pari": 3.02,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2023-12-30",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.56,
+    "over25": 1.84,
+    "pari": 3.37,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2023-12-30",
+   "fuori": "Arbroath",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 6.77,
+    "over25": 1.54,
+    "pari": 4.73,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2024-01-02",
+   "fuori": "Inverness C",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.07,
+    "over25": 2.16,
+    "pari": 3.16,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2024-01-02",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 12.23,
+    "fuori": 1.18,
+    "over25": 1.45,
+    "pari": 6.69,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-01-02",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.29,
+    "fuori": 2.0,
+    "over25": 1.72,
+    "pari": 3.61,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-01-02",
+   "fuori": "Ayr",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.11,
+    "over25": 1.9,
+    "pari": 3.4,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2024-01-02",
+   "fuori": "Queens Park",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.12,
+    "over25": 1.42,
+    "pari": 4.87,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2024-01-05",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.09,
+    "over25": 1.59,
+    "pari": 3.72,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2024-01-06",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.43,
+    "over25": 2.07,
+    "pari": 3.24,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-01-06",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.99,
+    "over25": 2.09,
+    "pari": 3.26,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-01-06",
+   "fuori": "Morton",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.16,
+    "over25": 1.79,
+    "pari": 4.7,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2024-01-06",
+   "fuori": "Arbroath",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 7.78,
+    "over25": 1.39,
+    "pari": 5.4,
+    "under25": 2.84
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2024-01-12",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.16,
+    "fuori": 1.53,
+    "over25": 1.63,
+    "pari": 4.22,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2024-01-13",
+   "fuori": "Ayr",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.06,
+    "over25": 1.67,
+    "pari": 3.73,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-01-13",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.62,
+    "over25": 1.69,
+    "pari": 3.49,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2024-01-13",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.08,
+    "over25": 1.55,
+    "pari": 4.32,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-01-23",
+   "fuori": "Arbroath",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.28,
+    "over25": 1.82,
+    "pari": 3.85,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2024-01-27",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.38,
+    "over25": 1.98,
+    "pari": 3.24,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-01-27",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 8.18,
+    "over25": 1.63,
+    "pari": 4.76,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-01-27",
+   "fuori": "Arbroath",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.81,
+    "over25": 1.75,
+    "pari": 4.43,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2024-01-27",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.69,
+    "over25": 1.81,
+    "pari": 3.41,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2024-01-27",
+   "fuori": "Inverness C",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.04,
+    "over25": 1.99,
+    "pari": 3.5,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-02-03",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.05,
+    "fuori": 1.58,
+    "over25": 1.75,
+    "pari": 3.99,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-02-03",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.53,
+    "over25": 1.86,
+    "pari": 3.38,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2024-02-03",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.76,
+    "over25": 1.85,
+    "pari": 3.57,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-02-10",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.56,
+    "over25": 1.73,
+    "pari": 3.47,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2024-02-16",
+   "fuori": "Dundee United",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.55,
+    "fuori": 1.99,
+    "over25": 2.01,
+    "pari": 3.36,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2024-02-17",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.02,
+    "over25": 2.12,
+    "pari": 3.21,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-02-17",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.38,
+    "over25": 1.84,
+    "pari": 3.7,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2024-02-17",
+   "fuori": "Partick",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.51,
+    "over25": 1.93,
+    "pari": 3.3,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2024-02-17",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.99,
+    "fuori": 2.17,
+    "over25": 1.88,
+    "pari": 3.46,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2024-02-23",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 4.95,
+    "over25": 1.58,
+    "pari": 4.08,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2024-02-24",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.72,
+    "fuori": 1.92,
+    "over25": 2.03,
+    "pari": 3.41,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-02-24",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.48,
+    "over25": 1.89,
+    "pari": 3.27,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-02-24",
+   "fuori": "Queens Park",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 8.79,
+    "over25": 1.58,
+    "pari": 5.38,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-02-24",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.61,
+    "over25": 2.19,
+    "pari": 3.24,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-02-27",
+   "fuori": "Partick",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.3,
+    "over25": 1.73,
+    "pari": 3.42,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-02-27",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 7.84,
+    "over25": 1.81,
+    "pari": 4.51,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2024-02-27",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.94,
+    "over25": 2.09,
+    "pari": 3.19,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2024-02-27",
+   "fuori": "Arbroath",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.34,
+    "over25": 1.77,
+    "pari": 3.71,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2024-02-27",
+   "fuori": "Morton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.77,
+    "over25": 1.88,
+    "pari": 3.32,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2024-03-01",
+   "fuori": "Raith Rvs",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.76,
+    "fuori": 1.51,
+    "over25": 1.82,
+    "pari": 4.0,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2024-03-02",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.97,
+    "over25": 2.03,
+    "pari": 3.22,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-03-02",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.89,
+    "over25": 2.0,
+    "pari": 3.23,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-03-02",
+   "fuori": "Inverness C",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.11,
+    "over25": 2.02,
+    "pari": 3.47,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2024-03-02",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.67,
+    "fuori": 1.87,
+    "over25": 1.69,
+    "pari": 3.65,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-03-05",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.09,
+    "over25": 2.11,
+    "pari": 3.1,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-03-05",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.57,
+    "fuori": 2.09,
+    "over25": 2.18,
+    "pari": 3.11,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-03-09",
+   "fuori": "Arbroath",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 15.07,
+    "over25": 1.45,
+    "pari": 7.26,
+    "under25": 2.63
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2024-03-09",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.09,
+    "over25": 2.21,
+    "pari": 3.12,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2024-03-09",
+   "fuori": "Partick",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.1,
+    "over25": 1.58,
+    "pari": 3.75,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2024-03-09",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.82,
+    "over25": 2.1,
+    "pari": 3.32,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2024-03-12",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.24,
+    "over25": 1.67,
+    "pari": 3.53,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-03-15",
+   "fuori": "Dundee United",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.48,
+    "fuori": 1.6,
+    "over25": 2.01,
+    "pari": 3.62,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2024-03-16",
+   "fuori": "Arbroath",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.31,
+    "over25": 1.82,
+    "pari": 4.16,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2024-03-16",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.18,
+    "over25": 2.07,
+    "pari": 3.2,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2024-03-16",
+   "fuori": "Morton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 2.89,
+    "over25": 2.05,
+    "pari": 3.23,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2024-03-16",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.17,
+    "over25": 1.87,
+    "pari": 3.38,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2024-03-23",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.75,
+    "fuori": 1.45,
+    "over25": 1.51,
+    "pari": 4.53,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-03-23",
+   "fuori": "Queens Park",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.77,
+    "over25": 1.71,
+    "pari": 3.52,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-03-23",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 7.94,
+    "over25": 2.06,
+    "pari": 4.34,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-03-23",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.24,
+    "over25": 2.16,
+    "pari": 3.22,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-03-29",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.35,
+    "over25": 2.04,
+    "pari": 3.24,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2024-03-30",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.64,
+    "fuori": 1.68,
+    "over25": 1.86,
+    "pari": 3.71,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-03-30",
+   "fuori": "Raith Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.95,
+    "over25": 1.97,
+    "pari": 3.47,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-03-30",
+   "fuori": "Queens Park",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.51,
+    "over25": 1.94,
+    "pari": 3.33,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2024-03-30",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.05,
+    "over25": 1.93,
+    "pari": 3.49,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2024-04-02",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.49,
+    "fuori": 1.72,
+    "over25": 1.89,
+    "pari": 3.66,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2024-04-06",
+   "fuori": "Morton",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.73,
+    "over25": 2.22,
+    "pari": 3.13,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-04-06",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.53,
+    "over25": 1.85,
+    "pari": 3.28,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2024-04-06",
+   "fuori": "Arbroath",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 7.33,
+    "over25": 1.78,
+    "pari": 4.54,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2024-04-06",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.85,
+    "fuori": 1.6,
+    "over25": 1.7,
+    "pari": 3.98,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2024-04-06",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.29,
+    "over25": 1.83,
+    "pari": 3.7,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-04-09",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.5,
+    "over25": 2.19,
+    "pari": 3.13,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2024-04-09",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.53,
+    "over25": 2.22,
+    "pari": 3.21,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-04-12",
+   "fuori": "Dundee United",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.57,
+    "fuori": 1.71,
+    "over25": 1.92,
+    "pari": 3.59,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2024-04-13",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.05,
+    "over25": 2.04,
+    "pari": 3.19,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-04-13",
+   "fuori": "Arbroath",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 7.9,
+    "over25": 1.68,
+    "pari": 4.69,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2024-04-13",
+   "fuori": "Inverness C",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.58,
+    "over25": 1.95,
+    "pari": 3.16,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2024-04-13",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.13,
+    "over25": 1.94,
+    "pari": 3.32,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2024-04-19",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.84,
+    "over25": 2.37,
+    "pari": 3.03,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2024-04-20",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.89,
+    "fuori": 1.57,
+    "over25": 1.75,
+    "pari": 4.1,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-04-20",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.74,
+    "over25": 1.65,
+    "pari": 4.57,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-04-20",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.09,
+    "over25": 1.73,
+    "pari": 3.42,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2024-04-20",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.81,
+    "over25": 1.81,
+    "pari": 3.39,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Airdrie Utd",
+   "data": "2024-04-26",
+   "fuori": "Dundee United",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.32,
+    "fuori": 1.53,
+    "over25": 1.66,
+    "pari": 4.11,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2024-04-27",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.59,
+    "fuori": 1.57,
+    "over25": 1.58,
+    "pari": 4.27,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2024-04-27",
+   "fuori": "Inverness C",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.44,
+    "over25": 2.01,
+    "pari": 3.21,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2024-04-27",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.77,
+    "over25": 2.08,
+    "pari": 3.24,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2024-04-27",
+   "fuori": "Ayr",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.1,
+    "over25": 1.71,
+    "pari": 3.56,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2024-05-03",
+   "fuori": "Dunfermline",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 2.94,
+    "over25": 1.65,
+    "pari": 3.5,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2024-05-03",
+   "fuori": "Partick",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.26,
+    "fuori": 8.93,
+    "over25": 1.48,
+    "pari": 5.63,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2024-05-03",
+   "fuori": "Morton",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.15,
+    "over25": 1.99,
+    "pari": 3.51,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2024-05-03",
+   "fuori": "Airdrie Utd",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 3.72,
+    "over25": 1.69,
+    "pari": 3.76,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2024-05-03",
+   "fuori": "Arbroath",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.24,
+    "fuori": 9.45,
+    "over25": 1.42,
+    "pari": 5.85,
+    "under25": 2.72
+   }
+  }
+ ],
+ "stagione": "2023-24"
+}

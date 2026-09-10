@@ -1,0 +1,349 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "G1",
+ "nome": "Super League",
+ "paese": "Grecia",
+ "partite": [
+  {
+   "casa": "AEK",
+   "data": "2026-08-22",
+   "fuori": "Iraklis",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 13.25,
+    "over25": 1.58,
+    "pari": 6.0,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Kalamata",
+   "data": "2026-08-22",
+   "fuori": "Aris",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.33,
+    "fuori": 2.16,
+    "over25": 2.26,
+    "pari": 3.0,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2026-08-22",
+   "fuori": "Atromitos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 13.08,
+    "over25": 1.69,
+    "pari": 5.73,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2026-08-23",
+   "fuori": "Volos NFC",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.74,
+    "over25": 2.06,
+    "pari": 3.04,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2026-08-23",
+   "fuori": "Levadeiakos",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 8.04,
+    "over25": 1.73,
+    "pari": 4.58,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2026-08-23",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.5,
+    "over25": 2.4,
+    "pari": 2.96,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2026-08-29",
+   "fuori": "Iraklis",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.24,
+    "over25": 2.19,
+    "pari": 3.09,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2026-08-29",
+   "fuori": "Kalamata",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.18,
+    "over25": 2.27,
+    "pari": 3.05,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2026-08-30",
+   "fuori": "OFI Crete",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.28,
+    "over25": 1.83,
+    "pari": 3.52,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2026-08-30",
+   "fuori": "PAOK",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 5.23,
+    "fuori": 1.55,
+    "over25": 1.74,
+    "pari": 3.93,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2026-08-30",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 6.6,
+    "fuori": 1.48,
+    "over25": 2.01,
+    "pari": 3.81,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Kifisia",
+   "data": "2026-08-30",
+   "fuori": "AEK",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 9.71,
+    "fuori": 1.28,
+    "over25": 1.7,
+    "pari": 4.95,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2026-08-31",
+   "fuori": "Panathinaikos",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.95,
+    "fuori": 1.51,
+    "over25": 1.88,
+    "pari": 3.86,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2026-09-05",
+   "fuori": "Olympiakos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 9.71,
+    "fuori": 1.26,
+    "over25": 1.7,
+    "pari": 4.95,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2026-09-05",
+   "fuori": "Aris",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 8.88,
+    "over25": 1.71,
+    "pari": 4.8,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2026-09-06",
+   "fuori": "Kalamata",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.87,
+    "over25": 1.98,
+    "pari": 3.37,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2026-09-06",
+   "fuori": "Kifisia",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.4,
+    "over25": 2.06,
+    "pari": 3.13,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2026-09-06",
+   "fuori": "Panetolikos",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.74,
+    "over25": 2.18,
+    "pari": 3.21,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2026-09-06",
+   "fuori": "PAOK",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.66,
+    "over25": 1.82,
+    "pari": 3.37,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2026-09-07",
+   "fuori": "Iraklis",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.72,
+    "over25": 2.18,
+    "pari": 3.16,
+    "under25": 1.62
+   }
+  }
+ ],
+ "stagione": "2026-27"
+}

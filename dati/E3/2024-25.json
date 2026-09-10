@@ -1,0 +1,9393 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "E3",
+ "nome": "League Two",
+ "paese": "Inghilterra",
+ "partite": [
+  {
+   "casa": "Chesterfield",
+   "data": "2024-08-09",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.44,
+    "over25": 1.55,
+    "pari": 4.1,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-08-10",
+   "fuori": "Colchester",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.49,
+    "over25": 1.94,
+    "pari": 3.42,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-08-10",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.27,
+    "over25": 1.94,
+    "pari": 3.36,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-08-10",
+   "fuori": "Newport County",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.59,
+    "over25": 1.84,
+    "pari": 3.71,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-08-10",
+   "fuori": "Accrington",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.51,
+    "over25": 1.65,
+    "pari": 4.22,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-08-10",
+   "fuori": "Grimsby",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.74,
+    "over25": 1.88,
+    "pari": 3.53,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-08-10",
+   "fuori": "Carlisle",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.57,
+    "over25": 1.91,
+    "pari": 3.51,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-08-10",
+   "fuori": "Bromley",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.81,
+    "over25": 1.89,
+    "pari": 3.42,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-08-10",
+   "fuori": "Bradford",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.19,
+    "over25": 1.71,
+    "pari": 3.52,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-08-10",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.56,
+    "over25": 1.85,
+    "pari": 3.4,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-08-10",
+   "fuori": "Notts County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.79,
+    "over25": 1.61,
+    "pari": 3.63,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-08-10",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.53,
+    "over25": 1.73,
+    "pari": 3.88,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-08-17",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.54,
+    "over25": 1.89,
+    "pari": 3.41,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-08-17",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.78,
+    "over25": 1.92,
+    "pari": 3.38,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-08-17",
+   "fuori": "Harrogate",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.76,
+    "over25": 1.73,
+    "pari": 3.52,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-08-17",
+   "fuori": "Salford",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.69,
+    "over25": 1.64,
+    "pari": 4.02,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-08-17",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.25,
+    "over25": 1.73,
+    "pari": 3.55,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-08-17",
+   "fuori": "Chesterfield",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.26,
+    "over25": 1.73,
+    "pari": 3.51,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-08-17",
+   "fuori": "Cheltenham",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.04,
+    "over25": 1.93,
+    "pari": 3.33,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-08-17",
+   "fuori": "Gillingham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 1.98,
+    "over25": 1.9,
+    "pari": 3.51,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2024-08-17",
+   "fuori": "Doncaster",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.52,
+    "fuori": 1.67,
+    "over25": 1.7,
+    "pari": 4.06,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-08-17",
+   "fuori": "Tranmere",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.78,
+    "over25": 1.86,
+    "pari": 3.56,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-08-17",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.77,
+    "over25": 1.66,
+    "pari": 3.56,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2024-08-18",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 2.86,
+    "over25": 1.76,
+    "pari": 3.55,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2024-08-22",
+   "fuori": "Grimsby",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.72,
+    "over25": 1.65,
+    "pari": 3.61,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-08-24",
+   "fuori": "Swindon",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.74,
+    "over25": 1.8,
+    "pari": 3.43,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-08-24",
+   "fuori": "Walsall",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.59,
+    "over25": 2.01,
+    "pari": 3.24,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-08-24",
+   "fuori": "Port Vale",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.81,
+    "over25": 2.03,
+    "pari": 3.31,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-08-24",
+   "fuori": "Bromley",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.39,
+    "over25": 1.81,
+    "pari": 3.76,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-08-24",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.69,
+    "over25": 1.91,
+    "pari": 3.25,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-08-24",
+   "fuori": "Salford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.63,
+    "over25": 1.75,
+    "pari": 4.09,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-08-24",
+   "fuori": "Harrogate",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.2,
+    "over25": 1.8,
+    "pari": 3.68,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-08-24",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.51,
+    "over25": 1.75,
+    "pari": 4.28,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-08-24",
+   "fuori": "Gillingham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.12,
+    "over25": 1.86,
+    "pari": 3.36,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-08-24",
+   "fuori": "Carlisle",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.12,
+    "over25": 1.69,
+    "pari": 3.79,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2024-08-24",
+   "fuori": "Accrington",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.85,
+    "over25": 1.68,
+    "pari": 3.53,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-08-31",
+   "fuori": "Chesterfield",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.5,
+    "over25": 1.92,
+    "pari": 3.28,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-08-31",
+   "fuori": "Doncaster",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.04,
+    "over25": 1.99,
+    "pari": 3.15,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-08-31",
+   "fuori": "Colchester",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.63,
+    "over25": 1.81,
+    "pari": 3.18,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-08-31",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.51,
+    "over25": 1.88,
+    "pari": 3.39,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-08-31",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.59,
+    "over25": 1.89,
+    "pari": 3.32,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-08-31",
+   "fuori": "Tranmere",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.32,
+    "over25": 1.93,
+    "pari": 3.37,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-08-31",
+   "fuori": "Bradford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.13,
+    "over25": 1.91,
+    "pari": 3.4,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-08-31",
+   "fuori": "Barrow",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.77,
+    "fuori": 1.96,
+    "over25": 1.95,
+    "pari": 3.43,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-08-31",
+   "fuori": "Newport County",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.9,
+    "over25": 1.86,
+    "pari": 3.32,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-08-31",
+   "fuori": "Notts County",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.39,
+    "over25": 1.53,
+    "pari": 3.7,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-08-31",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.76,
+    "over25": 1.82,
+    "pari": 3.73,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-09-02",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.39,
+    "fuori": 2.0,
+    "over25": 1.63,
+    "pari": 3.67,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-09-07",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.87,
+    "over25": 1.97,
+    "pari": 3.42,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-09-07",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.87,
+    "over25": 1.83,
+    "pari": 3.61,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-09-07",
+   "fuori": "Harrogate",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.55,
+    "over25": 1.84,
+    "pari": 3.56,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-09-07",
+   "fuori": "Grimsby",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.82,
+    "over25": 1.66,
+    "pari": 4.03,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-09-07",
+   "fuori": "Bromley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.44,
+    "over25": 1.82,
+    "pari": 3.47,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-09-07",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.75,
+    "over25": 2.01,
+    "pari": 3.46,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-09-07",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.16,
+    "over25": 1.98,
+    "pari": 3.48,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-09-07",
+   "fuori": "Walsall",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.18,
+    "over25": 1.72,
+    "pari": 3.6,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2024-09-07",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.13,
+    "fuori": 2.15,
+    "over25": 1.82,
+    "pari": 3.51,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2024-09-07",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 3.91,
+    "over25": 1.49,
+    "pari": 3.9,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-09-12",
+   "fuori": "Doncaster",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 4.48,
+    "fuori": 1.7,
+    "over25": 1.67,
+    "pari": 3.91,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-09-14",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.0,
+    "over25": 1.94,
+    "pari": 3.37,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-09-14",
+   "fuori": "Newport County",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.15,
+    "over25": 1.63,
+    "pari": 4.22,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-09-14",
+   "fuori": "Crewe",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.77,
+    "over25": 1.87,
+    "pari": 3.46,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-09-14",
+   "fuori": "Notts County",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.37,
+    "over25": 1.65,
+    "pari": 3.52,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-09-14",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.69,
+    "over25": 1.88,
+    "pari": 3.4,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-09-14",
+   "fuori": "Tranmere",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.57,
+    "over25": 2.26,
+    "pari": 3.21,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-09-14",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 2.94,
+    "over25": 1.95,
+    "pari": 3.45,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-09-14",
+   "fuori": "Colchester",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.31,
+    "over25": 2.02,
+    "pari": 3.32,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-09-14",
+   "fuori": "Chesterfield",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.62,
+    "over25": 1.79,
+    "pari": 3.39,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-09-14",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.9,
+    "over25": 1.9,
+    "pari": 3.67,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-09-14",
+   "fuori": "Bradford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.9,
+    "over25": 1.94,
+    "pari": 3.36,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-09-21",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.02,
+    "over25": 1.86,
+    "pari": 3.52,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-09-21",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.73,
+    "over25": 1.65,
+    "pari": 4.18,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-09-21",
+   "fuori": "Newport County",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.48,
+    "over25": 1.7,
+    "pari": 4.55,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-09-21",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.94,
+    "over25": 2.05,
+    "pari": 3.29,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-09-21",
+   "fuori": "Tranmere",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.39,
+    "over25": 2.02,
+    "pari": 3.31,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-09-21",
+   "fuori": "Harrogate",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.85,
+    "over25": 2.04,
+    "pari": 3.35,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-09-21",
+   "fuori": "Bromley",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.23,
+    "over25": 1.72,
+    "pari": 3.51,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-09-21",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.78,
+    "over25": 1.74,
+    "pari": 3.45,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2024-09-21",
+   "fuori": "Gillingham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.64,
+    "over25": 1.69,
+    "pari": 3.68,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-09-21",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.42,
+    "over25": 1.95,
+    "pari": 3.31,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-09-21",
+   "fuori": "Carlisle",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.59,
+    "over25": 1.83,
+    "pari": 3.51,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-09-23",
+   "fuori": "Morecambe",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.68,
+    "over25": 1.73,
+    "pari": 4.1,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-09-27",
+   "fuori": "Salford",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.41,
+    "over25": 2.02,
+    "pari": 3.27,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-09-28",
+   "fuori": "Bradford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.84,
+    "fuori": 1.91,
+    "over25": 1.87,
+    "pari": 3.54,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-09-28",
+   "fuori": "Colchester",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.67,
+    "over25": 1.94,
+    "pari": 3.47,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-09-28",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.11,
+    "over25": 1.67,
+    "pari": 3.66,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-09-28",
+   "fuori": "Grimsby",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.5,
+    "over25": 1.89,
+    "pari": 3.47,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-09-28",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.34,
+    "over25": 1.83,
+    "pari": 3.39,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-09-28",
+   "fuori": "Chesterfield",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.96,
+    "over25": 1.82,
+    "pari": 3.47,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-09-28",
+   "fuori": "Barrow",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.23,
+    "over25": 2.2,
+    "pari": 3.2,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-09-28",
+   "fuori": "Notts County",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.91,
+    "fuori": 1.79,
+    "over25": 1.58,
+    "pari": 3.94,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2024-09-28",
+   "fuori": "Crewe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 1.97,
+    "over25": 1.96,
+    "pari": 3.55,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-09-28",
+   "fuori": "Swindon",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.66,
+    "over25": 1.93,
+    "pari": 3.47,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-10-01",
+   "fuori": "Chesterfield",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.16,
+    "over25": 1.9,
+    "pari": 3.4,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-10-01",
+   "fuori": "Notts County",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.51,
+    "over25": 1.66,
+    "pari": 3.49,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-10-01",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.04,
+    "over25": 1.89,
+    "pari": 3.35,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-10-01",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.22,
+    "over25": 1.99,
+    "pari": 3.31,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-10-01",
+   "fuori": "Grimsby",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.49,
+    "over25": 1.95,
+    "pari": 3.41,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-10-01",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.9,
+    "fuori": 1.87,
+    "over25": 1.84,
+    "pari": 3.64,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-10-01",
+   "fuori": "Bradford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.37,
+    "fuori": 2.08,
+    "over25": 1.91,
+    "pari": 3.45,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2024-10-01",
+   "fuori": "Salford",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.2,
+    "fuori": 2.16,
+    "over25": 1.85,
+    "pari": 3.43,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-10-01",
+   "fuori": "Colchester",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.51,
+    "over25": 2.03,
+    "pari": 3.49,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-10-01",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.16,
+    "over25": 2.03,
+    "pari": 3.27,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-10-01",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    6
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.6,
+    "over25": 1.86,
+    "pari": 3.48,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-10-05",
+   "fuori": "Bromley",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.19,
+    "over25": 1.75,
+    "pari": 3.78,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-10-05",
+   "fuori": "Doncaster",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.06,
+    "fuori": 2.25,
+    "over25": 1.87,
+    "pari": 3.38,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-10-05",
+   "fuori": "Morecambe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.24,
+    "over25": 1.79,
+    "pari": 3.49,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-10-05",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.14,
+    "over25": 2.1,
+    "pari": 3.49,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-10-05",
+   "fuori": "Walsall",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.18,
+    "over25": 1.91,
+    "pari": 3.37,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-10-05",
+   "fuori": "Carlisle",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.56,
+    "over25": 1.95,
+    "pari": 3.43,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-10-05",
+   "fuori": "Gillingham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.73,
+    "over25": 2.21,
+    "pari": 3.12,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-10-05",
+   "fuori": "Tranmere",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.52,
+    "over25": 1.83,
+    "pari": 3.8,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2024-10-05",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.59,
+    "over25": 1.67,
+    "pari": 3.5,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-10-05",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.27,
+    "over25": 2.02,
+    "pari": 3.26,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-10-05",
+   "fuori": "Harrogate",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.57,
+    "over25": 1.75,
+    "pari": 3.9,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-10-07",
+   "fuori": "Newport County",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 6.22,
+    "over25": 1.5,
+    "pari": 4.75,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-10-12",
+   "fuori": "Notts County",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.11,
+    "over25": 1.55,
+    "pari": 3.61,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-10-12",
+   "fuori": "Carlisle",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.2,
+    "over25": 1.89,
+    "pari": 3.55,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-10-12",
+   "fuori": "Morecambe",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.42,
+    "over25": 1.92,
+    "pari": 3.88,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-10-12",
+   "fuori": "Swindon",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.42,
+    "over25": 2.02,
+    "pari": 3.23,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-10-12",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.91,
+    "over25": 1.94,
+    "pari": 3.72,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-10-12",
+   "fuori": "Accrington",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.88,
+    "over25": 1.93,
+    "pari": 3.73,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-10-12",
+   "fuori": "Newport County",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.86,
+    "over25": 1.77,
+    "pari": 3.7,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-10-12",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.33,
+    "over25": 2.05,
+    "pari": 3.31,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-10-12",
+   "fuori": "Grimsby",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.07,
+    "over25": 1.98,
+    "pari": 3.28,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-10-12",
+   "fuori": "Bradford",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.61,
+    "over25": 2.07,
+    "pari": 3.21,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2024-10-18",
+   "fuori": "Chesterfield",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.43,
+    "fuori": 1.96,
+    "over25": 1.58,
+    "pari": 3.77,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-10-19",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.49,
+    "over25": 1.89,
+    "pari": 3.39,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-10-19",
+   "fuori": "Gillingham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.28,
+    "over25": 2.03,
+    "pari": 3.32,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-10-19",
+   "fuori": "Tranmere",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.3,
+    "over25": 2.01,
+    "pari": 3.35,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-10-19",
+   "fuori": "Harrogate",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.8,
+    "over25": 1.92,
+    "pari": 3.49,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-10-19",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.71,
+    "over25": 2.06,
+    "pari": 3.52,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-10-19",
+   "fuori": "Salford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.19,
+    "over25": 2.1,
+    "pari": 3.3,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-10-19",
+   "fuori": "Walsall",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.18,
+    "over25": 1.9,
+    "pari": 3.42,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-10-19",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.34,
+    "fuori": 2.06,
+    "over25": 1.78,
+    "pari": 3.53,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2024-10-19",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.91,
+    "over25": 1.76,
+    "pari": 3.45,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-10-19",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.47,
+    "over25": 1.94,
+    "pari": 3.47,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-10-19",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.26,
+    "over25": 1.85,
+    "pari": 3.42,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-10-22",
+   "fuori": "Morecambe",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.85,
+    "over25": 1.88,
+    "pari": 4.33,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-10-22",
+   "fuori": "Notts County",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 2.89,
+    "over25": 1.88,
+    "pari": 3.41,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-10-22",
+   "fuori": "Bradford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.49,
+    "fuori": 2.09,
+    "over25": 2.07,
+    "pari": 3.3,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-10-22",
+   "fuori": "Colchester",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.37,
+    "over25": 1.78,
+    "pari": 3.66,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-10-22",
+   "fuori": "Bromley",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.95,
+    "over25": 1.73,
+    "pari": 3.93,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-10-22",
+   "fuori": "Crewe",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.91,
+    "over25": 1.8,
+    "pari": 3.66,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-10-22",
+   "fuori": "Newport County",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.94,
+    "over25": 1.88,
+    "pari": 3.65,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-10-22",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.83,
+    "fuori": 1.7,
+    "over25": 2.11,
+    "pari": 3.72,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-10-22",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.41,
+    "over25": 1.65,
+    "pari": 4.14,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-10-22",
+   "fuori": "Swindon",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.88,
+    "over25": 2.02,
+    "pari": 3.29,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-10-22",
+   "fuori": "Grimsby",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.56,
+    "over25": 2.1,
+    "pari": 3.13,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-10-22",
+   "fuori": "Carlisle",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.6,
+    "over25": 1.89,
+    "pari": 3.84,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-10-26",
+   "fuori": "Salford",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.02,
+    "over25": 2.2,
+    "pari": 3.15,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-10-26",
+   "fuori": "Chesterfield",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.47,
+    "fuori": 1.97,
+    "over25": 1.7,
+    "pari": 3.66,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-10-26",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.75,
+    "fuori": 1.88,
+    "over25": 1.69,
+    "pari": 3.69,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-10-26",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.53,
+    "over25": 1.86,
+    "pari": 3.36,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-10-26",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.05,
+    "over25": 2.03,
+    "pari": 3.28,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-10-26",
+   "fuori": "Cheltenham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.7,
+    "over25": 1.82,
+    "pari": 3.54,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-10-26",
+   "fuori": "Tranmere",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.05,
+    "over25": 2.17,
+    "pari": 3.26,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-10-26",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.18,
+    "over25": 1.83,
+    "pari": 3.42,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2024-10-26",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.63,
+    "fuori": 1.91,
+    "over25": 1.62,
+    "pari": 3.73,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2024-10-26",
+   "fuori": "Harrogate",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.81,
+    "over25": 1.62,
+    "pari": 4.34,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-10-26",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.3,
+    "over25": 2.35,
+    "pari": 3.15,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-10-26",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.65,
+    "over25": 2.11,
+    "pari": 3.33,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-10-29",
+   "fuori": "Salford",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.17,
+    "over25": 1.84,
+    "pari": 3.51,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-11-09",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.69,
+    "over25": 1.93,
+    "pari": 3.37,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-11-09",
+   "fuori": "Carlisle",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.4,
+    "over25": 1.91,
+    "pari": 3.47,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-11-09",
+   "fuori": "Grimsby",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 6.33,
+    "over25": 1.9,
+    "pari": 4.13,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-11-09",
+   "fuori": "Colchester",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.89,
+    "over25": 2.14,
+    "pari": 3.35,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-11-09",
+   "fuori": "Bromley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.73,
+    "over25": 1.82,
+    "pari": 3.44,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-11-09",
+   "fuori": "Accrington",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.7,
+    "over25": 1.68,
+    "pari": 4.15,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-11-09",
+   "fuori": "Notts County",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.67,
+    "over25": 1.65,
+    "pari": 3.63,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-11-09",
+   "fuori": "Bradford",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.61,
+    "over25": 1.81,
+    "pari": 3.5,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-11-09",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.37,
+    "over25": 2.19,
+    "pari": 3.26,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-11-09",
+   "fuori": "Swindon",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.41,
+    "over25": 1.79,
+    "pari": 3.48,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-11-09",
+   "fuori": "Newport County",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.69,
+    "over25": 1.86,
+    "pari": 3.68,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-11-09",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.98,
+    "over25": 1.9,
+    "pari": 3.74,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-11-16",
+   "fuori": "Swindon",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.31,
+    "over25": 2.02,
+    "pari": 3.42,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-11-16",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.82,
+    "over25": 2.59,
+    "pari": 2.96,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-11-16",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.7,
+    "over25": 1.86,
+    "pari": 3.58,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-11-16",
+   "fuori": "Bradford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.58,
+    "over25": 2.04,
+    "pari": 3.25,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-11-16",
+   "fuori": "Notts County",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.8,
+    "over25": 1.88,
+    "pari": 3.4,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-11-16",
+   "fuori": "Salford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 5.03,
+    "over25": 1.87,
+    "pari": 3.87,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-11-16",
+   "fuori": "Chesterfield",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.86,
+    "fuori": 1.64,
+    "over25": 1.73,
+    "pari": 3.98,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-11-16",
+   "fuori": "Cheltenham",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.39,
+    "over25": 1.83,
+    "pari": 3.77,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-11-16",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.5,
+    "fuori": 1.75,
+    "over25": 1.92,
+    "pari": 3.69,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2024-11-16",
+   "fuori": "Grimsby",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.2,
+    "over25": 1.83,
+    "pari": 3.41,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-11-19",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.81,
+    "over25": 1.93,
+    "pari": 3.69,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-11-22",
+   "fuori": "Tranmere",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 3.03,
+    "over25": 2.17,
+    "pari": 3.2,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-11-23",
+   "fuori": "Colchester",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.47,
+    "over25": 1.92,
+    "pari": 3.36,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2024-11-23",
+   "fuori": "Newport County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 7.8,
+    "over25": 1.5,
+    "pari": 5.05,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-11-23",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.14,
+    "over25": 2.21,
+    "pari": 3.17,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-11-23",
+   "fuori": "Doncaster",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.15,
+    "fuori": 1.82,
+    "over25": 1.86,
+    "pari": 3.62,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-11-23",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.85,
+    "over25": 2.04,
+    "pari": 3.39,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-11-23",
+   "fuori": "Harrogate",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.19,
+    "over25": 2.11,
+    "pari": 3.68,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-11-23",
+   "fuori": "Morecambe",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.11,
+    "over25": 1.84,
+    "pari": 3.59,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-11-25",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.76,
+    "over25": 2.23,
+    "pari": 3.21,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-11-26",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.54,
+    "fuori": 2.17,
+    "over25": 2.48,
+    "pari": 3.09,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-11-26",
+   "fuori": "Bromley",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.0,
+    "over25": 1.72,
+    "pari": 3.98,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-11-30",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.38,
+    "over25": 2.17,
+    "pari": 3.21,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-11-30",
+   "fuori": "Colchester",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.44,
+    "over25": 1.92,
+    "pari": 3.45,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-12-03",
+   "fuori": "Newport County",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 9.03,
+    "over25": 1.72,
+    "pari": 4.96,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-12-03",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.97,
+    "over25": 2.23,
+    "pari": 3.26,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-12-03",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.23,
+    "over25": 2.26,
+    "pari": 3.2,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-12-03",
+   "fuori": "Swindon",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.16,
+    "over25": 1.88,
+    "pari": 3.57,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-12-03",
+   "fuori": "Accrington",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.93,
+    "over25": 2.15,
+    "pari": 3.17,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-12-03",
+   "fuori": "Chesterfield",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.04,
+    "over25": 1.68,
+    "pari": 3.63,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-12-03",
+   "fuori": "Harrogate",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.68,
+    "over25": 2.02,
+    "pari": 3.6,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-12-03",
+   "fuori": "Morecambe",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.83,
+    "over25": 1.92,
+    "pari": 3.5,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-12-03",
+   "fuori": "Notts County",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.92,
+    "over25": 1.77,
+    "pari": 3.54,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-12-04",
+   "fuori": "Gillingham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.21,
+    "over25": 2.06,
+    "pari": 3.3,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-12-04",
+   "fuori": "Doncaster",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.37,
+    "over25": 1.86,
+    "pari": 3.38,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-12-07",
+   "fuori": "Bradford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.3,
+    "over25": 2.16,
+    "pari": 3.32,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-12-07",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.78,
+    "over25": 2.19,
+    "pari": 3.11,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-12-07",
+   "fuori": "Bromley",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.71,
+    "over25": 1.87,
+    "pari": 3.39,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-12-07",
+   "fuori": "Tranmere",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.93,
+    "over25": 1.87,
+    "pari": 3.55,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-12-07",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.35,
+    "over25": 1.75,
+    "pari": 4.39,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-12-07",
+   "fuori": "Salford",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.71,
+    "over25": 2.32,
+    "pari": 3.12,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-12-07",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.84,
+    "fuori": 1.99,
+    "over25": 2.2,
+    "pari": 3.3,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-12-07",
+   "fuori": "Grimsby",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.54,
+    "over25": 1.87,
+    "pari": 3.35,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-12-07",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.23,
+    "over25": 1.75,
+    "pari": 3.45,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-12-14",
+   "fuori": "Notts County",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.55,
+    "over25": 1.9,
+    "pari": 3.31,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-12-14",
+   "fuori": "Harrogate",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.7,
+    "over25": 2.03,
+    "pari": 3.64,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-12-14",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.81,
+    "over25": 2.05,
+    "pari": 3.22,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-12-14",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.35,
+    "over25": 1.76,
+    "pari": 4.1,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-12-14",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.68,
+    "over25": 2.02,
+    "pari": 3.23,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-12-14",
+   "fuori": "Chesterfield",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.31,
+    "over25": 1.93,
+    "pari": 3.33,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-12-14",
+   "fuori": "Morecambe",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.02,
+    "over25": 1.9,
+    "pari": 3.6,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-12-14",
+   "fuori": "Newport County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.47,
+    "over25": 1.73,
+    "pari": 4.71,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-12-14",
+   "fuori": "Crewe",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.87,
+    "over25": 2.3,
+    "pari": 3.09,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-12-14",
+   "fuori": "Gillingham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.7,
+    "over25": 1.98,
+    "pari": 3.65,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-12-14",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.53,
+    "over25": 2.2,
+    "pari": 3.47,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-12-16",
+   "fuori": "Accrington",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.98,
+    "over25": 1.88,
+    "pari": 3.62,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2024-12-20",
+   "fuori": "Colchester",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.44,
+    "over25": 2.3,
+    "pari": 3.28,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2024-12-20",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.09,
+    "over25": 2.3,
+    "pari": 3.18,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2024-12-21",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.12,
+    "over25": 2.1,
+    "pari": 3.29,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2024-12-21",
+   "fuori": "Tranmere",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.67,
+    "over25": 1.84,
+    "pari": 3.82,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2024-12-21",
+   "fuori": "Salford",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.38,
+    "over25": 2.11,
+    "pari": 3.13,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2024-12-21",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.03,
+    "over25": 2.01,
+    "pari": 3.28,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2024-12-21",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.25,
+    "fuori": 1.6,
+    "over25": 1.88,
+    "pari": 3.92,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2024-12-21",
+   "fuori": "Bromley",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 1.94,
+    "over25": 1.84,
+    "pari": 3.58,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2024-12-21",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    6,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.84,
+    "fuori": 1.66,
+    "over25": 1.66,
+    "pari": 3.87,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2024-12-21",
+   "fuori": "Bradford",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.05,
+    "over25": 1.81,
+    "pari": 3.39,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2024-12-21",
+   "fuori": "Carlisle",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.47,
+    "over25": 2.03,
+    "pari": 3.54,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2024-12-21",
+   "fuori": "Grimsby",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.78,
+    "over25": 1.89,
+    "pari": 3.45,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-12-26",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 5.08,
+    "over25": 2.06,
+    "pari": 3.68,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-12-26",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.12,
+    "over25": 2.24,
+    "pari": 3.18,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-12-26",
+   "fuori": "Newport County",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.62,
+    "over25": 1.59,
+    "pari": 4.53,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-12-26",
+   "fuori": "Morecambe",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.37,
+    "over25": 2.01,
+    "pari": 3.54,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-12-26",
+   "fuori": "Crewe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.49,
+    "over25": 2.31,
+    "pari": 3.12,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-12-26",
+   "fuori": "Gillingham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.89,
+    "over25": 2.39,
+    "pari": 3.18,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-12-26",
+   "fuori": "Chesterfield",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.81,
+    "over25": 1.87,
+    "pari": 3.39,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-12-26",
+   "fuori": "Harrogate",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.52,
+    "over25": 1.93,
+    "pari": 3.6,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-12-26",
+   "fuori": "Notts County",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.86,
+    "over25": 1.62,
+    "pari": 3.61,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-12-26",
+   "fuori": "Barrow",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.79,
+    "over25": 2.62,
+    "pari": 3.12,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-12-26",
+   "fuori": "Doncaster",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.25,
+    "over25": 1.91,
+    "pari": 3.28,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2024-12-29",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.81,
+    "over25": 1.74,
+    "pari": 3.64,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2024-12-29",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.78,
+    "over25": 1.96,
+    "pari": 3.34,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2024-12-29",
+   "fuori": "Chesterfield",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.72,
+    "over25": 1.87,
+    "pari": 3.48,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2024-12-29",
+   "fuori": "Notts County",
+   "gol": [
+    3,
+    5
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.2,
+    "over25": 1.85,
+    "pari": 3.46,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2024-12-29",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.59,
+    "over25": 2.06,
+    "pari": 3.23,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2024-12-29",
+   "fuori": "Harrogate",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.28,
+    "over25": 1.88,
+    "pari": 3.87,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2024-12-29",
+   "fuori": "Port Vale",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.84,
+    "over25": 2.06,
+    "pari": 3.22,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2024-12-29",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.27,
+    "over25": 1.94,
+    "pari": 3.38,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2024-12-29",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.98,
+    "over25": 1.86,
+    "pari": 3.84,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2024-12-29",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.07,
+    "over25": 2.25,
+    "pari": 3.16,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2024-12-29",
+   "fuori": "Newport County",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 9.79,
+    "over25": 1.59,
+    "pari": 5.26,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2024-12-30",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.48,
+    "over25": 2.59,
+    "pari": 3.21,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-01-01",
+   "fuori": "Grimsby",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.86,
+    "over25": 2.0,
+    "pari": 3.3,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-01-01",
+   "fuori": "Bradford",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.73,
+    "over25": 2.43,
+    "pari": 3.02,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-01-01",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.86,
+    "over25": 1.69,
+    "pari": 3.49,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-01-01",
+   "fuori": "Carlisle",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.93,
+    "over25": 2.28,
+    "pari": 3.34,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-01-01",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.66,
+    "over25": 1.75,
+    "pari": 3.77,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-01-01",
+   "fuori": "Salford",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.42,
+    "fuori": 1.8,
+    "over25": 2.19,
+    "pari": 3.48,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-01-01",
+   "fuori": "Tranmere",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.47,
+    "over25": 1.97,
+    "pari": 3.39,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-01-01",
+   "fuori": "Walsall",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.67,
+    "over25": 1.78,
+    "pari": 3.43,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-01-01",
+   "fuori": "Cheltenham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.85,
+    "over25": 2.31,
+    "pari": 3.25,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-01-01",
+   "fuori": "Colchester",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.51,
+    "over25": 2.11,
+    "pari": 3.18,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-01-02",
+   "fuori": "Bromley",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.5,
+    "over25": 2.14,
+    "pari": 3.18,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-01-02",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.48,
+    "fuori": 1.74,
+    "over25": 1.94,
+    "pari": 3.68,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-01-04",
+   "fuori": "Swindon",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.39,
+    "over25": 1.57,
+    "pari": 4.05,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-01-04",
+   "fuori": "Grimsby",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.17,
+    "over25": 1.96,
+    "pari": 3.44,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-01-04",
+   "fuori": "Harrogate",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.75,
+    "over25": 2.11,
+    "pari": 3.76,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-01-04",
+   "fuori": "Accrington",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.35,
+    "over25": 2.09,
+    "pari": 3.41,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-01-04",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.31,
+    "over25": 1.99,
+    "pari": 3.61,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-01-04",
+   "fuori": "Salford",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.87,
+    "over25": 1.95,
+    "pari": 3.28,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-01-04",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.24,
+    "over25": 1.93,
+    "pari": 3.43,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-01-05",
+   "fuori": "Bromley",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.04,
+    "over25": 2.03,
+    "pari": 3.28,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-01-11",
+   "fuori": "Tranmere",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.77,
+    "over25": 1.85,
+    "pari": 4.27,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-01-11",
+   "fuori": "Crewe",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.42,
+    "over25": 2.11,
+    "pari": 3.19,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-01-17",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.57,
+    "over25": 2.06,
+    "pari": 3.19,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-01-18",
+   "fuori": "Bradford",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.16,
+    "over25": 2.08,
+    "pari": 3.29,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-01-18",
+   "fuori": "Doncaster",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.26,
+    "over25": 2.02,
+    "pari": 3.25,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-01-18",
+   "fuori": "Notts County",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.15,
+    "over25": 1.76,
+    "pari": 3.47,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-01-18",
+   "fuori": "Tranmere",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.84,
+    "over25": 2.18,
+    "pari": 3.72,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-01-18",
+   "fuori": "Colchester",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.07,
+    "over25": 2.11,
+    "pari": 3.2,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-01-18",
+   "fuori": "Chesterfield",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.59,
+    "over25": 1.82,
+    "pari": 3.4,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-01-18",
+   "fuori": "Crewe",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.44,
+    "fuori": 2.1,
+    "over25": 2.04,
+    "pari": 3.3,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-01-18",
+   "fuori": "Newport County",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.92,
+    "over25": 1.81,
+    "pari": 4.16,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-01-18",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.08,
+    "over25": 2.19,
+    "pari": 3.37,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-01-18",
+   "fuori": "Barrow",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.63,
+    "over25": 2.35,
+    "pari": 3.17,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-01-18",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.92,
+    "over25": 1.81,
+    "pari": 3.61,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-01-21",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.05,
+    "over25": 1.9,
+    "pari": 3.35,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-01-21",
+   "fuori": "Colchester",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.64,
+    "fuori": 2.11,
+    "over25": 2.39,
+    "pari": 3.15,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-01-24",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 1.95,
+    "over25": 1.84,
+    "pari": 3.57,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-01-25",
+   "fuori": "Walsall",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.7,
+    "over25": 2.24,
+    "pari": 3.07,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-01-25",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.42,
+    "over25": 2.12,
+    "pari": 3.2,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-01-25",
+   "fuori": "Grimsby",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.22,
+    "over25": 2.05,
+    "pari": 3.29,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-01-25",
+   "fuori": "Salford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.4,
+    "fuori": 2.15,
+    "over25": 2.14,
+    "pari": 3.27,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-01-25",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.17,
+    "over25": 1.95,
+    "pari": 3.34,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-01-25",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.93,
+    "over25": 2.08,
+    "pari": 3.56,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-01-25",
+   "fuori": "Accrington",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.25,
+    "over25": 2.04,
+    "pari": 3.49,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-01-25",
+   "fuori": "Harrogate",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 6.95,
+    "over25": 1.79,
+    "pari": 4.49,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-01-25",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 5.07,
+    "over25": 2.08,
+    "pari": 3.61,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-01-25",
+   "fuori": "Bromley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.27,
+    "over25": 1.71,
+    "pari": 3.86,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-01-25",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.91,
+    "over25": 2.28,
+    "pari": 3.05,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-01-28",
+   "fuori": "Cheltenham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.36,
+    "over25": 2.21,
+    "pari": 3.24,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-01-28",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.97,
+    "over25": 1.97,
+    "pari": 4.01,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-01-28",
+   "fuori": "Bromley",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.66,
+    "over25": 2.09,
+    "pari": 3.31,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-01-28",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.87,
+    "over25": 2.72,
+    "pari": 2.87,
+    "under25": 1.43
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-01-28",
+   "fuori": "Walsall",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.35,
+    "over25": 2.29,
+    "pari": 3.07,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-01-28",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.25,
+    "over25": 2.23,
+    "pari": 3.27,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-01-28",
+   "fuori": "Harrogate",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.35,
+    "over25": 1.87,
+    "pari": 3.74,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-01-28",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.46,
+    "over25": 1.62,
+    "pari": 4.34,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-01-28",
+   "fuori": "Newport County",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.96,
+    "over25": 1.75,
+    "pari": 4.21,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-01-28",
+   "fuori": "Tranmere",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.23,
+    "over25": 2.0,
+    "pari": 3.51,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-01-29",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.33,
+    "over25": 2.3,
+    "pari": 3.09,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-02-01",
+   "fuori": "Chesterfield",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.45,
+    "over25": 2.09,
+    "pari": 3.17,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-02-01",
+   "fuori": "Notts County",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.7,
+    "fuori": 1.96,
+    "over25": 2.02,
+    "pari": 3.5,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-02-01",
+   "fuori": "Bradford",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.23,
+    "over25": 2.61,
+    "pari": 2.95,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-02-01",
+   "fuori": "Grimsby",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.41,
+    "over25": 1.96,
+    "pari": 3.32,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-02-01",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.81,
+    "over25": 2.07,
+    "pari": 3.18,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-02-01",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.69,
+    "over25": 1.68,
+    "pari": 3.9,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-02-01",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.5,
+    "over25": 2.39,
+    "pari": 3.12,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-02-01",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.49,
+    "fuori": 2.12,
+    "over25": 2.24,
+    "pari": 3.24,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-02-01",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 2.3,
+    "over25": 2.19,
+    "pari": 3.08,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-02-01",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.15,
+    "over25": 2.07,
+    "pari": 3.44,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-02-01",
+   "fuori": "Colchester",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.38,
+    "over25": 2.33,
+    "pari": 3.13,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-02-01",
+   "fuori": "Salford",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.59,
+    "over25": 2.07,
+    "pari": 3.6,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-02-04",
+   "fuori": "Morecambe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.67,
+    "over25": 1.97,
+    "pari": 3.3,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-02-04",
+   "fuori": "Bromley",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.48,
+    "over25": 2.14,
+    "pari": 3.28,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-02-06",
+   "fuori": "Doncaster",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.45,
+    "over25": 2.0,
+    "pari": 3.34,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-02-08",
+   "fuori": "Harrogate",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.59,
+    "over25": 2.06,
+    "pari": 3.82,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-02-08",
+   "fuori": "Port Vale",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.88,
+    "over25": 2.05,
+    "pari": 3.24,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-02-08",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.17,
+    "over25": 2.38,
+    "pari": 3.13,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-02-08",
+   "fuori": "Gillingham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 4.07,
+    "over25": 2.63,
+    "pari": 3.05,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-02-08",
+   "fuori": "Walsall",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.94,
+    "fuori": 2.49,
+    "over25": 2.34,
+    "pari": 3.06,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-02-08",
+   "fuori": "Newport County",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.9,
+    "over25": 1.89,
+    "pari": 4.04,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-02-08",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.89,
+    "over25": 2.18,
+    "pari": 3.21,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-02-08",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.18,
+    "over25": 1.92,
+    "pari": 3.41,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-02-08",
+   "fuori": "Bromley",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.13,
+    "over25": 1.8,
+    "pari": 3.44,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-02-08",
+   "fuori": "Morecambe",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.27,
+    "over25": 1.61,
+    "pari": 4.47,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-02-08",
+   "fuori": "Tranmere",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.38,
+    "over25": 2.11,
+    "pari": 3.5,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-02-11",
+   "fuori": "Crewe",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.7,
+    "over25": 2.36,
+    "pari": 3.33,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-02-11",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.34,
+    "over25": 2.12,
+    "pari": 3.27,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-02-11",
+   "fuori": "Accrington",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.77,
+    "over25": 1.9,
+    "pari": 3.89,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-02-11",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.43,
+    "over25": 1.94,
+    "pari": 3.36,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-02-11",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.26,
+    "over25": 2.03,
+    "pari": 3.32,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-02-11",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.95,
+    "over25": 2.09,
+    "pari": 3.87,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-02-13",
+   "fuori": "Notts County",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.72,
+    "over25": 2.07,
+    "pari": 3.16,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-02-15",
+   "fuori": "Salford",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.61,
+    "over25": 2.24,
+    "pari": 3.38,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-02-15",
+   "fuori": "Grimsby",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.26,
+    "over25": 1.73,
+    "pari": 3.72,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-02-15",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.84,
+    "over25": 2.08,
+    "pari": 3.24,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-02-15",
+   "fuori": "Colchester",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.4,
+    "over25": 2.24,
+    "pari": 3.14,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-02-15",
+   "fuori": "Barrow",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.71,
+    "over25": 2.38,
+    "pari": 3.01,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-02-15",
+   "fuori": "Crewe",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.31,
+    "over25": 2.61,
+    "pari": 3.02,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-02-15",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.56,
+    "over25": 2.17,
+    "pari": 3.14,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-02-15",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.83,
+    "over25": 2.03,
+    "pari": 3.24,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-02-15",
+   "fuori": "Bradford",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.52,
+    "fuori": 1.72,
+    "over25": 1.89,
+    "pari": 3.74,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-02-15",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.3,
+    "over25": 1.85,
+    "pari": 3.44,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-02-15",
+   "fuori": "Chesterfield",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.27,
+    "over25": 1.95,
+    "pari": 3.32,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-02-18",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.62,
+    "over25": 2.65,
+    "pari": 2.94,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-02-18",
+   "fuori": "Doncaster",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.73,
+    "fuori": 1.96,
+    "over25": 2.05,
+    "pari": 3.45,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-02-18",
+   "fuori": "Colchester",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.38,
+    "over25": 2.27,
+    "pari": 3.18,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-02-22",
+   "fuori": "Barrow",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.88,
+    "over25": 2.44,
+    "pari": 3.1,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-02-22",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.25,
+    "fuori": 1.78,
+    "over25": 1.98,
+    "pari": 3.63,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-02-22",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 2.05,
+    "over25": 2.01,
+    "pari": 3.32,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-02-22",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.19,
+    "over25": 1.89,
+    "pari": 3.61,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-02-22",
+   "fuori": "Harrogate",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.47,
+    "over25": 2.07,
+    "pari": 3.4,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-02-22",
+   "fuori": "Gillingham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.04,
+    "over25": 2.38,
+    "pari": 3.09,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-02-22",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 3.03,
+    "over25": 2.92,
+    "pari": 2.84,
+    "under25": 1.38
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-02-22",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.79,
+    "over25": 2.1,
+    "pari": 3.19,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-02-22",
+   "fuori": "Cheltenham",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.97,
+    "fuori": 2.29,
+    "over25": 1.97,
+    "pari": 3.36,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-02-22",
+   "fuori": "Tranmere",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.65,
+    "over25": 1.74,
+    "pari": 4.2,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-02-22",
+   "fuori": "Salford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.41,
+    "over25": 2.24,
+    "pari": 3.26,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-02-22",
+   "fuori": "Chesterfield",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.58,
+    "over25": 1.87,
+    "pari": 3.39,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-02-25",
+   "fuori": "Bradford",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.4,
+    "over25": 2.19,
+    "pari": 3.14,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-02-25",
+   "fuori": "Walsall",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.2,
+    "over25": 1.99,
+    "pari": 3.28,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-02-25",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.81,
+    "over25": 2.47,
+    "pari": 3.06,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-02-25",
+   "fuori": "Accrington",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.27,
+    "over25": 2.15,
+    "pari": 3.22,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-02-27",
+   "fuori": "Carlisle",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.26,
+    "over25": 2.33,
+    "pari": 3.21,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-03-01",
+   "fuori": "Bradford",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.26,
+    "over25": 2.35,
+    "pari": 3.13,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-03-01",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.48,
+    "over25": 2.25,
+    "pari": 3.2,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-03-01",
+   "fuori": "Bromley",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 5.01,
+    "over25": 2.24,
+    "pari": 3.49,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-03-01",
+   "fuori": "Grimsby",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.76,
+    "over25": 1.96,
+    "pari": 3.29,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-03-01",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.56,
+    "over25": 2.02,
+    "pari": 3.31,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-03-01",
+   "fuori": "Newport County",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 9.1,
+    "over25": 1.68,
+    "pari": 5.15,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-03-01",
+   "fuori": "Notts County",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.5,
+    "over25": 1.93,
+    "pari": 3.31,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-03-01",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.64,
+    "over25": 2.12,
+    "pari": 3.32,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-03-01",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.96,
+    "over25": 2.25,
+    "pari": 3.13,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-03-01",
+   "fuori": "Colchester",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.56,
+    "over25": 2.19,
+    "pari": 3.15,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-03-01",
+   "fuori": "Swindon",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.22,
+    "over25": 1.95,
+    "pari": 3.51,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-03-04",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.69,
+    "over25": 2.02,
+    "pari": 3.29,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-03-04",
+   "fuori": "Cheltenham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.29,
+    "over25": 2.15,
+    "pari": 3.59,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-03-04",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.64,
+    "fuori": 1.98,
+    "over25": 1.98,
+    "pari": 3.44,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-03-04",
+   "fuori": "Walsall",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.2,
+    "over25": 2.16,
+    "pari": 3.23,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-03-04",
+   "fuori": "Chesterfield",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.98,
+    "over25": 2.49,
+    "pari": 3.09,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-03-04",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 3.01,
+    "over25": 2.18,
+    "pari": 3.17,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-03-04",
+   "fuori": "Tranmere",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.18,
+    "over25": 1.98,
+    "pari": 3.51,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-03-04",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.42,
+    "fuori": 2.17,
+    "over25": 2.4,
+    "pari": 3.15,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-03-04",
+   "fuori": "Gillingham",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.52,
+    "fuori": 2.07,
+    "over25": 2.15,
+    "pari": 3.29,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-03-04",
+   "fuori": "Barrow",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.89,
+    "over25": 1.95,
+    "pari": 3.77,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-03-04",
+   "fuori": "Harrogate",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.73,
+    "over25": 2.47,
+    "pari": 3.22,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-03-04",
+   "fuori": "Salford",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.83,
+    "over25": 2.03,
+    "pari": 3.46,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-03-08",
+   "fuori": "Notts County",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.92,
+    "over25": 2.19,
+    "pari": 3.13,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-03-08",
+   "fuori": "Grimsby",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.95,
+    "over25": 1.94,
+    "pari": 3.51,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-03-08",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.78,
+    "over25": 2.5,
+    "pari": 3.11,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-03-08",
+   "fuori": "Colchester",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 2.24,
+    "over25": 2.31,
+    "pari": 3.15,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-03-08",
+   "fuori": "Newport County",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.53,
+    "over25": 1.73,
+    "pari": 4.12,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-03-08",
+   "fuori": "Swindon",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.15,
+    "over25": 1.88,
+    "pari": 3.6,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-03-08",
+   "fuori": "Port Vale",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.29,
+    "over25": 2.31,
+    "pari": 3.13,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-03-08",
+   "fuori": "Bradford",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.44,
+    "fuori": 2.19,
+    "over25": 2.53,
+    "pari": 3.1,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-03-08",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.62,
+    "over25": 2.51,
+    "pari": 3.01,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-03-08",
+   "fuori": "Morecambe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.07,
+    "over25": 1.88,
+    "pari": 3.56,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-03-08",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.08,
+    "over25": 2.19,
+    "pari": 3.17,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-03-08",
+   "fuori": "Bromley",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.31,
+    "over25": 2.04,
+    "pari": 3.35,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-03-11",
+   "fuori": "Newport County",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.86,
+    "over25": 2.15,
+    "pari": 3.33,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-03-11",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 5.14,
+    "over25": 2.3,
+    "pari": 3.46,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-03-11",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.62,
+    "over25": 2.76,
+    "pari": 2.87,
+    "under25": 1.42
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-03-11",
+   "fuori": "Notts County",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.11,
+    "over25": 2.03,
+    "pari": 3.25,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-03-11",
+   "fuori": "Chesterfield",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.83,
+    "over25": 2.1,
+    "pari": 3.18,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-03-13",
+   "fuori": "Walsall",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.07,
+    "over25": 2.01,
+    "pari": 3.31,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-03-15",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.17,
+    "over25": 2.14,
+    "pari": 3.25,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-03-15",
+   "fuori": "Cheltenham",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.86,
+    "over25": 1.96,
+    "pari": 3.49,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-03-15",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 3.15,
+    "over25": 2.72,
+    "pari": 2.83,
+    "under25": 1.42
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-03-15",
+   "fuori": "Tranmere",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 6.34,
+    "over25": 2.3,
+    "pari": 3.51,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-03-15",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.17,
+    "fuori": 2.4,
+    "over25": 2.53,
+    "pari": 2.95,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-03-15",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.89,
+    "over25": 2.69,
+    "pari": 2.96,
+    "under25": 1.43
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-03-15",
+   "fuori": "Salford",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.18,
+    "over25": 2.05,
+    "pari": 3.53,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-03-15",
+   "fuori": "Barrow",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.29,
+    "over25": 2.41,
+    "pari": 3.01,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-03-15",
+   "fuori": "Harrogate",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.5,
+    "over25": 2.3,
+    "pari": 3.07,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-03-15",
+   "fuori": "Chesterfield",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.5,
+    "over25": 1.77,
+    "pari": 3.59,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-03-15",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.57,
+    "over25": 2.12,
+    "pari": 3.31,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-03-22",
+   "fuori": "Crewe",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.66,
+    "over25": 1.81,
+    "pari": 3.57,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-03-22",
+   "fuori": "Barrow",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 4.01,
+    "over25": 2.56,
+    "pari": 3.18,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-03-22",
+   "fuori": "Colchester",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.74,
+    "over25": 2.67,
+    "pari": 3.03,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-03-22",
+   "fuori": "Bromley",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.01,
+    "over25": 2.06,
+    "pari": 3.35,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-03-22",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.77,
+    "over25": 1.8,
+    "pari": 3.52,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-03-22",
+   "fuori": "Harrogate",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.6,
+    "over25": 2.04,
+    "pari": 3.58,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-03-22",
+   "fuori": "Tranmere",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.37,
+    "over25": 2.38,
+    "pari": 3.11,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-03-22",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.58,
+    "over25": 2.35,
+    "pari": 3.06,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-03-22",
+   "fuori": "Newport County",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.11,
+    "over25": 1.77,
+    "pari": 4.5,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-03-22",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.47,
+    "over25": 1.96,
+    "pari": 4.3,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-03-22",
+   "fuori": "Accrington",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.89,
+    "over25": 1.91,
+    "pari": 3.58,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-03-25",
+   "fuori": "Barrow",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.17,
+    "over25": 2.43,
+    "pari": 3.21,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-03-25",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.82,
+    "over25": 1.87,
+    "pari": 3.4,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-03-28",
+   "fuori": "Grimsby",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.61,
+    "over25": 2.58,
+    "pari": 2.99,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-03-28",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.77,
+    "over25": 2.21,
+    "pari": 3.24,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-03-29",
+   "fuori": "Bradford",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.15,
+    "fuori": 1.96,
+    "over25": 2.5,
+    "pari": 3.17,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-03-29",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.56,
+    "over25": 2.31,
+    "pari": 3.05,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-03-29",
+   "fuori": "Chesterfield",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.62,
+    "over25": 2.15,
+    "pari": 3.19,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-03-29",
+   "fuori": "Salford",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.71,
+    "over25": 1.98,
+    "pari": 3.36,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-03-29",
+   "fuori": "Carlisle",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.93,
+    "over25": 1.84,
+    "pari": 4.08,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-03-29",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.8,
+    "over25": 2.65,
+    "pari": 2.98,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-03-29",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.36,
+    "over25": 2.01,
+    "pari": 3.31,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-03-29",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.26,
+    "over25": 1.92,
+    "pari": 3.4,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-03-29",
+   "fuori": "Notts County",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.3,
+    "fuori": 1.56,
+    "over25": 1.61,
+    "pari": 4.17,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-03-29",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.13,
+    "over25": 2.44,
+    "pari": 3.0,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-04-01",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.65,
+    "over25": 2.44,
+    "pari": 3.04,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-04-01",
+   "fuori": "Salford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.71,
+    "over25": 2.27,
+    "pari": 3.11,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-04-01",
+   "fuori": "Carlisle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.82,
+    "over25": 2.01,
+    "pari": 3.62,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-04-01",
+   "fuori": "Grimsby",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.64,
+    "over25": 2.19,
+    "pari": 3.17,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-04-01",
+   "fuori": "Walsall",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.8,
+    "over25": 2.12,
+    "pari": 3.27,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-04-01",
+   "fuori": "Colchester",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.62,
+    "over25": 2.72,
+    "pari": 2.98,
+    "under25": 1.43
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-04-01",
+   "fuori": "Tranmere",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.66,
+    "over25": 2.5,
+    "pari": 2.98,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-04-01",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.05,
+    "over25": 2.11,
+    "pari": 3.24,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-04-01",
+   "fuori": "Bromley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.36,
+    "fuori": 2.05,
+    "over25": 1.88,
+    "pari": 3.51,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-04-01",
+   "fuori": "Bradford",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.77,
+    "over25": 2.62,
+    "pari": 2.95,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-04-01",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.17,
+    "over25": 2.16,
+    "pari": 3.27,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-04-02",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.5,
+    "over25": 1.63,
+    "pari": 3.97,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-04-05",
+   "fuori": "Doncaster",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.98,
+    "fuori": 1.67,
+    "over25": 1.92,
+    "pari": 3.71,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-04-05",
+   "fuori": "Port Vale",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.19,
+    "over25": 2.35,
+    "pari": 3.06,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-04-05",
+   "fuori": "Chesterfield",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "12:45",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.51,
+    "over25": 2.14,
+    "pari": 3.14,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-04-05",
+   "fuori": "Harrogate",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.85,
+    "over25": 2.22,
+    "pari": 3.61,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-04-05",
+   "fuori": "Crewe",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.76,
+    "over25": 2.29,
+    "pari": 3.31,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-04-05",
+   "fuori": "Accrington",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 3.04,
+    "over25": 2.16,
+    "pari": 3.22,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-04-05",
+   "fuori": "Newport County",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.77,
+    "over25": 1.84,
+    "pari": 3.96,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-04-05",
+   "fuori": "Notts County",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.49,
+    "over25": 2.1,
+    "pari": 3.17,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-04-05",
+   "fuori": "Swindon",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.68,
+    "over25": 1.98,
+    "pari": 3.43,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-04-05",
+   "fuori": "Morecambe",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.77,
+    "over25": 2.07,
+    "pari": 3.58,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-04-05",
+   "fuori": "Barrow",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.91,
+    "over25": 1.96,
+    "pari": 3.32,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-04-05",
+   "fuori": "Gillingham",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.44,
+    "over25": 2.28,
+    "pari": 3.21,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-04-08",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.9,
+    "over25": 2.09,
+    "pari": 3.43,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-04-10",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.14,
+    "over25": 2.03,
+    "pari": 3.68,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-04-11",
+   "fuori": "Salford",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.75,
+    "over25": 1.78,
+    "pari": 3.67,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-04-12",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.11,
+    "over25": 2.3,
+    "pari": 3.34,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-04-12",
+   "fuori": "Bradford",
+   "gol": [
+    5,
+    4
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.18,
+    "fuori": 2.21,
+    "over25": 2.08,
+    "pari": 3.32,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-04-12",
+   "fuori": "Tranmere",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.59,
+    "over25": 2.46,
+    "pari": 2.96,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-04-12",
+   "fuori": "Walsall",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.23,
+    "over25": 2.2,
+    "pari": 3.23,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-04-12",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.57,
+    "over25": 1.9,
+    "pari": 3.45,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-04-12",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.15,
+    "over25": 2.1,
+    "pari": 3.34,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-04-12",
+   "fuori": "Grimsby",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.93,
+    "fuori": 1.93,
+    "over25": 2.22,
+    "pari": 3.38,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-04-12",
+   "fuori": "Carlisle",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 2.92,
+    "over25": 1.89,
+    "pari": 3.61,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-04-12",
+   "fuori": "Colchester",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.95,
+    "fuori": 1.69,
+    "over25": 2.04,
+    "pari": 3.65,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-04-12",
+   "fuori": "Bromley",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.9,
+    "over25": 2.06,
+    "pari": 3.63,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-04-15",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.27,
+    "over25": 1.82,
+    "pari": 3.45,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-04-17",
+   "fuori": "Notts County",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.47,
+    "over25": 1.96,
+    "pari": 3.28,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-04-18",
+   "fuori": "Chesterfield",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.49,
+    "over25": 2.21,
+    "pari": 3.29,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-04-18",
+   "fuori": "Morecambe",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.22,
+    "over25": 1.82,
+    "pari": 3.71,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-04-18",
+   "fuori": "Port Vale",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.86,
+    "fuori": 1.93,
+    "over25": 2.01,
+    "pari": 3.47,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-04-18",
+   "fuori": "Gillingham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.72,
+    "over25": 2.12,
+    "pari": 3.19,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-04-18",
+   "fuori": "Crewe",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.95,
+    "over25": 2.41,
+    "pari": 3.28,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-04-18",
+   "fuori": "Barrow",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.73,
+    "over25": 2.27,
+    "pari": 3.18,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-04-18",
+   "fuori": "Swindon",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.77,
+    "over25": 1.84,
+    "pari": 3.58,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-04-18",
+   "fuori": "Newport County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.78,
+    "over25": 1.74,
+    "pari": 4.1,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-04-18",
+   "fuori": "Accrington",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.2,
+    "over25": 1.98,
+    "pari": 3.61,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-04-18",
+   "fuori": "Doncaster",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.09,
+    "over25": 1.92,
+    "pari": 3.52,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-04-18",
+   "fuori": "Harrogate",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.82,
+    "over25": 2.06,
+    "pari": 3.76,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-04-21",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 5.52,
+    "fuori": 1.58,
+    "over25": 1.82,
+    "pari": 3.93,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-04-21",
+   "fuori": "Carlisle",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.99,
+    "over25": 1.91,
+    "pari": 3.32,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-04-21",
+   "fuori": "Tranmere",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.82,
+    "over25": 2.24,
+    "pari": 3.12,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-04-21",
+   "fuori": "Bradford",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.48,
+    "over25": 2.06,
+    "pari": 3.33,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-04-21",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.47,
+    "over25": 1.98,
+    "pari": 3.34,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-04-21",
+   "fuori": "Colchester",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.26,
+    "over25": 2.08,
+    "pari": 3.44,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-04-21",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.4,
+    "fuori": 2.2,
+    "over25": 2.48,
+    "pari": 3.11,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-04-21",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.94,
+    "over25": 2.22,
+    "pari": 3.24,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-04-21",
+   "fuori": "Salford",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.69,
+    "fuori": 1.92,
+    "over25": 1.81,
+    "pari": 3.61,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-04-21",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 5.89,
+    "over25": 1.56,
+    "pari": 4.5,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-04-21",
+   "fuori": "Grimsby",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.79,
+    "over25": 2.27,
+    "pari": 3.18,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-04-21",
+   "fuori": "Bromley",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 3.97,
+    "over25": 1.64,
+    "pari": 3.83,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2025-04-26",
+   "fuori": "Port Vale",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.95,
+    "over25": 2.42,
+    "pari": 3.07,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Doncaster",
+   "data": "2025-04-26",
+   "fuori": "Bradford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.21,
+    "over25": 2.0,
+    "pari": 3.39,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Harrogate",
+   "data": "2025-04-26",
+   "fuori": "Notts County",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 4.64,
+    "fuori": 1.67,
+    "over25": 1.83,
+    "pari": 3.99,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Barrow",
+   "data": "2025-04-26",
+   "fuori": "Bromley",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.13,
+    "over25": 1.98,
+    "pari": 3.51,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Cheltenham",
+   "data": "2025-04-26",
+   "fuori": "Carlisle",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.44,
+    "over25": 1.79,
+    "pari": 3.57,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2025-04-26",
+   "fuori": "Morecambe",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 8.6,
+    "over25": 1.56,
+    "pari": 5.31,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Fleetwood Town",
+   "data": "2025-04-26",
+   "fuori": "Newport County",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.59,
+    "over25": 1.77,
+    "pari": 4.25,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2025-04-26",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.41,
+    "over25": 2.02,
+    "pari": 3.35,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2025-04-26",
+   "fuori": "Grimsby",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.13,
+    "fuori": 2.15,
+    "over25": 1.85,
+    "pari": 3.53,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2025-04-26",
+   "fuori": "Colchester",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.37,
+    "over25": 2.18,
+    "pari": 3.31,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Tranmere",
+   "data": "2025-04-26",
+   "fuori": "Crewe",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.05,
+    "over25": 2.11,
+    "pari": 3.57,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2025-04-26",
+   "fuori": "Accrington",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.56,
+    "over25": 2.02,
+    "pari": 3.76,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2025-05-03",
+   "fuori": "Chesterfield",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 6.26,
+    "fuori": 1.46,
+    "over25": 1.78,
+    "pari": 4.38,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2025-05-03",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 8.28,
+    "over25": 1.91,
+    "pari": 4.44,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2025-05-03",
+   "fuori": "Cheltenham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 2.99,
+    "over25": 1.56,
+    "pari": 3.8,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Carlisle",
+   "data": "2025-05-03",
+   "fuori": "Salford",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.63,
+    "fuori": 1.64,
+    "over25": 1.55,
+    "pari": 4.12,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2025-05-03",
+   "fuori": "Barrow",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.27,
+    "over25": 2.37,
+    "pari": 3.35,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2025-05-03",
+   "fuori": "Walsall",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.84,
+    "fuori": 1.5,
+    "over25": 1.86,
+    "pari": 4.23,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2025-05-03",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.81,
+    "over25": 2.57,
+    "pari": 2.98,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Morecambe",
+   "data": "2025-05-03",
+   "fuori": "Harrogate",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.4,
+    "over25": 1.79,
+    "pari": 3.51,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2025-05-03",
+   "fuori": "Tranmere",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.22,
+    "fuori": 1.77,
+    "over25": 1.88,
+    "pari": 3.75,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Notts County",
+   "data": "2025-05-03",
+   "fuori": "Doncaster",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.33,
+    "over25": 1.69,
+    "pari": 3.64,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2025-05-03",
+   "fuori": "Gillingham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 7.37,
+    "over25": 1.89,
+    "pari": 4.32,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Swindon",
+   "data": "2025-05-03",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.09,
+    "over25": 1.62,
+    "pari": 3.89,
+    "under25": 2.23
+   }
+  }
+ ],
+ "stagione": "2024-25"
+}

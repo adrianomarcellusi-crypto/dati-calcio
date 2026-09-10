@@ -1,0 +1,5211 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "D2",
+ "nome": "2. Bundesliga",
+ "paese": "Germania",
+ "partite": [
+  {
+   "casa": "FC Koln",
+   "data": "2024-08-02",
+   "fuori": "Hamburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.34,
+    "over25": 1.54,
+    "pari": 3.74,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2024-08-03",
+   "fuori": "Regensburg",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.83,
+    "over25": 1.64,
+    "pari": 4.31,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2024-08-03",
+   "fuori": "Paderborn",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.13,
+    "over25": 1.43,
+    "pari": 3.86,
+    "under25": 2.79
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2024-08-03",
+   "fuori": "Nurnberg",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.18,
+    "over25": 1.42,
+    "pari": 4.56,
+    "under25": 2.81
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2024-08-03",
+   "fuori": "Elversberg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.09,
+    "over25": 1.62,
+    "pari": 3.56,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2024-08-03",
+   "fuori": "Braunschweig",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.96,
+    "over25": 1.65,
+    "pari": 3.72,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2024-08-04",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.18,
+    "over25": 1.7,
+    "pari": 3.55,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2024-08-04",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.59,
+    "over25": 1.46,
+    "pari": 3.86,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2024-08-04",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.43,
+    "over25": 1.75,
+    "pari": 3.43,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2024-08-09",
+   "fuori": "Greuther Furth",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.46,
+    "over25": 1.53,
+    "pari": 3.76,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2024-08-09",
+   "fuori": "Ulm",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.85,
+    "over25": 2.05,
+    "pari": 3.25,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2024-08-10",
+   "fuori": "FC Koln",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.84,
+    "fuori": 1.83,
+    "over25": 1.48,
+    "pari": 3.99,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2024-08-10",
+   "fuori": "Karlsruhe",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.69,
+    "over25": 1.51,
+    "pari": 3.78,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2024-08-10",
+   "fuori": "Schalke 04",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.24,
+    "over25": 1.56,
+    "pari": 3.65,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2024-08-10",
+   "fuori": "Hertha",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.42,
+    "over25": 1.42,
+    "pari": 4.29,
+    "under25": 2.81
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2024-08-11",
+   "fuori": "Magdeburg",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.68,
+    "over25": 1.59,
+    "pari": 3.54,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2024-08-11",
+   "fuori": "Darmstadt",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.71,
+    "over25": 1.53,
+    "pari": 3.87,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2024-08-11",
+   "fuori": "Hannover",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.44,
+    "fuori": 1.95,
+    "over25": 1.51,
+    "pari": 3.85,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2024-08-23",
+   "fuori": "Hamburg",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.56,
+    "over25": 1.61,
+    "pari": 3.61,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2024-08-23",
+   "fuori": "Elversberg",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.38,
+    "over25": 1.42,
+    "pari": 4.23,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2024-08-24",
+   "fuori": "Paderborn",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.6,
+    "over25": 1.47,
+    "pari": 3.74,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2024-08-24",
+   "fuori": "Regensburg",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.04,
+    "over25": 1.63,
+    "pari": 4.08,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2024-08-24",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.43,
+    "over25": 1.59,
+    "pari": 3.61,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2024-08-24",
+   "fuori": "Braunschweig",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 6.24,
+    "over25": 1.41,
+    "pari": 4.97,
+    "under25": 2.87
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2024-08-25",
+   "fuori": "Nurnberg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.5,
+    "over25": 1.64,
+    "pari": 3.65,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2024-08-25",
+   "fuori": "Schalke 04",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.8,
+    "over25": 1.56,
+    "pari": 3.6,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2024-08-25",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.48,
+    "fuori": 2.11,
+    "over25": 1.97,
+    "pari": 3.38,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2024-08-30",
+   "fuori": "Hannover",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.14,
+    "over25": 1.8,
+    "pari": 3.44,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2024-08-30",
+   "fuori": "Greuther Furth",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.39,
+    "over25": 1.78,
+    "pari": 3.42,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2024-08-31",
+   "fuori": "Darmstadt",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.54,
+    "over25": 1.58,
+    "pari": 3.65,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2024-08-31",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 5.82,
+    "over25": 1.43,
+    "pari": 4.63,
+    "under25": 2.75
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2024-08-31",
+   "fuori": "Magdeburg",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.78,
+    "over25": 1.66,
+    "pari": 3.47,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2024-08-31",
+   "fuori": "Hertha",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 2.97,
+    "over25": 1.59,
+    "pari": 3.66,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2024-09-01",
+   "fuori": "Karlsruhe",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.25,
+    "over25": 1.54,
+    "pari": 3.73,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2024-09-01",
+   "fuori": "Ulm",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.6,
+    "over25": 1.65,
+    "pari": 4.38,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2024-09-01",
+   "fuori": "FC Koln",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.11,
+    "over25": 1.47,
+    "pari": 3.74,
+    "under25": 2.64
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2024-09-13",
+   "fuori": "Schalke 04",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.4,
+    "over25": 1.5,
+    "pari": 3.79,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2024-09-13",
+   "fuori": "Paderborn",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.09,
+    "over25": 1.56,
+    "pari": 3.82,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2024-09-14",
+   "fuori": "Braunschweig",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.6,
+    "over25": 1.7,
+    "pari": 3.65,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2024-09-14",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.58,
+    "over25": 1.67,
+    "pari": 3.72,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2024-09-14",
+   "fuori": "Nurnberg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.27,
+    "over25": 1.88,
+    "pari": 3.43,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2024-09-14",
+   "fuori": "Magdeburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.33,
+    "over25": 1.39,
+    "pari": 5.06,
+    "under25": 2.92
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2024-09-15",
+   "fuori": "Elversberg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.47,
+    "over25": 1.44,
+    "pari": 3.96,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2024-09-15",
+   "fuori": "Regensburg",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.89,
+    "over25": 1.53,
+    "pari": 4.99,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2024-09-15",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.7,
+    "over25": 1.55,
+    "pari": 3.66,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2024-09-20",
+   "fuori": "Hannover",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.01,
+    "over25": 1.64,
+    "pari": 3.62,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2024-09-20",
+   "fuori": "Darmstadt",
+   "gol": [
+    3,
+    5
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.89,
+    "over25": 1.57,
+    "pari": 3.83,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2024-09-21",
+   "fuori": "Greuther Furth",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.11,
+    "over25": 1.59,
+    "pari": 3.6,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2024-09-21",
+   "fuori": "FC Koln",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.22,
+    "over25": 1.56,
+    "pari": 3.64,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2024-09-21",
+   "fuori": "Hertha",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.17,
+    "over25": 1.55,
+    "pari": 3.69,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2024-09-21",
+   "fuori": "Hamburg",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.13,
+    "over25": 1.52,
+    "pari": 3.76,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2024-09-22",
+   "fuori": "Ulm",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.2,
+    "over25": 1.73,
+    "pari": 3.74,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2024-09-22",
+   "fuori": "Karlsruhe",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.54,
+    "over25": 1.41,
+    "pari": 3.82,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2024-09-22",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.02,
+    "over25": 1.73,
+    "pari": 3.48,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2024-09-27",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.37,
+    "over25": 1.6,
+    "pari": 3.53,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2024-09-27",
+   "fuori": "Braunschweig",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.69,
+    "over25": 1.9,
+    "pari": 3.3,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2024-09-28",
+   "fuori": "Magdeburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.9,
+    "over25": 1.63,
+    "pari": 3.56,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2024-09-28",
+   "fuori": "Paderborn",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.69,
+    "over25": 1.43,
+    "pari": 3.97,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2024-09-28",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.11,
+    "over25": 1.63,
+    "pari": 3.62,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2024-09-28",
+   "fuori": "Schalke 04",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.59,
+    "over25": 1.54,
+    "pari": 3.68,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2024-09-29",
+   "fuori": "Karlsruhe",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 5.76,
+    "over25": 1.32,
+    "pari": 4.77,
+    "under25": 3.29
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2024-09-29",
+   "fuori": "Nurnberg",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.4,
+    "over25": 1.5,
+    "pari": 4.73,
+    "under25": 2.55
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2024-09-29",
+   "fuori": "Elversberg",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 3.92,
+    "over25": 1.42,
+    "pari": 4.04,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2024-10-04",
+   "fuori": "Darmstadt",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.44,
+    "over25": 1.51,
+    "pari": 4.03,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2024-10-04",
+   "fuori": "Regensburg",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.33,
+    "over25": 1.38,
+    "pari": 5.26,
+    "under25": 2.96
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2024-10-05",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.03,
+    "over25": 1.5,
+    "pari": 3.75,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2024-10-05",
+   "fuori": "Ulm",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 8.95,
+    "over25": 1.39,
+    "pari": 5.82,
+    "under25": 2.91
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2024-10-05",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.49,
+    "over25": 1.61,
+    "pari": 3.57,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2024-10-05",
+   "fuori": "Hertha",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.71,
+    "over25": 1.5,
+    "pari": 3.73,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2024-10-06",
+   "fuori": "Hannover",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.18,
+    "over25": 1.8,
+    "pari": 3.44,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2024-10-06",
+   "fuori": "Hamburg",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.5,
+    "over25": 1.62,
+    "pari": 3.49,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2024-10-06",
+   "fuori": "Greuther Furth",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.46,
+    "over25": 1.47,
+    "pari": 3.87,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2024-10-18",
+   "fuori": "FC Koln",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.6,
+    "fuori": 1.91,
+    "over25": 1.47,
+    "pari": 3.95,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2024-10-18",
+   "fuori": "Braunschweig",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.8,
+    "over25": 1.52,
+    "pari": 3.85,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2024-10-19",
+   "fuori": "Schalke 04",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.03,
+    "over25": 1.65,
+    "pari": 3.76,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2024-10-19",
+   "fuori": "Elversberg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.5,
+    "over25": 1.49,
+    "pari": 3.73,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2024-10-19",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 4.39,
+    "fuori": 1.75,
+    "over25": 1.69,
+    "pari": 3.84,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2024-10-19",
+   "fuori": "Paderborn",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.23,
+    "over25": 1.57,
+    "pari": 3.61,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2024-10-20",
+   "fuori": "Nurnberg",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.38,
+    "over25": 1.74,
+    "pari": 3.57,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2024-10-20",
+   "fuori": "Magdeburg",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.44,
+    "over25": 1.35,
+    "pari": 4.24,
+    "under25": 3.11
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2024-10-20",
+   "fuori": "Karlsruhe",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 1.98,
+    "over25": 1.7,
+    "pari": 3.59,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2024-10-25",
+   "fuori": "Paderborn",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.41,
+    "over25": 1.37,
+    "pari": 4.47,
+    "under25": 3.03
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2024-10-25",
+   "fuori": "Regensburg",
+   "gol": [
+    8,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 5.14,
+    "over25": 1.75,
+    "pari": 3.98,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2024-10-26",
+   "fuori": "Hamburg",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.37,
+    "over25": 1.46,
+    "pari": 3.65,
+    "under25": 2.66
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2024-10-26",
+   "fuori": "Hertha",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 2.98,
+    "over25": 1.44,
+    "pari": 3.82,
+    "under25": 2.74
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2024-10-26",
+   "fuori": "Greuther Furth",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.81,
+    "over25": 1.68,
+    "pari": 3.59,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2024-10-26",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.5,
+    "over25": 1.67,
+    "pari": 3.93,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2024-10-27",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.82,
+    "over25": 1.61,
+    "pari": 3.71,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2024-10-27",
+   "fuori": "Ulm",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.11,
+    "over25": 1.79,
+    "pari": 3.9,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2024-10-27",
+   "fuori": "Hannover",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.67,
+    "over25": 1.66,
+    "pari": 3.49,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2024-11-01",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.67,
+    "fuori": 1.96,
+    "over25": 1.69,
+    "pari": 3.63,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2024-11-01",
+   "fuori": "Schalke 04",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.71,
+    "over25": 2.0,
+    "pari": 3.22,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2024-11-02",
+   "fuori": "Darmstadt",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.44,
+    "over25": 1.58,
+    "pari": 3.64,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2024-11-02",
+   "fuori": "Karlsruhe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.7,
+    "over25": 1.67,
+    "pari": 3.6,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2024-11-02",
+   "fuori": "Elversberg",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 4.24,
+    "fuori": 1.81,
+    "over25": 1.67,
+    "pari": 3.7,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2024-11-02",
+   "fuori": "FC Koln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.38,
+    "over25": 1.55,
+    "pari": 3.66,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2024-11-03",
+   "fuori": "Nurnberg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.4,
+    "over25": 1.49,
+    "pari": 4.29,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2024-11-03",
+   "fuori": "Magdeburg",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.91,
+    "over25": 1.61,
+    "pari": 3.53,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2024-11-03",
+   "fuori": "Braunschweig",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.39,
+    "over25": 1.74,
+    "pari": 3.76,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2024-11-08",
+   "fuori": "Hamburg",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.12,
+    "over25": 1.64,
+    "pari": 3.62,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2024-11-08",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.16,
+    "over25": 1.6,
+    "pari": 3.59,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2024-11-09",
+   "fuori": "Hertha",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.22,
+    "over25": 1.45,
+    "pari": 3.83,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2024-11-09",
+   "fuori": "Greuther Furth",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.05,
+    "over25": 1.36,
+    "pari": 5.3,
+    "under25": 3.05
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2024-11-09",
+   "fuori": "Ulm",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.06,
+    "over25": 1.89,
+    "pari": 3.59,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2024-11-09",
+   "fuori": "Paderborn",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.24,
+    "over25": 1.81,
+    "pari": 3.4,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2024-11-10",
+   "fuori": "Hannover",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.48,
+    "over25": 1.81,
+    "pari": 3.34,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2024-11-10",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.37,
+    "over25": 1.58,
+    "pari": 3.95,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2024-11-10",
+   "fuori": "Regensburg",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.59,
+    "over25": 1.58,
+    "pari": 4.23,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2024-11-22",
+   "fuori": "Nurnberg",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.55,
+    "over25": 1.59,
+    "pari": 3.81,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2024-11-22",
+   "fuori": "FC Koln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 4.31,
+    "fuori": 1.76,
+    "over25": 1.66,
+    "pari": 3.89,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2024-11-23",
+   "fuori": "Elversberg",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.32,
+    "over25": 1.73,
+    "pari": 3.54,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2024-11-23",
+   "fuori": "Karlsruhe",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.23,
+    "over25": 1.52,
+    "pari": 3.66,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2024-11-23",
+   "fuori": "Darmstadt",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.37,
+    "over25": 1.58,
+    "pari": 3.68,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2024-11-23",
+   "fuori": "Ulm",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.8,
+    "over25": 1.65,
+    "pari": 4.24,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2024-11-23",
+   "fuori": "Schalke 04",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.29,
+    "over25": 1.51,
+    "pari": 4.06,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2024-11-24",
+   "fuori": "Braunschweig",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.86,
+    "over25": 1.69,
+    "pari": 3.52,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2024-11-24",
+   "fuori": "Magdeburg",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.61,
+    "fuori": 1.99,
+    "over25": 1.75,
+    "pari": 3.58,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2024-11-29",
+   "fuori": "Hertha",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.54,
+    "over25": 1.52,
+    "pari": 3.68,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2024-11-29",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.32,
+    "over25": 1.63,
+    "pari": 3.55,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2024-11-30",
+   "fuori": "Regensburg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.99,
+    "over25": 1.78,
+    "pari": 3.9,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2024-11-30",
+   "fuori": "Paderborn",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.84,
+    "over25": 1.64,
+    "pari": 3.53,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2024-11-30",
+   "fuori": "Hannover",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.55,
+    "over25": 1.8,
+    "pari": 3.72,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2024-11-30",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.61,
+    "over25": 1.63,
+    "pari": 3.92,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2024-12-01",
+   "fuori": "Hamburg",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.72,
+    "over25": 1.44,
+    "pari": 3.68,
+    "under25": 2.72
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2024-12-01",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.09,
+    "over25": 1.8,
+    "pari": 3.41,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2024-12-01",
+   "fuori": "Greuther Furth",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.62,
+    "over25": 1.9,
+    "pari": 3.3,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2024-12-06",
+   "fuori": "Nurnberg",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.81,
+    "over25": 1.65,
+    "pari": 3.48,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2024-12-06",
+   "fuori": "Schalke 04",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.46,
+    "over25": 1.57,
+    "pari": 3.93,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2024-12-07",
+   "fuori": "Hertha",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.2,
+    "over25": 1.52,
+    "pari": 3.68,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2024-12-07",
+   "fuori": "Ulm",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.77,
+    "over25": 1.84,
+    "pari": 3.95,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2024-12-07",
+   "fuori": "Karlsruhe",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.65,
+    "over25": 1.58,
+    "pari": 3.57,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2024-12-07",
+   "fuori": "Magdeburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.53,
+    "over25": 1.88,
+    "pari": 3.27,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2024-12-08",
+   "fuori": "Braunschweig",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.4,
+    "over25": 1.78,
+    "pari": 3.7,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2024-12-08",
+   "fuori": "Darmstadt",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.55,
+    "over25": 1.48,
+    "pari": 3.84,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2024-12-08",
+   "fuori": "FC Koln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 6.13,
+    "fuori": 1.49,
+    "over25": 1.69,
+    "pari": 4.43,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2024-12-13",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.88,
+    "over25": 1.73,
+    "pari": 3.92,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2024-12-13",
+   "fuori": "Regensburg",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 6.81,
+    "over25": 1.6,
+    "pari": 4.66,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2024-12-14",
+   "fuori": "Paderborn",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.77,
+    "over25": 1.77,
+    "pari": 3.38,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2024-12-14",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.66,
+    "over25": 1.62,
+    "pari": 3.5,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2024-12-14",
+   "fuori": "Hamburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.93,
+    "fuori": 1.85,
+    "over25": 1.65,
+    "pari": 3.75,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2024-12-14",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.73,
+    "over25": 1.59,
+    "pari": 3.75,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2024-12-15",
+   "fuori": "Elversberg",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.18,
+    "over25": 1.66,
+    "pari": 3.57,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2024-12-15",
+   "fuori": "Nurnberg",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.14,
+    "over25": 1.45,
+    "pari": 4.34,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2024-12-15",
+   "fuori": "Hannover",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.25,
+    "fuori": 2.11,
+    "over25": 1.62,
+    "pari": 3.55,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2024-12-20",
+   "fuori": "Schalke 04",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.17,
+    "over25": 1.55,
+    "pari": 3.63,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2024-12-20",
+   "fuori": "Magdeburg",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.23,
+    "over25": 1.53,
+    "pari": 3.65,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2024-12-21",
+   "fuori": "Greuther Furth",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.24,
+    "over25": 1.34,
+    "pari": 4.74,
+    "under25": 3.15
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2024-12-21",
+   "fuori": "Karlsruhe",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.18,
+    "over25": 1.58,
+    "pari": 3.58,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2024-12-21",
+   "fuori": "Ulm",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.41,
+    "over25": 2.07,
+    "pari": 3.22,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2024-12-21",
+   "fuori": "Braunschweig",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.53,
+    "over25": 1.52,
+    "pari": 4.07,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2024-12-22",
+   "fuori": "Hertha",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.2,
+    "over25": 1.6,
+    "pari": 3.52,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2024-12-22",
+   "fuori": "FC Koln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 1.99,
+    "over25": 1.57,
+    "pari": 3.67,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2024-12-22",
+   "fuori": "Darmstadt",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.42,
+    "fuori": 1.71,
+    "over25": 1.71,
+    "pari": 3.97,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2025-01-17",
+   "fuori": "Darmstadt",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.84,
+    "over25": 1.64,
+    "pari": 3.5,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2025-01-17",
+   "fuori": "Hannover",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.86,
+    "fuori": 1.93,
+    "over25": 1.98,
+    "pari": 3.5,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2025-01-18",
+   "fuori": "Schalke 04",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.13,
+    "over25": 1.64,
+    "pari": 3.57,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2025-01-18",
+   "fuori": "Ulm",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.61,
+    "over25": 1.85,
+    "pari": 3.48,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2025-01-18",
+   "fuori": "Greuther Furth",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.15,
+    "over25": 1.99,
+    "pari": 3.24,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2025-01-18",
+   "fuori": "FC Koln",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 2.77,
+    "over25": 1.51,
+    "pari": 3.68,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2025-01-19",
+   "fuori": "Magdeburg",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 2.94,
+    "over25": 1.51,
+    "pari": 3.67,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2025-01-19",
+   "fuori": "Karlsruhe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.61,
+    "over25": 1.52,
+    "pari": 3.8,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2025-01-19",
+   "fuori": "Hertha",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.07,
+    "over25": 1.56,
+    "pari": 3.65,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2025-01-24",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.89,
+    "over25": 1.6,
+    "pari": 3.55,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2025-01-24",
+   "fuori": "Braunschweig",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.95,
+    "over25": 1.51,
+    "pari": 4.49,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2025-01-25",
+   "fuori": "Elversberg",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.09,
+    "over25": 1.57,
+    "pari": 3.99,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2025-01-25",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.61,
+    "over25": 1.57,
+    "pari": 3.68,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2025-01-25",
+   "fuori": "Nurnberg",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 2.96,
+    "over25": 1.64,
+    "pari": 3.61,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2025-01-25",
+   "fuori": "Hamburg",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.37,
+    "over25": 1.48,
+    "pari": 3.72,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2025-01-26",
+   "fuori": "Paderborn",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.03,
+    "over25": 1.53,
+    "pari": 3.63,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2025-01-26",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.05,
+    "over25": 1.84,
+    "pari": 3.88,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2025-01-26",
+   "fuori": "Regensburg",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.78,
+    "over25": 2.2,
+    "pari": 3.22,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2025-01-31",
+   "fuori": "Karlsruhe",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.29,
+    "over25": 1.54,
+    "pari": 3.7,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2025-01-31",
+   "fuori": "Darmstadt",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.77,
+    "over25": 1.59,
+    "pari": 3.5,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2025-02-01",
+   "fuori": "FC Koln",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 4.22,
+    "fuori": 1.84,
+    "over25": 1.91,
+    "pari": 3.56,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2025-02-01",
+   "fuori": "Ulm",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.28,
+    "over25": 1.61,
+    "pari": 3.86,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2025-02-01",
+   "fuori": "Hertha",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 4.25,
+    "fuori": 1.79,
+    "over25": 1.74,
+    "pari": 3.78,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2025-02-01",
+   "fuori": "Magdeburg",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.9,
+    "over25": 1.58,
+    "pari": 3.45,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2025-02-02",
+   "fuori": "Hannover",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.02,
+    "over25": 1.62,
+    "pari": 3.52,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2025-02-02",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.02,
+    "over25": 1.78,
+    "pari": 3.61,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2025-02-02",
+   "fuori": "Greuther Furth",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.44,
+    "over25": 1.63,
+    "pari": 4.01,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2025-02-07",
+   "fuori": "Regensburg",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.08,
+    "over25": 1.85,
+    "pari": 3.52,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2025-02-07",
+   "fuori": "Hamburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.37,
+    "fuori": 2.07,
+    "over25": 1.75,
+    "pari": 3.55,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2025-02-08",
+   "fuori": "Elversberg",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.08,
+    "over25": 1.63,
+    "pari": 3.4,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2025-02-08",
+   "fuori": "Nurnberg",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.29,
+    "over25": 1.46,
+    "pari": 3.8,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2025-02-08",
+   "fuori": "Paderborn",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.17,
+    "fuori": 2.2,
+    "over25": 1.84,
+    "pari": 3.43,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2025-02-08",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.66,
+    "over25": 1.5,
+    "pari": 3.88,
+    "under25": 2.55
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2025-02-09",
+   "fuori": "Schalke 04",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.03,
+    "over25": 1.65,
+    "pari": 3.76,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2025-02-09",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.57,
+    "over25": 1.61,
+    "pari": 3.65,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2025-02-09",
+   "fuori": "Braunschweig",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.06,
+    "over25": 1.56,
+    "pari": 4.01,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2025-02-14",
+   "fuori": "FC Koln",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 2.99,
+    "over25": 1.59,
+    "pari": 3.55,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2025-02-14",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.38,
+    "over25": 1.78,
+    "pari": 3.92,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2025-02-15",
+   "fuori": "Darmstadt",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.56,
+    "over25": 1.74,
+    "pari": 3.51,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2025-02-15",
+   "fuori": "Greuther Furth",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.62,
+    "over25": 1.53,
+    "pari": 4.02,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2025-02-15",
+   "fuori": "Hannover",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.41,
+    "over25": 1.65,
+    "pari": 3.48,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2025-02-15",
+   "fuori": "Hertha",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.92,
+    "over25": 1.54,
+    "pari": 3.58,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2025-02-16",
+   "fuori": "Ulm",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.64,
+    "over25": 1.79,
+    "pari": 3.65,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2025-02-16",
+   "fuori": "Hamburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 5.31,
+    "fuori": 1.59,
+    "over25": 1.63,
+    "pari": 4.11,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2025-02-16",
+   "fuori": "Karlsruhe",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.63,
+    "over25": 1.54,
+    "pari": 3.68,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2025-02-21",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.77,
+    "over25": 1.49,
+    "pari": 3.85,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2025-02-21",
+   "fuori": "Nurnberg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.57,
+    "over25": 1.57,
+    "pari": 3.67,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2025-02-22",
+   "fuori": "Magdeburg",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.22,
+    "over25": 1.44,
+    "pari": 3.68,
+    "under25": 2.72
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2025-02-22",
+   "fuori": "Regensburg",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.29,
+    "over25": 2.08,
+    "pari": 3.14,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2025-02-22",
+   "fuori": "Elversberg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.35,
+    "over25": 1.89,
+    "pari": 3.28,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2025-02-22",
+   "fuori": "Paderborn",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.24,
+    "over25": 1.78,
+    "pari": 3.43,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2025-02-23",
+   "fuori": "Schalke 04",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.1,
+    "over25": 1.72,
+    "pari": 3.5,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2025-02-23",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.9,
+    "over25": 1.69,
+    "pari": 3.55,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2025-02-23",
+   "fuori": "Braunschweig",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.52,
+    "over25": 1.79,
+    "pari": 3.47,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2025-02-28",
+   "fuori": "Greuther Furth",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.73,
+    "over25": 1.65,
+    "pari": 3.68,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2025-02-28",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.06,
+    "over25": 1.95,
+    "pari": 3.49,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2025-03-01",
+   "fuori": "Ulm",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.0,
+    "over25": 2.06,
+    "pari": 3.26,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2025-03-01",
+   "fuori": "Regensburg",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.35,
+    "over25": 1.67,
+    "pari": 3.99,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2025-03-01",
+   "fuori": "Hannover",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.93,
+    "over25": 1.76,
+    "pari": 3.39,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2025-03-01",
+   "fuori": "FC Koln",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.57,
+    "fuori": 2.03,
+    "over25": 1.81,
+    "pari": 3.48,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2025-03-02",
+   "fuori": "Hertha",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 2.96,
+    "over25": 1.67,
+    "pari": 3.49,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2025-03-02",
+   "fuori": "Darmstadt",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.54,
+    "over25": 1.59,
+    "pari": 3.77,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2025-03-02",
+   "fuori": "Hamburg",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.89,
+    "over25": 1.63,
+    "pari": 3.53,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2025-03-07",
+   "fuori": "Karlsruhe",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.55,
+    "over25": 1.69,
+    "pari": 3.6,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2025-03-07",
+   "fuori": "Elversberg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.38,
+    "over25": 1.63,
+    "pari": 3.56,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2025-03-08",
+   "fuori": "Magdeburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.26,
+    "over25": 1.61,
+    "pari": 3.58,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2025-03-08",
+   "fuori": "Schalke 04",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.0,
+    "over25": 1.65,
+    "pari": 3.7,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2025-03-08",
+   "fuori": "FC Koln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.55,
+    "fuori": 2.12,
+    "over25": 2.09,
+    "pari": 3.27,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2025-03-08",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.47,
+    "over25": 1.55,
+    "pari": 4.02,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2025-03-09",
+   "fuori": "Braunschweig",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.46,
+    "over25": 1.87,
+    "pari": 3.74,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2025-03-09",
+   "fuori": "Nurnberg",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.55,
+    "over25": 1.87,
+    "pari": 3.37,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2025-03-09",
+   "fuori": "Paderborn",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 5.2,
+    "fuori": 1.65,
+    "over25": 1.85,
+    "pari": 3.83,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2025-03-14",
+   "fuori": "Hamburg",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.66,
+    "over25": 1.53,
+    "pari": 3.6,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2025-03-14",
+   "fuori": "Hannover",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.08,
+    "over25": 1.75,
+    "pari": 3.5,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2025-03-15",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.02,
+    "over25": 1.67,
+    "pari": 4.06,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2025-03-15",
+   "fuori": "Regensburg",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.93,
+    "over25": 1.7,
+    "pari": 4.2,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2025-03-15",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    5,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.76,
+    "over25": 1.6,
+    "pari": 3.9,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2025-03-15",
+   "fuori": "Darmstadt",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.14,
+    "over25": 1.89,
+    "pari": 3.55,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2025-03-16",
+   "fuori": "Hertha",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.25,
+    "fuori": 2.21,
+    "over25": 1.89,
+    "pari": 3.35,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2025-03-16",
+   "fuori": "Ulm",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.47,
+    "over25": 1.9,
+    "pari": 3.49,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2025-03-16",
+   "fuori": "Greuther Furth",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.25,
+    "over25": 1.86,
+    "pari": 3.33,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2025-03-28",
+   "fuori": "Elversberg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.07,
+    "over25": 1.51,
+    "pari": 3.92,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2025-03-28",
+   "fuori": "Darmstadt",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.28,
+    "over25": 1.89,
+    "pari": 3.34,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2025-03-29",
+   "fuori": "Magdeburg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.73,
+    "over25": 1.52,
+    "pari": 3.66,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2025-03-29",
+   "fuori": "Karlsruhe",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.95,
+    "over25": 1.68,
+    "pari": 3.88,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2025-03-29",
+   "fuori": "FC Koln",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.57,
+    "over25": 1.78,
+    "pari": 3.52,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2025-03-29",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.93,
+    "over25": 1.64,
+    "pari": 3.58,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2025-03-30",
+   "fuori": "Schalke 04",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.59,
+    "over25": 1.85,
+    "pari": 3.36,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2025-03-30",
+   "fuori": "Braunschweig",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.61,
+    "over25": 1.86,
+    "pari": 3.4,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2025-03-30",
+   "fuori": "Nurnberg",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 2.02,
+    "over25": 1.91,
+    "pari": 3.53,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2025-04-04",
+   "fuori": "Paderborn",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 4.28,
+    "fuori": 1.79,
+    "over25": 1.68,
+    "pari": 3.76,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2025-04-04",
+   "fuori": "Hannover",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.99,
+    "fuori": 2.29,
+    "over25": 1.68,
+    "pari": 3.44,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2025-04-05",
+   "fuori": "Greuther Furth",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.43,
+    "over25": 1.67,
+    "pari": 3.75,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2025-04-05",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.62,
+    "over25": 1.63,
+    "pari": 3.65,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2025-04-05",
+   "fuori": "Hamburg",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.89,
+    "fuori": 1.82,
+    "over25": 1.5,
+    "pari": 3.94,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2025-04-05",
+   "fuori": "Hertha",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.24,
+    "over25": 1.63,
+    "pari": 3.65,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2025-04-06",
+   "fuori": "Regensburg",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 8.46,
+    "over25": 1.66,
+    "pari": 4.99,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2025-04-06",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 3.94,
+    "over25": 1.41,
+    "pari": 4.26,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2025-04-06",
+   "fuori": "Ulm",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.9,
+    "over25": 1.79,
+    "pari": 3.8,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2025-04-11",
+   "fuori": "FC Koln",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 2.01,
+    "over25": 1.71,
+    "pari": 3.55,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2025-04-11",
+   "fuori": "Braunschweig",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 7.09,
+    "over25": 1.39,
+    "pari": 5.08,
+    "under25": 2.89
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2025-04-12",
+   "fuori": "Elversberg",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.76,
+    "over25": 1.73,
+    "pari": 3.51,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2025-04-12",
+   "fuori": "Darmstadt",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.45,
+    "over25": 1.68,
+    "pari": 3.61,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2025-04-12",
+   "fuori": "Magdeburg",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.12,
+    "over25": 1.69,
+    "pari": 3.51,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2025-04-12",
+   "fuori": "Nurnberg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.11,
+    "over25": 1.55,
+    "pari": 3.94,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2025-04-13",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.88,
+    "over25": 1.58,
+    "pari": 4.04,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2025-04-13",
+   "fuori": "Karlsruhe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.25,
+    "over25": 1.72,
+    "pari": 3.51,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2025-04-13",
+   "fuori": "Schalke 04",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.1,
+    "fuori": 1.83,
+    "over25": 1.71,
+    "pari": 3.7,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2025-04-19",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.55,
+    "over25": 1.63,
+    "pari": 3.5,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2025-04-19",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.79,
+    "over25": 1.58,
+    "pari": 3.85,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2025-04-19",
+   "fuori": "Paderborn",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.48,
+    "fuori": 1.97,
+    "over25": 1.57,
+    "pari": 3.77,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2025-04-19",
+   "fuori": "Hamburg",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.2,
+    "over25": 1.45,
+    "pari": 3.75,
+    "under25": 2.71
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2025-04-20",
+   "fuori": "Hannover",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.22,
+    "over25": 1.69,
+    "pari": 3.55,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2025-04-20",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 6.42,
+    "over25": 1.47,
+    "pari": 4.8,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2025-04-20",
+   "fuori": "Greuther Furth",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.78,
+    "over25": 1.65,
+    "pari": 3.47,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2025-04-20",
+   "fuori": "Regensburg",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.1,
+    "over25": 1.49,
+    "pari": 5.01,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2025-04-20",
+   "fuori": "Hertha",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 2.19,
+    "over25": 1.9,
+    "pari": 3.39,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2025-04-25",
+   "fuori": "Ulm",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.44,
+    "over25": 1.97,
+    "pari": 3.42,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2025-04-25",
+   "fuori": "Magdeburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 2.74,
+    "over25": 1.38,
+    "pari": 3.87,
+    "under25": 2.95
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2025-04-26",
+   "fuori": "Elversberg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.03,
+    "over25": 1.6,
+    "pari": 3.65,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2025-04-26",
+   "fuori": "Darmstadt",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.27,
+    "over25": 1.53,
+    "pari": 3.7,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2025-04-26",
+   "fuori": "Braunschweig",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.46,
+    "over25": 1.92,
+    "pari": 3.41,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2025-04-26",
+   "fuori": "Nurnberg",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.35,
+    "over25": 1.71,
+    "pari": 3.93,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2025-04-27",
+   "fuori": "Karlsruhe",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 5.31,
+    "over25": 1.34,
+    "pari": 4.84,
+    "under25": 3.15
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2025-04-27",
+   "fuori": "FC Koln",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.58,
+    "fuori": 1.98,
+    "over25": 1.56,
+    "pari": 3.64,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2025-04-27",
+   "fuori": "Schalke 04",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.77,
+    "over25": 1.48,
+    "pari": 3.89,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2025-05-02",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.03,
+    "over25": 1.43,
+    "pari": 4.77,
+    "under25": 2.75
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2025-05-02",
+   "fuori": "Paderborn",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.84,
+    "fuori": 1.83,
+    "over25": 1.48,
+    "pari": 3.96,
+    "under25": 2.59
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2025-05-03",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.37,
+    "over25": 1.69,
+    "pari": 3.47,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2025-05-03",
+   "fuori": "Hamburg",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.1,
+    "over25": 1.41,
+    "pari": 3.81,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2025-05-03",
+   "fuori": "Hannover",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.54,
+    "over25": 1.79,
+    "pari": 3.49,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2025-05-03",
+   "fuori": "Regensburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 12.3,
+    "over25": 1.41,
+    "pari": 6.65,
+    "under25": 2.8
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2025-05-04",
+   "fuori": "Greuther Furth",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.58,
+    "over25": 1.57,
+    "pari": 3.9,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2025-05-04",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.61,
+    "over25": 1.52,
+    "pari": 3.65,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2025-05-04",
+   "fuori": "Elversberg",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.43,
+    "fuori": 1.68,
+    "over25": 1.55,
+    "pari": 4.14,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2025-05-09",
+   "fuori": "FC Koln",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 6.35,
+    "fuori": 1.44,
+    "over25": 1.48,
+    "pari": 4.77,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "PreuÃen MÃ¼nster",
+   "data": "2025-05-09",
+   "fuori": "Hertha",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.44,
+    "over25": 1.56,
+    "pari": 3.73,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Elversberg",
+   "data": "2025-05-10",
+   "fuori": "Braunschweig",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 5.87,
+    "over25": 1.53,
+    "pari": 4.58,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Fortuna Dusseldorf",
+   "data": "2025-05-10",
+   "fuori": "Schalke 04",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 3.67,
+    "over25": 1.43,
+    "pari": 4.14,
+    "under25": 2.74
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2025-05-10",
+   "fuori": "Magdeburg",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 3.87,
+    "over25": 1.41,
+    "pari": 4.08,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Hamburg",
+   "data": "2025-05-10",
+   "fuori": "Ulm",
+   "gol": [
+    6,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 7.07,
+    "over25": 1.32,
+    "pari": 5.52,
+    "under25": 3.32
+   }
+  },
+  {
+   "casa": "Hannover",
+   "data": "2025-05-11",
+   "fuori": "Greuther Furth",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.09,
+    "over25": 1.62,
+    "pari": 3.72,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Kaiserslautern",
+   "data": "2025-05-11",
+   "fuori": "Darmstadt",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.31,
+    "over25": 1.4,
+    "pari": 4.0,
+    "under25": 2.86
+   }
+  },
+  {
+   "casa": "Regensburg",
+   "data": "2025-05-11",
+   "fuori": "Karlsruhe",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.53,
+    "fuori": 1.95,
+    "over25": 1.78,
+    "pari": 3.73,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2025-05-18",
+   "fuori": "Nurnberg",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.15,
+    "over25": 1.57,
+    "pari": 4.0,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2025-05-18",
+   "fuori": "Regensburg",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.73,
+    "over25": 1.45,
+    "pari": 4.97,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2025-05-18",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 5.87,
+    "over25": 1.38,
+    "pari": 4.92,
+    "under25": 2.96
+   }
+  },
+  {
+   "casa": "Greuther Furth",
+   "data": "2025-05-18",
+   "fuori": "Hamburg",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.44,
+    "over25": 1.39,
+    "pari": 4.04,
+    "under25": 2.91
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2025-05-18",
+   "fuori": "Hannover",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.15,
+    "over25": 1.44,
+    "pari": 3.89,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "Karlsruhe",
+   "data": "2025-05-18",
+   "fuori": "Paderborn",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.39,
+    "fuori": 1.69,
+    "over25": 1.47,
+    "pari": 4.1,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2025-05-18",
+   "fuori": "Fortuna Dusseldorf",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 2.63,
+    "over25": 1.36,
+    "pari": 3.95,
+    "under25": 3.06
+   }
+  },
+  {
+   "casa": "Schalke 04",
+   "data": "2025-05-18",
+   "fuori": "Elversberg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.6,
+    "fuori": 1.62,
+    "over25": 1.38,
+    "pari": 4.43,
+    "under25": 2.96
+   }
+  },
+  {
+   "casa": "Ulm",
+   "data": "2025-05-18",
+   "fuori": "PreuÃen MÃ¼nster",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.34,
+    "fuori": 2.09,
+    "over25": 1.8,
+    "pari": 3.53,
+    "under25": 2.0
+   }
+  }
+ ],
+ "stagione": "2024-25"
+}

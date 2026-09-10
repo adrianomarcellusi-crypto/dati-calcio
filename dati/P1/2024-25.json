@@ -1,0 +1,5211 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "P1",
+ "nome": "Primeira Liga",
+ "paese": "Portogallo",
+ "partite": [
+  {
+   "casa": "Sp Lisbon",
+   "data": "2024-08-09",
+   "fuori": "Rio Ave",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 20.11,
+    "over25": 1.36,
+    "pari": 9.36,
+    "under25": 3.11
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2024-08-10",
+   "fuori": "Nacional",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.7,
+    "over25": 2.1,
+    "pari": 3.36,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2024-08-10",
+   "fuori": "Boavista",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 4.15,
+    "over25": 2.22,
+    "pari": 3.35,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2024-08-10",
+   "fuori": "Gil Vicente",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 12.19,
+    "over25": 1.56,
+    "pari": 6.37,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2024-08-11",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.83,
+    "over25": 2.49,
+    "pari": 3.01,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2024-08-11",
+   "fuori": "Benfica",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 5.74,
+    "fuori": 1.54,
+    "over25": 1.68,
+    "pari": 4.29,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2024-08-11",
+   "fuori": "Moreirense",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.64,
+    "over25": 2.24,
+    "pari": 3.19,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2024-08-11",
+   "fuori": "Estrela",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.81,
+    "over25": 1.64,
+    "pari": 4.59,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2024-08-12",
+   "fuori": "Guimaraes",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.4,
+    "fuori": 2.15,
+    "over25": 2.04,
+    "pari": 3.32,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2024-08-16",
+   "fuori": "Porto",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.75,
+    "fuori": 1.72,
+    "over25": 1.93,
+    "pari": 3.81,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2024-08-16",
+   "fuori": "AVS",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.27,
+    "over25": 2.11,
+    "pari": 3.27,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2024-08-17",
+   "fuori": "Farense",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.79,
+    "over25": 2.02,
+    "pari": 3.39,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2024-08-17",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    1,
+    6
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 11.58,
+    "fuori": 1.22,
+    "over25": 1.47,
+    "pari": 6.64,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2024-08-17",
+   "fuori": "Casa Pia",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 12.44,
+    "over25": 1.61,
+    "pari": 6.49,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2024-08-18",
+   "fuori": "Arouca",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 4.0,
+    "over25": 2.34,
+    "pari": 3.19,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2024-08-18",
+   "fuori": "Estoril",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.55,
+    "over25": 1.98,
+    "pari": 4.05,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2024-08-18",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 5.41,
+    "fuori": 1.6,
+    "over25": 1.76,
+    "pari": 4.08,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2024-08-19",
+   "fuori": "Famalicao",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.42,
+    "over25": 2.13,
+    "pari": 3.21,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2024-08-23",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 13.56,
+    "fuori": 1.18,
+    "over25": 1.36,
+    "pari": 7.58,
+    "under25": 3.12
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2024-08-24",
+   "fuori": "Santa Clara",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.64,
+    "over25": 2.74,
+    "pari": 2.89,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2024-08-24",
+   "fuori": "Rio Ave",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 12.1,
+    "over25": 1.61,
+    "pari": 6.24,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2024-08-24",
+   "fuori": "Estrela",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 16.87,
+    "over25": 1.47,
+    "pari": 7.86,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2024-08-24",
+   "fuori": "Boavista",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 6.06,
+    "over25": 2.09,
+    "pari": 3.77,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2024-08-25",
+   "fuori": "Nacional",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.09,
+    "over25": 1.77,
+    "pari": 3.68,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2024-08-25",
+   "fuori": "Gil Vicente",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.51,
+    "over25": 2.31,
+    "pari": 3.12,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2024-08-25",
+   "fuori": "Guimaraes",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 5.09,
+    "fuori": 1.7,
+    "over25": 2.05,
+    "pari": 3.68,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2024-08-25",
+   "fuori": "Moreirense",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.72,
+    "over25": 1.89,
+    "pari": 3.9,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2024-08-30",
+   "fuori": "Benfica",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 7.26,
+    "fuori": 1.43,
+    "over25": 1.79,
+    "pari": 4.58,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2024-08-31",
+   "fuori": "AVS",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 5.7,
+    "over25": 2.4,
+    "pari": 3.5,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2024-08-31",
+   "fuori": "Estoril",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.92,
+    "over25": 2.53,
+    "pari": 2.98,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2024-08-31",
+   "fuori": "Casa Pia",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.97,
+    "over25": 2.27,
+    "pari": 3.2,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2024-08-31",
+   "fuori": "Porto",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.82,
+    "over25": 1.83,
+    "pari": 3.54,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2024-09-01",
+   "fuori": "Farense",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.71,
+    "over25": 1.84,
+    "pari": 3.57,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2024-09-01",
+   "fuori": "Arouca",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.06,
+    "over25": 2.12,
+    "pari": 3.18,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2024-09-01",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 4.0,
+    "fuori": 1.88,
+    "over25": 1.84,
+    "pari": 3.65,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2024-09-01",
+   "fuori": "Famalicao",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 4.08,
+    "over25": 2.41,
+    "pari": 3.23,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2024-09-13",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 12.54,
+    "fuori": 1.22,
+    "over25": 1.46,
+    "pari": 6.53,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2024-09-14",
+   "fuori": "Moreirense",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.64,
+    "over25": 2.49,
+    "pari": 2.96,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2024-09-14",
+   "fuori": "Rio Ave",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.78,
+    "over25": 2.33,
+    "pari": 3.04,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2024-09-14",
+   "fuori": "Santa Clara",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.26,
+    "fuori": 11.16,
+    "over25": 1.66,
+    "pari": 5.88,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2024-09-14",
+   "fuori": "Gil Vicente",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 4.21,
+    "over25": 2.21,
+    "pari": 3.34,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2024-09-15",
+   "fuori": "Farense",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.11,
+    "fuori": 22.04,
+    "over25": 1.4,
+    "pari": 9.14,
+    "under25": 2.92
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2024-09-15",
+   "fuori": "Nacional",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.89,
+    "over25": 2.3,
+    "pari": 3.15,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2024-09-15",
+   "fuori": "Guimaraes",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.53,
+    "over25": 1.99,
+    "pari": 3.4,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2024-09-16",
+   "fuori": "Boavista",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.98,
+    "over25": 2.34,
+    "pari": 3.22,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2024-09-20",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 4.48,
+    "fuori": 1.75,
+    "over25": 1.64,
+    "pari": 3.87,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2024-09-21",
+   "fuori": "Estoril",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 4.21,
+    "over25": 2.32,
+    "pari": 3.35,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2024-09-21",
+   "fuori": "Estrela",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 5.12,
+    "over25": 2.24,
+    "pari": 3.55,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2024-09-21",
+   "fuori": "Porto",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.19,
+    "fuori": 1.94,
+    "over25": 2.17,
+    "pari": 3.32,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2024-09-21",
+   "fuori": "Famalicao",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.73,
+    "over25": 2.66,
+    "pari": 2.91,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2024-09-22",
+   "fuori": "Casa Pia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.78,
+    "over25": 2.4,
+    "pari": 3.15,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2024-09-22",
+   "fuori": "Arouca",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.49,
+    "over25": 1.88,
+    "pari": 3.37,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2024-09-22",
+   "fuori": "AVS",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.1,
+    "fuori": 20.39,
+    "over25": 1.28,
+    "pari": 10.32,
+    "under25": 3.64
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2024-09-23",
+   "fuori": "Benfica",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 13.91,
+    "fuori": 1.18,
+    "over25": 1.46,
+    "pari": 7.23,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2024-09-27",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 16.86,
+    "fuori": 1.14,
+    "over25": 1.4,
+    "pari": 8.3,
+    "under25": 2.91
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2024-09-28",
+   "fuori": "Moreirense",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.13,
+    "fuori": 2.44,
+    "over25": 2.42,
+    "pari": 3.07,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2024-09-28",
+   "fuori": "Guimaraes",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.12,
+    "fuori": 1.98,
+    "over25": 2.49,
+    "pari": 3.21,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2024-09-28",
+   "fuori": "Gil Vicente",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 15.73,
+    "over25": 1.45,
+    "pari": 7.8,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2024-09-29",
+   "fuori": "Nacional",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 5.01,
+    "over25": 2.06,
+    "pari": 3.63,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2024-09-29",
+   "fuori": "Arouca",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 13.26,
+    "over25": 1.49,
+    "pari": 6.64,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2024-09-29",
+   "fuori": "Boavista",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.62,
+    "over25": 2.13,
+    "pari": 4.05,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2024-09-29",
+   "fuori": "Rio Ave",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.81,
+    "over25": 1.84,
+    "pari": 4.16,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2024-09-30",
+   "fuori": "Farense",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.64,
+    "over25": 2.02,
+    "pari": 3.39,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2024-10-04",
+   "fuori": "Famalicao",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.68,
+    "over25": 2.67,
+    "pari": 2.96,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2024-10-05",
+   "fuori": "Estrela",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.17,
+    "over25": 2.11,
+    "pari": 3.41,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2024-10-05",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.99,
+    "over25": 3.06,
+    "pari": 2.82,
+    "under25": 1.36
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2024-10-05",
+   "fuori": "AVS",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.64,
+    "over25": 2.32,
+    "pari": 3.21,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2024-10-05",
+   "fuori": "Casa Pia",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 19.53,
+    "over25": 1.4,
+    "pari": 9.32,
+    "under25": 2.92
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2024-10-06",
+   "fuori": "Estoril",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.63,
+    "over25": 2.17,
+    "pari": 3.29,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2024-10-06",
+   "fuori": "Boavista",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 9.24,
+    "over25": 2.02,
+    "pari": 4.57,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2024-10-06",
+   "fuori": "Sp Braga",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.84,
+    "over25": 1.5,
+    "pari": 4.69,
+    "under25": 2.59
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2024-10-25",
+   "fuori": "Nacional",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:45",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.44,
+    "over25": 2.18,
+    "pari": 3.27,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2024-10-25",
+   "fuori": "Gil Vicente",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:45",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 4.13,
+    "over25": 2.87,
+    "pari": 2.97,
+    "under25": 1.42
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2024-10-26",
+   "fuori": "Arouca",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.42,
+    "over25": 2.27,
+    "pari": 3.13,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2024-10-26",
+   "fuori": "Moreirense",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.39,
+    "fuori": 2.3,
+    "over25": 2.56,
+    "pari": 3.07,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2024-10-26",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 10.6,
+    "fuori": 1.28,
+    "over25": 1.77,
+    "pari": 5.45,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2024-10-27",
+   "fuori": "Farense",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 9.06,
+    "over25": 1.63,
+    "pari": 5.49,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2024-10-27",
+   "fuori": "Rio Ave",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 18.69,
+    "over25": 1.38,
+    "pari": 9.0,
+    "under25": 3.03
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2024-10-27",
+   "fuori": "Guimaraes",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 5.02,
+    "fuori": 1.75,
+    "over25": 2.3,
+    "pari": 3.51,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2024-10-28",
+   "fuori": "Porto",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 9.8,
+    "fuori": 1.32,
+    "over25": 1.91,
+    "pari": 5.07,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2024-11-01",
+   "fuori": "Estrela",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.07,
+    "fuori": 27.51,
+    "over25": 1.3,
+    "pari": 11.92,
+    "under25": 3.5
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2024-11-02",
+   "fuori": "Casa Pia",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.14,
+    "over25": 2.28,
+    "pari": 3.14,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2024-11-02",
+   "fuori": "Benfica",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 20.9,
+    "fuori": 1.13,
+    "over25": 1.46,
+    "pari": 8.52,
+    "under25": 2.71
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2024-11-02",
+   "fuori": "Boavista",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.95,
+    "over25": 2.18,
+    "pari": 3.53,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2024-11-03",
+   "fuori": "Famalicao",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.39,
+    "fuori": 2.37,
+    "over25": 2.61,
+    "pari": 2.97,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2024-11-03",
+   "fuori": "Sp Braga",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.58,
+    "fuori": 1.75,
+    "over25": 1.81,
+    "pari": 3.78,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2024-11-03",
+   "fuori": "Moreirense",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.87,
+    "over25": 2.39,
+    "pari": 3.36,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2024-11-03",
+   "fuori": "Estoril",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 19.4,
+    "over25": 1.42,
+    "pari": 8.73,
+    "under25": 2.86
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2024-11-04",
+   "fuori": "Santa Clara",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.62,
+    "over25": 2.34,
+    "pari": 3.08,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2024-11-08",
+   "fuori": "Gil Vicente",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.76,
+    "over25": 2.49,
+    "pari": 3.03,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2024-11-09",
+   "fuori": "Farense",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 4.22,
+    "over25": 2.29,
+    "pari": 3.21,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2024-11-09",
+   "fuori": "AVS",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.6,
+    "over25": 2.14,
+    "pari": 3.2,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2024-11-09",
+   "fuori": "Arouca",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.32,
+    "over25": 2.23,
+    "pari": 3.19,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2024-11-09",
+   "fuori": "Rio Ave",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.52,
+    "over25": 2.15,
+    "pari": 3.17,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2024-11-10",
+   "fuori": "Nacional",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.31,
+    "over25": 2.2,
+    "pari": 3.28,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2024-11-10",
+   "fuori": "Guimaraes",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.87,
+    "over25": 2.64,
+    "pari": 2.96,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2024-11-10",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "18:45",
+   "quote": {
+    "casa": 5.22,
+    "fuori": 1.59,
+    "over25": 1.58,
+    "pari": 4.25,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2024-11-10",
+   "fuori": "Porto",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "20:45",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.92,
+    "over25": 1.84,
+    "pari": 3.55,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2024-11-29",
+   "fuori": "Estrela",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.3,
+    "over25": 2.39,
+    "pari": 3.11,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2024-11-30",
+   "fuori": "Moreirense",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.73,
+    "over25": 2.23,
+    "pari": 3.13,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2024-11-30",
+   "fuori": "Boavista",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.98,
+    "over25": 2.09,
+    "pari": 3.37,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2024-11-30",
+   "fuori": "Santa Clara",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 12.88,
+    "over25": 1.52,
+    "pari": 6.53,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2024-12-01",
+   "fuori": "Famalicao",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.26,
+    "fuori": 2.34,
+    "over25": 2.5,
+    "pari": 3.09,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2024-12-01",
+   "fuori": "Benfica",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 12.64,
+    "fuori": 1.21,
+    "over25": 1.49,
+    "pari": 6.67,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2024-12-01",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 8.22,
+    "fuori": 1.39,
+    "over25": 1.89,
+    "pari": 4.49,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2024-12-02",
+   "fuori": "Gil Vicente",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:45",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 5.17,
+    "over25": 2.24,
+    "pari": 3.5,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2024-12-02",
+   "fuori": "Casa Pia",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:45",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 16.0,
+    "over25": 1.54,
+    "pari": 6.82,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2024-12-05",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 9.29,
+    "fuori": 1.32,
+    "over25": 1.69,
+    "pari": 5.17,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2024-12-06",
+   "fuori": "Estoril",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 12.22,
+    "over25": 1.59,
+    "pari": 6.4,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2024-12-07",
+   "fuori": "Nacional",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.84,
+    "over25": 2.09,
+    "pari": 3.36,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2024-12-07",
+   "fuori": "Guimaraes",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 10.42,
+    "over25": 1.74,
+    "pari": 5.54,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2024-12-07",
+   "fuori": "Rio Ave",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 5.24,
+    "over25": 2.14,
+    "pari": 3.56,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2024-12-07",
+   "fuori": "Porto",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 8.15,
+    "fuori": 1.38,
+    "over25": 1.91,
+    "pari": 4.7,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2024-12-08",
+   "fuori": "Farense",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 3.04,
+    "over25": 2.46,
+    "pari": 3.02,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2024-12-08",
+   "fuori": "AVS",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.81,
+    "over25": 2.31,
+    "pari": 3.39,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2024-12-09",
+   "fuori": "Arouca",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.73,
+    "fuori": 2.69,
+    "over25": 2.25,
+    "pari": 3.09,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2024-12-14",
+   "fuori": "Gil Vicente",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.79,
+    "over25": 2.35,
+    "pari": 3.06,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2024-12-14",
+   "fuori": "Moreirense",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.48,
+    "over25": 2.41,
+    "pari": 3.01,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2024-12-14",
+   "fuori": "Boavista",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.11,
+    "fuori": 19.23,
+    "over25": 1.3,
+    "pari": 9.54,
+    "under25": 3.47
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2024-12-15",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.37,
+    "fuori": 2.32,
+    "over25": 2.61,
+    "pari": 3.02,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2024-12-15",
+   "fuori": "Benfica",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 13.16,
+    "fuori": 1.2,
+    "over25": 1.55,
+    "pari": 6.78,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2024-12-15",
+   "fuori": "Casa Pia",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.77,
+    "over25": 2.7,
+    "pari": 2.84,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2024-12-16",
+   "fuori": "Famalicao",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "18:45",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.79,
+    "over25": 1.86,
+    "pari": 4.03,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2024-12-16",
+   "fuori": "Estrela",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 17.71,
+    "over25": 1.49,
+    "pari": 7.86,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2024-12-16",
+   "fuori": "Guimaraes",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:45",
+   "quote": {
+    "casa": 4.52,
+    "fuori": 1.82,
+    "over25": 2.07,
+    "pari": 3.47,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2024-12-19",
+   "fuori": "Benfica",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 10.78,
+    "fuori": 1.25,
+    "over25": 1.54,
+    "pari": 6.09,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2024-12-20",
+   "fuori": "Arouca",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.42,
+    "over25": 2.6,
+    "pari": 2.9,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2024-12-21",
+   "fuori": "Farense",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 4.26,
+    "over25": 2.29,
+    "pari": 3.23,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2024-12-21",
+   "fuori": "AVS",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 3.15,
+    "over25": 2.41,
+    "pari": 3.05,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2024-12-21",
+   "fuori": "Porto",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 7.04,
+    "fuori": 1.45,
+    "over25": 1.94,
+    "pari": 4.31,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2024-12-22",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.19,
+    "fuori": 2.35,
+    "over25": 2.26,
+    "pari": 3.11,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2024-12-22",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 8.05,
+    "fuori": 1.35,
+    "over25": 1.58,
+    "pari": 5.19,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2024-12-23",
+   "fuori": "Estoril",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:45",
+   "quote": {
+    "casa": 1.11,
+    "fuori": 20.62,
+    "over25": 1.33,
+    "pari": 9.23,
+    "under25": 3.24
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2024-12-23",
+   "fuori": "Nacional",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:45",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 8.66,
+    "over25": 1.86,
+    "pari": 4.6,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2024-12-23",
+   "fuori": "Rio Ave",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:45",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 3.04,
+    "over25": 2.22,
+    "pari": 3.14,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2024-12-27",
+   "fuori": "Gil Vicente",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.51,
+    "over25": 2.39,
+    "pari": 3.07,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2024-12-28",
+   "fuori": "Estrela",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.29,
+    "over25": 2.6,
+    "pari": 2.93,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2024-12-28",
+   "fuori": "Moreirense",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.75,
+    "over25": 2.51,
+    "pari": 2.95,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2024-12-28",
+   "fuori": "Boavista",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 16.14,
+    "over25": 1.48,
+    "pari": 7.56,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2024-12-29",
+   "fuori": "Guimaraes",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 5.09,
+    "fuori": 1.73,
+    "over25": 2.34,
+    "pari": 3.48,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2024-12-29",
+   "fuori": "Nacional",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.71,
+    "over25": 2.02,
+    "pari": 3.2,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2024-12-29",
+   "fuori": "Casa Pia",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.51,
+    "over25": 1.8,
+    "pari": 4.29,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2024-12-29",
+   "fuori": "Benfica",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.71,
+    "over25": 1.84,
+    "pari": 3.41,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2024-12-30",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.68,
+    "over25": 2.89,
+    "pari": 2.8,
+    "under25": 1.41
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-01-03",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.76,
+    "fuori": 1.95,
+    "over25": 1.85,
+    "pari": 3.51,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-01-04",
+   "fuori": "AVS",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.5,
+    "over25": 2.52,
+    "pari": 3.22,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2025-01-04",
+   "fuori": "Sp Braga",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 7.84,
+    "over25": 1.43,
+    "pari": 5.34,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-01-04",
+   "fuori": "Arouca",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 3.77,
+    "fuori": 2.09,
+    "over25": 2.35,
+    "pari": 3.14,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2025-01-05",
+   "fuori": "Farense",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 6.17,
+    "over25": 2.61,
+    "pari": 3.33,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2025-01-05",
+   "fuori": "Famalicao",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.81,
+    "over25": 2.45,
+    "pari": 3.12,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2025-01-05",
+   "fuori": "Estoril",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 3.3,
+    "over25": 2.35,
+    "pari": 3.0,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-01-06",
+   "fuori": "Rio Ave",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.62,
+    "over25": 2.09,
+    "pari": 3.14,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-01-12",
+   "fuori": "Porto",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 8.35,
+    "fuori": 1.37,
+    "over25": 1.79,
+    "pari": 4.89,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2025-01-17",
+   "fuori": "Famalicao",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 11.6,
+    "over25": 1.55,
+    "pari": 6.32,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2025-01-18",
+   "fuori": "Estoril",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 5.44,
+    "over25": 2.37,
+    "pari": 3.49,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2025-01-18",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 8.69,
+    "fuori": 1.32,
+    "over25": 1.61,
+    "pari": 5.17,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-01-18",
+   "fuori": "Arouca",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 5.38,
+    "over25": 2.13,
+    "pari": 3.62,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-01-19",
+   "fuori": "Farense",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 4.41,
+    "over25": 2.57,
+    "pari": 3.14,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-01-19",
+   "fuori": "AVS",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 4.05,
+    "over25": 2.29,
+    "pari": 3.2,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2025-01-19",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.6,
+    "fuori": 1.72,
+    "over25": 1.78,
+    "pari": 3.86,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-01-19",
+   "fuori": "Porto",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 7.15,
+    "fuori": 1.44,
+    "over25": 1.95,
+    "pari": 4.35,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-01-20",
+   "fuori": "Casa Pia",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.96,
+    "fuori": 2.05,
+    "over25": 2.43,
+    "pari": 3.13,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2025-01-24",
+   "fuori": "Moreirense",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.18,
+    "over25": 2.47,
+    "pari": 3.08,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2025-01-25",
+   "fuori": "Estrela",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.81,
+    "over25": 2.24,
+    "pari": 3.42,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2025-01-25",
+   "fuori": "Rio Ave",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.14,
+    "over25": 2.27,
+    "pari": 3.08,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2025-01-25",
+   "fuori": "Benfica",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 8.35,
+    "fuori": 1.37,
+    "over25": 1.76,
+    "pari": 4.84,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2025-01-25",
+   "fuori": "Nacional",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 13.86,
+    "over25": 1.34,
+    "pari": 8.33,
+    "under25": 3.17
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2025-01-26",
+   "fuori": "Guimaraes",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 4.31,
+    "fuori": 1.84,
+    "over25": 2.09,
+    "pari": 3.51,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2025-01-26",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.65,
+    "over25": 2.26,
+    "pari": 3.61,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2025-01-26",
+   "fuori": "Boavista",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 9.89,
+    "over25": 1.55,
+    "pari": 5.64,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2025-01-27",
+   "fuori": "Gil Vicente",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.4,
+    "over25": 2.46,
+    "pari": 3.0,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-01-31",
+   "fuori": "Famalicao",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 2.08,
+    "over25": 2.16,
+    "pari": 3.27,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-02-01",
+   "fuori": "Arouca",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 3.18,
+    "over25": 2.22,
+    "pari": 3.12,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2025-02-01",
+   "fuori": "Casa Pia",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.96,
+    "over25": 2.75,
+    "pari": 3.01,
+    "under25": 1.44
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-02-01",
+   "fuori": "Estoril",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.81,
+    "over25": 2.45,
+    "pari": 3.03,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-02-01",
+   "fuori": "AVS",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 6.15,
+    "over25": 2.01,
+    "pari": 3.96,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2025-02-02",
+   "fuori": "Farense",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 16.16,
+    "over25": 1.57,
+    "pari": 7.28,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2025-02-02",
+   "fuori": "Benfica",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 13.18,
+    "fuori": 1.19,
+    "over25": 1.51,
+    "pari": 6.92,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-02-03",
+   "fuori": "Sp Braga",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:45",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.26,
+    "over25": 2.12,
+    "pari": 3.27,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2025-02-03",
+   "fuori": "Porto",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:45",
+   "quote": {
+    "casa": 7.17,
+    "fuori": 1.42,
+    "over25": 1.75,
+    "pari": 4.58,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2025-02-07",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.63,
+    "over25": 2.2,
+    "pari": 3.1,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2025-02-08",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.78,
+    "fuori": 2.25,
+    "over25": 3.13,
+    "pari": 2.89,
+    "under25": 1.36
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2025-02-08",
+   "fuori": "Moreirense",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 14.2,
+    "over25": 1.55,
+    "pari": 7.06,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2025-02-08",
+   "fuori": "Guimaraes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 3.29,
+    "fuori": 2.32,
+    "over25": 2.32,
+    "pari": 3.12,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2025-02-09",
+   "fuori": "Boavista",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.96,
+    "over25": 2.01,
+    "pari": 4.0,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2025-02-09",
+   "fuori": "Nacional",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.19,
+    "over25": 2.35,
+    "pari": 3.07,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2025-02-09",
+   "fuori": "Gil Vicente",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.1,
+    "over25": 1.86,
+    "pari": 3.94,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2025-02-09",
+   "fuori": "Estrela",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.44,
+    "over25": 2.39,
+    "pari": 3.28,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2025-02-10",
+   "fuori": "Rio Ave",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.74,
+    "over25": 2.04,
+    "pari": 3.34,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-02-14",
+   "fuori": "Estrela",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 3.12,
+    "over25": 2.61,
+    "pari": 2.95,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-02-15",
+   "fuori": "Casa Pia",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 3.1,
+    "over25": 2.63,
+    "pari": 2.97,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-02-15",
+   "fuori": "Estoril",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.4,
+    "over25": 2.06,
+    "pari": 3.31,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2025-02-15",
+   "fuori": "Benfica",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.17,
+    "fuori": 1.97,
+    "over25": 2.51,
+    "pari": 3.28,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2025-02-15",
+   "fuori": "Arouca",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 11.24,
+    "over25": 1.53,
+    "pari": 6.15,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2025-02-16",
+   "fuori": "AVS",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.33,
+    "over25": 2.12,
+    "pari": 3.28,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2025-02-16",
+   "fuori": "Porto",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 5.72,
+    "fuori": 1.61,
+    "over25": 2.09,
+    "pari": 3.89,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-02-16",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.36,
+    "over25": 2.17,
+    "pari": 3.18,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-02-17",
+   "fuori": "Famalicao",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.44,
+    "over25": 2.46,
+    "pari": 3.04,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2025-02-21",
+   "fuori": "Nacional",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 6.38,
+    "over25": 1.8,
+    "pari": 4.11,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2025-02-22",
+   "fuori": "Gil Vicente",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.39,
+    "over25": 2.37,
+    "pari": 3.17,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2025-02-22",
+   "fuori": "Boavista",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 19.06,
+    "over25": 1.44,
+    "pari": 8.67,
+    "under25": 2.79
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2025-02-22",
+   "fuori": "Rio Ave",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.46,
+    "over25": 1.94,
+    "pari": 3.43,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2025-02-23",
+   "fuori": "Farense",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.25,
+    "over25": 2.17,
+    "pari": 3.44,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2025-02-23",
+   "fuori": "Santa Clara",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.77,
+    "fuori": 2.16,
+    "over25": 2.59,
+    "pari": 3.06,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2025-02-23",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 8.6,
+    "fuori": 1.36,
+    "over25": 1.76,
+    "pari": 4.94,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2025-02-23",
+   "fuori": "Moreirense",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.27,
+    "over25": 2.47,
+    "pari": 3.01,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2025-02-24",
+   "fuori": "Guimaraes",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.75,
+    "over25": 2.09,
+    "pari": 3.53,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-03-01",
+   "fuori": "Famalicao",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.73,
+    "over25": 2.25,
+    "pari": 3.08,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2025-03-01",
+   "fuori": "Porto",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 5.88,
+    "fuori": 1.57,
+    "over25": 1.89,
+    "pari": 4.05,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-03-01",
+   "fuori": "Casa Pia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.81,
+    "over25": 2.22,
+    "pari": 3.34,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-03-02",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 5.15,
+    "fuori": 1.76,
+    "over25": 2.51,
+    "pari": 3.41,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-03-02",
+   "fuori": "Estrela",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.52,
+    "over25": 2.39,
+    "pari": 3.19,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2025-03-02",
+   "fuori": "AVS",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.51,
+    "over25": 2.53,
+    "pari": 3.04,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2025-03-02",
+   "fuori": "Sp Braga",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 3.85,
+    "fuori": 1.91,
+    "over25": 1.82,
+    "pari": 3.69,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2025-03-03",
+   "fuori": "Estoril",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 9.66,
+    "over25": 1.58,
+    "pari": 5.5,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2025-03-07",
+   "fuori": "Gil Vicente",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.83,
+    "over25": 2.69,
+    "pari": 2.91,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2025-03-08",
+   "fuori": "Arouca",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.33,
+    "over25": 2.15,
+    "pari": 3.11,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2025-03-08",
+   "fuori": "Nacional",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 12.92,
+    "over25": 1.44,
+    "pari": 6.71,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2025-03-08",
+   "fuori": "Farense",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 3.07,
+    "over25": 2.5,
+    "pari": 3.01,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2025-03-08",
+   "fuori": "Porto",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 3.42,
+    "fuori": 2.21,
+    "over25": 2.11,
+    "pari": 3.23,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2025-03-09",
+   "fuori": "Moreirense",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 4.41,
+    "over25": 3.13,
+    "pari": 2.95,
+    "under25": 1.36
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2025-03-09",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 6.87,
+    "fuori": 1.47,
+    "over25": 1.96,
+    "pari": 4.32,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-03-09",
+   "fuori": "Guimaraes",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 5.64,
+    "fuori": 1.66,
+    "over25": 2.29,
+    "pari": 3.63,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2025-03-10",
+   "fuori": "Rio Ave",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 4.29,
+    "over25": 2.03,
+    "pari": 3.25,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2025-03-15",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 4.01,
+    "fuori": 1.96,
+    "over25": 2.09,
+    "pari": 3.41,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-03-15",
+   "fuori": "Santa Clara",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.87,
+    "over25": 2.88,
+    "pari": 2.95,
+    "under25": 1.41
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2025-03-15",
+   "fuori": "AVS",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 13.69,
+    "over25": 1.71,
+    "pari": 6.04,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2025-03-15",
+   "fuori": "Famalicao",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 10.09,
+    "over25": 1.61,
+    "pari": 5.28,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2025-03-16",
+   "fuori": "Estoril",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.99,
+    "over25": 1.95,
+    "pari": 3.48,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-03-16",
+   "fuori": "Casa Pia",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 3.14,
+    "over25": 2.11,
+    "pari": 3.27,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2025-03-16",
+   "fuori": "Benfica",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 9.66,
+    "fuori": 1.28,
+    "over25": 1.5,
+    "pari": 5.85,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-03-16",
+   "fuori": "Estrela",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 6.64,
+    "over25": 2.28,
+    "pari": 3.7,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-03-16",
+   "fuori": "Boavista",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 5.47,
+    "over25": 2.4,
+    "pari": 3.48,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-03-28",
+   "fuori": "Benfica",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 9.16,
+    "fuori": 1.33,
+    "over25": 1.76,
+    "pari": 5.16,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2025-03-29",
+   "fuori": "Rio Ave",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.19,
+    "over25": 2.14,
+    "pari": 3.37,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2025-03-29",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 9.82,
+    "fuori": 1.32,
+    "over25": 1.84,
+    "pari": 5.13,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2025-03-29",
+   "fuori": "Arouca",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 5.12,
+    "over25": 1.93,
+    "pari": 3.77,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2025-03-30",
+   "fuori": "AVS",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 5.3,
+    "over25": 2.08,
+    "pari": 3.6,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2025-03-30",
+   "fuori": "Nacional",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.94,
+    "over25": 2.38,
+    "pari": 3.34,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2025-03-30",
+   "fuori": "Porto",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 6.16,
+    "fuori": 1.54,
+    "over25": 1.95,
+    "pari": 4.09,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-03-30",
+   "fuori": "Guimaraes",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 3.73,
+    "fuori": 2.16,
+    "over25": 2.59,
+    "pari": 3.07,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-04-01",
+   "fuori": "Gil Vicente",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.37,
+    "over25": 2.5,
+    "pari": 3.1,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2025-04-02",
+   "fuori": "Farense",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.14,
+    "fuori": 17.56,
+    "over25": 1.39,
+    "pari": 8.44,
+    "under25": 2.92
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2025-04-04",
+   "fuori": "Estoril",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.13,
+    "fuori": 2.37,
+    "over25": 2.19,
+    "pari": 3.18,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2025-04-05",
+   "fuori": "Famalicao",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.65,
+    "over25": 2.19,
+    "pari": 3.13,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-04-05",
+   "fuori": "Santa Clara",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 4.47,
+    "over25": 2.75,
+    "pari": 3.08,
+    "under25": 1.44
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-04-06",
+   "fuori": "Moreirense",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 3.26,
+    "over25": 2.74,
+    "pari": 2.95,
+    "under25": 1.44
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-04-06",
+   "fuori": "Estrela",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.69,
+    "over25": 2.1,
+    "pari": 3.28,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2025-04-06",
+   "fuori": "Benfica",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.19,
+    "over25": 1.96,
+    "pari": 3.36,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2025-04-07",
+   "fuori": "Casa Pia",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:45",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.15,
+    "over25": 2.33,
+    "pari": 3.12,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2025-04-07",
+   "fuori": "Boavista",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.8,
+    "over25": 1.93,
+    "pari": 3.4,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2025-04-07",
+   "fuori": "Sp Braga",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:45",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 7.94,
+    "over25": 1.65,
+    "pari": 4.81,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-04-11",
+   "fuori": "Guimaraes",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 2.16,
+    "over25": 2.38,
+    "pari": 3.12,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-04-12",
+   "fuori": "Nacional",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.35,
+    "over25": 2.16,
+    "pari": 3.17,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2025-04-12",
+   "fuori": "Estoril",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.82,
+    "over25": 1.96,
+    "pari": 3.42,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2025-04-12",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 6.76,
+    "fuori": 1.54,
+    "over25": 2.23,
+    "pari": 3.84,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2025-04-12",
+   "fuori": "Porto",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 5.59,
+    "fuori": 1.63,
+    "over25": 2.05,
+    "pari": 3.8,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2025-04-13",
+   "fuori": "Farense",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.88,
+    "over25": 2.39,
+    "pari": 3.09,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2025-04-13",
+   "fuori": "Arouca",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.11,
+    "fuori": 21.89,
+    "over25": 1.33,
+    "pari": 9.29,
+    "under25": 3.2
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2025-04-13",
+   "fuori": "AVS",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 7.65,
+    "over25": 1.91,
+    "pari": 4.35,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-04-13",
+   "fuori": "Rio Ave",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.48,
+    "over25": 2.31,
+    "pari": 3.12,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2025-04-18",
+   "fuori": "Boavista",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.83,
+    "over25": 2.07,
+    "pari": 3.55,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2025-04-18",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.88,
+    "fuori": 2.05,
+    "over25": 2.29,
+    "pari": 3.22,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2025-04-18",
+   "fuori": "Famalicao",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.98,
+    "over25": 1.83,
+    "pari": 4.32,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2025-04-18",
+   "fuori": "Moreirense",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 19.71,
+    "over25": 1.57,
+    "pari": 7.4,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2025-04-19",
+   "fuori": "Casa Pia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.49,
+    "over25": 2.37,
+    "pari": 3.15,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-04-19",
+   "fuori": "Gil Vicente",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 3.01,
+    "over25": 2.28,
+    "pari": 3.1,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2025-04-19",
+   "fuori": "Estrela",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.94,
+    "over25": 2.26,
+    "pari": 3.22,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2025-04-19",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.69,
+    "fuori": 1.75,
+    "over25": 1.95,
+    "pari": 3.67,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-04-19",
+   "fuori": "Benfica",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 5.75,
+    "fuori": 1.52,
+    "over25": 1.65,
+    "pari": 4.35,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2025-04-25",
+   "fuori": "Sp Braga",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 2.08,
+    "over25": 2.16,
+    "pari": 3.35,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2025-04-26",
+   "fuori": "Arouca",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.65,
+    "over25": 2.53,
+    "pari": 3.17,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-04-26",
+   "fuori": "Farense",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 3.12,
+    "over25": 2.47,
+    "pari": 2.99,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2025-04-26",
+   "fuori": "Porto",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 6.18,
+    "fuori": 1.56,
+    "over25": 2.1,
+    "pari": 3.9,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-04-27",
+   "fuori": "Nacional",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.84,
+    "over25": 2.09,
+    "pari": 3.07,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2025-04-27",
+   "fuori": "AVS",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.07,
+    "fuori": 26.26,
+    "over25": 1.26,
+    "pari": 11.89,
+    "under25": 3.7
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-04-27",
+   "fuori": "Rio Ave",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 7.0,
+    "over25": 1.77,
+    "pari": 4.48,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-04-27",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 16.76,
+    "fuori": 1.14,
+    "over25": 1.41,
+    "pari": 8.07,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2025-04-29",
+   "fuori": "Estoril",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 3.09,
+    "over25": 2.33,
+    "pari": 3.0,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2025-05-02",
+   "fuori": "Moreirense",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.32,
+    "fuori": 9.05,
+    "over25": 1.71,
+    "pari": 5.36,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2025-05-03",
+   "fuori": "Famalicao",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.86,
+    "fuori": 2.52,
+    "over25": 2.14,
+    "pari": 3.23,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-05-03",
+   "fuori": "Guimaraes",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.98,
+    "fuori": 1.9,
+    "over25": 1.92,
+    "pari": 3.6,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2025-05-03",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.82,
+    "over25": 2.23,
+    "pari": 3.52,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2025-05-03",
+   "fuori": "Benfica",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 12.62,
+    "fuori": 1.18,
+    "over25": 1.37,
+    "pari": 7.67,
+    "under25": 3.01
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2025-05-04",
+   "fuori": "Casa Pia",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.64,
+    "over25": 2.06,
+    "pari": 3.39,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2025-05-04",
+   "fuori": "Gil Vicente",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 20.36,
+    "over25": 1.42,
+    "pari": 8.43,
+    "under25": 2.81
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2025-05-05",
+   "fuori": "Estrela",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 3.02,
+    "over25": 2.07,
+    "pari": 3.24,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2025-05-05",
+   "fuori": "Boavista",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.06,
+    "over25": 2.17,
+    "pari": 3.2,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2025-05-10",
+   "fuori": "Rio Ave",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.43,
+    "over25": 1.59,
+    "pari": 3.76,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2025-05-10",
+   "fuori": "Famalicao",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.35,
+    "over25": 2.39,
+    "pari": 3.3,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2025-05-10",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.26,
+    "over25": 1.78,
+    "pari": 3.39,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2025-05-10",
+   "fuori": "Sp Braga",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 6.49,
+    "fuori": 1.5,
+    "over25": 1.89,
+    "pari": 4.21,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2025-05-10",
+   "fuori": "Arouca",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.31,
+    "over25": 2.13,
+    "pari": 3.27,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2025-05-11",
+   "fuori": "AVS",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.31,
+    "over25": 2.44,
+    "pari": 3.13,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2025-05-11",
+   "fuori": "Farense",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 6.53,
+    "over25": 1.98,
+    "pari": 4.12,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2025-05-11",
+   "fuori": "Estoril",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.77,
+    "over25": 2.17,
+    "pari": 3.21,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Boavista",
+   "data": "2025-05-11",
+   "fuori": "Porto",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 7.99,
+    "fuori": 1.41,
+    "over25": 1.96,
+    "pari": 4.51,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2025-05-16",
+   "fuori": "Casa Pia",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.12,
+    "over25": 1.93,
+    "pari": 3.57,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2025-05-16",
+   "fuori": "Gil Vicente",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.54,
+    "over25": 1.85,
+    "pari": 3.35,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2025-05-17",
+   "fuori": "Boavista",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.62,
+    "over25": 1.8,
+    "pari": 3.63,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "AVS",
+   "data": "2025-05-17",
+   "fuori": "Moreirense",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.25,
+    "over25": 2.17,
+    "pari": 3.41,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Estoril",
+   "data": "2025-05-17",
+   "fuori": "Estrela",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.68,
+    "over25": 2.0,
+    "pari": 3.33,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Farense",
+   "data": "2025-05-17",
+   "fuori": "Santa Clara",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.75,
+    "over25": 2.27,
+    "pari": 3.14,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2025-05-17",
+   "fuori": "Nacional",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 9.25,
+    "over25": 1.44,
+    "pari": 5.65,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2025-05-17",
+   "fuori": "Benfica",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 5.47,
+    "fuori": 1.53,
+    "over25": 1.49,
+    "pari": 4.49,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2025-05-17",
+   "fuori": "Guimaraes",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 9.69,
+    "over25": 1.51,
+    "pari": 5.54,
+    "under25": 2.51
+   }
+  }
+ ],
+ "stagione": "2024-25"
+}

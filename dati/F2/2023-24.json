@@ -1,0 +1,6452 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "F2",
+ "nome": "Ligue 2",
+ "paese": "Francia",
+ "partite": [
+  {
+   "casa": "St Etienne",
+   "data": "2023-08-05",
+   "fuori": "Grenoble",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.84,
+    "over25": 1.71,
+    "pari": 4.11,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-08-05",
+   "fuori": "Rodez",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.96,
+    "over25": 2.68,
+    "pari": 3.02,
+    "under25": 1.44
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-08-05",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.74,
+    "over25": 1.96,
+    "pari": 3.25,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-08-05",
+   "fuori": "Guingamp",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.13,
+    "fuori": 2.0,
+    "over25": 2.66,
+    "pari": 3.03,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2023-08-05",
+   "fuori": "Bastia",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.43,
+    "over25": 2.42,
+    "pari": 2.99,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-08-05",
+   "fuori": "Troyes",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.54,
+    "over25": 1.91,
+    "pari": 3.25,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-08-05",
+   "fuori": "Angers",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.76,
+    "over25": 2.34,
+    "pari": 2.99,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-08-05",
+   "fuori": "Caen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.36,
+    "fuori": 2.14,
+    "over25": 2.02,
+    "pari": 3.24,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2023-08-05",
+   "fuori": "Auxerre",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.82,
+    "fuori": 1.97,
+    "over25": 2.1,
+    "pari": 3.33,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-08-07",
+   "fuori": "Bordeaux",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.04,
+    "fuori": 1.91,
+    "over25": 2.11,
+    "pari": 3.35,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2023-08-12",
+   "fuori": "St Etienne",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.05,
+    "over25": 1.82,
+    "pari": 3.4,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-08-12",
+   "fuori": "Annecy",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.47,
+    "over25": 2.16,
+    "pari": 3.66,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2023-08-12",
+   "fuori": "Amiens",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.8,
+    "over25": 1.87,
+    "pari": 3.69,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2023-08-12",
+   "fuori": "Valenciennes",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 5.31,
+    "over25": 2.26,
+    "pari": 3.5,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2023-08-12",
+   "fuori": "Pau FC",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.36,
+    "over25": 1.97,
+    "pari": 3.7,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2023-08-12",
+   "fuori": "Paris FC",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.31,
+    "over25": 2.07,
+    "pari": 3.24,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2023-08-12",
+   "fuori": "Dunkerque",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.94,
+    "over25": 1.99,
+    "pari": 3.42,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2023-08-12",
+   "fuori": "Ajaccio",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.44,
+    "over25": 2.66,
+    "pari": 2.92,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2023-08-12",
+   "fuori": "Laval",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.26,
+    "over25": 2.07,
+    "pari": 3.21,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2023-08-14",
+   "fuori": "Concarneau",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.51,
+    "over25": 1.97,
+    "pari": 3.83,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-08-19",
+   "fuori": "Auxerre",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.74,
+    "over25": 2.11,
+    "pari": 3.17,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-08-19",
+   "fuori": "Bastia",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.2,
+    "over25": 2.22,
+    "pari": 3.08,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-08-19",
+   "fuori": "Dunkerque",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.67,
+    "over25": 2.25,
+    "pari": 3.06,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2023-08-19",
+   "fuori": "Caen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.52,
+    "fuori": 2.06,
+    "over25": 2.05,
+    "pari": 3.35,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2023-08-19",
+   "fuori": "Troyes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.21,
+    "over25": 1.89,
+    "pari": 3.41,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-08-19",
+   "fuori": "Rodez",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.47,
+    "over25": 2.19,
+    "pari": 3.22,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-08-19",
+   "fuori": "Paris FC",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.87,
+    "over25": 2.2,
+    "pari": 3.03,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2023-08-19",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.97,
+    "over25": 1.86,
+    "pari": 3.49,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2023-08-19",
+   "fuori": "Guingamp",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.26,
+    "fuori": 2.33,
+    "over25": 2.34,
+    "pari": 3.0,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-08-21",
+   "fuori": "Bordeaux",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.34,
+    "over25": 2.22,
+    "pari": 3.09,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2023-08-26",
+   "fuori": "Amiens",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.64,
+    "over25": 1.77,
+    "pari": 3.79,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2023-08-26",
+   "fuori": "Grenoble",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.2,
+    "over25": 1.87,
+    "pari": 3.66,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2023-08-26",
+   "fuori": "Troyes",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.75,
+    "over25": 1.88,
+    "pari": 3.53,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2023-08-26",
+   "fuori": "Ajaccio",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.56,
+    "over25": 2.21,
+    "pari": 3.35,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-08-26",
+   "fuori": "Angers",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.48,
+    "over25": 2.08,
+    "pari": 3.24,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2023-08-26",
+   "fuori": "Pau FC",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.83,
+    "over25": 2.1,
+    "pari": 3.5,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-08-26",
+   "fuori": "Concarneau",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.87,
+    "over25": 2.16,
+    "pari": 3.15,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2023-08-26",
+   "fuori": "Laval",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.96,
+    "over25": 2.5,
+    "pari": 3.12,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2023-08-26",
+   "fuori": "Valenciennes",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 4.1,
+    "over25": 2.41,
+    "pari": 3.14,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-08-28",
+   "fuori": "St Etienne",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.22,
+    "over25": 1.91,
+    "pari": 3.35,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2023-09-02",
+   "fuori": "Auxerre",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.32,
+    "over25": 1.85,
+    "pari": 3.45,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-09-02",
+   "fuori": "Dunkerque",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 4.1,
+    "over25": 2.4,
+    "pari": 3.22,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-09-02",
+   "fuori": "Guingamp",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.16,
+    "over25": 2.18,
+    "pari": 3.15,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-09-02",
+   "fuori": "Paris FC",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 4.0,
+    "over25": 2.25,
+    "pari": 3.27,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2023-09-02",
+   "fuori": "Annecy",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.22,
+    "over25": 2.14,
+    "pari": 3.22,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2023-09-02",
+   "fuori": "Bastia",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.52,
+    "over25": 2.22,
+    "pari": 3.18,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-09-02",
+   "fuori": "Caen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.33,
+    "over25": 2.24,
+    "pari": 3.12,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-09-02",
+   "fuori": "Rodez",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.57,
+    "over25": 2.19,
+    "pari": 3.1,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2023-09-02",
+   "fuori": "Valenciennes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 6.21,
+    "over25": 1.77,
+    "pari": 4.15,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2023-09-02",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.52,
+    "over25": 2.03,
+    "pari": 3.17,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2023-09-16",
+   "fuori": "St Etienne",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.56,
+    "over25": 1.9,
+    "pari": 3.42,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-09-16",
+   "fuori": "Troyes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.19,
+    "over25": 1.98,
+    "pari": 3.3,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2023-09-16",
+   "fuori": "Pau FC",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.17,
+    "over25": 1.67,
+    "pari": 4.57,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2023-09-16",
+   "fuori": "Laval",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 3.16,
+    "over25": 2.32,
+    "pari": 3.04,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-09-16",
+   "fuori": "Grenoble",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.6,
+    "fuori": 2.76,
+    "over25": 2.15,
+    "pari": 3.12,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-09-16",
+   "fuori": "Amiens",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.7,
+    "over25": 2.14,
+    "pari": 3.13,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2023-09-16",
+   "fuori": "Concarneau",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.39,
+    "over25": 2.19,
+    "pari": 3.33,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2023-09-16",
+   "fuori": "Angers",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.58,
+    "over25": 2.23,
+    "pari": 3.07,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2023-09-16",
+   "fuori": "Bordeaux",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.58,
+    "fuori": 2.07,
+    "over25": 2.11,
+    "pari": 3.27,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2023-09-18",
+   "fuori": "Ajaccio",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.74,
+    "over25": 2.55,
+    "pari": 2.96,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2023-09-23",
+   "fuori": "Auxerre",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.82,
+    "fuori": 1.87,
+    "over25": 1.71,
+    "pari": 3.72,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-09-23",
+   "fuori": "Paris FC",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.73,
+    "over25": 2.39,
+    "pari": 3.13,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-09-23",
+   "fuori": "Valenciennes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.53,
+    "over25": 2.05,
+    "pari": 3.44,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-09-23",
+   "fuori": "Bastia",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.85,
+    "over25": 2.15,
+    "pari": 3.26,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2023-09-23",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.14,
+    "over25": 1.85,
+    "pari": 3.38,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-09-23",
+   "fuori": "Rodez",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.13,
+    "over25": 2.14,
+    "pari": 3.05,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2023-09-23",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.34,
+    "over25": 2.34,
+    "pari": 3.06,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-09-23",
+   "fuori": "Guingamp",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.28,
+    "over25": 2.41,
+    "pari": 3.02,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-09-23",
+   "fuori": "Annecy",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.73,
+    "over25": 2.21,
+    "pari": 3.12,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-09-26",
+   "fuori": "Ajaccio",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.35,
+    "over25": 2.5,
+    "pari": 3.01,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2023-09-26",
+   "fuori": "Annecy",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.7,
+    "over25": 1.68,
+    "pari": 4.47,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2023-09-26",
+   "fuori": "Pau FC",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.52,
+    "over25": 1.99,
+    "pari": 3.57,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2023-09-26",
+   "fuori": "Grenoble",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.24,
+    "over25": 2.14,
+    "pari": 3.42,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2023-09-26",
+   "fuori": "Bordeaux",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.6,
+    "over25": 2.08,
+    "pari": 3.17,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-09-26",
+   "fuori": "Laval",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.93,
+    "over25": 2.26,
+    "pari": 3.03,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2023-09-26",
+   "fuori": "Angers",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.63,
+    "over25": 2.34,
+    "pari": 3.02,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2023-09-26",
+   "fuori": "Troyes",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.25,
+    "over25": 1.84,
+    "pari": 3.43,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2023-09-26",
+   "fuori": "Concarneau",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.24,
+    "over25": 2.27,
+    "pari": 3.14,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2023-09-30",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.06,
+    "over25": 1.67,
+    "pari": 3.6,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-09-30",
+   "fuori": "Concarneau",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 5.33,
+    "over25": 2.05,
+    "pari": 3.7,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-09-30",
+   "fuori": "Paris FC",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.63,
+    "over25": 2.18,
+    "pari": 3.12,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2023-09-30",
+   "fuori": "Rodez",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.35,
+    "over25": 1.65,
+    "pari": 4.16,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2023-09-30",
+   "fuori": "Guingamp",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.87,
+    "over25": 2.27,
+    "pari": 3.21,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-09-30",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.84,
+    "over25": 2.21,
+    "pari": 3.1,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2023-09-30",
+   "fuori": "Bordeaux",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.57,
+    "over25": 2.11,
+    "pari": 3.17,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-09-30",
+   "fuori": "Valenciennes",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.77,
+    "over25": 2.38,
+    "pari": 3.28,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-09-30",
+   "fuori": "Amiens",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.06,
+    "fuori": 2.36,
+    "over25": 2.08,
+    "pari": 3.16,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-10-02",
+   "fuori": "Bastia",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.61,
+    "over25": 2.85,
+    "pari": 2.83,
+    "under25": 1.4
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2023-10-03",
+   "fuori": "Caen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.66,
+    "over25": 2.03,
+    "pari": 3.34,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2023-10-04",
+   "fuori": "Dunkerque",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.37,
+    "over25": 1.67,
+    "pari": 4.11,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2023-10-07",
+   "fuori": "Laval",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.03,
+    "over25": 2.07,
+    "pari": 3.42,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-10-07",
+   "fuori": "Angers",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.8,
+    "over25": 2.35,
+    "pari": 3.04,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2023-10-07",
+   "fuori": "Annecy",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.44,
+    "over25": 2.2,
+    "pari": 3.23,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2023-10-07",
+   "fuori": "Dunkerque",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.99,
+    "over25": 2.01,
+    "pari": 3.27,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2023-10-07",
+   "fuori": "Grenoble",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.29,
+    "over25": 2.22,
+    "pari": 3.14,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-10-07",
+   "fuori": "Auxerre",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.51,
+    "fuori": 2.01,
+    "over25": 1.76,
+    "pari": 3.52,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2023-10-07",
+   "fuori": "Pau FC",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.99,
+    "over25": 2.03,
+    "pari": 3.46,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2023-10-07",
+   "fuori": "Caen",
+   "gol": [
+    5,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.88,
+    "over25": 2.14,
+    "pari": 3.13,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2023-10-07",
+   "fuori": "Ajaccio",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.74,
+    "over25": 2.39,
+    "pari": 3.08,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2023-10-07",
+   "fuori": "Troyes",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.16,
+    "over25": 2.04,
+    "pari": 3.18,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2023-10-21",
+   "fuori": "Auxerre",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.14,
+    "over25": 1.79,
+    "pari": 3.48,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-10-21",
+   "fuori": "Pau FC",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.92,
+    "over25": 2.5,
+    "pari": 3.26,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-10-21",
+   "fuori": "Bordeaux",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.54,
+    "over25": 2.07,
+    "pari": 3.18,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-10-21",
+   "fuori": "Amiens",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.82,
+    "over25": 2.26,
+    "pari": 3.04,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-10-21",
+   "fuori": "Paris FC",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.7,
+    "over25": 2.11,
+    "pari": 3.18,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2023-10-21",
+   "fuori": "Valenciennes",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 5.26,
+    "over25": 2.08,
+    "pari": 3.62,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2023-10-21",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.46,
+    "over25": 2.35,
+    "pari": 3.16,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2023-10-21",
+   "fuori": "Bastia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.12,
+    "over25": 2.03,
+    "pari": 3.44,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2023-10-21",
+   "fuori": "Concarneau",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.46,
+    "over25": 1.79,
+    "pari": 3.52,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-10-23",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.88,
+    "over25": 2.24,
+    "pari": 3.06,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2023-10-28",
+   "fuori": "Rodez",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.59,
+    "over25": 1.74,
+    "pari": 3.91,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-10-28",
+   "fuori": "Laval",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 3.02,
+    "over25": 2.36,
+    "pari": 2.98,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2023-10-28",
+   "fuori": "Dunkerque",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 7.99,
+    "over25": 1.54,
+    "pari": 5.07,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2023-10-28",
+   "fuori": "Guingamp",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.66,
+    "over25": 2.36,
+    "pari": 2.97,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2023-10-28",
+   "fuori": "Ajaccio",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.0,
+    "fuori": 2.6,
+    "over25": 2.65,
+    "pari": 2.86,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-10-28",
+   "fuori": "Troyes",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.82,
+    "over25": 1.8,
+    "pari": 3.59,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-10-28",
+   "fuori": "Grenoble",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.21,
+    "over25": 2.1,
+    "pari": 3.2,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2023-10-28",
+   "fuori": "Annecy",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.9,
+    "over25": 2.31,
+    "pari": 3.22,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2023-10-28",
+   "fuori": "Caen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.6,
+    "over25": 2.14,
+    "pari": 3.12,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2023-10-30",
+   "fuori": "Angers",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.86,
+    "over25": 2.09,
+    "pari": 3.17,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2023-11-04",
+   "fuori": "Paris FC",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.39,
+    "over25": 1.9,
+    "pari": 3.65,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-11-04",
+   "fuori": "Valenciennes",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.66,
+    "over25": 2.09,
+    "pari": 3.67,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-11-04",
+   "fuori": "Laval",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.99,
+    "fuori": 2.54,
+    "over25": 2.51,
+    "pari": 2.96,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2023-11-04",
+   "fuori": "Bordeaux",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 2.04,
+    "over25": 2.06,
+    "pari": 3.33,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-11-04",
+   "fuori": "Amiens",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.37,
+    "over25": 2.05,
+    "pari": 3.18,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2023-11-04",
+   "fuori": "Ajaccio",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 3.35,
+    "over25": 2.7,
+    "pari": 2.9,
+    "under25": 1.44
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2023-11-04",
+   "fuori": "Rodez",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.35,
+    "over25": 1.98,
+    "pari": 3.32,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2023-11-04",
+   "fuori": "Caen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.54,
+    "over25": 1.82,
+    "pari": 3.34,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2023-11-06",
+   "fuori": "Auxerre",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.12,
+    "fuori": 2.31,
+    "over25": 1.99,
+    "pari": 3.21,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2023-11-11",
+   "fuori": "Annecy",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.99,
+    "over25": 1.86,
+    "pari": 4.08,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-11-11",
+   "fuori": "Troyes",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.67,
+    "over25": 2.27,
+    "pari": 3.36,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-11-11",
+   "fuori": "Grenoble",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.11,
+    "over25": 2.27,
+    "pari": 3.08,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2023-11-11",
+   "fuori": "St Etienne",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.2,
+    "over25": 1.62,
+    "pari": 3.92,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2023-11-11",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.17,
+    "over25": 2.11,
+    "pari": 3.24,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-11-11",
+   "fuori": "Concarneau",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.72,
+    "over25": 2.23,
+    "pari": 3.4,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-11-11",
+   "fuori": "Bastia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.15,
+    "over25": 2.07,
+    "pari": 3.41,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-11-11",
+   "fuori": "Angers",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.45,
+    "fuori": 2.12,
+    "over25": 2.07,
+    "pari": 3.24,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2023-11-11",
+   "fuori": "Guingamp",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.19,
+    "over25": 2.13,
+    "pari": 3.21,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2023-11-11",
+   "fuori": "Dunkerque",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 3.08,
+    "over25": 2.16,
+    "pari": 3.13,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2023-11-25",
+   "fuori": "Pau FC",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.97,
+    "over25": 1.76,
+    "pari": 3.93,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-11-25",
+   "fuori": "Concarneau",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.74,
+    "over25": 2.13,
+    "pari": 3.31,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-11-25",
+   "fuori": "Ajaccio",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.33,
+    "fuori": 2.5,
+    "over25": 2.9,
+    "pari": 2.73,
+    "under25": 1.39
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2023-11-25",
+   "fuori": "Auxerre",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.21,
+    "fuori": 1.79,
+    "over25": 1.81,
+    "pari": 3.71,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-11-25",
+   "fuori": "Laval",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.39,
+    "over25": 2.35,
+    "pari": 3.11,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2023-11-25",
+   "fuori": "Rodez",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.72,
+    "over25": 2.01,
+    "pari": 3.34,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-11-25",
+   "fuori": "Bordeaux",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.64,
+    "over25": 2.0,
+    "pari": 3.27,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2023-11-25",
+   "fuori": "Valenciennes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.85,
+    "over25": 2.17,
+    "pari": 3.44,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2023-11-25",
+   "fuori": "Guingamp",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.97,
+    "fuori": 2.4,
+    "over25": 2.13,
+    "pari": 3.18,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-11-27",
+   "fuori": "Caen",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.28,
+    "over25": 2.13,
+    "pari": 3.39,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2023-11-28",
+   "fuori": "Pau FC",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.03,
+    "over25": 1.9,
+    "pari": 3.32,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2023-12-02",
+   "fuori": "Troyes",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.7,
+    "over25": 1.67,
+    "pari": 4.51,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-12-02",
+   "fuori": "Angers",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.0,
+    "fuori": 2.64,
+    "over25": 2.83,
+    "pari": 2.83,
+    "under25": 1.4
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-12-02",
+   "fuori": "St Etienne",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.8,
+    "over25": 2.09,
+    "pari": 3.12,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2023-12-02",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 5.16,
+    "over25": 1.85,
+    "pari": 3.83,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2023-12-02",
+   "fuori": "Bastia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.22,
+    "over25": 2.16,
+    "pari": 3.37,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2023-12-02",
+   "fuori": "Paris FC",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.55,
+    "over25": 2.2,
+    "pari": 3.22,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-12-02",
+   "fuori": "Grenoble",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 3.08,
+    "over25": 2.37,
+    "pari": 3.04,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-12-02",
+   "fuori": "Dunkerque",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.32,
+    "over25": 1.98,
+    "pari": 3.27,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2023-12-02",
+   "fuori": "Concarneau",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.13,
+    "over25": 1.96,
+    "pari": 3.49,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2023-12-02",
+   "fuori": "Annecy",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.87,
+    "over25": 2.33,
+    "pari": 3.04,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-12-05",
+   "fuori": "Laval",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 3.12,
+    "over25": 3.39,
+    "pari": 2.65,
+    "under25": 1.3
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-12-05",
+   "fuori": "Grenoble",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.98,
+    "over25": 2.19,
+    "pari": 3.24,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2023-12-05",
+   "fuori": "Auxerre",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.81,
+    "fuori": 1.67,
+    "over25": 1.74,
+    "pari": 3.85,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-12-05",
+   "fuori": "Bastia",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.56,
+    "over25": 2.51,
+    "pari": 3.03,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-12-05",
+   "fuori": "Rodez",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.36,
+    "over25": 2.05,
+    "pari": 3.25,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-12-05",
+   "fuori": "Valenciennes",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.6,
+    "over25": 2.2,
+    "pari": 3.17,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2023-12-05",
+   "fuori": "Bordeaux",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.8,
+    "over25": 2.09,
+    "pari": 3.17,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2023-12-05",
+   "fuori": "Guingamp",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.14,
+    "over25": 2.27,
+    "pari": 3.07,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2023-12-05",
+   "fuori": "Amiens",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.46,
+    "over25": 2.17,
+    "pari": 3.09,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-12-06",
+   "fuori": "Caen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.89,
+    "over25": 2.1,
+    "pari": 3.11,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2023-12-16",
+   "fuori": "Ajaccio",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 6.28,
+    "over25": 2.14,
+    "pari": 3.8,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2023-12-16",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.64,
+    "over25": 1.78,
+    "pari": 3.59,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2023-12-16",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.69,
+    "over25": 2.4,
+    "pari": 3.02,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2023-12-16",
+   "fuori": "Dunkerque",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.7,
+    "over25": 1.88,
+    "pari": 3.52,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2023-12-16",
+   "fuori": "Annecy",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.74,
+    "over25": 2.12,
+    "pari": 3.29,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2023-12-16",
+   "fuori": "Concarneau",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.9,
+    "over25": 2.04,
+    "pari": 3.81,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-12-16",
+   "fuori": "Pau FC",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.2,
+    "over25": 2.23,
+    "pari": 3.34,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2023-12-16",
+   "fuori": "Amiens",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.41,
+    "over25": 2.17,
+    "pari": 3.13,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2023-12-16",
+   "fuori": "Angers",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.08,
+    "fuori": 1.84,
+    "over25": 1.91,
+    "pari": 3.59,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2023-12-16",
+   "fuori": "Paris FC",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.77,
+    "fuori": 2.03,
+    "over25": 2.23,
+    "pari": 3.24,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2023-12-19",
+   "fuori": "Valenciennes",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 4.7,
+    "over25": 3.14,
+    "pari": 2.88,
+    "under25": 1.34
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2023-12-19",
+   "fuori": "Caen",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 3.01,
+    "over25": 2.29,
+    "pari": 3.06,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2023-12-19",
+   "fuori": "Guingamp",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.35,
+    "over25": 2.51,
+    "pari": 3.02,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2023-12-19",
+   "fuori": "Rodez",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.54,
+    "over25": 2.13,
+    "pari": 3.11,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2023-12-19",
+   "fuori": "Grenoble",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.38,
+    "fuori": 2.17,
+    "over25": 2.07,
+    "pari": 3.22,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2023-12-19",
+   "fuori": "Bordeaux",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.73,
+    "fuori": 1.94,
+    "over25": 1.84,
+    "pari": 3.53,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2023-12-19",
+   "fuori": "Auxerre",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.72,
+    "fuori": 2.02,
+    "over25": 2.12,
+    "pari": 3.3,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2023-12-19",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.14,
+    "over25": 2.1,
+    "pari": 3.23,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2023-12-19",
+   "fuori": "Troyes",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.33,
+    "over25": 1.72,
+    "pari": 3.56,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2023-12-19",
+   "fuori": "Bastia",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.36,
+    "over25": 2.07,
+    "pari": 3.42,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2024-01-13",
+   "fuori": "Laval",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.54,
+    "over25": 2.18,
+    "pari": 3.23,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-01-13",
+   "fuori": "Angers",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.6,
+    "fuori": 2.91,
+    "over25": 2.52,
+    "pari": 2.96,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-01-13",
+   "fuori": "Concarneau",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.75,
+    "over25": 1.92,
+    "pari": 3.45,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-01-13",
+   "fuori": "Dunkerque",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.16,
+    "over25": 1.94,
+    "pari": 3.74,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2024-01-13",
+   "fuori": "Annecy",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 4.04,
+    "over25": 2.13,
+    "pari": 3.37,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-01-13",
+   "fuori": "Guingamp",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.62,
+    "over25": 2.5,
+    "pari": 2.95,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-01-13",
+   "fuori": "Pau FC",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.04,
+    "over25": 1.71,
+    "pari": 3.7,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2024-01-13",
+   "fuori": "Ajaccio",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.74,
+    "over25": 2.68,
+    "pari": 2.84,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-01-13",
+   "fuori": "Amiens",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.44,
+    "over25": 2.63,
+    "pari": 2.88,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-01-15",
+   "fuori": "Bordeaux",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.82,
+    "over25": 1.72,
+    "pari": 3.7,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2024-01-23",
+   "fuori": "Annecy",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.77,
+    "over25": 2.3,
+    "pari": 3.2,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2024-01-23",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.56,
+    "over25": 2.15,
+    "pari": 3.28,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-01-23",
+   "fuori": "Caen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.58,
+    "over25": 2.38,
+    "pari": 3.02,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-01-23",
+   "fuori": "Valenciennes",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.85,
+    "over25": 1.9,
+    "pari": 3.96,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-01-23",
+   "fuori": "Troyes",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.06,
+    "over25": 1.98,
+    "pari": 3.23,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2024-01-23",
+   "fuori": "Ajaccio",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 3.02,
+    "over25": 3.16,
+    "pari": 2.7,
+    "under25": 1.34
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-01-23",
+   "fuori": "Auxerre",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.29,
+    "over25": 1.92,
+    "pari": 3.31,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-01-23",
+   "fuori": "Rodez",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.53,
+    "over25": 2.1,
+    "pari": 3.41,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2024-01-23",
+   "fuori": "Paris FC",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.47,
+    "over25": 2.65,
+    "pari": 2.95,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2024-01-23",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.36,
+    "over25": 1.84,
+    "pari": 3.39,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2024-01-27",
+   "fuori": "Amiens",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 4.03,
+    "over25": 2.13,
+    "pari": 3.31,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2024-01-27",
+   "fuori": "Concarneau",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 4.89,
+    "over25": 3.4,
+    "pari": 2.83,
+    "under25": 1.3
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2024-01-27",
+   "fuori": "Pau FC",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.37,
+    "over25": 1.99,
+    "pari": 3.28,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-01-27",
+   "fuori": "Guingamp",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.67,
+    "over25": 2.06,
+    "pari": 3.33,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-01-27",
+   "fuori": "Troyes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.12,
+    "over25": 2.03,
+    "pari": 3.43,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2024-01-27",
+   "fuori": "Dunkerque",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.87,
+    "over25": 2.01,
+    "pari": 3.58,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-01-27",
+   "fuori": "Grenoble",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.89,
+    "over25": 2.24,
+    "pari": 3.06,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-01-27",
+   "fuori": "Laval",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.4,
+    "over25": 2.23,
+    "pari": 3.11,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-01-27",
+   "fuori": "Bastia",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.56,
+    "over25": 2.61,
+    "pari": 2.9,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-01-29",
+   "fuori": "Angers",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.43,
+    "over25": 1.94,
+    "pari": 3.38,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2024-02-03",
+   "fuori": "St Etienne",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.14,
+    "over25": 1.92,
+    "pari": 3.36,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2024-02-03",
+   "fuori": "Paris FC",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.64,
+    "over25": 2.7,
+    "pari": 2.86,
+    "under25": 1.44
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2024-02-03",
+   "fuori": "Rodez",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.44,
+    "over25": 1.95,
+    "pari": 3.32,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-02-03",
+   "fuori": "Valenciennes",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.67,
+    "over25": 2.57,
+    "pari": 2.99,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-02-03",
+   "fuori": "Caen",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.21,
+    "over25": 2.16,
+    "pari": 3.14,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-02-03",
+   "fuori": "Annecy",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 7.49,
+    "over25": 2.12,
+    "pari": 4.01,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2024-02-03",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.43,
+    "over25": 2.62,
+    "pari": 2.99,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2024-02-03",
+   "fuori": "Auxerre",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.17,
+    "fuori": 1.8,
+    "over25": 1.75,
+    "pari": 3.68,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2024-02-03",
+   "fuori": "Bordeaux",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.16,
+    "over25": 1.89,
+    "pari": 3.39,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-02-05",
+   "fuori": "Ajaccio",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 3.3,
+    "over25": 3.41,
+    "pari": 2.65,
+    "under25": 1.3
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-02-10",
+   "fuori": "Angers",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.63,
+    "over25": 1.82,
+    "pari": 3.71,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2024-02-10",
+   "fuori": "Guingamp",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.05,
+    "fuori": 2.67,
+    "over25": 3.28,
+    "pari": 2.72,
+    "under25": 1.31
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2024-02-10",
+   "fuori": "Concarneau",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.57,
+    "over25": 2.38,
+    "pari": 3.06,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-02-10",
+   "fuori": "Grenoble",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.35,
+    "over25": 1.94,
+    "pari": 3.36,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-02-10",
+   "fuori": "Amiens",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.71,
+    "over25": 2.31,
+    "pari": 3.12,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2024-02-10",
+   "fuori": "Pau FC",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.83,
+    "over25": 2.0,
+    "pari": 3.6,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-02-10",
+   "fuori": "Bastia",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 4.03,
+    "over25": 2.28,
+    "pari": 3.19,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-02-10",
+   "fuori": "Dunkerque",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.96,
+    "over25": 1.99,
+    "pari": 3.42,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-02-10",
+   "fuori": "Laval",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.58,
+    "over25": 2.8,
+    "pari": 2.84,
+    "under25": 1.41
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2024-02-12",
+   "fuori": "Troyes",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.59,
+    "over25": 1.93,
+    "pari": 3.58,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2024-02-17",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.31,
+    "over25": 2.08,
+    "pari": 3.22,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2024-02-17",
+   "fuori": "Auxerre",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 5.15,
+    "fuori": 1.64,
+    "over25": 1.86,
+    "pari": 3.74,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-02-17",
+   "fuori": "Rodez",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.32,
+    "over25": 2.15,
+    "pari": 3.13,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-02-17",
+   "fuori": "Paris FC",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.7,
+    "fuori": 2.1,
+    "over25": 2.29,
+    "pari": 3.1,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2024-02-17",
+   "fuori": "Valenciennes",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.33,
+    "over25": 2.43,
+    "pari": 3.0,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-02-17",
+   "fuori": "Caen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.54,
+    "over25": 2.25,
+    "pari": 3.18,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2024-02-17",
+   "fuori": "Ajaccio",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 3.57,
+    "over25": 3.72,
+    "pari": 2.6,
+    "under25": 1.26
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2024-02-17",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.62,
+    "over25": 2.1,
+    "pari": 3.14,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2024-02-17",
+   "fuori": "Grenoble",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.44,
+    "over25": 2.06,
+    "pari": 3.22,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2024-02-19",
+   "fuori": "Bordeaux",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.6,
+    "over25": 2.21,
+    "pari": 3.05,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2024-02-24",
+   "fuori": "Annecy",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.92,
+    "over25": 1.87,
+    "pari": 3.92,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2024-02-24",
+   "fuori": "Amiens",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.89,
+    "over25": 3.44,
+    "pari": 2.73,
+    "under25": 1.29
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-02-24",
+   "fuori": "Bastia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 6.03,
+    "over25": 1.9,
+    "pari": 4.02,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-02-24",
+   "fuori": "Guingamp",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.35,
+    "over25": 2.05,
+    "pari": 3.2,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-02-24",
+   "fuori": "Laval",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.95,
+    "over25": 2.77,
+    "pari": 2.87,
+    "under25": 1.42
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-02-24",
+   "fuori": "Pau FC",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.2,
+    "over25": 1.9,
+    "pari": 3.47,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-02-24",
+   "fuori": "Paris FC",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.91,
+    "over25": 2.25,
+    "pari": 3.07,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2024-02-24",
+   "fuori": "Dunkerque",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.44,
+    "over25": 2.08,
+    "pari": 3.2,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-02-24",
+   "fuori": "Rodez",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.34,
+    "over25": 2.12,
+    "pari": 3.2,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-02-26",
+   "fuori": "Angers",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 3.0,
+    "over25": 2.3,
+    "pari": 3.0,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2024-03-02",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.98,
+    "over25": 2.11,
+    "pari": 3.13,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2024-03-02",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.62,
+    "over25": 2.59,
+    "pari": 2.88,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-03-02",
+   "fuori": "Valenciennes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 8.98,
+    "over25": 1.77,
+    "pari": 4.83,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-03-02",
+   "fuori": "Grenoble",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.92,
+    "over25": 2.32,
+    "pari": 2.99,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2024-03-02",
+   "fuori": "Concarneau",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.33,
+    "over25": 2.32,
+    "pari": 3.05,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-03-02",
+   "fuori": "Troyes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.49,
+    "over25": 2.15,
+    "pari": 3.34,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2024-03-02",
+   "fuori": "Amiens",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.64,
+    "over25": 2.75,
+    "pari": 2.9,
+    "under25": 1.42
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2024-03-02",
+   "fuori": "Caen",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.48,
+    "over25": 2.16,
+    "pari": 3.07,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-03-02",
+   "fuori": "Bordeaux",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.74,
+    "over25": 1.79,
+    "pari": 3.32,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2024-03-04",
+   "fuori": "Ajaccio",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 4.35,
+    "over25": 3.21,
+    "pari": 2.84,
+    "under25": 1.33
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2024-03-09",
+   "fuori": "Auxerre",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.6,
+    "fuori": 2.68,
+    "over25": 1.96,
+    "pari": 3.2,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2024-03-09",
+   "fuori": "Annecy",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 4.63,
+    "over25": 3.47,
+    "pari": 2.77,
+    "under25": 1.29
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2024-03-09",
+   "fuori": "Rodez",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.89,
+    "over25": 2.22,
+    "pari": 2.99,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-03-09",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.33,
+    "over25": 2.06,
+    "pari": 3.25,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-03-09",
+   "fuori": "Paris FC",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.11,
+    "over25": 2.31,
+    "pari": 3.06,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-03-09",
+   "fuori": "Guingamp",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.49,
+    "fuori": 2.27,
+    "over25": 2.64,
+    "pari": 2.92,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2024-03-09",
+   "fuori": "Pau FC",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.27,
+    "over25": 2.13,
+    "pari": 3.14,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2024-03-09",
+   "fuori": "Bastia",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.6,
+    "fuori": 2.8,
+    "over25": 2.2,
+    "pari": 3.05,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-03-09",
+   "fuori": "Angers",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.41,
+    "fuori": 1.95,
+    "over25": 2.65,
+    "pari": 3.05,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-03-11",
+   "fuori": "Laval",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.53,
+    "over25": 2.69,
+    "pari": 2.82,
+    "under25": 1.44
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-03-16",
+   "fuori": "Caen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.67,
+    "over25": 1.92,
+    "pari": 3.63,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2024-03-16",
+   "fuori": "Amiens",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.68,
+    "over25": 2.3,
+    "pari": 3.31,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2024-03-16",
+   "fuori": "Bordeaux",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.66,
+    "over25": 2.04,
+    "pari": 3.18,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-03-16",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.69,
+    "fuori": 2.08,
+    "over25": 2.17,
+    "pari": 3.17,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-03-16",
+   "fuori": "Valenciennes",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 7.8,
+    "over25": 2.41,
+    "pari": 3.8,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2024-03-16",
+   "fuori": "Dunkerque",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 4.45,
+    "over25": 2.88,
+    "pari": 2.99,
+    "under25": 1.39
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2024-03-16",
+   "fuori": "Ajaccio",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 4.11,
+    "over25": 3.16,
+    "pari": 2.8,
+    "under25": 1.34
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2024-03-16",
+   "fuori": "Concarneau",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.76,
+    "over25": 2.11,
+    "pari": 3.25,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-03-16",
+   "fuori": "Troyes",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.99,
+    "over25": 2.31,
+    "pari": 3.14,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-03-16",
+   "fuori": "Grenoble",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.55,
+    "over25": 1.95,
+    "pari": 3.25,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-03-30",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 6.92,
+    "fuori": 1.46,
+    "over25": 1.84,
+    "pari": 4.16,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2024-03-30",
+   "fuori": "Pau FC",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 4.13,
+    "over25": 2.27,
+    "pari": 3.16,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-03-30",
+   "fuori": "Paris FC",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.11,
+    "over25": 1.95,
+    "pari": 3.24,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-03-30",
+   "fuori": "Angers",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.73,
+    "fuori": 2.03,
+    "over25": 2.21,
+    "pari": 3.23,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2024-03-30",
+   "fuori": "Annecy",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.97,
+    "over25": 2.3,
+    "pari": 2.99,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-03-30",
+   "fuori": "Guingamp",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.61,
+    "over25": 2.47,
+    "pari": 2.89,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2024-03-30",
+   "fuori": "Bastia",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 4.01,
+    "over25": 2.64,
+    "pari": 3.0,
+    "under25": 1.46
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-03-30",
+   "fuori": "Caen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 3.23,
+    "over25": 2.35,
+    "pari": 2.95,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2024-03-30",
+   "fuori": "Rodez",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.43,
+    "over25": 1.93,
+    "pari": 3.24,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2024-04-01",
+   "fuori": "Auxerre",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.97,
+    "fuori": 2.06,
+    "over25": 2.57,
+    "pari": 3.01,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2024-04-06",
+   "fuori": "Concarneau",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 7.12,
+    "over25": 1.76,
+    "pari": 4.44,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2024-04-06",
+   "fuori": "Laval",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.62,
+    "over25": 2.38,
+    "pari": 3.08,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2024-04-06",
+   "fuori": "Valenciennes",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 6.32,
+    "over25": 2.24,
+    "pari": 3.74,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-04-06",
+   "fuori": "Dunkerque",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.84,
+    "over25": 2.3,
+    "pari": 3.18,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-04-06",
+   "fuori": "Bordeaux",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.12,
+    "over25": 1.91,
+    "pari": 3.32,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-04-06",
+   "fuori": "Amiens",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 4.11,
+    "over25": 2.47,
+    "pari": 3.06,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2024-04-06",
+   "fuori": "Grenoble",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 4.11,
+    "over25": 2.23,
+    "pari": 3.18,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2024-04-06",
+   "fuori": "Ajaccio",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 3.11,
+    "over25": 2.92,
+    "pari": 2.8,
+    "under25": 1.38
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-04-06",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.28,
+    "over25": 2.1,
+    "pari": 3.18,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-04-08",
+   "fuori": "Troyes",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 6.64,
+    "over25": 1.54,
+    "pari": 4.63,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2024-04-13",
+   "fuori": "St Etienne",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.92,
+    "fuori": 2.05,
+    "over25": 2.61,
+    "pari": 3.06,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-04-13",
+   "fuori": "Bastia",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.99,
+    "over25": 1.92,
+    "pari": 3.46,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-04-13",
+   "fuori": "Rodez",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.31,
+    "over25": 1.75,
+    "pari": 3.34,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-04-13",
+   "fuori": "Amiens",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.62,
+    "over25": 2.44,
+    "pari": 2.97,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2024-04-13",
+   "fuori": "Guingamp",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.22,
+    "over25": 2.41,
+    "pari": 3.01,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2024-04-13",
+   "fuori": "Annecy",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.44,
+    "over25": 2.41,
+    "pari": 2.97,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-04-13",
+   "fuori": "Auxerre",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.19,
+    "fuori": 2.21,
+    "over25": 1.94,
+    "pari": 3.27,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2024-04-13",
+   "fuori": "Paris FC",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.17,
+    "fuori": 2.35,
+    "over25": 2.17,
+    "pari": 3.05,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-04-13",
+   "fuori": "Pau FC",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.26,
+    "fuori": 2.27,
+    "over25": 2.17,
+    "pari": 3.1,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-04-15",
+   "fuori": "Angers",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.37,
+    "fuori": 2.24,
+    "over25": 2.19,
+    "pari": 3.07,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-04-20",
+   "fuori": "Auxerre",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.31,
+    "over25": 1.62,
+    "pari": 3.5,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2024-04-20",
+   "fuori": "Caen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 3.37,
+    "over25": 2.94,
+    "pari": 2.78,
+    "under25": 1.38
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2024-04-20",
+   "fuori": "Dunkerque",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.42,
+    "over25": 2.44,
+    "pari": 2.99,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2024-04-20",
+   "fuori": "Troyes",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.5,
+    "over25": 1.9,
+    "pari": 3.56,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2024-04-20",
+   "fuori": "Grenoble",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.62,
+    "over25": 1.95,
+    "pari": 3.29,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-04-20",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.18,
+    "fuori": 2.36,
+    "over25": 2.23,
+    "pari": 3.03,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-04-20",
+   "fuori": "Bastia",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.82,
+    "over25": 2.41,
+    "pari": 3.26,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2024-04-20",
+   "fuori": "Valenciennes",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 9.54,
+    "over25": 1.95,
+    "pari": 4.65,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2024-04-20",
+   "fuori": "Laval",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.12,
+    "over25": 2.2,
+    "pari": 3.17,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2024-04-20",
+   "fuori": "Bordeaux",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.8,
+    "over25": 1.7,
+    "pari": 3.6,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-04-23",
+   "fuori": "Laval",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.72,
+    "over25": 1.74,
+    "pari": 4.06,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-04-23",
+   "fuori": "Concarneau",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.5,
+    "over25": 2.32,
+    "pari": 3.12,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-04-23",
+   "fuori": "Dunkerque",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.72,
+    "over25": 1.81,
+    "pari": 3.57,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-04-23",
+   "fuori": "Annecy",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.81,
+    "over25": 1.89,
+    "pari": 3.27,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-04-23",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 2.01,
+    "over25": 1.91,
+    "pari": 3.37,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-04-23",
+   "fuori": "Angers",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.24,
+    "over25": 2.41,
+    "pari": 3.05,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-04-23",
+   "fuori": "Amiens",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.34,
+    "over25": 2.38,
+    "pari": 3.03,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-04-23",
+   "fuori": "Paris FC",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.89,
+    "over25": 2.07,
+    "pari": 3.1,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2024-04-23",
+   "fuori": "Pau FC",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.14,
+    "over25": 1.89,
+    "pari": 3.25,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-04-23",
+   "fuori": "Ajaccio",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.73,
+    "fuori": 2.02,
+    "over25": 3.57,
+    "pari": 2.77,
+    "under25": 1.28
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2024-04-27",
+   "fuori": "Caen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.11,
+    "over25": 1.69,
+    "pari": 4.01,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2024-04-27",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.89,
+    "fuori": 2.7,
+    "over25": 2.86,
+    "pari": 2.8,
+    "under25": 1.4
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2024-04-27",
+   "fuori": "Troyes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.91,
+    "over25": 2.18,
+    "pari": 3.13,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2024-04-27",
+   "fuori": "Bastia",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.17,
+    "over25": 2.04,
+    "pari": 3.48,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-04-27",
+   "fuori": "Rodez",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.23,
+    "over25": 1.88,
+    "pari": 3.27,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2024-04-27",
+   "fuori": "Bordeaux",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.53,
+    "over25": 1.95,
+    "pari": 3.22,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2024-04-27",
+   "fuori": "Angers",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.15,
+    "over25": 2.19,
+    "pari": 3.14,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2024-04-27",
+   "fuori": "Guingamp",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.59,
+    "over25": 2.14,
+    "pari": 3.15,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-04-27",
+   "fuori": "Grenoble",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.21,
+    "over25": 2.06,
+    "pari": 3.26,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2024-04-29",
+   "fuori": "Auxerre",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.1,
+    "fuori": 1.8,
+    "over25": 1.73,
+    "pari": 3.67,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2024-05-03",
+   "fuori": "Pau FC",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 4.77,
+    "over25": 1.57,
+    "pari": 4.08,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-05-03",
+   "fuori": "Amiens",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 3.06,
+    "over25": 2.32,
+    "pari": 2.99,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-05-03",
+   "fuori": "Ajaccio",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.95,
+    "over25": 2.13,
+    "pari": 3.22,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-05-03",
+   "fuori": "Laval",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.51,
+    "over25": 2.18,
+    "pari": 3.21,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-05-03",
+   "fuori": "Concarneau",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.18,
+    "over25": 1.78,
+    "pari": 3.46,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-05-03",
+   "fuori": "Dunkerque",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.52,
+    "over25": 1.86,
+    "pari": 3.39,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-05-03",
+   "fuori": "Annecy",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.29,
+    "over25": 1.63,
+    "pari": 3.69,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-05-04",
+   "fuori": "Paris FC",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.77,
+    "over25": 1.69,
+    "pari": 3.66,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-05-04",
+   "fuori": "St Etienne",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.89,
+    "fuori": 2.34,
+    "over25": 1.83,
+    "pari": 3.36,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Ajaccio",
+   "data": "2024-05-10",
+   "fuori": "Grenoble",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.42,
+    "over25": 2.33,
+    "pari": 3.03,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Amiens",
+   "data": "2024-05-10",
+   "fuori": "Auxerre",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.6,
+    "fuori": 1.92,
+    "over25": 1.56,
+    "pari": 3.73,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2024-05-10",
+   "fuori": "Angers",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.38,
+    "fuori": 2.03,
+    "over25": 1.74,
+    "pari": 3.57,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Concarneau",
+   "data": "2024-05-10",
+   "fuori": "Bordeaux",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.32,
+    "over25": 1.7,
+    "pari": 3.51,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2024-05-10",
+   "fuori": "Caen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.63,
+    "fuori": 1.98,
+    "over25": 1.89,
+    "pari": 3.48,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2024-05-10",
+   "fuori": "Troyes",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.23,
+    "over25": 1.89,
+    "pari": 3.42,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2024-05-10",
+   "fuori": "Guingamp",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.09,
+    "over25": 2.02,
+    "pari": 3.25,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2024-05-10",
+   "fuori": "Bastia",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.23,
+    "over25": 1.64,
+    "pari": 3.8,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2024-05-10",
+   "fuori": "Rodez",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.32,
+    "over25": 1.47,
+    "pari": 4.13,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "Valenciennes",
+   "data": "2024-05-10",
+   "fuori": "Quevilly Rouen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.12,
+    "fuori": 2.25,
+    "over25": 2.04,
+    "pari": 3.32,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Angers",
+   "data": "2024-05-17",
+   "fuori": "Dunkerque",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.2,
+    "over25": 1.57,
+    "pari": 4.48,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Auxerre",
+   "data": "2024-05-17",
+   "fuori": "Concarneau",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 6.51,
+    "over25": 1.32,
+    "pari": 5.31,
+    "under25": 3.24
+   }
+  },
+  {
+   "casa": "Bastia",
+   "data": "2024-05-17",
+   "fuori": "Paris FC",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.11,
+    "fuori": 1.81,
+    "over25": 1.85,
+    "pari": 3.66,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Bordeaux",
+   "data": "2024-05-17",
+   "fuori": "Pau FC",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 3.97,
+    "over25": 1.34,
+    "pari": 4.24,
+    "under25": 3.17
+   }
+  },
+  {
+   "casa": "Caen",
+   "data": "2024-05-17",
+   "fuori": "Valenciennes",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 7.96,
+    "over25": 1.51,
+    "pari": 5.12,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2024-05-17",
+   "fuori": "Amiens",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.03,
+    "over25": 1.82,
+    "pari": 3.31,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2024-05-17",
+   "fuori": "Laval",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.63,
+    "over25": 1.79,
+    "pari": 3.69,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Quevilly Rouen",
+   "data": "2024-05-17",
+   "fuori": "St Etienne",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.95,
+    "fuori": 1.57,
+    "over25": 1.43,
+    "pari": 4.35,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2024-05-17",
+   "fuori": "Ajaccio",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.19,
+    "over25": 1.72,
+    "pari": 4.55,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2024-05-17",
+   "fuori": "Annecy",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.5,
+    "over25": 1.55,
+    "pari": 3.73,
+    "under25": 2.37
+   }
+  }
+ ],
+ "stagione": "2023-24"
+}

@@ -1,0 +1,434 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "SC1",
+ "nome": "Championship",
+ "paese": "Scozia",
+ "partite": [
+  {
+   "casa": "Ayr",
+   "data": "2026-08-01",
+   "fuori": "Arbroath",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.32,
+    "over25": 2.27,
+    "pari": 3.04,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2026-08-01",
+   "fuori": "Dunfermline",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.66,
+    "over25": 2.04,
+    "pari": 3.07,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Livingston",
+   "data": "2026-08-01",
+   "fuori": "Queens Park",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.33,
+    "over25": 1.86,
+    "pari": 4.01,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-08-01",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.93,
+    "fuori": 1.57,
+    "over25": 1.7,
+    "pari": 3.83,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-08-01",
+   "fuori": "Stenhousemuir",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.57,
+    "over25": 1.92,
+    "pari": 4.16,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-08-07",
+   "fuori": "Livingston",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 2.84,
+    "over25": 1.75,
+    "pari": 3.24,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-08-08",
+   "fuori": "Inverness C",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.89,
+    "fuori": 2.22,
+    "over25": 1.95,
+    "pari": 3.23,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-08-08",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.64,
+    "over25": 2.09,
+    "pari": 3.19,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-08-08",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.03,
+    "over25": 1.94,
+    "pari": 3.24,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Stenhousemuir",
+   "data": "2026-08-08",
+   "fuori": "Morton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.22,
+    "over25": 1.9,
+    "pari": 3.19,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2026-08-21",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.5,
+    "over25": 1.74,
+    "pari": 3.25,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Livingston",
+   "data": "2026-08-22",
+   "fuori": "Dunfermline",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.06,
+    "over25": 1.79,
+    "pari": 3.59,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Morton",
+   "data": "2026-08-22",
+   "fuori": "Arbroath",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.57,
+    "fuori": 1.98,
+    "over25": 2.18,
+    "pari": 3.17,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-08-22",
+   "fuori": "Stenhousemuir",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.63,
+    "over25": 2.09,
+    "pari": 3.15,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-08-22",
+   "fuori": "Ayr",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 3.95,
+    "over25": 2.04,
+    "pari": 3.32,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Dunfermline",
+   "data": "2026-08-28",
+   "fuori": "Raith Rvs",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.69,
+    "over25": 1.95,
+    "pari": 3.21,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-08-29",
+   "fuori": "Livingston",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.36,
+    "fuori": 1.97,
+    "over25": 1.81,
+    "pari": 3.38,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Ayr",
+   "data": "2026-08-29",
+   "fuori": "Morton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.82,
+    "over25": 1.98,
+    "pari": 3.56,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-08-29",
+   "fuori": "Queens Park",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 9.17,
+    "over25": 1.66,
+    "pari": 4.9,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Stenhousemuir",
+   "data": "2026-08-29",
+   "fuori": "Inverness C",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.45,
+    "fuori": 1.71,
+    "over25": 1.95,
+    "pari": 3.46,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Livingston",
+   "data": "2026-09-04",
+   "fuori": "Stenhousemuir",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.32,
+    "over25": 1.62,
+    "pari": 4.32,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-09-05",
+   "fuori": "Dunfermline",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.39,
+    "over25": 2.13,
+    "pari": 3.01,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2026-09-05",
+   "fuori": "Raith Rvs",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.1,
+    "over25": 2.07,
+    "pari": 3.18,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Partick",
+   "data": "2026-09-05",
+   "fuori": "Ayr",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.5,
+    "over25": 1.61,
+    "pari": 4.07,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-09-05",
+   "fuori": "Morton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.82,
+    "over25": 1.96,
+    "pari": 3.2,
+    "under25": 1.76
+   }
+  }
+ ],
+ "stagione": "2026-27"
+}

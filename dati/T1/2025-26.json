@@ -1,0 +1,5211 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "T1",
+ "nome": "Super Lig",
+ "paese": "Turchia",
+ "partite": [
+  {
+   "casa": "Gaziantep",
+   "data": "2025-08-08",
+   "fuori": "Galatasaray",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 6.61,
+    "fuori": 1.4,
+    "over25": 1.52,
+    "pari": 4.71,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2025-08-09",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.61,
+    "over25": 1.84,
+    "pari": 3.69,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2025-08-09",
+   "fuori": "Kasimpasa",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.62,
+    "over25": 1.89,
+    "pari": 3.29,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2025-08-10",
+   "fuori": "Goztep",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.44,
+    "over25": 1.75,
+    "pari": 3.51,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2025-08-10",
+   "fuori": "Konyaspor",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.9,
+    "over25": 2.07,
+    "pari": 3.22,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2025-08-11",
+   "fuori": "Kocaelispor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.64,
+    "over25": 1.67,
+    "pari": 4.23,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2025-08-15",
+   "fuori": "Karagumruk",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 16.78,
+    "over25": 1.31,
+    "pari": 8.27,
+    "under25": 3.21
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2025-08-16",
+   "fuori": "Samsunspor",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.69,
+    "over25": 2.03,
+    "pari": 3.26,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2025-08-16",
+   "fuori": "Rizespor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.78,
+    "over25": 1.78,
+    "pari": 3.38,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2025-08-16",
+   "fuori": "Fenerbahce",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.88,
+    "fuori": 1.89,
+    "over25": 1.96,
+    "pari": 3.45,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2025-08-17",
+   "fuori": "Antalyaspor",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.78,
+    "over25": 2.1,
+    "pari": 3.13,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2025-08-17",
+   "fuori": "Gaziantep",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 3.96,
+    "over25": 1.82,
+    "pari": 3.58,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2025-08-17",
+   "fuori": "Eyupspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 5.5,
+    "over25": 1.52,
+    "pari": 4.57,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2025-08-17",
+   "fuori": "Kayserispor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.17,
+    "over25": 1.77,
+    "pari": 3.66,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2025-08-18",
+   "fuori": "Trabzonspor",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.25,
+    "over25": 1.71,
+    "pari": 3.44,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2025-08-22",
+   "fuori": "Goztep",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 4.19,
+    "fuori": 1.82,
+    "over25": 1.99,
+    "pari": 3.46,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2025-08-23",
+   "fuori": "Kocaelispor",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.26,
+    "fuori": 9.16,
+    "over25": 1.5,
+    "pari": 5.59,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2025-08-23",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.14,
+    "over25": 1.99,
+    "pari": 3.3,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2025-08-24",
+   "fuori": "Antalyaspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 6.14,
+    "over25": 1.83,
+    "pari": 4.14,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2025-08-24",
+   "fuori": "Galatasaray",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 6.48,
+    "fuori": 1.37,
+    "over25": 1.41,
+    "pari": 5.06,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2025-08-25",
+   "fuori": "Alanyaspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.55,
+    "over25": 1.88,
+    "pari": 3.42,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2025-08-29",
+   "fuori": "Konyaspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.41,
+    "over25": 1.93,
+    "pari": 3.51,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2025-08-30",
+   "fuori": "Gaziantep",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.11,
+    "over25": 1.74,
+    "pari": 3.53,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2025-08-30",
+   "fuori": "Kayserispor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.48,
+    "over25": 1.87,
+    "pari": 3.42,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2025-08-30",
+   "fuori": "Karagumruk",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.76,
+    "over25": 2.04,
+    "pari": 3.4,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2025-08-30",
+   "fuori": "Rizespor",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 12.25,
+    "over25": 1.27,
+    "pari": 7.34,
+    "under25": 3.44
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2025-08-31",
+   "fuori": "Eyupspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.37,
+    "over25": 1.78,
+    "pari": 3.51,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2025-08-31",
+   "fuori": "Fenerbahce",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 6.16,
+    "fuori": 1.46,
+    "over25": 1.69,
+    "pari": 4.3,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2025-08-31",
+   "fuori": "Besiktas",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.5,
+    "fuori": 1.96,
+    "over25": 1.78,
+    "pari": 3.53,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2025-08-31",
+   "fuori": "Samsunspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.44,
+    "over25": 1.91,
+    "pari": 3.64,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2025-09-13",
+   "fuori": "Galatasaray",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 8.19,
+    "fuori": 1.31,
+    "over25": 1.42,
+    "pari": 5.27,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2025-09-13",
+   "fuori": "Kasimpasa",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.32,
+    "over25": 2.07,
+    "pari": 3.2,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2025-09-13",
+   "fuori": "Antalyaspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.24,
+    "over25": 2.1,
+    "pari": 3.63,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2025-09-13",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.51,
+    "over25": 1.6,
+    "pari": 3.99,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2025-09-13",
+   "fuori": "Alanyaspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.64,
+    "over25": 1.95,
+    "pari": 3.38,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2025-09-14",
+   "fuori": "Goztep",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.53,
+    "fuori": 2.01,
+    "over25": 1.78,
+    "pari": 3.42,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2025-09-14",
+   "fuori": "Trabzonspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.9,
+    "over25": 1.65,
+    "pari": 4.57,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2025-09-14",
+   "fuori": "Kocaelispor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.98,
+    "over25": 1.86,
+    "pari": 3.29,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2025-09-15",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.53,
+    "over25": 1.75,
+    "pari": 3.96,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2025-09-17",
+   "fuori": "Alanyaspor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 11.1,
+    "over25": 1.57,
+    "pari": 5.75,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2025-09-17",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 1.96,
+    "over25": 1.94,
+    "pari": 3.44,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2025-09-17",
+   "fuori": "Kasimpasa",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.15,
+    "over25": 1.88,
+    "pari": 3.54,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2025-09-19",
+   "fuori": "Besiktas",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.85,
+    "over25": 1.74,
+    "pari": 3.45,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2025-09-20",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 2.94,
+    "over25": 1.98,
+    "pari": 3.27,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2025-09-20",
+   "fuori": "Kayserispor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 2.98,
+    "over25": 1.84,
+    "pari": 3.32,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2025-09-20",
+   "fuori": "Gaziantep",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.47,
+    "over25": 1.72,
+    "pari": 3.8,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2025-09-21",
+   "fuori": "Alanyaspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.97,
+    "over25": 1.91,
+    "pari": 3.49,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2025-09-21",
+   "fuori": "Rizespor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.44,
+    "over25": 1.89,
+    "pari": 3.37,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2025-09-21",
+   "fuori": "Fenerbahce",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 8.0,
+    "fuori": 1.34,
+    "over25": 1.59,
+    "pari": 4.99,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2025-09-21",
+   "fuori": "Karagumruk",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.53,
+    "over25": 1.9,
+    "pari": 3.57,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2025-09-22",
+   "fuori": "Konyaspor",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 10.47,
+    "over25": 1.33,
+    "pari": 6.59,
+    "under25": 3.14
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2025-09-24",
+   "fuori": "Besiktas",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 5.25,
+    "fuori": 1.54,
+    "over25": 1.58,
+    "pari": 4.23,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2025-09-26",
+   "fuori": "Galatasaray",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 6.22,
+    "fuori": 1.43,
+    "over25": 1.5,
+    "pari": 4.65,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2025-09-27",
+   "fuori": "Goztep",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.23,
+    "over25": 2.08,
+    "pari": 3.26,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2025-09-27",
+   "fuori": "Samsunspor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.71,
+    "over25": 2.04,
+    "pari": 3.2,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2025-09-27",
+   "fuori": "Trabzonspor",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.05,
+    "over25": 1.8,
+    "pari": 3.5,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2025-09-28",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.22,
+    "over25": 1.91,
+    "pari": 3.34,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2025-09-28",
+   "fuori": "Kasimpasa",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.51,
+    "over25": 1.87,
+    "pari": 3.48,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2025-09-28",
+   "fuori": "Antalyaspor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 12.0,
+    "over25": 1.51,
+    "pari": 6.08,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2025-09-28",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.19,
+    "over25": 1.83,
+    "pari": 3.35,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2025-09-29",
+   "fuori": "Kocaelispor",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 7.24,
+    "over25": 1.51,
+    "pari": 4.9,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2025-10-03",
+   "fuori": "Rizespor",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.6,
+    "over25": 2.07,
+    "pari": 3.2,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2025-10-03",
+   "fuori": "Kayserispor",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.86,
+    "over25": 1.56,
+    "pari": 4.69,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2025-10-04",
+   "fuori": "Alanyaspor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.2,
+    "fuori": 2.17,
+    "over25": 1.96,
+    "pari": 3.33,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2025-10-04",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.27,
+    "over25": 1.94,
+    "pari": 3.33,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2025-10-04",
+   "fuori": "Besiktas",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.19,
+    "over25": 1.43,
+    "pari": 4.16,
+    "under25": 2.66
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2025-10-05",
+   "fuori": "Konyaspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.58,
+    "over25": 1.92,
+    "pari": 3.28,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2025-10-05",
+   "fuori": "Gaziantep",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.33,
+    "over25": 1.85,
+    "pari": 3.33,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2025-10-05",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.07,
+    "over25": 1.98,
+    "pari": 3.37,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2025-10-05",
+   "fuori": "Fenerbahce",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.37,
+    "fuori": 1.73,
+    "over25": 1.76,
+    "pari": 3.73,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2025-10-18",
+   "fuori": "Kocaelispor",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.17,
+    "over25": 1.91,
+    "pari": 3.51,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2025-10-18",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 10.5,
+    "over25": 1.45,
+    "pari": 5.93,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2025-10-18",
+   "fuori": "Trabzonspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.23,
+    "over25": 1.87,
+    "pari": 3.35,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2025-10-18",
+   "fuori": "Galatasaray",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.55,
+    "fuori": 1.62,
+    "over25": 1.5,
+    "pari": 4.16,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2025-10-19",
+   "fuori": "Samsunspor",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.94,
+    "fuori": 2.27,
+    "over25": 1.81,
+    "pari": 3.37,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2025-10-19",
+   "fuori": "Goztep",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.64,
+    "over25": 2.2,
+    "pari": 3.06,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2025-10-19",
+   "fuori": "Antalyaspor",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.32,
+    "over25": 1.82,
+    "pari": 3.58,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2025-10-19",
+   "fuori": "Karagumruk",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 10.28,
+    "over25": 1.46,
+    "pari": 5.98,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2025-10-20",
+   "fuori": "Kasimpasa",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.81,
+    "over25": 2.09,
+    "pari": 3.18,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2025-10-22",
+   "fuori": "Besiktas",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.97,
+    "fuori": 2.21,
+    "over25": 1.72,
+    "pari": 3.49,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2025-10-22",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.82,
+    "over25": 1.83,
+    "pari": 3.37,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2025-10-24",
+   "fuori": "Kayserispor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.08,
+    "over25": 1.7,
+    "pari": 3.49,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2025-10-25",
+   "fuori": "Alanyaspor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.07,
+    "over25": 2.07,
+    "pari": 3.2,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2025-10-25",
+   "fuori": "Eyupspor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.86,
+    "over25": 1.69,
+    "pari": 3.98,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2025-10-26",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 4.06,
+    "fuori": 1.85,
+    "over25": 1.94,
+    "pari": 3.48,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2025-10-26",
+   "fuori": "Goztep",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 7.33,
+    "over25": 1.54,
+    "pari": 4.93,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2025-10-26",
+   "fuori": "Konyaspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.05,
+    "fuori": 2.29,
+    "over25": 2.06,
+    "pari": 3.2,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2025-10-26",
+   "fuori": "Besiktas",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.54,
+    "fuori": 1.66,
+    "over25": 1.65,
+    "pari": 3.9,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2025-10-27",
+   "fuori": "Fenerbahce",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.71,
+    "fuori": 1.62,
+    "over25": 1.62,
+    "pari": 4.04,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2025-10-27",
+   "fuori": "Rizespor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.04,
+    "over25": 1.85,
+    "pari": 3.5,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2025-10-31",
+   "fuori": "Kocaelispor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.73,
+    "over25": 2.01,
+    "pari": 3.3,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2025-11-01",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 6.47,
+    "over25": 1.91,
+    "pari": 4.02,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2025-11-01",
+   "fuori": "Trabzonspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.32,
+    "over25": 1.41,
+    "pari": 4.87,
+    "under25": 2.71
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2025-11-02",
+   "fuori": "Samsunspor",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.73,
+    "over25": 1.91,
+    "pari": 3.28,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2025-11-02",
+   "fuori": "Kasimpasa",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.21,
+    "over25": 1.73,
+    "pari": 3.5,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2025-11-02",
+   "fuori": "Fenerbahce",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.11,
+    "fuori": 2.13,
+    "over25": 1.66,
+    "pari": 3.51,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2025-11-03",
+   "fuori": "Gaziantep",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.0,
+    "over25": 1.74,
+    "pari": 3.62,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2025-11-03",
+   "fuori": "Antalyaspor",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.6,
+    "over25": 1.79,
+    "pari": 3.72,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2025-11-03",
+   "fuori": "Karagumruk",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.5,
+    "over25": 1.69,
+    "pari": 3.83,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2025-11-07",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.17,
+    "fuori": 2.16,
+    "over25": 1.92,
+    "pari": 3.34,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2025-11-08",
+   "fuori": "Rizespor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.04,
+    "over25": 1.76,
+    "pari": 3.4,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2025-11-08",
+   "fuori": "Alanyaspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.87,
+    "over25": 1.68,
+    "pari": 3.82,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2025-11-08",
+   "fuori": "Besiktas",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.45,
+    "fuori": 1.67,
+    "over25": 1.64,
+    "pari": 3.98,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2025-11-08",
+   "fuori": "Goztep",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.38,
+    "fuori": 2.12,
+    "over25": 2.09,
+    "pari": 3.25,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2025-11-09",
+   "fuori": "Konyaspor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.56,
+    "over25": 1.79,
+    "pari": 3.37,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2025-11-09",
+   "fuori": "Galatasaray",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 6.66,
+    "fuori": 1.42,
+    "over25": 1.64,
+    "pari": 4.42,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2025-11-09",
+   "fuori": "Kayserispor",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 12.06,
+    "over25": 1.36,
+    "pari": 6.93,
+    "under25": 2.96
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2025-11-09",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.59,
+    "over25": 1.78,
+    "pari": 3.73,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2025-11-22",
+   "fuori": "Gaziantep",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.66,
+    "over25": 1.61,
+    "pari": 3.49,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2025-11-22",
+   "fuori": "Karagumruk",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.51,
+    "over25": 1.79,
+    "pari": 3.4,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2025-11-22",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.17,
+    "fuori": 14.03,
+    "over25": 1.5,
+    "pari": 6.67,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2025-11-23",
+   "fuori": "Kocaelispor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.99,
+    "over25": 2.25,
+    "pari": 3.13,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2025-11-23",
+   "fuori": "Kasimpasa",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.98,
+    "over25": 1.83,
+    "pari": 3.5,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2025-11-23",
+   "fuori": "Samsunspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.62,
+    "over25": 1.66,
+    "pari": 3.55,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2025-11-23",
+   "fuori": "Fenerbahce",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.29,
+    "fuori": 1.57,
+    "over25": 1.65,
+    "pari": 4.05,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2025-11-24",
+   "fuori": "Trabzonspor",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.79,
+    "over25": 1.78,
+    "pari": 3.34,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2025-11-24",
+   "fuori": "Antalyaspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.7,
+    "over25": 1.79,
+    "pari": 3.74,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2025-11-28",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.95,
+    "over25": 2.04,
+    "pari": 3.54,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2025-11-29",
+   "fuori": "Kayserispor",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.78,
+    "over25": 1.59,
+    "pari": 3.69,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2025-11-29",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.55,
+    "over25": 1.69,
+    "pari": 3.57,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2025-11-29",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.19,
+    "over25": 1.8,
+    "pari": 3.41,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2025-11-29",
+   "fuori": "Konyaspor",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.56,
+    "over25": 1.62,
+    "pari": 3.99,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2025-11-30",
+   "fuori": "Goztep",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.0,
+    "fuori": 1.91,
+    "over25": 2.11,
+    "pari": 3.3,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2025-11-30",
+   "fuori": "Besiktas",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.35,
+    "fuori": 1.66,
+    "over25": 1.59,
+    "pari": 3.96,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2025-12-01",
+   "fuori": "Galatasaray",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.03,
+    "over25": 1.67,
+    "pari": 3.38,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2025-12-01",
+   "fuori": "Alanyaspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.36,
+    "over25": 1.85,
+    "pari": 3.57,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2025-12-05",
+   "fuori": "Samsunspor",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.21,
+    "over25": 1.51,
+    "pari": 4.55,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2025-12-06",
+   "fuori": "Kayserispor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.49,
+    "over25": 1.77,
+    "pari": 3.43,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2025-12-06",
+   "fuori": "Rizespor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.45,
+    "over25": 1.85,
+    "pari": 3.28,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2025-12-06",
+   "fuori": "Fenerbahce",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.93,
+    "fuori": 1.83,
+    "over25": 1.68,
+    "pari": 3.65,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2025-12-07",
+   "fuori": "Karagumruk",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.38,
+    "over25": 1.92,
+    "pari": 3.32,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2025-12-07",
+   "fuori": "Kasimpasa",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.12,
+    "over25": 2.04,
+    "pari": 3.61,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2025-12-07",
+   "fuori": "Trabzonspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.37,
+    "over25": 1.95,
+    "pari": 3.24,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2025-12-08",
+   "fuori": "Antalyaspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.67,
+    "over25": 1.9,
+    "pari": 3.62,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2025-12-08",
+   "fuori": "Gaziantep",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.03,
+    "over25": 1.45,
+    "pari": 4.95,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2025-12-12",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.67,
+    "over25": 1.92,
+    "pari": 3.24,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2025-12-13",
+   "fuori": "Eyupspor",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 3.99,
+    "over25": 1.73,
+    "pari": 3.63,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2025-12-13",
+   "fuori": "Alanyaspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.47,
+    "over25": 1.91,
+    "pari": 3.29,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2025-12-13",
+   "fuori": "Galatasaray",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 7.14,
+    "fuori": 1.35,
+    "over25": 1.49,
+    "pari": 5.01,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2025-12-14",
+   "fuori": "Goztep",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 3.25,
+    "fuori": 2.17,
+    "over25": 1.97,
+    "pari": 3.25,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2025-12-14",
+   "fuori": "Kocaelispor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.52,
+    "fuori": 2.12,
+    "over25": 2.22,
+    "pari": 3.1,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2025-12-14",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.48,
+    "over25": 1.75,
+    "pari": 3.41,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2025-12-14",
+   "fuori": "Besiktas",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.48,
+    "over25": 1.66,
+    "pari": 3.44,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2025-12-15",
+   "fuori": "Konyaspor",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 11.27,
+    "over25": 1.47,
+    "pari": 6.16,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2025-12-19",
+   "fuori": "Antalyaspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.42,
+    "over25": 2.22,
+    "pari": 3.47,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2025-12-20",
+   "fuori": "Kayserispor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.48,
+    "over25": 1.68,
+    "pari": 3.54,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2025-12-20",
+   "fuori": "Fenerbahce",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 7.03,
+    "fuori": 1.39,
+    "over25": 1.61,
+    "pari": 4.67,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2025-12-20",
+   "fuori": "Rizespor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 3.94,
+    "over25": 1.54,
+    "pari": 3.86,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2025-12-21",
+   "fuori": "Karagumruk",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.6,
+    "over25": 1.96,
+    "pari": 3.53,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2025-12-21",
+   "fuori": "Kasimpasa",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 10.69,
+    "over25": 1.33,
+    "pari": 6.58,
+    "under25": 3.13
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2025-12-21",
+   "fuori": "Samsunspor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.54,
+    "over25": 2.61,
+    "pari": 2.89,
+    "under25": 1.43
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2025-12-22",
+   "fuori": "Gaziantep",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 4.83,
+    "over25": 1.59,
+    "pari": 4.01,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2025-12-22",
+   "fuori": "Trabzonspor",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.22,
+    "over25": 1.83,
+    "pari": 3.33,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-01-17",
+   "fuori": "Karagumruk",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.17,
+    "over25": 1.62,
+    "pari": 4.37,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-01-17",
+   "fuori": "Gaziantep",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 11.52,
+    "over25": 1.34,
+    "pari": 6.89,
+    "under25": 3.01
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-01-18",
+   "fuori": "Antalyaspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.51,
+    "over25": 2.08,
+    "pari": 3.16,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-01-18",
+   "fuori": "Samsunspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.18,
+    "over25": 2.17,
+    "pari": 3.12,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2026-01-18",
+   "fuori": "Trabzonspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.78,
+    "over25": 2.01,
+    "pari": 3.19,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-01-18",
+   "fuori": "Fenerbahce",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.69,
+    "fuori": 1.54,
+    "over25": 1.86,
+    "pari": 3.96,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-01-19",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 7.24,
+    "over25": 1.68,
+    "pari": 4.59,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-01-19",
+   "fuori": "Kayserispor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 6.75,
+    "over25": 1.4,
+    "pari": 5.0,
+    "under25": 2.72
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-01-19",
+   "fuori": "Rizespor",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.82,
+    "over25": 2.24,
+    "pari": 3.1,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2026-01-23",
+   "fuori": "Kasimpasa",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.16,
+    "over25": 1.56,
+    "pari": 4.21,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2026-01-24",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.11,
+    "over25": 1.75,
+    "pari": 3.38,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2026-01-24",
+   "fuori": "Kocaelispor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.35,
+    "over25": 2.63,
+    "pari": 2.9,
+    "under25": 1.43
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2026-01-24",
+   "fuori": "Galatasaray",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 9.92,
+    "fuori": 1.23,
+    "over25": 1.41,
+    "pari": 5.86,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2026-01-25",
+   "fuori": "Konyaspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.05,
+    "over25": 1.73,
+    "pari": 3.37,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2026-01-25",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.57,
+    "over25": 2.13,
+    "pari": 3.09,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2026-01-25",
+   "fuori": "Alanyaspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.1,
+    "over25": 2.01,
+    "pari": 3.3,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2026-01-25",
+   "fuori": "Goztep",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 7.12,
+    "over25": 1.74,
+    "pari": 4.41,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2026-01-26",
+   "fuori": "Besiktas",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 9.23,
+    "fuori": 1.25,
+    "over25": 1.39,
+    "pari": 5.71,
+    "under25": 2.8
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2026-01-30",
+   "fuori": "Trabzonspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.03,
+    "fuori": 1.83,
+    "over25": 1.82,
+    "pari": 3.48,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-01-30",
+   "fuori": "Samsunspor",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.16,
+    "over25": 2.04,
+    "pari": 3.17,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-01-31",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.55,
+    "over25": 1.78,
+    "pari": 3.9,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-01-31",
+   "fuori": "Rizespor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.25,
+    "over25": 1.58,
+    "pari": 3.83,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-01-31",
+   "fuori": "Konyaspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.06,
+    "over25": 1.5,
+    "pari": 4.38,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-01-31",
+   "fuori": "Karagumruk",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 6.39,
+    "over25": 1.92,
+    "pari": 3.93,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-02-01",
+   "fuori": "Gaziantep",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.13,
+    "over25": 1.79,
+    "pari": 3.34,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-02-01",
+   "fuori": "Kayserispor",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 10.75,
+    "over25": 1.34,
+    "pari": 6.37,
+    "under25": 3.04
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2026-02-02",
+   "fuori": "Fenerbahce",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.07,
+    "fuori": 1.65,
+    "over25": 1.9,
+    "pari": 3.6,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2026-02-07",
+   "fuori": "Antalyaspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.1,
+    "over25": 2.21,
+    "pari": 3.08,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2026-02-07",
+   "fuori": "Trabzonspor",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.98,
+    "over25": 1.9,
+    "pari": 3.2,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2026-02-08",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 4.77,
+    "fuori": 1.63,
+    "over25": 1.62,
+    "pari": 3.81,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-02-08",
+   "fuori": "Goztep",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.82,
+    "over25": 2.13,
+    "pari": 3.09,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2026-02-08",
+   "fuori": "Galatasaray",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 5.0,
+    "fuori": 1.56,
+    "over25": 1.51,
+    "pari": 4.21,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-02-08",
+   "fuori": "Alanyaspor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.42,
+    "over25": 1.57,
+    "pari": 4.25,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2026-02-09",
+   "fuori": "Kocaelispor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 2.23,
+    "over25": 2.16,
+    "pari": 3.13,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2026-02-09",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 10.84,
+    "over25": 1.51,
+    "pari": 5.78,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2026-02-09",
+   "fuori": "Kasimpasa",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.31,
+    "over25": 1.82,
+    "pari": 3.37,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2026-02-13",
+   "fuori": "Samsunspor",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 2.05,
+    "over25": 2.12,
+    "pari": 3.2,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-02-13",
+   "fuori": "Eyupspor",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 15.31,
+    "over25": 1.29,
+    "pari": 7.95,
+    "under25": 3.37
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-02-14",
+   "fuori": "Rizespor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.9,
+    "over25": 1.95,
+    "pari": 3.16,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-02-14",
+   "fuori": "Konyaspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.16,
+    "over25": 1.93,
+    "pari": 3.26,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2026-02-14",
+   "fuori": "Fenerbahce",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.39,
+    "fuori": 2.02,
+    "over25": 1.75,
+    "pari": 3.47,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2026-02-15",
+   "fuori": "Gaziantep",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.05,
+    "over25": 2.02,
+    "pari": 3.31,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-02-15",
+   "fuori": "Kayserispor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 5.03,
+    "over25": 2.11,
+    "pari": 3.43,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-02-15",
+   "fuori": "Besiktas",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.45,
+    "over25": 1.65,
+    "pari": 3.43,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-02-16",
+   "fuori": "Karagumruk",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.46,
+    "over25": 2.04,
+    "pari": 3.23,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2026-02-20",
+   "fuori": "Kocaelispor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.12,
+    "over25": 2.07,
+    "pari": 3.15,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2026-02-21",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "10:30",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.26,
+    "over25": 1.81,
+    "pari": 3.32,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-02-21",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.86,
+    "fuori": 2.31,
+    "over25": 1.77,
+    "pari": 3.32,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-02-21",
+   "fuori": "Galatasaray",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.92,
+    "fuori": 1.61,
+    "over25": 1.65,
+    "pari": 3.95,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2026-02-22",
+   "fuori": "Antalyaspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "10:30",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.74,
+    "over25": 1.96,
+    "pari": 3.34,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2026-02-22",
+   "fuori": "Trabzonspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 3.67,
+    "fuori": 1.9,
+    "over25": 1.68,
+    "pari": 3.54,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-02-22",
+   "fuori": "Goztep",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.93,
+    "over25": 1.77,
+    "pari": 3.78,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2026-02-22",
+   "fuori": "Samsunspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.97,
+    "fuori": 2.39,
+    "over25": 2.15,
+    "pari": 3.08,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2026-02-23",
+   "fuori": "Kasimpasa",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 9.25,
+    "over25": 1.56,
+    "pari": 5.34,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-02-27",
+   "fuori": "Konyaspor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.55,
+    "over25": 1.78,
+    "pari": 3.57,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2026-02-27",
+   "fuori": "Karagumruk",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.37,
+    "over25": 1.67,
+    "pari": 4.26,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-02-28",
+   "fuori": "Rizespor",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "10:30",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.41,
+    "over25": 1.84,
+    "pari": 3.27,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2026-02-28",
+   "fuori": "Besiktas",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 3.48,
+    "fuori": 2.09,
+    "over25": 2.09,
+    "pari": 3.13,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-02-28",
+   "fuori": "Alanyaspor",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 8.18,
+    "over25": 1.45,
+    "pari": 5.27,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-02-28",
+   "fuori": "Eyupspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.63,
+    "over25": 1.89,
+    "pari": 4.05,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-03-01",
+   "fuori": "Kayserispor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 2.87,
+    "over25": 1.85,
+    "pari": 3.27,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2026-03-01",
+   "fuori": "Fenerbahce",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.88,
+    "fuori": 1.49,
+    "over25": 1.8,
+    "pari": 4.04,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2026-03-01",
+   "fuori": "Gaziantep",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.96,
+    "over25": 1.93,
+    "pari": 3.33,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-03-07",
+   "fuori": "Goztep",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.98,
+    "over25": 1.93,
+    "pari": 3.36,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-03-07",
+   "fuori": "Galatasaray",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.54,
+    "over25": 1.61,
+    "pari": 3.51,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2026-03-08",
+   "fuori": "Karagumruk",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "10:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.29,
+    "over25": 1.86,
+    "pari": 3.35,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2026-03-08",
+   "fuori": "Antalyaspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "10:30",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.49,
+    "over25": 1.77,
+    "pari": 3.89,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-03-08",
+   "fuori": "Kasimpasa",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.29,
+    "over25": 2.04,
+    "pari": 3.2,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2026-03-08",
+   "fuori": "Samsunspor",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.8,
+    "over25": 1.79,
+    "pari": 4.3,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2026-03-09",
+   "fuori": "Kocaelispor",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 3.52,
+    "fuori": 2.08,
+    "over25": 2.23,
+    "pari": 3.14,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-03-09",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.72,
+    "over25": 2.06,
+    "pari": 3.27,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2026-03-09",
+   "fuori": "Trabzonspor",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.38,
+    "fuori": 1.96,
+    "over25": 1.64,
+    "pari": 3.59,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2026-03-13",
+   "fuori": "Gaziantep",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 2.94,
+    "over25": 1.92,
+    "pari": 3.24,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2026-03-13",
+   "fuori": "Fenerbahce",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 6.63,
+    "fuori": 1.43,
+    "over25": 1.67,
+    "pari": 4.26,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2026-03-14",
+   "fuori": "Konyaspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "10:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.31,
+    "over25": 2.38,
+    "pari": 2.92,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-03-14",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 6.47,
+    "over25": 1.39,
+    "pari": 4.89,
+    "under25": 2.79
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-03-14",
+   "fuori": "Alanyaspor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.46,
+    "over25": 2.22,
+    "pari": 3.06,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2026-03-14",
+   "fuori": "Rizespor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 3.9,
+    "over25": 1.62,
+    "pari": 3.67,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-03-15",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.89,
+    "over25": 1.94,
+    "pari": 3.4,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-03-15",
+   "fuori": "Besiktas",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.06,
+    "fuori": 1.57,
+    "over25": 1.67,
+    "pari": 3.95,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2026-03-15",
+   "fuori": "Kayserispor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.64,
+    "over25": 1.85,
+    "pari": 3.38,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2026-03-17",
+   "fuori": "Gaziantep",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 8.66,
+    "over25": 1.43,
+    "pari": 5.47,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-03-18",
+   "fuori": "Kocaelispor",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.85,
+    "over25": 2.17,
+    "pari": 3.2,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-03-18",
+   "fuori": "Antalyaspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.17,
+    "over25": 1.65,
+    "pari": 4.31,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2026-03-18",
+   "fuori": "Trabzonspor",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.14,
+    "fuori": 1.55,
+    "over25": 1.67,
+    "pari": 4.05,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2026-03-19",
+   "fuori": "Karagumruk",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.38,
+    "over25": 1.87,
+    "pari": 3.33,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-03-19",
+   "fuori": "Kasimpasa",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 7.94,
+    "over25": 1.53,
+    "pari": 4.89,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-03-19",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.58,
+    "over25": 1.96,
+    "pari": 3.49,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-04-04",
+   "fuori": "Goztep",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.25,
+    "fuori": 2.22,
+    "over25": 2.22,
+    "pari": 3.06,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-04-04",
+   "fuori": "Kayserispor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.2,
+    "over25": 1.89,
+    "pari": 3.26,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2026-04-04",
+   "fuori": "Alanyaspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.41,
+    "over25": 1.82,
+    "pari": 3.34,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2026-04-04",
+   "fuori": "Galatasaray",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.07,
+    "over25": 1.56,
+    "pari": 3.52,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2026-04-05",
+   "fuori": "Rizespor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.28,
+    "over25": 1.84,
+    "pari": 3.33,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2026-04-05",
+   "fuori": "Konyaspor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.29,
+    "over25": 1.94,
+    "pari": 3.19,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2026-04-05",
+   "fuori": "Eyupspor",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.76,
+    "over25": 2.12,
+    "pari": 3.09,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2026-04-05",
+   "fuori": "Besiktas",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.67,
+    "over25": 1.67,
+    "pari": 3.51,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2026-04-06",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.2,
+    "fuori": 2.15,
+    "over25": 1.92,
+    "pari": 3.26,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-04-08",
+   "fuori": "Galatasaray",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.33,
+    "fuori": 1.75,
+    "over25": 1.84,
+    "pari": 3.54,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2026-04-09",
+   "fuori": "Samsunspor",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.82,
+    "over25": 1.83,
+    "pari": 3.27,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-04-10",
+   "fuori": "Antalyaspor",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 8.45,
+    "over25": 1.48,
+    "pari": 5.18,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-04-11",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.11,
+    "over25": 1.62,
+    "pari": 4.04,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-04-11",
+   "fuori": "Trabzonspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.86,
+    "fuori": 2.29,
+    "over25": 1.8,
+    "pari": 3.32,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2026-04-11",
+   "fuori": "Fenerbahce",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 5.97,
+    "fuori": 1.45,
+    "over25": 1.6,
+    "pari": 4.35,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-04-12",
+   "fuori": "Karagumruk",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.39,
+    "over25": 1.97,
+    "pari": 3.44,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-04-12",
+   "fuori": "Kasimpasa",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.24,
+    "over25": 2.24,
+    "pari": 3.23,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-04-12",
+   "fuori": "Kocaelispor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 10.96,
+    "over25": 1.57,
+    "pari": 5.67,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2026-04-13",
+   "fuori": "Samsunspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.93,
+    "fuori": 1.87,
+    "over25": 1.95,
+    "pari": 3.38,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2026-04-13",
+   "fuori": "Gaziantep",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.12,
+    "over25": 1.62,
+    "pari": 3.67,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2026-04-17",
+   "fuori": "Konyaspor",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.51,
+    "over25": 1.91,
+    "pari": 3.23,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2026-04-17",
+   "fuori": "Rizespor",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 7.87,
+    "over25": 1.44,
+    "pari": 5.19,
+    "under25": 2.63
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2026-04-18",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.84,
+    "over25": 2.02,
+    "pari": 3.5,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2026-04-18",
+   "fuori": "Goztep",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.49,
+    "over25": 2.43,
+    "pari": 2.94,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-04-18",
+   "fuori": "Galatasaray",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 7.08,
+    "fuori": 1.37,
+    "over25": 1.56,
+    "pari": 4.73,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-04-19",
+   "fuori": "Alanyaspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.88,
+    "over25": 2.22,
+    "pari": 3.01,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2026-04-19",
+   "fuori": "Besiktas",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.08,
+    "fuori": 2.09,
+    "over25": 1.6,
+    "pari": 3.52,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2026-04-19",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 3.63,
+    "over25": 1.49,
+    "pari": 3.8,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2026-04-20",
+   "fuori": "Kayserispor",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 2.97,
+    "over25": 1.65,
+    "pari": 3.4,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-04-24",
+   "fuori": "Kasimpasa",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.54,
+    "over25": 1.72,
+    "pari": 3.73,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2026-04-25",
+   "fuori": "Gaziantep",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.49,
+    "over25": 1.73,
+    "pari": 3.38,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2026-04-25",
+   "fuori": "Rizespor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 2.84,
+    "over25": 1.71,
+    "pari": 3.42,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-04-25",
+   "fuori": "Antalyaspor",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.43,
+    "over25": 1.86,
+    "pari": 3.77,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-04-26",
+   "fuori": "Kocaelispor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.75,
+    "over25": 2.22,
+    "pari": 3.07,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-04-26",
+   "fuori": "Fenerbahce",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.54,
+    "over25": 1.73,
+    "pari": 3.35,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-04-27",
+   "fuori": "Samsunspor",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.12,
+    "over25": 1.85,
+    "pari": 3.23,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-04-27",
+   "fuori": "Karagumruk",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 7.16,
+    "over25": 1.51,
+    "pari": 4.93,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-04-27",
+   "fuori": "Trabzonspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.07,
+    "over25": 1.6,
+    "pari": 3.56,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2026-05-01",
+   "fuori": "Konyaspor",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.34,
+    "over25": 1.54,
+    "pari": 3.93,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2026-05-01",
+   "fuori": "Besiktas",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.22,
+    "over25": 1.56,
+    "pari": 3.57,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2026-05-02",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.17,
+    "over25": 1.5,
+    "pari": 4.02,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2026-05-02",
+   "fuori": "Galatasaray",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.48,
+    "fuori": 1.63,
+    "over25": 1.56,
+    "pari": 3.99,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2026-05-02",
+   "fuori": "Goztep",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.29,
+    "over25": 1.67,
+    "pari": 3.66,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2026-05-03",
+   "fuori": "Alanyaspor",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.48,
+    "over25": 2.03,
+    "pari": 3.18,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2026-05-03",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.89,
+    "over25": 2.1,
+    "pari": 3.17,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-05-03",
+   "fuori": "Kocaelispor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.82,
+    "over25": 2.15,
+    "pari": 3.2,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2026-05-03",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.83,
+    "over25": 1.8,
+    "pari": 3.64,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-05-09",
+   "fuori": "Kayserispor",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.55,
+    "over25": 1.74,
+    "pari": 3.37,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-05-09",
+   "fuori": "Trabzonspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 3.93,
+    "over25": 1.33,
+    "pari": 4.21,
+    "under25": 3.06
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-05-09",
+   "fuori": "Samsunspor",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.04,
+    "over25": 1.55,
+    "pari": 3.82,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2026-05-09",
+   "fuori": "Rizespor",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.8,
+    "fuori": 2.27,
+    "over25": 1.73,
+    "pari": 3.36,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-05-09",
+   "fuori": "Antalyaspor",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.11,
+    "fuori": 16.5,
+    "over25": 1.28,
+    "pari": 8.55,
+    "under25": 3.35
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-05-09",
+   "fuori": "Kasimpasa",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.18,
+    "over25": 2.15,
+    "pari": 3.08,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-05-09",
+   "fuori": "Gaziantep",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.22,
+    "over25": 1.66,
+    "pari": 4.07,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2026-05-09",
+   "fuori": "Karagumruk",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.44,
+    "over25": 2.01,
+    "pari": 3.22,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-05-09",
+   "fuori": "Fenerbahce",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.66,
+    "fuori": 1.64,
+    "over25": 1.65,
+    "pari": 3.85,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2026-05-15",
+   "fuori": "Besiktas",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.15,
+    "over25": 1.42,
+    "pari": 3.74,
+    "under25": 2.64
+   }
+  },
+  {
+   "casa": "Karagumruk",
+   "data": "2026-05-16",
+   "fuori": "Alanyaspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.2,
+    "over25": 1.8,
+    "pari": 3.35,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2026-05-16",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.52,
+    "fuori": 1.79,
+    "over25": 1.34,
+    "pari": 4.15,
+    "under25": 3.03
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2026-05-16",
+   "fuori": "Goztep",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.14,
+    "over25": 1.66,
+    "pari": 3.49,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Kayserispor",
+   "data": "2026-05-17",
+   "fuori": "Konyaspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 3.88,
+    "over25": 1.56,
+    "pari": 3.8,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Antalyaspor",
+   "data": "2026-05-17",
+   "fuori": "Kocaelispor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.76,
+    "over25": 1.89,
+    "pari": 3.55,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Fenerbahce",
+   "data": "2026-05-17",
+   "fuori": "Eyupspor",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.34,
+    "over25": 1.42,
+    "pari": 4.76,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-05-17",
+   "fuori": "Galatasaray",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.14,
+    "over25": 1.57,
+    "pari": 3.5,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2026-05-17",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.4,
+    "over25": 1.64,
+    "pari": 3.49,
+    "under25": 2.13
+   }
+  }
+ ],
+ "stagione": "2025-26"
+}

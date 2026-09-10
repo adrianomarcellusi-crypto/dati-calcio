@@ -1,0 +1,6469 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "I1",
+ "nome": "Serie A",
+ "paese": "Italia",
+ "partite": [
+  {
+   "casa": "Genoa",
+   "data": "2024-08-17",
+   "fuori": "Inter",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 7.03,
+    "fuori": 1.49,
+    "over25": 1.87,
+    "pari": 4.27,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-08-17",
+   "fuori": "Fiorentina",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.52,
+    "fuori": 2.15,
+    "over25": 1.88,
+    "pari": 3.36,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2024-08-17",
+   "fuori": "Monza",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 3.12,
+    "over25": 2.22,
+    "pari": 3.15,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2024-08-17",
+   "fuori": "Torino",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 6.58,
+    "over25": 1.78,
+    "pari": 4.37,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2024-08-18",
+   "fuori": "Udinese",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.96,
+    "over25": 2.31,
+    "pari": 3.22,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2024-08-18",
+   "fuori": "Napoli",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.17,
+    "fuori": 1.72,
+    "over25": 1.91,
+    "pari": 3.7,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-08-18",
+   "fuori": "Roma",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.7,
+    "fuori": 2.07,
+    "over25": 1.88,
+    "pari": 3.45,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2024-08-18",
+   "fuori": "Venezia",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 8.56,
+    "over25": 1.88,
+    "pari": 4.65,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2024-08-19",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.58,
+    "fuori": 2.14,
+    "over25": 2.02,
+    "pari": 3.35,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-08-19",
+   "fuori": "Como",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 6.46,
+    "over25": 1.96,
+    "pari": 4.15,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-08-24",
+   "fuori": "Milan",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.36,
+    "fuori": 1.62,
+    "over25": 1.6,
+    "pari": 4.17,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2024-08-24",
+   "fuori": "Lazio",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.34,
+    "fuori": 2.35,
+    "over25": 2.22,
+    "pari": 3.14,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2024-08-24",
+   "fuori": "Lecce",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 14.71,
+    "over25": 1.59,
+    "pari": 6.81,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2024-08-24",
+   "fuori": "Genoa",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.87,
+    "over25": 2.35,
+    "pari": 3.06,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2024-08-25",
+   "fuori": "Venezia",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.75,
+    "over25": 1.72,
+    "pari": 4.59,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2024-08-25",
+   "fuori": "Atalanta",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.53,
+    "fuori": 2.2,
+    "over25": 2.04,
+    "pari": 3.26,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2024-08-25",
+   "fuori": "Bologna",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 4.1,
+    "over25": 2.12,
+    "pari": 3.38,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2024-08-25",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 7.44,
+    "over25": 1.87,
+    "pari": 4.43,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-08-26",
+   "fuori": "Como",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.35,
+    "over25": 2.08,
+    "pari": 3.3,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2024-08-26",
+   "fuori": "Juventus",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.69,
+    "fuori": 1.85,
+    "over25": 2.3,
+    "pari": 3.46,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2024-08-30",
+   "fuori": "Torino",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.39,
+    "fuori": 2.26,
+    "over25": 2.17,
+    "pari": 3.27,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2024-08-30",
+   "fuori": "Atalanta",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.14,
+    "over25": 1.64,
+    "pari": 4.42,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2024-08-31",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 5.37,
+    "over25": 2.24,
+    "pari": 3.62,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2024-08-31",
+   "fuori": "Cagliari",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.5,
+    "over25": 2.31,
+    "pari": 3.16,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2024-08-31",
+   "fuori": "Milan",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.55,
+    "over25": 1.86,
+    "pari": 3.37,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2024-08-31",
+   "fuori": "Parma",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 7.25,
+    "over25": 1.58,
+    "pari": 4.83,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2024-09-01",
+   "fuori": "Monza",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.76,
+    "over25": 2.08,
+    "pari": 3.51,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2024-09-01",
+   "fuori": "Verona",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.88,
+    "over25": 2.32,
+    "pari": 3.24,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-09-01",
+   "fuori": "Roma",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.92,
+    "over25": 2.03,
+    "pari": 3.62,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2024-09-01",
+   "fuori": "Como",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.35,
+    "over25": 2.17,
+    "pari": 3.22,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2024-09-14",
+   "fuori": "Bologna",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.0,
+    "fuori": 2.59,
+    "over25": 2.44,
+    "pari": 3.07,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2024-09-14",
+   "fuori": "Juventus",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 6.05,
+    "fuori": 1.64,
+    "over25": 2.3,
+    "pari": 3.72,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2024-09-14",
+   "fuori": "Venezia",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 10.79,
+    "over25": 1.45,
+    "pari": 6.19,
+    "under25": 2.77
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2024-09-15",
+   "fuori": "Roma",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 3.52,
+    "fuori": 2.21,
+    "over25": 2.19,
+    "pari": 3.25,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2024-09-15",
+   "fuori": "Fiorentina",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.38,
+    "over25": 1.87,
+    "pari": 3.58,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2024-09-15",
+   "fuori": "Lecce",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.47,
+    "over25": 2.36,
+    "pari": 3.34,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-09-15",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.47,
+    "fuori": 1.8,
+    "over25": 1.8,
+    "pari": 3.73,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2024-09-15",
+   "fuori": "Inter",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 8.66,
+    "fuori": 1.37,
+    "over25": 1.79,
+    "pari": 4.95,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-09-16",
+   "fuori": "Udinese",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.31,
+    "over25": 1.98,
+    "pari": 3.4,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2024-09-16",
+   "fuori": "Verona",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 6.2,
+    "over25": 1.95,
+    "pari": 4.06,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-09-20",
+   "fuori": "Empoli",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.84,
+    "over25": 2.24,
+    "pari": 3.29,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2024-09-20",
+   "fuori": "Torino",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.82,
+    "over25": 2.67,
+    "pari": 2.97,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2024-09-21",
+   "fuori": "Genoa",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.62,
+    "over25": 2.23,
+    "pari": 3.12,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-09-21",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 3.17,
+    "over25": 2.3,
+    "pari": 3.17,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2024-09-21",
+   "fuori": "Parma",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.55,
+    "over25": 1.88,
+    "pari": 3.47,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2024-09-22",
+   "fuori": "Lazio",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.14,
+    "over25": 2.07,
+    "pari": 3.27,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2024-09-22",
+   "fuori": "Bologna",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.19,
+    "fuori": 2.57,
+    "over25": 2.62,
+    "pari": 2.93,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2024-09-22",
+   "fuori": "Udinese",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.94,
+    "over25": 1.87,
+    "pari": 4.0,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2024-09-22",
+   "fuori": "Milan",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 5.17,
+    "over25": 1.73,
+    "pari": 3.88,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2024-09-24",
+   "fuori": "Como",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.22,
+    "over25": 1.69,
+    "pari": 4.42,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2024-09-27",
+   "fuori": "Lecce",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 9.91,
+    "over25": 1.48,
+    "pari": 5.9,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2024-09-28",
+   "fuori": "Inter",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 7.54,
+    "fuori": 1.45,
+    "over25": 1.73,
+    "pari": 4.57,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2024-09-28",
+   "fuori": "Juventus",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.3,
+    "fuori": 1.8,
+    "over25": 2.59,
+    "pari": 3.33,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2024-09-28",
+   "fuori": "Atalanta",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.64,
+    "over25": 2.17,
+    "pari": 3.11,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2024-09-29",
+   "fuori": "Lazio",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.53,
+    "over25": 2.26,
+    "pari": 3.08,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2024-09-29",
+   "fuori": "Verona",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.39,
+    "over25": 2.11,
+    "pari": 3.39,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2024-09-29",
+   "fuori": "Venezia",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 7.03,
+    "over25": 1.72,
+    "pari": 4.55,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2024-09-29",
+   "fuori": "Fiorentina",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.45,
+    "fuori": 2.21,
+    "over25": 2.11,
+    "pari": 3.28,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2024-09-29",
+   "fuori": "Monza",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 10.54,
+    "over25": 1.74,
+    "pari": 5.51,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-09-30",
+   "fuori": "Cagliari",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.65,
+    "over25": 1.75,
+    "pari": 3.59,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2024-10-04",
+   "fuori": "Como",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 6.55,
+    "over25": 1.74,
+    "pari": 4.39,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2024-10-04",
+   "fuori": "Venezia",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.94,
+    "over25": 2.12,
+    "pari": 3.19,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2024-10-05",
+   "fuori": "Lecce",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.6,
+    "fuori": 3.06,
+    "over25": 2.35,
+    "pari": 2.97,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2024-10-05",
+   "fuori": "Genoa",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 7.35,
+    "over25": 1.65,
+    "pari": 4.77,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2024-10-05",
+   "fuori": "Torino",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.32,
+    "fuori": 9.83,
+    "over25": 1.68,
+    "pari": 5.3,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-10-06",
+   "fuori": "Cagliari",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 7.11,
+    "over25": 1.9,
+    "pari": 4.27,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2024-10-06",
+   "fuori": "Parma",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.77,
+    "over25": 1.77,
+    "pari": 3.6,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2024-10-06",
+   "fuori": "Empoli",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 6.08,
+    "over25": 2.01,
+    "pari": 3.95,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2024-10-06",
+   "fuori": "Roma",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.08,
+    "fuori": 2.0,
+    "over25": 2.22,
+    "pari": 3.32,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2024-10-06",
+   "fuori": "Milan",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 2.04,
+    "over25": 1.68,
+    "pari": 3.67,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2024-10-19",
+   "fuori": "Parma",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.43,
+    "over25": 1.59,
+    "pari": 3.9,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2024-10-19",
+   "fuori": "Bologna",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.18,
+    "fuori": 2.02,
+    "over25": 2.24,
+    "pari": 3.23,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2024-10-19",
+   "fuori": "Udinese",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 8.32,
+    "over25": 1.58,
+    "pari": 5.12,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-10-19",
+   "fuori": "Lazio",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.92,
+    "over25": 2.31,
+    "pari": 3.18,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2024-10-20",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 5.55,
+    "fuori": 1.7,
+    "over25": 2.1,
+    "pari": 3.65,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2024-10-20",
+   "fuori": "Fiorentina",
+   "gol": [
+    0,
+    6
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.34,
+    "fuori": 2.33,
+    "over25": 2.2,
+    "pari": 3.16,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2024-10-20",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 6.28,
+    "fuori": 1.5,
+    "over25": 1.58,
+    "pari": 4.57,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-10-20",
+   "fuori": "Torino",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 3.25,
+    "over25": 2.21,
+    "pari": 3.03,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2024-10-20",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.02,
+    "fuori": 1.94,
+    "over25": 1.82,
+    "pari": 3.53,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2024-10-21",
+   "fuori": "Monza",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 3.38,
+    "over25": 2.3,
+    "pari": 3.04,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2024-10-25",
+   "fuori": "Cagliari",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.57,
+    "over25": 2.14,
+    "pari": 3.15,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2024-10-25",
+   "fuori": "Como",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.95,
+    "over25": 2.24,
+    "pari": 2.99,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2024-10-26",
+   "fuori": "Lecce",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 9.94,
+    "over25": 1.8,
+    "pari": 5.21,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2024-10-26",
+   "fuori": "Verona",
+   "gol": [
+    6,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 11.06,
+    "over25": 1.55,
+    "pari": 5.63,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-10-27",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.42,
+    "over25": 1.84,
+    "pari": 3.44,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2024-10-27",
+   "fuori": "Genoa",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 7.78,
+    "over25": 1.81,
+    "pari": 4.57,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2024-10-27",
+   "fuori": "Venezia",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.65,
+    "over25": 2.07,
+    "pari": 3.34,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2024-10-27",
+   "fuori": "Juventus",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.81,
+    "over25": 2.13,
+    "pari": 3.54,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2024-10-27",
+   "fuori": "Roma",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.96,
+    "over25": 2.05,
+    "pari": 3.23,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-10-29",
+   "fuori": "Bologna",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.31,
+    "over25": 1.99,
+    "pari": 3.31,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2024-10-29",
+   "fuori": "Verona",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.49,
+    "over25": 2.24,
+    "pari": 3.16,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2024-10-29",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.64,
+    "over25": 1.93,
+    "pari": 3.23,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2024-10-30",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 8.6,
+    "fuori": 1.4,
+    "over25": 1.83,
+    "pari": 4.67,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2024-10-30",
+   "fuori": "Udinese",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.8,
+    "over25": 2.22,
+    "pari": 3.16,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2024-10-30",
+   "fuori": "Monza",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 10.38,
+    "over25": 1.65,
+    "pari": 5.49,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-10-30",
+   "fuori": "Parma",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 7.12,
+    "over25": 1.61,
+    "pari": 4.79,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2024-10-31",
+   "fuori": "Fiorentina",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.21,
+    "fuori": 1.69,
+    "over25": 2.01,
+    "pari": 3.87,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2024-10-31",
+   "fuori": "Lazio",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.41,
+    "over25": 2.02,
+    "pari": 3.24,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2024-10-31",
+   "fuori": "Torino",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.72,
+    "over25": 2.19,
+    "pari": 3.56,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2024-11-02",
+   "fuori": "Lecce",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 5.0,
+    "over25": 2.09,
+    "pari": 3.52,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2024-11-02",
+   "fuori": "Juventus",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.33,
+    "fuori": 2.0,
+    "over25": 2.29,
+    "pari": 3.21,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2024-11-02",
+   "fuori": "Milan",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.84,
+    "fuori": 1.62,
+    "over25": 1.92,
+    "pari": 3.83,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2024-11-03",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.37,
+    "over25": 2.0,
+    "pari": 3.24,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2024-11-03",
+   "fuori": "Fiorentina",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.69,
+    "fuori": 2.19,
+    "over25": 2.25,
+    "pari": 3.16,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2024-11-03",
+   "fuori": "Roma",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.78,
+    "fuori": 1.81,
+    "over25": 2.04,
+    "pari": 3.51,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2024-11-03",
+   "fuori": "Venezia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 14.72,
+    "over25": 1.35,
+    "pari": 7.76,
+    "under25": 3.23
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2024-11-04",
+   "fuori": "Como",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.77,
+    "over25": 2.55,
+    "pari": 3.02,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-11-04",
+   "fuori": "Genoa",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.54,
+    "over25": 1.76,
+    "pari": 3.76,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2024-11-04",
+   "fuori": "Cagliari",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 6.29,
+    "over25": 1.75,
+    "pari": 4.18,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2024-11-07",
+   "fuori": "Como",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.42,
+    "over25": 2.32,
+    "pari": 3.05,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2024-11-08",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.75,
+    "over25": 2.91,
+    "pari": 2.93,
+    "under25": 1.42
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2024-11-09",
+   "fuori": "Parma",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.23,
+    "over25": 1.61,
+    "pari": 3.56,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-11-09",
+   "fuori": "Milan",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.02,
+    "fuori": 1.67,
+    "over25": 1.64,
+    "pari": 4.04,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-11-09",
+   "fuori": "Torino",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 7.25,
+    "over25": 2.62,
+    "pari": 3.62,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2024-11-10",
+   "fuori": "Udinese",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 7.31,
+    "over25": 1.86,
+    "pari": 4.42,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2024-11-10",
+   "fuori": "Verona",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 6.6,
+    "over25": 1.74,
+    "pari": 4.47,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2024-11-10",
+   "fuori": "Bologna",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.65,
+    "over25": 2.31,
+    "pari": 3.23,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2024-11-10",
+   "fuori": "Lazio",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.15,
+    "fuori": 1.78,
+    "over25": 2.28,
+    "pari": 3.44,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2024-11-10",
+   "fuori": "Napoli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.5,
+    "over25": 1.9,
+    "pari": 3.72,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2024-11-23",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 7.38,
+    "fuori": 1.46,
+    "over25": 1.85,
+    "pari": 4.49,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2024-11-23",
+   "fuori": "Juventus",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 3.25,
+    "over25": 2.13,
+    "pari": 3.18,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-11-23",
+   "fuori": "Atalanta",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.69,
+    "fuori": 1.55,
+    "over25": 1.51,
+    "pari": 4.42,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2024-11-24",
+   "fuori": "Cagliari",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 3.03,
+    "over25": 2.01,
+    "pari": 3.2,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2024-11-24",
+   "fuori": "Fiorentina",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.95,
+    "fuori": 1.98,
+    "over25": 1.93,
+    "pari": 3.45,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2024-11-24",
+   "fuori": "Monza",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 4.08,
+    "over25": 2.62,
+    "pari": 3.03,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2024-11-24",
+   "fuori": "Roma",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 5.36,
+    "over25": 2.11,
+    "pari": 3.6,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2024-11-24",
+   "fuori": "Bologna",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.68,
+    "over25": 2.01,
+    "pari": 3.52,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2024-11-25",
+   "fuori": "Udinese",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.75,
+    "over25": 2.72,
+    "pari": 2.84,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2024-11-25",
+   "fuori": "Lecce",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.51,
+    "over25": 2.18,
+    "pari": 3.26,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-11-29",
+   "fuori": "Verona",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 4.05,
+    "over25": 1.84,
+    "pari": 3.46,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2024-11-30",
+   "fuori": "Monza",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 4.3,
+    "over25": 2.08,
+    "pari": 3.39,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2024-11-30",
+   "fuori": "Empoli",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 10.0,
+    "over25": 1.8,
+    "pari": 5.07,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2024-11-30",
+   "fuori": "Venezia",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.58,
+    "over25": 2.21,
+    "pari": 3.45,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2024-12-01",
+   "fuori": "Genoa",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 4.17,
+    "over25": 2.17,
+    "pari": 3.34,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-12-01",
+   "fuori": "Lazio",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.61,
+    "fuori": 1.76,
+    "over25": 1.72,
+    "pari": 3.8,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2024-12-01",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 5.63,
+    "fuori": 1.72,
+    "over25": 2.4,
+    "pari": 3.48,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2024-12-01",
+   "fuori": "Juventus",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 6.43,
+    "fuori": 1.66,
+    "over25": 2.6,
+    "pari": 3.48,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2024-12-02",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.54,
+    "fuori": 2.12,
+    "over25": 1.91,
+    "pari": 3.39,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2024-12-06",
+   "fuori": "Parma",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 13.76,
+    "over25": 1.32,
+    "pari": 7.82,
+    "under25": 3.41
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2024-12-06",
+   "fuori": "Milan",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.46,
+    "over25": 1.79,
+    "pari": 3.47,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2024-12-07",
+   "fuori": "Torino",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 3.23,
+    "over25": 2.62,
+    "pari": 2.97,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-12-07",
+   "fuori": "Bologna",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 5.31,
+    "over25": 2.55,
+    "pari": 3.33,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2024-12-07",
+   "fuori": "Lecce",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.99,
+    "over25": 2.02,
+    "pari": 4.06,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2024-12-08",
+   "fuori": "Cagliari",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 6.04,
+    "over25": 1.71,
+    "pari": 4.19,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2024-12-08",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 3.13,
+    "over25": 2.47,
+    "pari": 2.8,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2024-12-08",
+   "fuori": "Como",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.68,
+    "over25": 1.9,
+    "pari": 3.16,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2024-12-08",
+   "fuori": "Lazio",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.62,
+    "over25": 2.01,
+    "pari": 3.52,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2024-12-09",
+   "fuori": "Udinese",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.94,
+    "over25": 2.55,
+    "pari": 2.93,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2024-12-13",
+   "fuori": "Torino",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 3.22,
+    "over25": 2.88,
+    "pari": 2.81,
+    "under25": 1.41
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-12-14",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 5.62,
+    "fuori": 1.58,
+    "over25": 1.72,
+    "pari": 4.2,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2024-12-14",
+   "fuori": "Napoli",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.37,
+    "fuori": 1.72,
+    "over25": 2.17,
+    "pari": 3.54,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-12-14",
+   "fuori": "Venezia",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 9.08,
+    "over25": 1.9,
+    "pari": 4.69,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2024-12-15",
+   "fuori": "Monza",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.89,
+    "over25": 2.24,
+    "pari": 3.01,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2024-12-15",
+   "fuori": "Fiorentina",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.73,
+    "fuori": 2.82,
+    "over25": 2.21,
+    "pari": 3.04,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-12-15",
+   "fuori": "Verona",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.72,
+    "over25": 1.8,
+    "pari": 3.39,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2024-12-15",
+   "fuori": "Roma",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.77,
+    "fuori": 2.09,
+    "over25": 1.95,
+    "pari": 3.3,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2024-12-15",
+   "fuori": "Genoa",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.6,
+    "over25": 1.93,
+    "pari": 4.16,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2024-12-16",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    6
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.5,
+    "fuori": 2.18,
+    "over25": 2.02,
+    "pari": 3.29,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2024-12-20",
+   "fuori": "Milan",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.59,
+    "fuori": 1.61,
+    "over25": 1.76,
+    "pari": 4.01,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2024-12-21",
+   "fuori": "Bologna",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.51,
+    "fuori": 2.42,
+    "over25": 2.62,
+    "pari": 2.85,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2024-12-21",
+   "fuori": "Napoli",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.6,
+    "fuori": 1.7,
+    "over25": 2.28,
+    "pari": 3.52,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2024-12-21",
+   "fuori": "Lazio",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.79,
+    "fuori": 1.6,
+    "over25": 1.82,
+    "pari": 3.98,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2024-12-22",
+   "fuori": "Parma",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.83,
+    "over25": 1.48,
+    "pari": 4.9,
+    "under25": 2.63
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2024-12-22",
+   "fuori": "Cagliari",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.89,
+    "over25": 1.95,
+    "pari": 3.18,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2024-12-22",
+   "fuori": "Empoli",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 10.48,
+    "over25": 1.55,
+    "pari": 5.83,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2024-12-22",
+   "fuori": "Juventus",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 6.73,
+    "fuori": 1.58,
+    "over25": 2.13,
+    "pari": 3.72,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2024-12-23",
+   "fuori": "Udinese",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.67,
+    "over25": 1.77,
+    "pari": 3.98,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2024-12-23",
+   "fuori": "Como",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 9.08,
+    "over25": 1.62,
+    "pari": 5.19,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2024-12-28",
+   "fuori": "Genoa",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 3.26,
+    "over25": 2.6,
+    "pari": 2.82,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2024-12-28",
+   "fuori": "Monza",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.82,
+    "over25": 1.91,
+    "pari": 3.25,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2024-12-28",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 7.87,
+    "fuori": 1.39,
+    "over25": 1.65,
+    "pari": 4.84,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2024-12-28",
+   "fuori": "Atalanta",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.38,
+    "over25": 1.98,
+    "pari": 3.19,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2024-12-29",
+   "fuori": "Torino",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.61,
+    "over25": 2.35,
+    "pari": 2.96,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2024-12-29",
+   "fuori": "Venezia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 11.36,
+    "over25": 1.66,
+    "pari": 5.68,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2024-12-29",
+   "fuori": "Fiorentina",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.51,
+    "over25": 2.15,
+    "pari": 3.31,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2024-12-29",
+   "fuori": "Roma",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 3.25,
+    "over25": 2.09,
+    "pari": 3.15,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2024-12-30",
+   "fuori": "Lecce",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.6,
+    "over25": 1.99,
+    "pari": 3.72,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2024-12-30",
+   "fuori": "Verona",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.78,
+    "over25": 1.96,
+    "pari": 4.06,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-01-04",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.97,
+    "over25": 2.27,
+    "pari": 3.01,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-01-04",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.44,
+    "fuori": 2.32,
+    "over25": 2.31,
+    "pari": 3.04,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-01-04",
+   "fuori": "Udinese",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.52,
+    "over25": 2.18,
+    "pari": 2.96,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-01-05",
+   "fuori": "Cagliari",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 3.15,
+    "over25": 2.07,
+    "pari": 3.13,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-01-05",
+   "fuori": "Genoa",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.71,
+    "over25": 2.48,
+    "pari": 2.93,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-01-05",
+   "fuori": "Parma",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.94,
+    "over25": 1.94,
+    "pari": 3.57,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-01-05",
+   "fuori": "Lazio",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 3.08,
+    "over25": 2.09,
+    "pari": 3.03,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-01-10",
+   "fuori": "Como",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.86,
+    "over25": 1.96,
+    "pari": 3.43,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-01-11",
+   "fuori": "Lecce",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 4.2,
+    "over25": 2.42,
+    "pari": 3.11,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-01-11",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 5.77,
+    "fuori": 1.62,
+    "over25": 1.93,
+    "pari": 3.83,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-01-11",
+   "fuori": "Juventus",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.41,
+    "fuori": 2.05,
+    "over25": 2.89,
+    "pari": 2.97,
+    "under25": 1.41
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-01-11",
+   "fuori": "Cagliari",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 9.05,
+    "over25": 1.54,
+    "pari": 5.35,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2025-01-12",
+   "fuori": "Parma",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 4.05,
+    "over25": 1.94,
+    "pari": 3.32,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-01-12",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 9.58,
+    "fuori": 1.33,
+    "over25": 1.62,
+    "pari": 5.15,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-01-12",
+   "fuori": "Roma",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.8,
+    "over25": 2.09,
+    "pari": 3.12,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-01-12",
+   "fuori": "Verona",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.32,
+    "fuori": 10.34,
+    "over25": 1.78,
+    "pari": 5.04,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-01-13",
+   "fuori": "Fiorentina",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.37,
+    "fuori": 1.9,
+    "over25": 2.03,
+    "pari": 3.4,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-01-14",
+   "fuori": "Milan",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 4.44,
+    "fuori": 1.84,
+    "over25": 1.84,
+    "pari": 3.57,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-01-14",
+   "fuori": "Juventus",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.78,
+    "over25": 2.31,
+    "pari": 3.13,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-01-15",
+   "fuori": "Bologna",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.57,
+    "over25": 1.84,
+    "pari": 4.13,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-01-17",
+   "fuori": "Genoa",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 7.41,
+    "over25": 1.96,
+    "pari": 4.23,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-01-18",
+   "fuori": "Monza",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 6.44,
+    "over25": 2.1,
+    "pari": 3.78,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2025-01-18",
+   "fuori": "Milan",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.27,
+    "over25": 2.21,
+    "pari": 3.11,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-01-18",
+   "fuori": "Napoli",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.34,
+    "over25": 2.16,
+    "pari": 3.16,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-01-19",
+   "fuori": "Torino",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 5.04,
+    "over25": 2.11,
+    "pari": 3.48,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2025-01-19",
+   "fuori": "Lecce",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 4.17,
+    "over25": 2.01,
+    "pari": 3.34,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2025-01-19",
+   "fuori": "Venezia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.37,
+    "over25": 1.8,
+    "pari": 3.43,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-01-19",
+   "fuori": "Lazio",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.87,
+    "fuori": 1.77,
+    "over25": 1.93,
+    "pari": 3.63,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-01-19",
+   "fuori": "Empoli",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 10.28,
+    "over25": 1.65,
+    "pari": 5.23,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-01-20",
+   "fuori": "Udinese",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.6,
+    "over25": 2.05,
+    "pari": 3.29,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-01-24",
+   "fuori": "Cagliari",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.58,
+    "over25": 2.32,
+    "pari": 3.05,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-01-25",
+   "fuori": "Atalanta",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.1,
+    "fuori": 1.91,
+    "over25": 1.78,
+    "pari": 3.56,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-01-25",
+   "fuori": "Juventus",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 3.27,
+    "over25": 2.46,
+    "pari": 2.89,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-01-25",
+   "fuori": "Bologna",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.99,
+    "fuori": 2.06,
+    "over25": 2.38,
+    "pari": 3.17,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-01-26",
+   "fuori": "Parma",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 9.74,
+    "over25": 1.36,
+    "pari": 6.23,
+    "under25": 3.12
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-01-26",
+   "fuori": "Roma",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.05,
+    "fuori": 2.43,
+    "over25": 2.08,
+    "pari": 3.24,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-01-26",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 9.67,
+    "fuori": 1.34,
+    "over25": 1.72,
+    "pari": 4.99,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-01-26",
+   "fuori": "Fiorentina",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.62,
+    "over25": 1.91,
+    "pari": 3.34,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-01-27",
+   "fuori": "Verona",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.23,
+    "over25": 1.85,
+    "pari": 3.33,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2025-01-27",
+   "fuori": "Monza",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.54,
+    "over25": 2.45,
+    "pari": 3.01,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2025-01-31",
+   "fuori": "Lecce",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 3.1,
+    "over25": 1.98,
+    "pari": 3.21,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-02-01",
+   "fuori": "Verona",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 3.25,
+    "over25": 2.21,
+    "pari": 3.0,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-02-01",
+   "fuori": "Venezia",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.9,
+    "over25": 1.92,
+    "pari": 3.54,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-02-01",
+   "fuori": "Torino",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 6.32,
+    "over25": 1.91,
+    "pari": 4.05,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-02-01",
+   "fuori": "Como",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 4.14,
+    "over25": 2.03,
+    "pari": 3.36,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2025-02-02",
+   "fuori": "Empoli",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.94,
+    "over25": 1.77,
+    "pari": 4.65,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-02-02",
+   "fuori": "Genoa",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.36,
+    "over25": 1.97,
+    "pari": 3.48,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-02-02",
+   "fuori": "Inter",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.24,
+    "fuori": 1.89,
+    "over25": 1.83,
+    "pari": 3.52,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-02-02",
+   "fuori": "Napoli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.53,
+    "fuori": 2.19,
+    "over25": 2.14,
+    "pari": 3.22,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2025-02-03",
+   "fuori": "Lazio",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.82,
+    "fuori": 1.99,
+    "over25": 1.84,
+    "pari": 3.48,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-02-06",
+   "fuori": "Inter",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.9,
+    "fuori": 1.99,
+    "over25": 1.92,
+    "pari": 3.49,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-02-07",
+   "fuori": "Juventus",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.59,
+    "fuori": 2.15,
+    "over25": 2.05,
+    "pari": 3.32,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-02-08",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 7.4,
+    "fuori": 1.46,
+    "over25": 1.77,
+    "pari": 4.41,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-02-08",
+   "fuori": "Milan",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.17,
+    "fuori": 1.68,
+    "over25": 1.72,
+    "pari": 3.88,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-02-08",
+   "fuori": "Genoa",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.54,
+    "over25": 2.69,
+    "pari": 2.88,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-02-09",
+   "fuori": "Roma",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 4.32,
+    "fuori": 1.87,
+    "over25": 1.84,
+    "pari": 3.58,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2025-02-09",
+   "fuori": "Parma",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.99,
+    "over25": 1.76,
+    "pari": 3.58,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-02-09",
+   "fuori": "Monza",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 10.4,
+    "over25": 1.61,
+    "pari": 5.52,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-02-09",
+   "fuori": "Bologna",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.45,
+    "fuori": 1.97,
+    "over25": 2.34,
+    "pari": 3.22,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-02-09",
+   "fuori": "Udinese",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 7.92,
+    "over25": 1.99,
+    "pari": 4.31,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-02-10",
+   "fuori": "Fiorentina",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.74,
+    "over25": 1.74,
+    "pari": 4.58,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-02-14",
+   "fuori": "Torino",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 5.54,
+    "over25": 2.47,
+    "pari": 3.36,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-02-15",
+   "fuori": "Cagliari",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 6.3,
+    "over25": 1.76,
+    "pari": 4.33,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-02-15",
+   "fuori": "Napoli",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 3.22,
+    "over25": 2.27,
+    "pari": 3.05,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-02-15",
+   "fuori": "Verona",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 8.91,
+    "over25": 1.62,
+    "pari": 5.14,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-02-16",
+   "fuori": "Como",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 3.2,
+    "over25": 2.1,
+    "pari": 3.16,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-02-16",
+   "fuori": "Lecce",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.77,
+    "over25": 2.43,
+    "pari": 3.03,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-02-16",
+   "fuori": "Empoli",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 4.41,
+    "over25": 2.16,
+    "pari": 3.39,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2025-02-16",
+   "fuori": "Roma",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.73,
+    "fuori": 2.1,
+    "over25": 1.82,
+    "pari": 3.34,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2025-02-16",
+   "fuori": "Inter",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.84,
+    "fuori": 2.09,
+    "over25": 2.04,
+    "pari": 3.29,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2025-02-17",
+   "fuori": "Venezia",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 5.02,
+    "over25": 2.35,
+    "pari": 3.36,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-02-21",
+   "fuori": "Udinese",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.65,
+    "over25": 2.34,
+    "pari": 3.0,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2025-02-22",
+   "fuori": "Bologna",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.68,
+    "fuori": 1.8,
+    "over25": 1.95,
+    "pari": 3.63,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-02-22",
+   "fuori": "Lazio",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 5.67,
+    "fuori": 1.61,
+    "over25": 1.88,
+    "pari": 4.02,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-02-22",
+   "fuori": "Milan",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.08,
+    "fuori": 1.9,
+    "over25": 1.84,
+    "pari": 3.65,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-02-22",
+   "fuori": "Genoa",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 10.86,
+    "over25": 1.78,
+    "pari": 5.33,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-02-23",
+   "fuori": "Napoli",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 3.54,
+    "fuori": 2.31,
+    "over25": 2.32,
+    "pari": 3.05,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-02-23",
+   "fuori": "Fiorentina",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.85,
+    "fuori": 2.07,
+    "over25": 2.21,
+    "pari": 3.31,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-02-23",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 6.59,
+    "fuori": 1.49,
+    "over25": 1.7,
+    "pari": 4.47,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2025-02-23",
+   "fuori": "Juventus",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.66,
+    "fuori": 1.86,
+    "over25": 2.12,
+    "pari": 3.41,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-02-24",
+   "fuori": "Monza",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 11.76,
+    "over25": 1.72,
+    "pari": 5.74,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-02-27",
+   "fuori": "Milan",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.55,
+    "over25": 2.02,
+    "pari": 3.25,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-02-28",
+   "fuori": "Lecce",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.76,
+    "over25": 2.43,
+    "pari": 3.27,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-03-01",
+   "fuori": "Venezia",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 14.37,
+    "over25": 1.48,
+    "pari": 7.03,
+    "under25": 2.68
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-03-01",
+   "fuori": "Inter",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.11,
+    "fuori": 2.51,
+    "over25": 2.14,
+    "pari": 3.09,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-03-01",
+   "fuori": "Parma",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.31,
+    "over25": 1.85,
+    "pari": 3.56,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-03-02",
+   "fuori": "Torino",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 4.53,
+    "fuori": 1.93,
+    "over25": 2.27,
+    "pari": 3.29,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-03-02",
+   "fuori": "Cagliari",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 5.41,
+    "over25": 2.19,
+    "pari": 3.54,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2025-03-02",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.68,
+    "over25": 2.33,
+    "pari": 3.22,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-03-02",
+   "fuori": "Como",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 4.07,
+    "over25": 2.13,
+    "pari": 3.34,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-03-02",
+   "fuori": "Lazio",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.46,
+    "over25": 1.75,
+    "pari": 3.45,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2025-03-03",
+   "fuori": "Verona",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 10.3,
+    "over25": 1.89,
+    "pari": 5.06,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2025-03-07",
+   "fuori": "Genoa",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 3.27,
+    "over25": 2.5,
+    "pari": 2.93,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-03-08",
+   "fuori": "Venezia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 5.91,
+    "over25": 1.95,
+    "pari": 3.79,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2025-03-08",
+   "fuori": "Torino",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.44,
+    "fuori": 2.26,
+    "over25": 2.19,
+    "pari": 3.2,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-03-08",
+   "fuori": "Milan",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.67,
+    "fuori": 1.82,
+    "over25": 1.92,
+    "pari": 3.56,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-03-08",
+   "fuori": "Monza",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.14,
+    "fuori": 19.97,
+    "over25": 1.5,
+    "pari": 8.29,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-03-09",
+   "fuori": "Bologna",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 5.45,
+    "fuori": 1.74,
+    "over25": 2.26,
+    "pari": 3.49,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-03-09",
+   "fuori": "Fiorentina",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 6.58,
+    "over25": 2.2,
+    "pari": 3.81,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-03-09",
+   "fuori": "Roma",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.95,
+    "fuori": 2.07,
+    "over25": 2.12,
+    "pari": 3.24,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2025-03-09",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.87,
+    "over25": 2.11,
+    "pari": 3.08,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-03-10",
+   "fuori": "Udinese",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.78,
+    "over25": 2.02,
+    "pari": 3.44,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2025-03-14",
+   "fuori": "Lecce",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 4.32,
+    "over25": 2.54,
+    "pari": 3.0,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-03-15",
+   "fuori": "Parma",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.39,
+    "over25": 1.97,
+    "pari": 3.3,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-03-15",
+   "fuori": "Verona",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 5.08,
+    "over25": 2.25,
+    "pari": 3.45,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-03-15",
+   "fuori": "Como",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.44,
+    "over25": 1.7,
+    "pari": 3.74,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-03-15",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.65,
+    "over25": 2.22,
+    "pari": 3.33,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-03-16",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 7.54,
+    "fuori": 1.48,
+    "over25": 2.05,
+    "pari": 4.17,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-03-16",
+   "fuori": "Lazio",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 3.56,
+    "over25": 2.32,
+    "pari": 2.98,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-03-16",
+   "fuori": "Cagliari",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 7.0,
+    "over25": 1.93,
+    "pari": 4.28,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-03-16",
+   "fuori": "Juventus",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.39,
+    "over25": 2.27,
+    "pari": 3.08,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-03-16",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.81,
+    "over25": 1.92,
+    "pari": 3.26,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-03-29",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 5.14,
+    "over25": 1.97,
+    "pari": 3.5,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-03-29",
+   "fuori": "Bologna",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 5.04,
+    "fuori": 1.79,
+    "over25": 2.15,
+    "pari": 3.41,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2025-03-29",
+   "fuori": "Genoa",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 7.58,
+    "over25": 2.35,
+    "pari": 3.81,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-03-29",
+   "fuori": "Roma",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.18,
+    "fuori": 1.74,
+    "over25": 2.13,
+    "pari": 3.56,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2025-03-30",
+   "fuori": "Monza",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.95,
+    "over25": 2.02,
+    "pari": 3.5,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-03-30",
+   "fuori": "Atalanta",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 2.06,
+    "over25": 1.88,
+    "pari": 3.44,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-03-30",
+   "fuori": "Udinese",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 8.01,
+    "over25": 1.88,
+    "pari": 4.37,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-03-30",
+   "fuori": "Milan",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 4.0,
+    "over25": 1.9,
+    "pari": 3.52,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-03-31",
+   "fuori": "Parma",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.78,
+    "over25": 2.23,
+    "pari": 2.98,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-03-31",
+   "fuori": "Torino",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.89,
+    "over25": 2.22,
+    "pari": 3.49,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2025-04-04",
+   "fuori": "Udinese",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 3.46,
+    "over25": 2.66,
+    "pari": 2.94,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-04-05",
+   "fuori": "Como",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 5.05,
+    "fuori": 1.69,
+    "over25": 1.89,
+    "pari": 3.86,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2025-04-05",
+   "fuori": "Inter",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 7.08,
+    "fuori": 1.46,
+    "over25": 1.74,
+    "pari": 4.45,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-04-05",
+   "fuori": "Fiorentina",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.64,
+    "over25": 1.88,
+    "pari": 3.65,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-04-06",
+   "fuori": "Venezia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.37,
+    "over25": 2.37,
+    "pari": 3.01,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-04-06",
+   "fuori": "Cagliari",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 3.01,
+    "over25": 2.31,
+    "pari": 3.03,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-04-06",
+   "fuori": "Verona",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.95,
+    "over25": 2.6,
+    "pari": 3.14,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-04-06",
+   "fuori": "Lazio",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 5.16,
+    "over25": 1.76,
+    "pari": 3.87,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-04-06",
+   "fuori": "Juventus",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 3.13,
+    "over25": 2.27,
+    "pari": 3.09,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-04-07",
+   "fuori": "Napoli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 3.06,
+    "over25": 2.51,
+    "pari": 2.95,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-04-11",
+   "fuori": "Milan",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.18,
+    "fuori": 1.89,
+    "over25": 1.86,
+    "pari": 3.57,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-04-12",
+   "fuori": "Monza",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.77,
+    "over25": 2.02,
+    "pari": 3.56,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-04-12",
+   "fuori": "Cagliari",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 10.04,
+    "over25": 1.67,
+    "pari": 5.38,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2025-04-12",
+   "fuori": "Lecce",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 9.9,
+    "over25": 1.9,
+    "pari": 4.96,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-04-13",
+   "fuori": "Bologna",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 4.07,
+    "over25": 1.92,
+    "pari": 3.47,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-04-13",
+   "fuori": "Parma",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 5.0,
+    "over25": 1.9,
+    "pari": 3.67,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-04-13",
+   "fuori": "Genoa",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.85,
+    "over25": 2.87,
+    "pari": 2.78,
+    "under25": 1.42
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-04-13",
+   "fuori": "Torino",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.41,
+    "over25": 2.06,
+    "pari": 3.56,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-04-13",
+   "fuori": "Roma",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.42,
+    "over25": 2.12,
+    "pari": 3.14,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-04-14",
+   "fuori": "Empoli",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 7.93,
+    "over25": 2.0,
+    "pari": 4.46,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-04-19",
+   "fuori": "Como",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.58,
+    "fuori": 2.1,
+    "over25": 1.88,
+    "pari": 3.42,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-04-19",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 10.43,
+    "fuori": 1.32,
+    "over25": 1.77,
+    "pari": 5.08,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-04-19",
+   "fuori": "Verona",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 6.37,
+    "over25": 2.08,
+    "pari": 3.92,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-04-20",
+   "fuori": "Venezia",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.6,
+    "over25": 2.47,
+    "pari": 2.96,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-04-20",
+   "fuori": "Inter",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.43,
+    "fuori": 2.3,
+    "over25": 2.12,
+    "pari": 3.09,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-04-20",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.64,
+    "over25": 1.59,
+    "pari": 3.53,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2025-04-23",
+   "fuori": "Fiorentina",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.54,
+    "over25": 2.27,
+    "pari": 3.07,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2025-04-23",
+   "fuori": "Lazio",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.75,
+    "fuori": 2.16,
+    "over25": 2.33,
+    "pari": 3.14,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2025-04-23",
+   "fuori": "Juventus",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.0,
+    "fuori": 1.72,
+    "over25": 1.92,
+    "pari": 3.73,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-04-23",
+   "fuori": "Udinese",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 3.23,
+    "over25": 2.5,
+    "pari": 2.94,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-04-27",
+   "fuori": "Genoa",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.75,
+    "over25": 1.99,
+    "pari": 3.61,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-04-27",
+   "fuori": "Milan",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 5.04,
+    "fuori": 1.64,
+    "over25": 1.65,
+    "pari": 4.11,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-04-27",
+   "fuori": "Empoli",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.94,
+    "over25": 2.36,
+    "pari": 3.16,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-04-27",
+   "fuori": "Roma",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.64,
+    "over25": 1.77,
+    "pari": 3.67,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2025-04-27",
+   "fuori": "Monza",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 13.31,
+    "over25": 1.56,
+    "pari": 6.67,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-04-27",
+   "fuori": "Lecce",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 11.95,
+    "over25": 1.6,
+    "pari": 5.93,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-04-27",
+   "fuori": "Torino",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 9.43,
+    "over25": 1.98,
+    "pari": 4.74,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-04-28",
+   "fuori": "Bologna",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.12,
+    "fuori": 1.77,
+    "over25": 2.32,
+    "pari": 3.44,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-04-28",
+   "fuori": "Parma",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 8.33,
+    "over25": 1.63,
+    "pari": 4.91,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-04-28",
+   "fuori": "Cagliari",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.68,
+    "over25": 2.46,
+    "pari": 2.72,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-05-02",
+   "fuori": "Venezia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 3.09,
+    "over25": 2.25,
+    "pari": 3.01,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2025-05-03",
+   "fuori": "Udinese",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 3.13,
+    "over25": 2.34,
+    "pari": 2.93,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2025-05-03",
+   "fuori": "Como",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.26,
+    "over25": 1.77,
+    "pari": 3.32,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-05-03",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 7.62,
+    "fuori": 1.49,
+    "over25": 2.09,
+    "pari": 4.09,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-05-03",
+   "fuori": "Verona",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 7.38,
+    "over25": 1.91,
+    "pari": 4.41,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-05-04",
+   "fuori": "Lazio",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 4.51,
+    "fuori": 1.84,
+    "over25": 2.19,
+    "pari": 3.51,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-05-04",
+   "fuori": "Atalanta",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 12.43,
+    "fuori": 1.22,
+    "over25": 1.44,
+    "pari": 6.73,
+    "under25": 2.75
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-05-04",
+   "fuori": "Fiorentina",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.94,
+    "over25": 2.02,
+    "pari": 3.59,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-05-04",
+   "fuori": "Juventus",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 3.47,
+    "over25": 2.48,
+    "pari": 2.98,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2025-05-05",
+   "fuori": "Milan",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.71,
+    "fuori": 1.76,
+    "over25": 1.81,
+    "pari": 3.77,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-05-09",
+   "fuori": "Bologna",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.3,
+    "over25": 1.91,
+    "pari": 3.37,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-05-10",
+   "fuori": "Cagliari",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.57,
+    "over25": 1.7,
+    "pari": 3.78,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-05-10",
+   "fuori": "Juventus",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.24,
+    "over25": 2.19,
+    "pari": 3.08,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-05-10",
+   "fuori": "Parma",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 3.37,
+    "over25": 2.41,
+    "pari": 3.02,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-05-11",
+   "fuori": "Monza",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.56,
+    "over25": 1.86,
+    "pari": 4.02,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-05-11",
+   "fuori": "Lecce",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 3.34,
+    "over25": 2.69,
+    "pari": 2.8,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-05-11",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.12,
+    "fuori": 1.71,
+    "over25": 2.1,
+    "pari": 3.71,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-05-11",
+   "fuori": "Genoa",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 11.16,
+    "over25": 1.77,
+    "pari": 5.41,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-05-12",
+   "fuori": "Fiorentina",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.82,
+    "over25": 2.3,
+    "pari": 3.07,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-05-12",
+   "fuori": "Roma",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.67,
+    "over25": 1.72,
+    "pari": 3.48,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Genoa",
+   "data": "2025-05-17",
+   "fuori": "Atalanta",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.28,
+    "over25": 1.98,
+    "pari": 3.31,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Cagliari",
+   "data": "2025-05-18",
+   "fuori": "Venezia",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.83,
+    "over25": 2.23,
+    "pari": 2.93,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2025-05-18",
+   "fuori": "Bologna",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.57,
+    "over25": 2.32,
+    "pari": 3.01,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Inter",
+   "data": "2025-05-18",
+   "fuori": "Lazio",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.93,
+    "over25": 1.68,
+    "pari": 4.0,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2025-05-18",
+   "fuori": "Udinese",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 8.12,
+    "over25": 1.81,
+    "pari": 4.75,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2025-05-18",
+   "fuori": "Torino",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.95,
+    "over25": 2.39,
+    "pari": 3.12,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2025-05-18",
+   "fuori": "Empoli",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.08,
+    "fuori": 1.74,
+    "over25": 2.16,
+    "pari": 3.59,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2025-05-18",
+   "fuori": "Napoli",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 7.14,
+    "fuori": 1.47,
+    "over25": 1.9,
+    "pari": 4.36,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2025-05-18",
+   "fuori": "Milan",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.21,
+    "over25": 1.74,
+    "pari": 3.57,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2025-05-18",
+   "fuori": "Como",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.43,
+    "over25": 2.32,
+    "pari": 3.06,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2025-05-23",
+   "fuori": "Inter",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.37,
+    "fuori": 1.73,
+    "over25": 1.57,
+    "pari": 4.13,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Napoli",
+   "data": "2025-05-23",
+   "fuori": "Cagliari",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 15.65,
+    "over25": 1.52,
+    "pari": 7.2,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2025-05-24",
+   "fuori": "Genoa",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 7.1,
+    "over25": 1.98,
+    "pari": 4.29,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2025-05-24",
+   "fuori": "Monza",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.24,
+    "fuori": 10.76,
+    "over25": 1.35,
+    "pari": 6.74,
+    "under25": 3.18
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2025-05-25",
+   "fuori": "Parma",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.23,
+    "over25": 1.61,
+    "pari": 3.66,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2025-05-25",
+   "fuori": "Verona",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 4.94,
+    "over25": 3.05,
+    "pari": 2.93,
+    "under25": 1.38
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2025-05-25",
+   "fuori": "Lecce",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 7.66,
+    "over25": 1.63,
+    "pari": 4.45,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Torino",
+   "data": "2025-05-25",
+   "fuori": "Roma",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.44,
+    "fuori": 1.57,
+    "over25": 1.7,
+    "pari": 4.31,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2025-05-25",
+   "fuori": "Fiorentina",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.37,
+    "over25": 1.85,
+    "pari": 3.36,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2025-05-25",
+   "fuori": "Juventus",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 6.57,
+    "fuori": 1.46,
+    "over25": 1.56,
+    "pari": 4.75,
+    "under25": 2.43
+   }
+  }
+ ],
+ "stagione": "2024-25"
+}

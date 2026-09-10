@@ -1,0 +1,5211 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "N1",
+ "nome": "Eredivisie",
+ "paese": "Olanda",
+ "partite": [
+  {
+   "casa": "For Sittard",
+   "data": "2025-08-08",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.45,
+    "over25": 1.7,
+    "pari": 3.48,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2025-08-09",
+   "fuori": "Excelsior",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.59,
+    "over25": 1.5,
+    "pari": 4.18,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2025-08-09",
+   "fuori": "NAC Breda",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 8.06,
+    "over25": 1.55,
+    "pari": 5.31,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2025-08-09",
+   "fuori": "Volendam",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.15,
+    "over25": 1.56,
+    "pari": 4.21,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2025-08-09",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    6,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 12.0,
+    "over25": 1.29,
+    "pari": 7.34,
+    "under25": 3.41
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2025-08-10",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.01,
+    "over25": 1.69,
+    "pari": 3.63,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2025-08-10",
+   "fuori": "Telstar",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 13.06,
+    "over25": 1.33,
+    "pari": 7.28,
+    "under25": 3.14
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2025-08-10",
+   "fuori": "Groningen",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 9.02,
+    "over25": 1.55,
+    "pari": 5.34,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2025-08-10",
+   "fuori": "Heracles",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.79,
+    "over25": 1.75,
+    "pari": 4.16,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2025-08-15",
+   "fuori": "Zwolle",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.67,
+    "over25": 1.68,
+    "pari": 3.41,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2025-08-16",
+   "fuori": "Feyenoord",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 6.17,
+    "fuori": 1.46,
+    "over25": 1.49,
+    "pari": 4.63,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2025-08-16",
+   "fuori": "Nijmegen",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.89,
+    "fuori": 2.34,
+    "over25": 1.7,
+    "pari": 3.45,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2025-08-16",
+   "fuori": "Heerenveen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.31,
+    "over25": 1.92,
+    "pari": 3.33,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2025-08-17",
+   "fuori": "Ajax",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.72,
+    "fuori": 1.85,
+    "over25": 1.45,
+    "pari": 3.95,
+    "under25": 2.59
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2025-08-17",
+   "fuori": "Utrecht",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.7,
+    "over25": 1.77,
+    "pari": 3.43,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2025-08-17",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 4.89,
+    "fuori": 1.56,
+    "over25": 1.38,
+    "pari": 4.55,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2025-08-17",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 6.62,
+    "fuori": 1.39,
+    "over25": 1.35,
+    "pari": 5.24,
+    "under25": 3.01
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2025-08-17",
+   "fuori": "For Sittard",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.07,
+    "over25": 1.94,
+    "pari": 3.31,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2025-08-23",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.47,
+    "over25": 1.51,
+    "pari": 3.79,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2025-08-23",
+   "fuori": "Groningen",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 12.97,
+    "over25": 1.35,
+    "pari": 7.4,
+    "under25": 3.04
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2025-08-23",
+   "fuori": "Volendam",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.0,
+    "over25": 1.56,
+    "pari": 3.72,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2025-08-24",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.52,
+    "over25": 1.78,
+    "pari": 3.5,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2025-08-24",
+   "fuori": "NAC Breda",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.05,
+    "over25": 1.53,
+    "pari": 4.29,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2025-08-24",
+   "fuori": "Excelsior",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.61,
+    "over25": 1.49,
+    "pari": 4.86,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2025-08-24",
+   "fuori": "Heracles",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 12.44,
+    "over25": 1.34,
+    "pari": 6.9,
+    "under25": 3.06
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2025-08-29",
+   "fuori": "Heracles",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.27,
+    "over25": 1.76,
+    "pari": 3.98,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2025-08-30",
+   "fuori": "Ajax",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 8.64,
+    "fuori": 1.29,
+    "over25": 1.38,
+    "pari": 5.82,
+    "under25": 2.9
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2025-08-30",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.16,
+    "over25": 1.48,
+    "pari": 3.85,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2025-08-30",
+   "fuori": "Telstar",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.09,
+    "fuori": 19.72,
+    "over25": 1.18,
+    "pari": 10.78,
+    "under25": 4.5
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2025-08-30",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.75,
+    "fuori": 1.89,
+    "over25": 1.64,
+    "pari": 3.73,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2025-08-31",
+   "fuori": "Nijmegen",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.21,
+    "over25": 1.59,
+    "pari": 3.67,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2025-08-31",
+   "fuori": "Feyenoord",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 3.69,
+    "fuori": 1.89,
+    "over25": 1.58,
+    "pari": 3.81,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2025-08-31",
+   "fuori": "Utrecht",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.12,
+    "over25": 1.76,
+    "pari": 3.45,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2025-08-31",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 4.56,
+    "fuori": 1.69,
+    "over25": 1.67,
+    "pari": 3.93,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2025-09-13",
+   "fuori": "Zwolle",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 8.85,
+    "over25": 1.44,
+    "pari": 5.72,
+    "under25": 2.64
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2025-09-13",
+   "fuori": "Volendam",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.32,
+    "over25": 1.34,
+    "pari": 4.78,
+    "under25": 3.08
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2025-09-13",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    3,
+    5
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 4.65,
+    "fuori": 1.6,
+    "over25": 1.3,
+    "pari": 4.44,
+    "under25": 3.31
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2025-09-13",
+   "fuori": "Heerenveen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.32,
+    "fuori": 7.99,
+    "over25": 1.38,
+    "pari": 5.56,
+    "under25": 2.89
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2025-09-13",
+   "fuori": "NAC Breda",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 6.04,
+    "over25": 1.62,
+    "pari": 4.41,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2025-09-14",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.61,
+    "over25": 1.54,
+    "pari": 3.67,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2025-09-14",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 5.09,
+    "fuori": 1.57,
+    "over25": 1.51,
+    "pari": 4.35,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2025-09-14",
+   "fuori": "Groningen",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.78,
+    "over25": 1.88,
+    "pari": 3.69,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2025-09-14",
+   "fuori": "For Sittard",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.34,
+    "over25": 1.74,
+    "pari": 3.47,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2025-09-17",
+   "fuori": "For Sittard",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.26,
+    "fuori": 10.1,
+    "over25": 1.42,
+    "pari": 5.95,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2025-09-19",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.38,
+    "over25": 1.62,
+    "pari": 3.53,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2025-09-20",
+   "fuori": "Excelsior",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 2.95,
+    "over25": 1.51,
+    "pari": 3.69,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2025-09-20",
+   "fuori": "Telstar",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.86,
+    "over25": 1.75,
+    "pari": 4.11,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2025-09-20",
+   "fuori": "Utrecht",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.16,
+    "over25": 1.77,
+    "pari": 3.46,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2025-09-20",
+   "fuori": "Heracles",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.92,
+    "over25": 1.73,
+    "pari": 3.64,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2025-09-21",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.63,
+    "over25": 1.66,
+    "pari": 3.5,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2025-09-21",
+   "fuori": "Nijmegen",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.67,
+    "over25": 1.49,
+    "pari": 3.7,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2025-09-21",
+   "fuori": "Ajax",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 4.8,
+    "over25": 1.35,
+    "pari": 4.42,
+    "under25": 3.05
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2025-09-21",
+   "fuori": "Feyenoord",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.64,
+    "over25": 1.53,
+    "pari": 3.66,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2025-09-24",
+   "fuori": "Zwolle",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 8.5,
+    "over25": 1.43,
+    "pari": 5.62,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2025-09-26",
+   "fuori": "For Sittard",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.16,
+    "over25": 1.6,
+    "pari": 4.7,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2025-09-27",
+   "fuori": "NAC Breda",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 9.48,
+    "over25": 1.47,
+    "pari": 5.79,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2025-09-27",
+   "fuori": "Zwolle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.69,
+    "over25": 1.64,
+    "pari": 3.53,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2025-09-27",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 6.76,
+    "fuori": 1.37,
+    "over25": 1.31,
+    "pari": 5.42,
+    "under25": 3.24
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2025-09-27",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.66,
+    "over25": 1.63,
+    "pari": 3.61,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2025-09-28",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 1.98,
+    "over25": 1.4,
+    "pari": 4.01,
+    "under25": 2.81
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2025-09-28",
+   "fuori": "Feyenoord",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 4.03,
+    "fuori": 1.91,
+    "over25": 1.77,
+    "pari": 3.45,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2025-09-28",
+   "fuori": "Heerenveen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.19,
+    "over25": 1.65,
+    "pari": 3.88,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2025-09-28",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.29,
+    "over25": 1.57,
+    "pari": 3.63,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2025-10-03",
+   "fuori": "Groningen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.64,
+    "over25": 1.97,
+    "pari": 3.3,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2025-10-04",
+   "fuori": "Ajax",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 4.38,
+    "fuori": 1.7,
+    "over25": 1.56,
+    "pari": 4.04,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2025-10-04",
+   "fuori": "Volendam",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.08,
+    "over25": 1.62,
+    "pari": 3.88,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2025-10-04",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 6.13,
+    "fuori": 1.42,
+    "over25": 1.31,
+    "pari": 5.23,
+    "under25": 3.26
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2025-10-04",
+   "fuori": "Excelsior",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.65,
+    "over25": 1.56,
+    "pari": 4.04,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2025-10-05",
+   "fuori": "Heracles",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 9.27,
+    "over25": 1.45,
+    "pari": 5.72,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2025-10-05",
+   "fuori": "Utrecht",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.47,
+    "over25": 1.57,
+    "pari": 4.62,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2025-10-05",
+   "fuori": "Telstar",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 8.04,
+    "over25": 1.49,
+    "pari": 5.37,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2025-10-05",
+   "fuori": "Nijmegen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.46,
+    "over25": 1.36,
+    "pari": 3.89,
+    "under25": 2.96
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2025-10-18",
+   "fuori": "Twente",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.52,
+    "over25": 1.52,
+    "pari": 3.65,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2025-10-18",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 9.5,
+    "over25": 1.21,
+    "pari": 6.94,
+    "under25": 4.03
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2025-10-18",
+   "fuori": "Volendam",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 7.89,
+    "over25": 1.46,
+    "pari": 5.25,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2025-10-18",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.26,
+    "over25": 1.53,
+    "pari": 3.71,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2025-10-18",
+   "fuori": "Zwolle",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.38,
+    "over25": 1.68,
+    "pari": 3.78,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2025-10-19",
+   "fuori": "Heerenveen",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.2,
+    "over25": 1.55,
+    "pari": 3.56,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2025-10-19",
+   "fuori": "For Sittard",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.39,
+    "over25": 1.74,
+    "pari": 3.49,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2025-10-19",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.41,
+    "over25": 1.68,
+    "pari": 3.77,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2025-10-19",
+   "fuori": "Feyenoord",
+   "gol": [
+    0,
+    7
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 7.5,
+    "fuori": 1.34,
+    "over25": 1.42,
+    "pari": 5.3,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2025-10-24",
+   "fuori": "NAC Breda",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.41,
+    "over25": 1.53,
+    "pari": 4.2,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2025-10-25",
+   "fuori": "Groningen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.42,
+    "over25": 2.0,
+    "pari": 3.2,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2025-10-25",
+   "fuori": "Telstar",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.02,
+    "over25": 1.52,
+    "pari": 4.0,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2025-10-25",
+   "fuori": "Heracles",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.33,
+    "over25": 1.64,
+    "pari": 3.69,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2025-10-25",
+   "fuori": "Nijmegen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.83,
+    "fuori": 1.84,
+    "over25": 1.56,
+    "pari": 3.78,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2025-10-26",
+   "fuori": "Ajax",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.79,
+    "over25": 1.62,
+    "pari": 3.48,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2025-10-26",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.69,
+    "over25": 1.4,
+    "pari": 3.81,
+    "under25": 2.79
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2025-10-26",
+   "fuori": "Utrecht",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.57,
+    "over25": 1.5,
+    "pari": 4.43,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2025-10-26",
+   "fuori": "Excelsior",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.21,
+    "over25": 1.54,
+    "pari": 3.71,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2025-10-31",
+   "fuori": "For Sittard",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 15.25,
+    "over25": 1.21,
+    "pari": 8.97,
+    "under25": 4.05
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2025-11-01",
+   "fuori": "Heerenveen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.3,
+    "over25": 1.43,
+    "pari": 4.55,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2025-11-01",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.03,
+    "over25": 1.61,
+    "pari": 3.58,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2025-11-01",
+   "fuori": "Volendam",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.11,
+    "fuori": 18.34,
+    "over25": 1.23,
+    "pari": 9.32,
+    "under25": 3.87
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2025-11-01",
+   "fuori": "Excelsior",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.26,
+    "over25": 1.65,
+    "pari": 3.5,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2025-11-02",
+   "fuori": "Zwolle",
+   "gol": [
+    8,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.62,
+    "over25": 1.62,
+    "pari": 3.47,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2025-11-02",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.32,
+    "over25": 1.76,
+    "pari": 3.38,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2025-11-02",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 4.24,
+    "fuori": 1.7,
+    "over25": 1.47,
+    "pari": 4.08,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2025-11-02",
+   "fuori": "Nijmegen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.09,
+    "over25": 1.58,
+    "pari": 3.52,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2025-11-07",
+   "fuori": "Telstar",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.32,
+    "fuori": 8.22,
+    "over25": 1.48,
+    "pari": 5.41,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2025-11-08",
+   "fuori": "Heracles",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.72,
+    "over25": 1.54,
+    "pari": 3.84,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2025-11-08",
+   "fuori": "NAC Breda",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.39,
+    "over25": 1.63,
+    "pari": 3.55,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2025-11-08",
+   "fuori": "Heerenveen",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.25,
+    "over25": 1.66,
+    "pari": 3.52,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2025-11-08",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.48,
+    "over25": 1.61,
+    "pari": 3.53,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2025-11-09",
+   "fuori": "Ajax",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.41,
+    "over25": 1.64,
+    "pari": 3.48,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2025-11-09",
+   "fuori": "Groningen",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.49,
+    "over25": 1.64,
+    "pari": 3.62,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2025-11-09",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 3.38,
+    "fuori": 1.89,
+    "over25": 1.32,
+    "pari": 4.11,
+    "under25": 3.16
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2025-11-09",
+   "fuori": "Feyenoord",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 6.27,
+    "fuori": 1.42,
+    "over25": 1.4,
+    "pari": 4.94,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2025-11-22",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 8.41,
+    "fuori": 1.28,
+    "over25": 1.3,
+    "pari": 5.98,
+    "under25": 3.29
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2025-11-22",
+   "fuori": "Excelsior",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 8.18,
+    "over25": 1.32,
+    "pari": 5.78,
+    "under25": 3.16
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2025-11-22",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 4.63,
+    "fuori": 1.68,
+    "over25": 1.58,
+    "pari": 3.93,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2025-11-22",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.6,
+    "over25": 1.6,
+    "pari": 3.51,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2025-11-22",
+   "fuori": "For Sittard",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.97,
+    "over25": 1.8,
+    "pari": 3.53,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2025-11-23",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.43,
+    "over25": 1.48,
+    "pari": 3.73,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2025-11-23",
+   "fuori": "Nijmegen",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.31,
+    "over25": 1.35,
+    "pari": 4.92,
+    "under25": 2.98
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2025-11-23",
+   "fuori": "Utrecht",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 3.57,
+    "fuori": 1.96,
+    "over25": 1.72,
+    "pari": 3.64,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2025-11-23",
+   "fuori": "Zwolle",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.68,
+    "over25": 1.63,
+    "pari": 4.37,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2025-11-28",
+   "fuori": "Heerenveen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.75,
+    "fuori": 1.84,
+    "over25": 1.49,
+    "pari": 3.87,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2025-11-29",
+   "fuori": "NAC Breda",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.7,
+    "over25": 1.62,
+    "pari": 3.5,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2025-11-29",
+   "fuori": "Heracles",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.56,
+    "over25": 1.62,
+    "pari": 3.65,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2025-11-29",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.75,
+    "over25": 1.45,
+    "pari": 4.26,
+    "under25": 2.59
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2025-11-30",
+   "fuori": "Volendam",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 1.1,
+    "fuori": 17.16,
+    "over25": 1.15,
+    "pari": 10.48,
+    "under25": 4.97
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2025-11-30",
+   "fuori": "Utrecht",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.31,
+    "over25": 1.77,
+    "pari": 3.4,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2025-11-30",
+   "fuori": "Feyenoord",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 5.03,
+    "fuori": 1.56,
+    "over25": 1.43,
+    "pari": 4.37,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2025-11-30",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.03,
+    "over25": 1.54,
+    "pari": 3.64,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2025-12-02",
+   "fuori": "Groningen",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.58,
+    "over25": 1.65,
+    "pari": 3.68,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2025-12-05",
+   "fuori": "Groningen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 2.02,
+    "over25": 1.82,
+    "pari": 3.42,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2025-12-06",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.53,
+    "fuori": 1.83,
+    "over25": 1.31,
+    "pari": 4.24,
+    "under25": 3.27
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2025-12-06",
+   "fuori": "Ajax",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 3.55,
+    "fuori": 1.98,
+    "over25": 1.68,
+    "pari": 3.57,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2025-12-06",
+   "fuori": "Telstar",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.82,
+    "over25": 1.6,
+    "pari": 3.59,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2025-12-06",
+   "fuori": "Zwolle",
+   "gol": [
+    6,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.14,
+    "fuori": 14.66,
+    "over25": 1.25,
+    "pari": 8.13,
+    "under25": 3.66
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2025-12-07",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.73,
+    "over25": 1.82,
+    "pari": 3.37,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2025-12-07",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 8.02,
+    "over25": 1.35,
+    "pari": 5.54,
+    "under25": 2.98
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2025-12-07",
+   "fuori": "Nijmegen",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 4.4,
+    "fuori": 1.65,
+    "over25": 1.36,
+    "pari": 4.29,
+    "under25": 2.92
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2025-12-07",
+   "fuori": "NAC Breda",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 2.91,
+    "over25": 1.75,
+    "pari": 3.4,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2025-12-13",
+   "fuori": "Nijmegen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.06,
+    "fuori": 2.09,
+    "over25": 1.46,
+    "pari": 3.8,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2025-12-13",
+   "fuori": "Volendam",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 7.53,
+    "over25": 1.49,
+    "pari": 4.88,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2025-12-13",
+   "fuori": "Heracles",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.1,
+    "fuori": 16.84,
+    "over25": 1.16,
+    "pari": 10.24,
+    "under25": 4.72
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2025-12-13",
+   "fuori": "For Sittard",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.65,
+    "over25": 1.66,
+    "pari": 3.48,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2025-12-14",
+   "fuori": "Heerenveen",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.26,
+    "over25": 1.53,
+    "pari": 3.65,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2025-12-14",
+   "fuori": "Feyenoord",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 3.18,
+    "fuori": 2.06,
+    "over25": 1.52,
+    "pari": 3.76,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2025-12-14",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 7.17,
+    "over25": 1.52,
+    "pari": 4.68,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2025-12-14",
+   "fuori": "Utrecht",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.6,
+    "fuori": 2.62,
+    "over25": 1.86,
+    "pari": 3.34,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2025-12-20",
+   "fuori": "Heerenveen",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 3.43,
+    "fuori": 1.98,
+    "over25": 1.59,
+    "pari": 3.69,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2025-12-20",
+   "fuori": "Zwolle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.19,
+    "over25": 1.58,
+    "pari": 3.68,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2025-12-20",
+   "fuori": "Ajax",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 2.92,
+    "over25": 1.41,
+    "pari": 3.89,
+    "under25": 2.72
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2025-12-20",
+   "fuori": "Telstar",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.15,
+    "over25": 1.72,
+    "pari": 3.78,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2025-12-21",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.91,
+    "fuori": 1.79,
+    "over25": 1.47,
+    "pari": 3.97,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2025-12-21",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.57,
+    "over25": 1.54,
+    "pari": 3.74,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2025-12-21",
+   "fuori": "Groningen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 3.36,
+    "fuori": 2.07,
+    "over25": 1.72,
+    "pari": 3.48,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2025-12-21",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 4.66,
+    "fuori": 1.65,
+    "over25": 1.54,
+    "pari": 4.03,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2025-12-21",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.28,
+    "over25": 1.6,
+    "pari": 3.57,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-01-10",
+   "fuori": "Volendam",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 13.94,
+    "over25": 1.3,
+    "pari": 7.72,
+    "under25": 3.28
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-01-10",
+   "fuori": "Zwolle",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 8.94,
+    "over25": 1.43,
+    "pari": 5.58,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2026-01-10",
+   "fuori": "Excelsior",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 13.44,
+    "over25": 1.22,
+    "pari": 8.1,
+    "under25": 3.9
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-01-10",
+   "fuori": "NAC Breda",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 5.07,
+    "over25": 1.85,
+    "pari": 3.73,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-01-11",
+   "fuori": "Feyenoord",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.3,
+    "over25": 1.53,
+    "pari": 3.69,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2026-01-11",
+   "fuori": "For Sittard",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.82,
+    "over25": 1.68,
+    "pari": 3.69,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2026-01-11",
+   "fuori": "Ajax",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 3.91,
+    "fuori": 1.83,
+    "over25": 1.6,
+    "pari": 3.8,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2026-01-11",
+   "fuori": "Heracles",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.13,
+    "over25": 1.62,
+    "pari": 3.74,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2026-01-17",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.77,
+    "over25": 1.48,
+    "pari": 4.14,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-01-17",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 5.87,
+    "fuori": 1.47,
+    "over25": 1.48,
+    "pari": 4.57,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2026-01-17",
+   "fuori": "Telstar",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.06,
+    "over25": 1.73,
+    "pari": 3.41,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2026-01-17",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 5.27,
+    "fuori": 1.53,
+    "over25": 1.44,
+    "pari": 4.52,
+    "under25": 2.63
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2026-01-17",
+   "fuori": "Nijmegen",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.64,
+    "over25": 1.71,
+    "pari": 3.46,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-01-18",
+   "fuori": "Groningen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.78,
+    "over25": 1.81,
+    "pari": 3.38,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2026-01-18",
+   "fuori": "Twente",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 6.07,
+    "fuori": 1.47,
+    "over25": 1.58,
+    "pari": 4.46,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2026-01-18",
+   "fuori": "Utrecht",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 4.14,
+    "fuori": 1.8,
+    "over25": 1.72,
+    "pari": 3.72,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2026-01-18",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.1,
+    "over25": 1.41,
+    "pari": 4.64,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-01-21",
+   "fuori": "Excelsior",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.32,
+    "fuori": 8.23,
+    "over25": 1.44,
+    "pari": 5.35,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2026-01-24",
+   "fuori": "Volendam",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 8.27,
+    "over25": 1.42,
+    "pari": 5.57,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-01-24",
+   "fuori": "Zwolle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 5.91,
+    "over25": 1.39,
+    "pari": 4.73,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2026-01-24",
+   "fuori": "NAC Breda",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.13,
+    "over25": 1.46,
+    "pari": 5.07,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-01-24",
+   "fuori": "Excelsior",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 10.06,
+    "over25": 1.48,
+    "pari": 5.85,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2026-01-25",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.19,
+    "fuori": 2.11,
+    "over25": 1.62,
+    "pari": 3.56,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-01-25",
+   "fuori": "For Sittard",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 6.47,
+    "over25": 1.8,
+    "pari": 4.08,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2026-01-25",
+   "fuori": "Heracles",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 11.1,
+    "over25": 1.32,
+    "pari": 6.72,
+    "under25": 3.17
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2026-01-25",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.63,
+    "over25": 1.82,
+    "pari": 3.47,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2026-01-30",
+   "fuori": "Twente",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.34,
+    "fuori": 2.14,
+    "over25": 1.97,
+    "pari": 3.3,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-01-31",
+   "fuori": "Nijmegen",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.66,
+    "over25": 1.5,
+    "pari": 3.86,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-01-31",
+   "fuori": "Telstar",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.89,
+    "over25": 1.67,
+    "pari": 3.51,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2026-01-31",
+   "fuori": "Groningen",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.77,
+    "over25": 1.69,
+    "pari": 3.41,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2026-02-01",
+   "fuori": "Ajax",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.98,
+    "fuori": 1.8,
+    "over25": 1.58,
+    "pari": 3.82,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2026-02-01",
+   "fuori": "For Sittard",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.16,
+    "over25": 1.85,
+    "pari": 3.35,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2026-02-01",
+   "fuori": "Feyenoord",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.55,
+    "over25": 1.39,
+    "pari": 4.27,
+    "under25": 2.79
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-02-01",
+   "fuori": "Utrecht",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.43,
+    "over25": 1.78,
+    "pari": 3.67,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2026-02-01",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.02,
+    "over25": 1.72,
+    "pari": 3.54,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2026-02-06",
+   "fuori": "Excelsior",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.11,
+    "over25": 1.84,
+    "pari": 3.54,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-02-07",
+   "fuori": "Heracles",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.15,
+    "over25": 1.5,
+    "pari": 4.78,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-02-07",
+   "fuori": "Volendam",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.49,
+    "over25": 1.59,
+    "pari": 3.96,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-02-07",
+   "fuori": "Heerenveen",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.18,
+    "over25": 1.55,
+    "pari": 4.21,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2026-02-07",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.28,
+    "over25": 1.7,
+    "pari": 3.41,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2026-02-08",
+   "fuori": "Feyenoord",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.38,
+    "fuori": 2.06,
+    "over25": 1.8,
+    "pari": 3.49,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-02-08",
+   "fuori": "Ajax",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.75,
+    "over25": 1.6,
+    "pari": 3.54,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2026-02-08",
+   "fuori": "Telstar",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 3.86,
+    "over25": 1.57,
+    "pari": 3.83,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-02-08",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 4.5,
+    "fuori": 1.64,
+    "over25": 1.44,
+    "pari": 4.27,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2026-02-11",
+   "fuori": "Heerenveen",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.52,
+    "over25": 1.58,
+    "pari": 3.56,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-02-11",
+   "fuori": "Utrecht",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.62,
+    "over25": 1.61,
+    "pari": 3.88,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2026-02-13",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 9.33,
+    "fuori": 1.25,
+    "over25": 1.33,
+    "pari": 6.22,
+    "under25": 3.12
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2026-02-14",
+   "fuori": "NAC Breda",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.46,
+    "over25": 1.9,
+    "pari": 3.29,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2026-02-14",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.23,
+    "over25": 1.74,
+    "pari": 3.53,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2026-02-14",
+   "fuori": "For Sittard",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 9.06,
+    "over25": 1.39,
+    "pari": 5.75,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-02-14",
+   "fuori": "Utrecht",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.02,
+    "over25": 1.99,
+    "pari": 3.38,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2026-02-15",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.12,
+    "over25": 1.44,
+    "pari": 5.03,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-02-15",
+   "fuori": "Zwolle",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.57,
+    "over25": 1.47,
+    "pari": 4.11,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2026-02-15",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 5.86,
+    "fuori": 1.48,
+    "over25": 1.51,
+    "pari": 4.44,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2026-02-17",
+   "fuori": "Nijmegen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.71,
+    "over25": 1.54,
+    "pari": 3.55,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2026-02-20",
+   "fuori": "Excelsior",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.12,
+    "over25": 1.8,
+    "pari": 3.4,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2026-02-21",
+   "fuori": "Heerenveen",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.26,
+    "fuori": 8.87,
+    "over25": 1.26,
+    "pari": 6.18,
+    "under25": 3.6
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2026-02-21",
+   "fuori": "Volendam",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.12,
+    "over25": 1.67,
+    "pari": 4.01,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2026-02-21",
+   "fuori": "Nijmegen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 3.82,
+    "over25": 1.44,
+    "pari": 4.01,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-02-22",
+   "fuori": "Groningen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 5.81,
+    "over25": 1.51,
+    "pari": 4.46,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2026-02-22",
+   "fuori": "Heracles",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.71,
+    "over25": 1.64,
+    "pari": 3.63,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2026-02-22",
+   "fuori": "Zwolle",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.13,
+    "over25": 1.66,
+    "pari": 4.05,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-02-22",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.47,
+    "over25": 1.58,
+    "pari": 3.62,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2026-02-22",
+   "fuori": "Telstar",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 11.59,
+    "over25": 1.34,
+    "pari": 6.84,
+    "under25": 3.02
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2026-02-27",
+   "fuori": "NAC Breda",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.54,
+    "over25": 1.65,
+    "pari": 3.52,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-02-28",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.37,
+    "over25": 1.52,
+    "pari": 3.75,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2026-02-28",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 8.42,
+    "fuori": 1.27,
+    "over25": 1.29,
+    "pari": 6.08,
+    "under25": 3.35
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-02-28",
+   "fuori": "For Sittard",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 6.55,
+    "over25": 1.38,
+    "pari": 4.96,
+    "under25": 2.84
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-03-01",
+   "fuori": "Ajax",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 1.84,
+    "over25": 1.49,
+    "pari": 3.9,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-03-01",
+   "fuori": "Feyenoord",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.17,
+    "over25": 1.55,
+    "pari": 3.72,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2026-03-01",
+   "fuori": "Groningen",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 3.64,
+    "fuori": 1.93,
+    "over25": 1.67,
+    "pari": 3.6,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2026-03-01",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.07,
+    "over25": 1.84,
+    "pari": 3.33,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2026-03-01",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.84,
+    "over25": 1.67,
+    "pari": 3.41,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2026-03-06",
+   "fuori": "Utrecht",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.19,
+    "fuori": 2.15,
+    "over25": 1.84,
+    "pari": 3.42,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-03-07",
+   "fuori": "Ajax",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.82,
+    "fuori": 2.27,
+    "over25": 1.6,
+    "pari": 3.63,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2026-03-07",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 6.56,
+    "over25": 1.33,
+    "pari": 5.07,
+    "under25": 3.11
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2026-03-07",
+   "fuori": "Heerenveen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.26,
+    "over25": 1.62,
+    "pari": 3.6,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2026-03-08",
+   "fuori": "Zwolle",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 3.98,
+    "over25": 1.44,
+    "pari": 4.04,
+    "under25": 2.63
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2026-03-08",
+   "fuori": "Telstar",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.82,
+    "over25": 1.62,
+    "pari": 3.57,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2026-03-08",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 4.47,
+    "fuori": 1.66,
+    "over25": 1.45,
+    "pari": 4.08,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2026-03-08",
+   "fuori": "Feyenoord",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 3.85,
+    "fuori": 1.84,
+    "over25": 1.63,
+    "pari": 3.7,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-03-08",
+   "fuori": "Volendam",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 8.8,
+    "over25": 1.38,
+    "pari": 5.84,
+    "under25": 2.85
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-03-13",
+   "fuori": "Groningen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.44,
+    "over25": 1.64,
+    "pari": 3.47,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2026-03-14",
+   "fuori": "For Sittard",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.75,
+    "over25": 1.65,
+    "pari": 3.54,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2026-03-14",
+   "fuori": "Nijmegen",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 5.14,
+    "over25": 1.25,
+    "pari": 4.89,
+    "under25": 3.63
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-03-14",
+   "fuori": "Telstar",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.44,
+    "over25": 1.42,
+    "pari": 4.26,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2026-03-14",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.31,
+    "over25": 1.51,
+    "pari": 4.09,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-03-15",
+   "fuori": "Utrecht",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.78,
+    "over25": 1.61,
+    "pari": 4.0,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-03-15",
+   "fuori": "Heracles",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 7.43,
+    "over25": 1.38,
+    "pari": 5.3,
+    "under25": 2.81
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2026-03-15",
+   "fuori": "Excelsior",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 7.95,
+    "over25": 1.37,
+    "pari": 5.67,
+    "under25": 2.9
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2026-03-15",
+   "fuori": "NAC Breda",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.23,
+    "over25": 1.75,
+    "pari": 3.45,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2026-03-20",
+   "fuori": "Excelsior",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.6,
+    "over25": 1.66,
+    "pari": 3.3,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2026-03-21",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 5.78,
+    "fuori": 1.48,
+    "over25": 1.46,
+    "pari": 4.5,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2026-03-21",
+   "fuori": "Volendam",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.37,
+    "over25": 1.49,
+    "pari": 4.72,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-03-21",
+   "fuori": "NAC Breda",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.01,
+    "over25": 1.72,
+    "pari": 3.42,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-03-22",
+   "fuori": "Heerenveen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 4.39,
+    "over25": 1.35,
+    "pari": 4.37,
+    "under25": 2.97
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2026-03-22",
+   "fuori": "Ajax",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.48,
+    "over25": 1.49,
+    "pari": 3.87,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2026-03-22",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 5.04,
+    "over25": 1.61,
+    "pari": 3.79,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-03-22",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.21,
+    "over25": 1.51,
+    "pari": 3.72,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2026-03-22",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 5.32,
+    "fuori": 1.47,
+    "over25": 1.3,
+    "pari": 5.06,
+    "under25": 3.32
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2026-04-04",
+   "fuori": "Utrecht",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 5.95,
+    "over25": 1.32,
+    "pari": 4.82,
+    "under25": 3.17
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-04-04",
+   "fuori": "For Sittard",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 8.87,
+    "over25": 1.36,
+    "pari": 5.64,
+    "under25": 2.92
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2026-04-04",
+   "fuori": "Groningen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.6,
+    "fuori": 2.43,
+    "over25": 1.54,
+    "pari": 3.62,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2026-04-04",
+   "fuori": "Twente",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 2.77,
+    "over25": 1.46,
+    "pari": 3.7,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2026-04-04",
+   "fuori": "Nijmegen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.6,
+    "fuori": 1.87,
+    "over25": 1.51,
+    "pari": 3.83,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2026-04-05",
+   "fuori": "Zwolle",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 3.84,
+    "over25": 1.49,
+    "pari": 3.84,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-04-05",
+   "fuori": "Heracles",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 5.91,
+    "over25": 1.37,
+    "pari": 4.91,
+    "under25": 2.89
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2026-04-05",
+   "fuori": "Feyenoord",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 5.92,
+    "fuori": 1.45,
+    "over25": 1.48,
+    "pari": 4.65,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2026-04-05",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.07,
+    "over25": 1.69,
+    "pari": 3.47,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-04-10",
+   "fuori": "Volendam",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 11.63,
+    "over25": 1.29,
+    "pari": 6.99,
+    "under25": 3.37
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2026-04-11",
+   "fuori": "Telstar",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.32,
+    "over25": 1.49,
+    "pari": 4.05,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2026-04-11",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 3.34,
+    "fuori": 1.87,
+    "over25": 1.3,
+    "pari": 4.18,
+    "under25": 3.27
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-04-11",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.1,
+    "over25": 1.48,
+    "pari": 4.03,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2026-04-11",
+   "fuori": "Ajax",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 5.27,
+    "fuori": 1.52,
+    "over25": 1.44,
+    "pari": 4.4,
+    "under25": 2.63
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2026-04-12",
+   "fuori": "NAC Breda",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.41,
+    "over25": 1.8,
+    "pari": 3.39,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-04-12",
+   "fuori": "Feyenoord",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.22,
+    "over25": 1.46,
+    "pari": 3.8,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-04-12",
+   "fuori": "Excelsior",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.0,
+    "over25": 1.66,
+    "pari": 3.57,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-04-12",
+   "fuori": "Heerenveen",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.27,
+    "over25": 1.41,
+    "pari": 4.17,
+    "under25": 2.72
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2026-04-22",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.2,
+    "over25": 1.54,
+    "pari": 3.7,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2026-04-23",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 2.92,
+    "over25": 1.41,
+    "pari": 3.78,
+    "under25": 2.71
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2026-04-23",
+   "fuori": "Zwolle",
+   "gol": [
+    6,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 8.23,
+    "over25": 1.21,
+    "pari": 6.4,
+    "under25": 3.99
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2026-04-25",
+   "fuori": "Groningen",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.35,
+    "over25": 1.51,
+    "pari": 4.15,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-04-25",
+   "fuori": "For Sittard",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 5.75,
+    "over25": 1.34,
+    "pari": 4.93,
+    "under25": 3.03
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2026-04-25",
+   "fuori": "Ajax",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.35,
+    "fuori": 1.98,
+    "over25": 1.6,
+    "pari": 3.67,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-04-25",
+   "fuori": "Nijmegen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.56,
+    "over25": 1.43,
+    "pari": 4.22,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2026-04-26",
+   "fuori": "Utrecht",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.1,
+    "over25": 1.68,
+    "pari": 3.52,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2026-04-26",
+   "fuori": "Volendam",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.01,
+    "over25": 1.6,
+    "pari": 3.68,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2026-05-02",
+   "fuori": "NAC Breda",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.42,
+    "over25": 1.62,
+    "pari": 3.9,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-05-02",
+   "fuori": "Excelsior",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.41,
+    "over25": 1.56,
+    "pari": 3.93,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2026-05-02",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.5,
+    "over25": 1.33,
+    "pari": 4.0,
+    "under25": 3.08
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-05-02",
+   "fuori": "Telstar",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.13,
+    "over25": 1.36,
+    "pari": 4.56,
+    "under25": 2.94
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2026-05-03",
+   "fuori": "Heerenveen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.07,
+    "over25": 1.46,
+    "pari": 3.72,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2026-05-03",
+   "fuori": "Feyenoord",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 4.79,
+    "fuori": 1.58,
+    "over25": 1.5,
+    "pari": 4.22,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-05-03",
+   "fuori": "Heracles",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 5.46,
+    "over25": 1.45,
+    "pari": 4.58,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-05-03",
+   "fuori": "Twente",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.72,
+    "over25": 1.42,
+    "pari": 3.77,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2026-05-03",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.18,
+    "over25": 1.47,
+    "pari": 3.76,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2026-05-10",
+   "fuori": "Utrecht",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.75,
+    "over25": 1.47,
+    "pari": 4.15,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2026-05-10",
+   "fuori": "Volendam",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.55,
+    "over25": 1.61,
+    "pari": 3.85,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Feyenoord",
+   "data": "2026-05-10",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.42,
+    "over25": 1.49,
+    "pari": 3.75,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2026-05-10",
+   "fuori": "Zwolle",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 2.98,
+    "over25": 1.55,
+    "pari": 3.59,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Go Ahead Eagles",
+   "data": "2026-05-10",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 1.91,
+    "over25": 1.25,
+    "pari": 4.23,
+    "under25": 3.64
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-05-10",
+   "fuori": "Nijmegen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.34,
+    "over25": 1.55,
+    "pari": 3.59,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "NAC Breda",
+   "data": "2026-05-10",
+   "fuori": "Heerenveen",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.53,
+    "over25": 1.48,
+    "pari": 3.62,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2026-05-10",
+   "fuori": "Heracles",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.19,
+    "over25": 1.4,
+    "pari": 4.87,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-05-10",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 7.13,
+    "over25": 1.35,
+    "pari": 5.19,
+    "under25": 3.0
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-05-17",
+   "fuori": "NAC Breda",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 8.16,
+    "over25": 1.28,
+    "pari": 5.71,
+    "under25": 3.38
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-05-17",
+   "fuori": "Ajax",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 1.98,
+    "over25": 1.33,
+    "pari": 3.99,
+    "under25": 3.09
+   }
+  },
+  {
+   "casa": "Heracles",
+   "data": "2026-05-17",
+   "fuori": "Groningen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 4.9,
+    "fuori": 1.57,
+    "over25": 1.52,
+    "pari": 4.17,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-05-17",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 7.43,
+    "over25": 1.23,
+    "pari": 6.06,
+    "under25": 3.85
+   }
+  },
+  {
+   "casa": "PSV Eindhoven",
+   "data": "2026-05-17",
+   "fuori": "Twente",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 2.73,
+    "over25": 1.24,
+    "pari": 4.06,
+    "under25": 3.75
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2026-05-17",
+   "fuori": "Excelsior",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.25,
+    "over25": 1.52,
+    "pari": 3.72,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2026-05-17",
+   "fuori": "For Sittard",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 5.27,
+    "over25": 1.39,
+    "pari": 4.56,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "Volendam",
+   "data": "2026-05-17",
+   "fuori": "Telstar",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.55,
+    "over25": 1.69,
+    "pari": 3.38,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-05-17",
+   "fuori": "Feyenoord",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 5.38,
+    "fuori": 1.48,
+    "over25": 1.35,
+    "pari": 4.6,
+    "under25": 3.0
+   }
+  }
+ ],
+ "stagione": "2025-26"
+}

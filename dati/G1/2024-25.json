@@ -1,0 +1,3970 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "G1",
+ "nome": "Super League",
+ "paese": "Grecia",
+ "partite": [
+  {
+   "casa": "PAOK",
+   "data": "2024-08-17",
+   "fuori": "Panserraikos",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 13.23,
+    "over25": 1.49,
+    "pari": 6.78,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2024-08-17",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 8.69,
+    "fuori": 1.32,
+    "over25": 1.71,
+    "pari": 5.03,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2024-08-18",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.42,
+    "over25": 2.39,
+    "pari": 2.96,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2024-08-18",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.74,
+    "over25": 1.84,
+    "pari": 4.47,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2024-08-18",
+   "fuori": "Aris",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.57,
+    "over25": 2.08,
+    "pari": 3.11,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2024-08-18",
+   "fuori": "OFI Crete",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 11.47,
+    "over25": 1.5,
+    "pari": 6.15,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2024-08-19",
+   "fuori": "Lamia",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.96,
+    "over25": 2.13,
+    "pari": 3.24,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2024-08-24",
+   "fuori": "Atromitos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.02,
+    "over25": 2.06,
+    "pari": 3.14,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2024-08-24",
+   "fuori": "Aris",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.03,
+    "fuori": 1.96,
+    "over25": 2.14,
+    "pari": 3.2,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2024-08-24",
+   "fuori": "Lamia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.09,
+    "fuori": 20.66,
+    "over25": 1.33,
+    "pari": 9.57,
+    "under25": 3.15
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2024-08-25",
+   "fuori": "Volos NFC",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.18,
+    "over25": 2.12,
+    "pari": 3.27,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2024-08-25",
+   "fuori": "Panetolikos",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 10.99,
+    "over25": 1.54,
+    "pari": 6.08,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2024-08-25",
+   "fuori": "Levadeiakos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 13.47,
+    "over25": 1.68,
+    "pari": 6.04,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2024-08-26",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 18.27,
+    "over25": 1.55,
+    "pari": 7.78,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2024-08-31",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 10.6,
+    "fuori": 1.26,
+    "over25": 1.58,
+    "pari": 5.59,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2024-08-31",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.29,
+    "over25": 2.17,
+    "pari": 3.36,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2024-08-31",
+   "fuori": "Panserraikos",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 4.05,
+    "over25": 2.32,
+    "pari": 3.01,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2024-09-01",
+   "fuori": "AEK",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 7.43,
+    "fuori": 1.37,
+    "over25": 1.64,
+    "pari": 4.9,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2024-09-01",
+   "fuori": "OFI Crete",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 3.1,
+    "over25": 2.2,
+    "pari": 2.97,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2024-09-01",
+   "fuori": "PAOK",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 6.56,
+    "fuori": 1.45,
+    "over25": 1.89,
+    "pari": 4.35,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2024-09-01",
+   "fuori": "Panathinaikos",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 7.77,
+    "fuori": 1.39,
+    "over25": 1.86,
+    "pari": 4.47,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2024-09-14",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 3.25,
+    "fuori": 2.3,
+    "over25": 2.21,
+    "pari": 3.07,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2024-09-14",
+   "fuori": "Atromitos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 3.0,
+    "over25": 2.3,
+    "pari": 3.02,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2024-09-15",
+   "fuori": "Levadeiakos",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 3.46,
+    "over25": 2.51,
+    "pari": 2.84,
+    "under25": 1.5
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2024-09-15",
+   "fuori": "Panetolikos",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 15.27,
+    "over25": 1.48,
+    "pari": 7.65,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2024-09-15",
+   "fuori": "Aris",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 3.44,
+    "fuori": 2.13,
+    "over25": 2.01,
+    "pari": 3.23,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2024-09-15",
+   "fuori": "Panathinaikos",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.84,
+    "over25": 1.93,
+    "pari": 3.27,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2024-09-16",
+   "fuori": "Volos NFC",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 16.58,
+    "over25": 1.46,
+    "pari": 7.93,
+    "under25": 2.63
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2024-09-21",
+   "fuori": "PAOK",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 9.06,
+    "fuori": 1.36,
+    "over25": 2.08,
+    "pari": 4.42,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2024-09-21",
+   "fuori": "Olympiakos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 5.14,
+    "fuori": 1.65,
+    "over25": 1.94,
+    "pari": 3.72,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2024-09-21",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 3.0,
+    "fuori": 2.53,
+    "over25": 2.27,
+    "pari": 2.93,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2024-09-22",
+   "fuori": "OFI Crete",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.22,
+    "over25": 2.24,
+    "pari": 2.97,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2024-09-22",
+   "fuori": "Panserraikos",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.17,
+    "fuori": 15.11,
+    "over25": 1.54,
+    "pari": 6.69,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2024-09-22",
+   "fuori": "Lamia",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.57,
+    "over25": 1.9,
+    "pari": 3.57,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2024-09-22",
+   "fuori": "AEK",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 5.97,
+    "fuori": 1.49,
+    "over25": 1.73,
+    "pari": 4.28,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2024-09-28",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.97,
+    "over25": 2.31,
+    "pari": 2.9,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2024-09-28",
+   "fuori": "Levadeiakos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 4.25,
+    "over25": 2.45,
+    "pari": 3.05,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2024-09-29",
+   "fuori": "Panetolikos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.53,
+    "over25": 2.13,
+    "pari": 3.13,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2024-09-29",
+   "fuori": "Atromitos",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.57,
+    "over25": 1.82,
+    "pari": 4.2,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2024-09-29",
+   "fuori": "Aris",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.24,
+    "over25": 1.84,
+    "pari": 3.97,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2024-09-29",
+   "fuori": "Panathinaikos",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.96,
+    "over25": 1.84,
+    "pari": 3.33,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2024-09-30",
+   "fuori": "Panserraikos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.89,
+    "over25": 2.27,
+    "pari": 3.01,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2024-10-05",
+   "fuori": "Volos NFC",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.84,
+    "over25": 2.02,
+    "pari": 3.21,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2024-10-05",
+   "fuori": "AEK",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 8.52,
+    "fuori": 1.35,
+    "over25": 1.74,
+    "pari": 4.78,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2024-10-05",
+   "fuori": "Lamia",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 8.04,
+    "over25": 1.67,
+    "pari": 4.81,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2024-10-06",
+   "fuori": "OFI Crete",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.95,
+    "over25": 2.18,
+    "pari": 3.06,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2024-10-06",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.91,
+    "over25": 2.12,
+    "pari": 3.05,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2024-10-06",
+   "fuori": "PAOK",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 6.36,
+    "fuori": 1.51,
+    "over25": 2.07,
+    "pari": 3.95,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2024-10-06",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.62,
+    "over25": 1.95,
+    "pari": 3.09,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2024-10-19",
+   "fuori": "Panserraikos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.26,
+    "over25": 2.21,
+    "pari": 2.99,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2024-10-19",
+   "fuori": "Panetolikos",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 4.28,
+    "over25": 2.22,
+    "pari": 3.09,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2024-10-19",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.28,
+    "over25": 2.32,
+    "pari": 3.02,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2024-10-20",
+   "fuori": "Levadeiakos",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.17,
+    "fuori": 15.81,
+    "over25": 1.7,
+    "pari": 6.6,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2024-10-20",
+   "fuori": "Panathinaikos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 4.61,
+    "fuori": 1.7,
+    "over25": 1.69,
+    "pari": 3.79,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2024-10-20",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.4,
+    "over25": 1.97,
+    "pari": 3.85,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2024-10-20",
+   "fuori": "PAOK",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.69,
+    "over25": 1.94,
+    "pari": 3.42,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2024-10-26",
+   "fuori": "Volos NFC",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 3.01,
+    "over25": 2.39,
+    "pari": 2.91,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2024-10-26",
+   "fuori": "Lamia",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 4.12,
+    "over25": 2.57,
+    "pari": 3.0,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2024-10-26",
+   "fuori": "AEK",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 8.05,
+    "fuori": 1.33,
+    "over25": 1.6,
+    "pari": 5.17,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2024-10-27",
+   "fuori": "Olympiakos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.08,
+    "fuori": 1.65,
+    "over25": 1.94,
+    "pari": 3.78,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2024-10-27",
+   "fuori": "Aris",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.72,
+    "over25": 2.03,
+    "pari": 3.2,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2024-10-27",
+   "fuori": "OFI Crete",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 9.96,
+    "over25": 1.48,
+    "pari": 5.81,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2024-10-27",
+   "fuori": "Atromitos",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.11,
+    "fuori": 2.32,
+    "over25": 2.05,
+    "pari": 3.16,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2024-11-02",
+   "fuori": "Panserraikos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.1,
+    "fuori": 23.16,
+    "over25": 1.42,
+    "pari": 8.74,
+    "under25": 2.75
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2024-11-02",
+   "fuori": "Panetolikos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.66,
+    "over25": 2.47,
+    "pari": 2.88,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2024-11-03",
+   "fuori": "Levadeiakos",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 8.27,
+    "over25": 1.94,
+    "pari": 4.32,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2024-11-03",
+   "fuori": "Panathinaikos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.71,
+    "fuori": 1.58,
+    "over25": 2.0,
+    "pari": 3.84,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2024-11-03",
+   "fuori": "AEK",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 5.0,
+    "fuori": 1.63,
+    "over25": 1.88,
+    "pari": 3.86,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2024-11-03",
+   "fuori": "PAOK",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 7.95,
+    "fuori": 1.37,
+    "over25": 1.76,
+    "pari": 4.69,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2024-11-04",
+   "fuori": "OFI Crete",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.14,
+    "over25": 2.12,
+    "pari": 3.16,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2024-11-09",
+   "fuori": "Aris",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.25,
+    "over25": 2.28,
+    "pari": 3.15,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2024-11-09",
+   "fuori": "Atromitos",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "16:45",
+   "quote": {
+    "casa": 3.39,
+    "fuori": 2.29,
+    "over25": 2.24,
+    "pari": 2.97,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2024-11-09",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 10.2,
+    "over25": 1.7,
+    "pari": 5.41,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2024-11-10",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.34,
+    "over25": 1.99,
+    "pari": 3.5,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2024-11-10",
+   "fuori": "Volos NFC",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 3.18,
+    "over25": 2.47,
+    "pari": 2.91,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2024-11-10",
+   "fuori": "Lamia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 13.66,
+    "over25": 1.52,
+    "pari": 6.67,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2024-11-10",
+   "fuori": "Olympiakos",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.46,
+    "over25": 2.05,
+    "pari": 3.14,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2024-11-22",
+   "fuori": "Panserraikos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.49,
+    "over25": 2.15,
+    "pari": 3.11,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2024-11-23",
+   "fuori": "OFI Crete",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.33,
+    "over25": 2.26,
+    "pari": 3.0,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2024-11-23",
+   "fuori": "Volos NFC",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.64,
+    "over25": 1.88,
+    "pari": 4.22,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2024-11-24",
+   "fuori": "Panathinaikos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.24,
+    "fuori": 1.66,
+    "over25": 2.13,
+    "pari": 3.62,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2024-11-24",
+   "fuori": "PAOK",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 6.06,
+    "fuori": 1.53,
+    "over25": 1.95,
+    "pari": 3.97,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2024-11-24",
+   "fuori": "AEK",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.29,
+    "over25": 2.06,
+    "pari": 3.18,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2024-11-25",
+   "fuori": "Levadeiakos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 4.4,
+    "over25": 2.46,
+    "pari": 3.15,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2024-11-30",
+   "fuori": "Lamia",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.47,
+    "over25": 2.38,
+    "pari": 3.08,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2024-11-30",
+   "fuori": "Panetolikos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.65,
+    "over25": 2.52,
+    "pari": 2.94,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2024-11-30",
+   "fuori": "Aris",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 7.73,
+    "over25": 1.84,
+    "pari": 4.42,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2024-12-01",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 3.2,
+    "over25": 2.29,
+    "pari": 2.89,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2024-12-01",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 8.9,
+    "fuori": 1.34,
+    "over25": 1.72,
+    "pari": 4.81,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2024-12-01",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 10.92,
+    "over25": 1.59,
+    "pari": 6.11,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2024-12-01",
+   "fuori": "Atromitos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.62,
+    "over25": 1.96,
+    "pari": 4.18,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2024-12-07",
+   "fuori": "Volos NFC",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 15.61,
+    "over25": 1.56,
+    "pari": 7.3,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2024-12-07",
+   "fuori": "Atromitos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.92,
+    "over25": 2.31,
+    "pari": 3.06,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2024-12-08",
+   "fuori": "PAOK",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 7.77,
+    "fuori": 1.37,
+    "over25": 1.67,
+    "pari": 4.74,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2024-12-08",
+   "fuori": "AEK",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 8.44,
+    "fuori": 1.32,
+    "over25": 1.58,
+    "pari": 5.19,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2024-12-08",
+   "fuori": "Panathinaikos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 6.05,
+    "fuori": 1.55,
+    "over25": 1.99,
+    "pari": 3.87,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2024-12-08",
+   "fuori": "Panetolikos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 3.37,
+    "over25": 3.06,
+    "pari": 2.74,
+    "under25": 1.35
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2024-12-09",
+   "fuori": "Levadeiakos",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.24,
+    "over25": 2.36,
+    "pari": 2.95,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2024-12-14",
+   "fuori": "AEK",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 10.76,
+    "fuori": 1.27,
+    "over25": 1.81,
+    "pari": 5.27,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2024-12-14",
+   "fuori": "OFI Crete",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.78,
+    "over25": 2.05,
+    "pari": 3.43,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2024-12-14",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.63,
+    "over25": 2.38,
+    "pari": 2.98,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2024-12-15",
+   "fuori": "Panserraikos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.13,
+    "over25": 1.89,
+    "pari": 3.82,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2024-12-15",
+   "fuori": "Panathinaikos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 7.18,
+    "fuori": 1.47,
+    "over25": 2.13,
+    "pari": 3.98,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2024-12-15",
+   "fuori": "PAOK",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 6.09,
+    "fuori": 1.52,
+    "over25": 1.82,
+    "pari": 4.06,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2024-12-16",
+   "fuori": "Olympiakos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 9.74,
+    "fuori": 1.29,
+    "over25": 1.73,
+    "pari": 5.18,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2024-12-21",
+   "fuori": "Lamia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 20.04,
+    "over25": 1.6,
+    "pari": 8.02,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2024-12-22",
+   "fuori": "Panetolikos",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 3.26,
+    "over25": 2.3,
+    "pari": 2.85,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2024-12-22",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 15.28,
+    "over25": 1.59,
+    "pari": 6.43,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2024-12-22",
+   "fuori": "Atromitos",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 9.37,
+    "over25": 1.79,
+    "pari": 4.99,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2024-12-22",
+   "fuori": "Levadeiakos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 14.59,
+    "over25": 1.64,
+    "pari": 6.4,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2024-12-23",
+   "fuori": "Aris",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.63,
+    "over25": 2.33,
+    "pari": 2.94,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2024-12-23",
+   "fuori": "Volos NFC",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.54,
+    "over25": 2.11,
+    "pari": 3.12,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2025-01-04",
+   "fuori": "Lamia",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.92,
+    "over25": 2.45,
+    "pari": 3.0,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2025-01-05",
+   "fuori": "Panserraikos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 4.21,
+    "over25": 2.26,
+    "pari": 3.02,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2025-01-05",
+   "fuori": "OFI Crete",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.81,
+    "over25": 1.96,
+    "pari": 3.62,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-01-05",
+   "fuori": "AEK",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 11.54,
+    "fuori": 1.26,
+    "over25": 1.83,
+    "pari": 5.34,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2025-01-05",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 4.25,
+    "over25": 2.56,
+    "pari": 2.91,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2025-01-05",
+   "fuori": "PAOK",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.3,
+    "over25": 2.05,
+    "pari": 3.16,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2025-01-06",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 8.56,
+    "fuori": 1.37,
+    "over25": 2.01,
+    "pari": 4.5,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2025-01-11",
+   "fuori": "Aris",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.26,
+    "fuori": 11.34,
+    "over25": 1.87,
+    "pari": 5.14,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-01-12",
+   "fuori": "Panathinaikos",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 7.38,
+    "fuori": 1.4,
+    "over25": 1.75,
+    "pari": 4.44,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-01-12",
+   "fuori": "Atromitos",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.64,
+    "fuori": 2.27,
+    "over25": 2.95,
+    "pari": 2.74,
+    "under25": 1.37
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2025-01-12",
+   "fuori": "Volos NFC",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 15.65,
+    "over25": 1.57,
+    "pari": 6.8,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2025-01-12",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 15.4,
+    "over25": 1.59,
+    "pari": 7.08,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2025-01-13",
+   "fuori": "Panetolikos",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 5.26,
+    "over25": 2.39,
+    "pari": 3.21,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2025-01-13",
+   "fuori": "Levadeiakos",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.5,
+    "over25": 2.15,
+    "pari": 3.08,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2025-01-18",
+   "fuori": "Volos NFC",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.32,
+    "over25": 2.41,
+    "pari": 2.89,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2025-01-19",
+   "fuori": "Olympiakos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 7.08,
+    "fuori": 1.5,
+    "over25": 2.33,
+    "pari": 3.77,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2025-01-19",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 3.0,
+    "over25": 2.92,
+    "pari": 2.67,
+    "under25": 1.38
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2025-01-19",
+   "fuori": "OFI Crete",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.89,
+    "over25": 2.48,
+    "pari": 2.78,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2025-01-19",
+   "fuori": "PAOK",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.06,
+    "fuori": 1.91,
+    "over25": 2.03,
+    "pari": 3.25,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2025-01-19",
+   "fuori": "AEK",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.5,
+    "over25": 2.23,
+    "pari": 3.04,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-01-20",
+   "fuori": "Lamia",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.5,
+    "over25": 2.31,
+    "pari": 3.22,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-01-24",
+   "fuori": "Atromitos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.79,
+    "over25": 2.99,
+    "pari": 2.72,
+    "under25": 1.37
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2025-01-25",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.71,
+    "over25": 2.3,
+    "pari": 3.29,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2025-01-25",
+   "fuori": "Panserraikos",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.48,
+    "over25": 1.97,
+    "pari": 3.46,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2025-01-25",
+   "fuori": "Panetolikos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.17,
+    "fuori": 15.71,
+    "over25": 1.69,
+    "pari": 6.48,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-01-26",
+   "fuori": "Aris",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.38,
+    "fuori": 1.95,
+    "over25": 2.68,
+    "pari": 2.98,
+    "under25": 1.44
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2025-01-26",
+   "fuori": "Levadeiakos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 9.4,
+    "over25": 1.75,
+    "pari": 5.16,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2025-01-26",
+   "fuori": "Panathinaikos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.54,
+    "over25": 2.36,
+    "pari": 3.12,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2025-02-01",
+   "fuori": "OFI Crete",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 8.89,
+    "over25": 1.59,
+    "pari": 5.26,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-02-01",
+   "fuori": "Volos NFC",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.45,
+    "over25": 2.14,
+    "pari": 3.1,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2025-02-02",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 8.78,
+    "fuori": 1.37,
+    "over25": 2.03,
+    "pari": 4.41,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2025-02-02",
+   "fuori": "Aris",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.34,
+    "fuori": 2.27,
+    "over25": 2.34,
+    "pari": 2.99,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2025-02-02",
+   "fuori": "AEK",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.73,
+    "over25": 2.17,
+    "pari": 3.04,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2025-02-02",
+   "fuori": "Atromitos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.94,
+    "over25": 3.24,
+    "pari": 2.68,
+    "under25": 1.32
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2025-02-03",
+   "fuori": "Lamia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 7.13,
+    "over25": 2.24,
+    "pari": 3.92,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-02-08",
+   "fuori": "Panetolikos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.98,
+    "over25": 2.77,
+    "pari": 2.83,
+    "under25": 1.42
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2025-02-08",
+   "fuori": "PAOK",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.7,
+    "fuori": 1.68,
+    "over25": 1.7,
+    "pari": 3.87,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2025-02-09",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 12.4,
+    "over25": 1.85,
+    "pari": 5.31,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2025-02-09",
+   "fuori": "Panathinaikos",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 2.08,
+    "over25": 2.25,
+    "pari": 3.14,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2025-02-09",
+   "fuori": "Panserraikos",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.14,
+    "fuori": 16.72,
+    "over25": 1.49,
+    "pari": 7.79,
+    "under25": 2.55
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2025-02-10",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 4.22,
+    "over25": 2.56,
+    "pari": 3.06,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-02-10",
+   "fuori": "Levadeiakos",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 3.25,
+    "fuori": 2.41,
+    "over25": 2.69,
+    "pari": 2.88,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2025-02-15",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.33,
+    "over25": 2.24,
+    "pari": 3.05,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2025-02-15",
+   "fuori": "Atromitos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 13.43,
+    "over25": 1.83,
+    "pari": 5.53,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2025-02-16",
+   "fuori": "Aris",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 2.06,
+    "over25": 2.46,
+    "pari": 3.19,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2025-02-16",
+   "fuori": "Volos NFC",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 9.16,
+    "over25": 1.88,
+    "pari": 4.87,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-02-16",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 19.44,
+    "fuori": 1.11,
+    "over25": 1.45,
+    "pari": 8.52,
+    "under25": 2.63
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2025-02-16",
+   "fuori": "Lamia",
+   "gol": [
+    7,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 17.05,
+    "over25": 1.64,
+    "pari": 6.79,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2025-02-16",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 3.26,
+    "over25": 2.75,
+    "pari": 2.83,
+    "under25": 1.43
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2025-02-22",
+   "fuori": "OFI Crete",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.96,
+    "over25": 2.01,
+    "pari": 3.17,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2025-02-22",
+   "fuori": "Panserraikos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.41,
+    "over25": 2.1,
+    "pari": 3.66,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-02-22",
+   "fuori": "Levadeiakos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 3.03,
+    "over25": 2.48,
+    "pari": 2.9,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2025-02-23",
+   "fuori": "Panetolikos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 8.05,
+    "over25": 2.21,
+    "pari": 4.0,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-02-23",
+   "fuori": "Panathinaikos",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 12.6,
+    "fuori": 1.24,
+    "over25": 1.89,
+    "pari": 5.52,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2025-02-23",
+   "fuori": "AEK",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 7.06,
+    "fuori": 1.46,
+    "over25": 2.01,
+    "pari": 4.11,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2025-02-23",
+   "fuori": "PAOK",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 5.06,
+    "over25": 2.03,
+    "pari": 3.68,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-03-01",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.84,
+    "over25": 2.07,
+    "pari": 3.1,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-03-01",
+   "fuori": "Aris",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.21,
+    "over25": 2.36,
+    "pari": 3.08,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2025-03-01",
+   "fuori": "Panetolikos",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 12.78,
+    "over25": 1.86,
+    "pari": 5.34,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2025-03-02",
+   "fuori": "Atromitos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 3.21,
+    "over25": 2.79,
+    "pari": 2.79,
+    "under25": 1.42
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2025-03-02",
+   "fuori": "Lamia",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 8.25,
+    "over25": 1.97,
+    "pari": 4.42,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2025-03-02",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 11.95,
+    "over25": 1.78,
+    "pari": 5.36,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2025-03-02",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.79,
+    "over25": 2.48,
+    "pari": 2.89,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2025-03-09",
+   "fuori": "AEK",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.54,
+    "fuori": 1.84,
+    "over25": 2.23,
+    "pari": 3.36,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2025-03-09",
+   "fuori": "Panserraikos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.65,
+    "over25": 2.37,
+    "pari": 3.27,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2025-03-09",
+   "fuori": "PAOK",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 6.3,
+    "fuori": 1.48,
+    "over25": 1.77,
+    "pari": 4.33,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2025-03-09",
+   "fuori": "Panathinaikos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 4.06,
+    "fuori": 1.94,
+    "over25": 2.28,
+    "pari": 3.3,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-03-09",
+   "fuori": "Volos NFC",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.29,
+    "fuori": 1.73,
+    "over25": 2.47,
+    "pari": 3.36,
+    "under25": 1.52
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2025-03-09",
+   "fuori": "OFI Crete",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 13.54,
+    "over25": 1.58,
+    "pari": 6.33,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2025-03-09",
+   "fuori": "Levadeiakos",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.49,
+    "over25": 2.82,
+    "pari": 2.91,
+    "under25": 1.41
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2025-03-29",
+   "fuori": "Atromitos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.33,
+    "over25": 1.99,
+    "pari": 3.29,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2025-03-29",
+   "fuori": "Volos NFC",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 3.19,
+    "over25": 2.25,
+    "pari": 2.95,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2025-03-29",
+   "fuori": "Aris",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.43,
+    "fuori": 2.31,
+    "over25": 2.62,
+    "pari": 2.93,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2025-03-29",
+   "fuori": "Levadeiakos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.87,
+    "over25": 2.67,
+    "pari": 2.84,
+    "under25": 1.45
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-03-30",
+   "fuori": "Lamia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.97,
+    "over25": 2.15,
+    "pari": 3.43,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2025-03-30",
+   "fuori": "PAOK",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.3,
+    "over25": 2.02,
+    "pari": 3.43,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2025-03-30",
+   "fuori": "Panathinaikos",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.53,
+    "over25": 2.15,
+    "pari": 3.63,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2025-04-05",
+   "fuori": "Panserraikos",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.9,
+    "over25": 2.0,
+    "pari": 3.55,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2025-04-05",
+   "fuori": "OFI Crete",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 7.54,
+    "over25": 1.69,
+    "pari": 4.51,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-04-05",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.73,
+    "fuori": 2.08,
+    "over25": 2.39,
+    "pari": 3.16,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-04-06",
+   "fuori": "Panetolikos",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.7,
+    "over25": 2.61,
+    "pari": 3.13,
+    "under25": 1.47
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2025-04-06",
+   "fuori": "Olympiakos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.82,
+    "over25": 2.22,
+    "pari": 3.0,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2025-04-06",
+   "fuori": "AEK",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.47,
+    "over25": 2.26,
+    "pari": 3.07,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2025-04-07",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 4.36,
+    "over25": 2.57,
+    "pari": 3.13,
+    "under25": 1.49
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2025-04-12",
+   "fuori": "Lamia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 5.21,
+    "over25": 2.57,
+    "pari": 3.28,
+    "under25": 1.48
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-04-12",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.66,
+    "over25": 2.07,
+    "pari": 3.11,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-04-12",
+   "fuori": "Levadeiakos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.32,
+    "over25": 2.41,
+    "pari": 3.28,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2025-04-13",
+   "fuori": "OFI Crete",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.34,
+    "over25": 2.04,
+    "pari": 3.41,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2025-04-13",
+   "fuori": "PAOK",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.31,
+    "over25": 2.05,
+    "pari": 3.18,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2025-04-13",
+   "fuori": "Atromitos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.26,
+    "over25": 2.19,
+    "pari": 3.61,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2025-04-13",
+   "fuori": "AEK",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.98,
+    "over25": 2.22,
+    "pari": 3.28,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-04-23",
+   "fuori": "Volos NFC",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 8.34,
+    "fuori": 1.43,
+    "over25": 2.36,
+    "pari": 4.08,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-04-23",
+   "fuori": "Panetolikos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 3.15,
+    "over25": 2.33,
+    "pari": 3.06,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2025-04-23",
+   "fuori": "Levadeiakos",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.91,
+    "over25": 2.29,
+    "pari": 3.08,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2025-04-26",
+   "fuori": "Aris",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.5,
+    "fuori": 2.15,
+    "over25": 2.3,
+    "pari": 3.17,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2025-04-26",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.49,
+    "over25": 1.91,
+    "pari": 3.31,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2025-04-27",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.11,
+    "over25": 2.25,
+    "pari": 3.14,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2025-04-27",
+   "fuori": "Panathinaikos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.66,
+    "over25": 1.97,
+    "pari": 3.4,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2025-04-28",
+   "fuori": "Lamia",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 9.79,
+    "over25": 1.82,
+    "pari": 4.95,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2025-04-28",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.76,
+    "over25": 2.32,
+    "pari": 3.05,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-04-28",
+   "fuori": "Panserraikos",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 8.81,
+    "over25": 2.11,
+    "pari": 4.31,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2025-05-03",
+   "fuori": "Atromitos",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 5.89,
+    "fuori": 3.96,
+    "over25": 2.28,
+    "pari": 4.11,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "OFI Crete",
+   "data": "2025-05-03",
+   "fuori": "Aris",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 4.5,
+    "fuori": 2.45,
+    "over25": 1.7,
+    "pari": 3.52,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2025-05-04",
+   "fuori": "Panathinaikos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.9,
+    "over25": 1.96,
+    "pari": 3.51,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2025-05-04",
+   "fuori": "PAOK",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.88,
+    "over25": 1.8,
+    "pari": 3.52,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2025-05-05",
+   "fuori": "Panetolikos",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.9,
+    "over25": 2.37,
+    "pari": 3.22,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-05-05",
+   "fuori": "Volos NFC",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 12.87,
+    "over25": 1.85,
+    "pari": 5.63,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-05-05",
+   "fuori": "Levadeiakos",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 6.24,
+    "fuori": 1.55,
+    "over25": 2.13,
+    "pari": 3.82,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-05-10",
+   "fuori": "Panserraikos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.18,
+    "fuori": 1.64,
+    "over25": 1.98,
+    "pari": 3.72,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2025-05-10",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.94,
+    "over25": 2.21,
+    "pari": 3.05,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2025-05-10",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.19,
+    "over25": 1.92,
+    "pari": 3.76,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2025-05-10",
+   "fuori": "OFI Crete",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.05,
+    "over25": 1.66,
+    "pari": 3.75,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2025-05-10",
+   "fuori": "Volos NFC",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 6.41,
+    "fuori": 1.48,
+    "over25": 1.99,
+    "pari": 4.19,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2025-05-11",
+   "fuori": "Olympiakos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.32,
+    "over25": 1.77,
+    "pari": 3.29,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2025-05-11",
+   "fuori": "AEK",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.47,
+    "over25": 1.86,
+    "pari": 3.42,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2025-05-14",
+   "fuori": "Panetolikos",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.98,
+    "over25": 2.1,
+    "pari": 3.7,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Athens Kallithea",
+   "data": "2025-05-14",
+   "fuori": "Panserraikos",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.35,
+    "over25": 1.68,
+    "pari": 3.66,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-05-14",
+   "fuori": "Lamia",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.14,
+    "fuori": 18.39,
+    "over25": 1.56,
+    "pari": 7.32,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Panserraikos",
+   "data": "2025-05-18",
+   "fuori": "Levadeiakos",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 3.11,
+    "fuori": 2.21,
+    "over25": 1.8,
+    "pari": 3.4,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Lamia",
+   "data": "2025-05-18",
+   "fuori": "Panetolikos",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 3.01,
+    "over25": 2.26,
+    "pari": 3.04,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Volos NFC",
+   "data": "2025-05-18",
+   "fuori": "Athens Kallithea",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.15,
+    "over25": 1.83,
+    "pari": 3.69,
+    "under25": 1.94
+   }
+  }
+ ],
+ "stagione": "2024-25"
+}

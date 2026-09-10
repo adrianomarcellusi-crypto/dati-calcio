@@ -1,0 +1,5211 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "D1",
+ "nome": "Bundesliga",
+ "paese": "Germania",
+ "partite": [
+  {
+   "casa": "M'gladbach",
+   "data": "2024-08-23",
+   "fuori": "Leverkusen",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 5.09,
+    "fuori": 1.6,
+    "over25": 1.45,
+    "pari": 4.46,
+    "under25": 2.8
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2024-08-24",
+   "fuori": "Werder Bremen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.82,
+    "over25": 1.69,
+    "pari": 3.54,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2024-08-24",
+   "fuori": "Stuttgart",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 1.98,
+    "over25": 1.55,
+    "pari": 3.81,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2024-08-24",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 4.87,
+    "over25": 1.45,
+    "pari": 4.54,
+    "under25": 2.77
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2024-08-24",
+   "fuori": "Union Berlin",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.8,
+    "over25": 2.07,
+    "pari": 3.34,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2024-08-24",
+   "fuori": "Bochum",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 11.94,
+    "over25": 1.33,
+    "pari": 7.05,
+    "under25": 3.35
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2024-08-24",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.36,
+    "over25": 1.49,
+    "pari": 4.1,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2024-08-25",
+   "fuori": "Bayern Munich",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 6.36,
+    "fuori": 1.49,
+    "over25": 1.46,
+    "pari": 4.67,
+    "under25": 2.76
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2024-08-25",
+   "fuori": "Heidenheim",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.8,
+    "over25": 1.94,
+    "pari": 3.51,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2024-08-30",
+   "fuori": "St Pauli",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 4.13,
+    "over25": 2.06,
+    "pari": 3.43,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2024-08-31",
+   "fuori": "M'gladbach",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.86,
+    "fuori": 2.34,
+    "over25": 1.5,
+    "pari": 3.75,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2024-08-31",
+   "fuori": "Hoffenheim",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.62,
+    "over25": 1.43,
+    "pari": 4.4,
+    "under25": 2.89
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2024-08-31",
+   "fuori": "Wolfsburg",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.97,
+    "fuori": 2.32,
+    "over25": 1.64,
+    "pari": 3.64,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2024-08-31",
+   "fuori": "Mainz",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.88,
+    "over25": 1.58,
+    "pari": 4.25,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2024-08-31",
+   "fuori": "Dortmund",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.79,
+    "fuori": 1.91,
+    "over25": 1.55,
+    "pari": 3.89,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2024-08-31",
+   "fuori": "RB Leipzig",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.66,
+    "over25": 1.45,
+    "pari": 4.34,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2024-09-01",
+   "fuori": "Augsburg",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.92,
+    "over25": 1.77,
+    "pari": 3.47,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2024-09-01",
+   "fuori": "Freiburg",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 12.66,
+    "over25": 1.27,
+    "pari": 7.84,
+    "under25": 3.72
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2024-09-13",
+   "fuori": "Heidenheim",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 8.14,
+    "over25": 1.45,
+    "pari": 5.56,
+    "under25": 2.81
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2024-09-14",
+   "fuori": "Bochum",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.58,
+    "over25": 1.61,
+    "pari": 4.29,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2024-09-14",
+   "fuori": "Leverkusen",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 6.66,
+    "fuori": 1.42,
+    "over25": 1.32,
+    "pari": 5.22,
+    "under25": 3.4
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2024-09-14",
+   "fuori": "Stuttgart",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.44,
+    "over25": 1.46,
+    "pari": 3.84,
+    "under25": 2.76
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2024-09-14",
+   "fuori": "Union Berlin",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.67,
+    "over25": 1.59,
+    "pari": 4.77,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2024-09-14",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.55,
+    "over25": 1.83,
+    "pari": 3.46,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2024-09-14",
+   "fuori": "Bayern Munich",
+   "gol": [
+    1,
+    6
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 12.51,
+    "fuori": 1.2,
+    "over25": 1.28,
+    "pari": 7.61,
+    "under25": 3.74
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2024-09-15",
+   "fuori": "St Pauli",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.81,
+    "over25": 2.04,
+    "pari": 3.36,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2024-09-15",
+   "fuori": "Werder Bremen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.31,
+    "over25": 1.75,
+    "pari": 3.58,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2024-09-20",
+   "fuori": "Mainz",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.98,
+    "over25": 1.73,
+    "pari": 3.51,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2024-09-21",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.17,
+    "over25": 1.48,
+    "pari": 3.89,
+    "under25": 2.68
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2024-09-21",
+   "fuori": "Freiburg",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.23,
+    "fuori": 2.25,
+    "over25": 1.78,
+    "pari": 3.48,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2024-09-21",
+   "fuori": "Hoffenheim",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.17,
+    "over25": 1.58,
+    "pari": 3.88,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2024-09-21",
+   "fuori": "Bayern Munich",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 9.06,
+    "fuori": 1.3,
+    "over25": 1.34,
+    "pari": 6.0,
+    "under25": 3.27
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2024-09-21",
+   "fuori": "M'gladbach",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.22,
+    "over25": 1.42,
+    "pari": 4.23,
+    "under25": 2.84
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2024-09-22",
+   "fuori": "Wolfsburg",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 10.09,
+    "over25": 1.39,
+    "pari": 6.27,
+    "under25": 3.02
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2024-09-22",
+   "fuori": "Dortmund",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.92,
+    "over25": 1.44,
+    "pari": 3.77,
+    "under25": 2.8
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2024-09-22",
+   "fuori": "RB Leipzig",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 5.12,
+    "fuori": 1.65,
+    "over25": 1.65,
+    "pari": 4.1,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2024-09-27",
+   "fuori": "Bochum",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 12.5,
+    "over25": 1.27,
+    "pari": 7.53,
+    "under25": 3.84
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2024-09-28",
+   "fuori": "St Pauli",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.77,
+    "over25": 1.71,
+    "pari": 4.18,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2024-09-28",
+   "fuori": "Heidenheim",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.35,
+    "over25": 1.81,
+    "pari": 3.67,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2024-09-28",
+   "fuori": "Union Berlin",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.37,
+    "over25": 1.8,
+    "pari": 3.44,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2024-09-28",
+   "fuori": "Augsburg",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.92,
+    "over25": 1.48,
+    "pari": 4.77,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2024-09-28",
+   "fuori": "Stuttgart",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.48,
+    "fuori": 2.04,
+    "over25": 1.61,
+    "pari": 3.76,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2024-09-28",
+   "fuori": "Leverkusen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.75,
+    "over25": 1.33,
+    "pari": 4.49,
+    "under25": 3.3
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2024-09-29",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 1.96,
+    "over25": 1.57,
+    "pari": 3.86,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2024-09-29",
+   "fuori": "Werder Bremen",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.95,
+    "over25": 1.5,
+    "pari": 3.73,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2024-10-04",
+   "fuori": "M'gladbach",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.8,
+    "over25": 1.55,
+    "pari": 3.7,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2024-10-05",
+   "fuori": "Wolfsburg",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.23,
+    "over25": 1.61,
+    "pari": 3.69,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2024-10-05",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.09,
+    "fuori": 26.95,
+    "over25": 1.19,
+    "pari": 12.08,
+    "under25": 4.65
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2024-10-05",
+   "fuori": "Dortmund",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.71,
+    "fuori": 2.02,
+    "over25": 1.78,
+    "pari": 3.57,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2024-10-05",
+   "fuori": "Freiburg",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.59,
+    "over25": 1.72,
+    "pari": 3.5,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2024-10-05",
+   "fuori": "Mainz",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.44,
+    "over25": 1.88,
+    "pari": 3.42,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2024-10-06",
+   "fuori": "RB Leipzig",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.78,
+    "fuori": 1.7,
+    "over25": 1.62,
+    "pari": 4.05,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2024-10-06",
+   "fuori": "Bayern Munich",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 5.61,
+    "fuori": 1.53,
+    "over25": 1.39,
+    "pari": 4.71,
+    "under25": 3.05
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2024-10-06",
+   "fuori": "Hoffenheim",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 7.9,
+    "over25": 1.27,
+    "pari": 6.05,
+    "under25": 3.83
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2024-10-18",
+   "fuori": "St Pauli",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 10.31,
+    "over25": 1.52,
+    "pari": 5.76,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2024-10-19",
+   "fuori": "Augsburg",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.2,
+    "over25": 1.65,
+    "pari": 4.02,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2024-10-19",
+   "fuori": "Bochum",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.41,
+    "over25": 1.32,
+    "pari": 4.91,
+    "under25": 3.37
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2024-10-19",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.23,
+    "over25": 1.42,
+    "pari": 4.81,
+    "under25": 2.87
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2024-10-19",
+   "fuori": "RB Leipzig",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.97,
+    "fuori": 1.88,
+    "over25": 1.57,
+    "pari": 3.9,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2024-10-19",
+   "fuori": "Heidenheim",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.92,
+    "over25": 1.61,
+    "pari": 3.74,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2024-10-19",
+   "fuori": "Stuttgart",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 9.04,
+    "over25": 1.26,
+    "pari": 6.15,
+    "under25": 3.86
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2024-10-20",
+   "fuori": "Union Berlin",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.71,
+    "fuori": 2.05,
+    "over25": 1.83,
+    "pari": 3.47,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2024-10-20",
+   "fuori": "Werder Bremen",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.59,
+    "over25": 1.59,
+    "pari": 3.74,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2024-10-25",
+   "fuori": "M'gladbach",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.98,
+    "over25": 1.57,
+    "pari": 3.74,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2024-10-26",
+   "fuori": "Dortmund",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.05,
+    "fuori": 1.82,
+    "over25": 1.48,
+    "pari": 4.08,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2024-10-26",
+   "fuori": "Freiburg",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.19,
+    "over25": 1.65,
+    "pari": 3.94,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2024-10-26",
+   "fuori": "Wolfsburg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.8,
+    "over25": 1.88,
+    "pari": 3.42,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2024-10-26",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 11.93,
+    "over25": 1.28,
+    "pari": 7.47,
+    "under25": 3.7
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2024-10-26",
+   "fuori": "Leverkusen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 6.31,
+    "fuori": 1.45,
+    "over25": 1.41,
+    "pari": 5.13,
+    "under25": 2.97
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2024-10-27",
+   "fuori": "Bayern Munich",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 15.78,
+    "fuori": 1.15,
+    "over25": 1.2,
+    "pari": 9.43,
+    "under25": 4.49
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2024-10-27",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.98,
+    "over25": 1.93,
+    "pari": 3.27,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2024-10-27",
+   "fuori": "Hoffenheim",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.61,
+    "over25": 1.66,
+    "pari": 3.47,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2024-11-01",
+   "fuori": "Stuttgart",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 4.95,
+    "over25": 1.38,
+    "pari": 4.59,
+    "under25": 3.06
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2024-11-02",
+   "fuori": "Union Berlin",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 17.76,
+    "over25": 1.37,
+    "pari": 8.62,
+    "under25": 3.13
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2024-11-02",
+   "fuori": "Bochum",
+   "gol": [
+    7,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.33,
+    "over25": 1.4,
+    "pari": 5.06,
+    "under25": 2.99
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2024-11-02",
+   "fuori": "St Pauli",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.91,
+    "over25": 1.67,
+    "pari": 3.79,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2024-11-02",
+   "fuori": "Heidenheim",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.85,
+    "over25": 1.88,
+    "pari": 3.44,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2024-11-02",
+   "fuori": "Augsburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.52,
+    "over25": 1.76,
+    "pari": 3.59,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2024-11-02",
+   "fuori": "RB Leipzig",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.1,
+    "over25": 1.46,
+    "pari": 3.82,
+    "under25": 2.77
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2024-11-03",
+   "fuori": "Mainz",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.62,
+    "over25": 1.8,
+    "pari": 3.75,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2024-11-03",
+   "fuori": "Werder Bremen",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.02,
+    "over25": 1.51,
+    "pari": 3.74,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2024-11-08",
+   "fuori": "Freiburg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 3.15,
+    "over25": 2.33,
+    "pari": 3.2,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2024-11-09",
+   "fuori": "Leverkusen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 10.39,
+    "fuori": 1.26,
+    "over25": 1.35,
+    "pari": 6.57,
+    "under25": 3.24
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2024-11-09",
+   "fuori": "Dortmund",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.83,
+    "fuori": 1.96,
+    "over25": 1.56,
+    "pari": 3.72,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2024-11-09",
+   "fuori": "Bayern Munich",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 14.67,
+    "fuori": 1.2,
+    "over25": 1.45,
+    "pari": 7.32,
+    "under25": 2.79
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2024-11-09",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.19,
+    "over25": 1.55,
+    "pari": 4.31,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2024-11-09",
+   "fuori": "M'gladbach",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.87,
+    "over25": 1.43,
+    "pari": 4.36,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2024-11-10",
+   "fuori": "Hoffenheim",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.53,
+    "over25": 1.84,
+    "pari": 3.48,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2024-11-10",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.38,
+    "over25": 1.6,
+    "pari": 3.91,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2024-11-10",
+   "fuori": "Wolfsburg",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.55,
+    "over25": 1.98,
+    "pari": 3.25,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2024-11-22",
+   "fuori": "Augsburg",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 19.07,
+    "over25": 1.27,
+    "pari": 10.36,
+    "under25": 3.79
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2024-11-23",
+   "fuori": "Freiburg",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.34,
+    "over25": 1.72,
+    "pari": 3.78,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2024-11-23",
+   "fuori": "RB Leipzig",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.15,
+    "over25": 1.56,
+    "pari": 3.65,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2024-11-23",
+   "fuori": "Heidenheim",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 13.24,
+    "over25": 1.44,
+    "pari": 6.93,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2024-11-23",
+   "fuori": "Bochum",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 8.57,
+    "over25": 1.36,
+    "pari": 5.98,
+    "under25": 3.16
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2024-11-23",
+   "fuori": "Union Berlin",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.62,
+    "over25": 2.14,
+    "pari": 3.31,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2024-11-23",
+   "fuori": "Werder Bremen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.29,
+    "over25": 1.5,
+    "pari": 4.08,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2024-11-24",
+   "fuori": "Mainz",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.3,
+    "over25": 1.82,
+    "pari": 3.36,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2024-11-24",
+   "fuori": "St Pauli",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.07,
+    "over25": 1.75,
+    "pari": 3.71,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2024-11-29",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 5.32,
+    "over25": 1.96,
+    "pari": 3.73,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2024-11-30",
+   "fuori": "Bochum",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.51,
+    "over25": 1.8,
+    "pari": 3.81,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2024-11-30",
+   "fuori": "M'gladbach",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.59,
+    "over25": 1.66,
+    "pari": 3.71,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2024-11-30",
+   "fuori": "Wolfsburg",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.64,
+    "over25": 1.63,
+    "pari": 3.93,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2024-11-30",
+   "fuori": "Leverkusen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.63,
+    "fuori": 1.85,
+    "over25": 2.13,
+    "pari": 3.49,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2024-11-30",
+   "fuori": "Stuttgart",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.67,
+    "over25": 1.65,
+    "pari": 3.52,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2024-11-30",
+   "fuori": "Bayern Munich",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 4.51,
+    "fuori": 1.73,
+    "over25": 1.55,
+    "pari": 4.07,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2024-12-01",
+   "fuori": "Hoffenheim",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.62,
+    "over25": 1.74,
+    "pari": 3.57,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2024-12-01",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 3.86,
+    "fuori": 1.94,
+    "over25": 1.72,
+    "pari": 3.65,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2024-12-06",
+   "fuori": "Union Berlin",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.32,
+    "over25": 2.1,
+    "pari": 3.49,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2024-12-07",
+   "fuori": "Heidenheim",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 20.98,
+    "over25": 1.28,
+    "pari": 10.41,
+    "under25": 3.68
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2024-12-07",
+   "fuori": "Werder Bremen",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.55,
+    "fuori": 2.03,
+    "over25": 1.6,
+    "pari": 3.71,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2024-12-07",
+   "fuori": "Augsburg",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 6.06,
+    "over25": 1.65,
+    "pari": 4.31,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2024-12-07",
+   "fuori": "RB Leipzig",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 6.37,
+    "fuori": 1.48,
+    "over25": 1.51,
+    "pari": 4.75,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2024-12-07",
+   "fuori": "St Pauli",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 10.57,
+    "over25": 1.59,
+    "pari": 5.88,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2024-12-07",
+   "fuori": "Dortmund",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.37,
+    "fuori": 2.04,
+    "over25": 1.49,
+    "pari": 3.84,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2024-12-08",
+   "fuori": "Mainz",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.6,
+    "over25": 1.88,
+    "pari": 3.4,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2024-12-08",
+   "fuori": "Freiburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.94,
+    "over25": 1.89,
+    "pari": 3.28,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2024-12-13",
+   "fuori": "Wolfsburg",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.14,
+    "over25": 1.85,
+    "pari": 3.42,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2024-12-14",
+   "fuori": "Leverkusen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 6.0,
+    "fuori": 1.58,
+    "over25": 1.86,
+    "pari": 4.0,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2024-12-14",
+   "fuori": "Bayern Munich",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 6.15,
+    "fuori": 1.51,
+    "over25": 1.57,
+    "pari": 4.43,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2024-12-14",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.87,
+    "over25": 1.41,
+    "pari": 4.99,
+    "under25": 2.89
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2024-12-14",
+   "fuori": "Bochum",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 5.43,
+    "over25": 1.87,
+    "pari": 3.92,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2024-12-14",
+   "fuori": "Werder Bremen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.55,
+    "over25": 1.99,
+    "pari": 3.28,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2024-12-15",
+   "fuori": "Stuttgart",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.45,
+    "fuori": 1.74,
+    "over25": 1.58,
+    "pari": 3.99,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2024-12-15",
+   "fuori": "Hoffenheim",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 8.0,
+    "over25": 1.44,
+    "pari": 5.42,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2024-12-15",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.97,
+    "over25": 1.5,
+    "pari": 3.74,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2024-12-20",
+   "fuori": "RB Leipzig",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 11.88,
+    "over25": 1.27,
+    "pari": 7.21,
+    "under25": 3.77
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2024-12-21",
+   "fuori": "Mainz",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.49,
+    "over25": 1.71,
+    "pari": 3.62,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2024-12-21",
+   "fuori": "M'gladbach",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.99,
+    "over25": 1.58,
+    "pari": 3.63,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2024-12-21",
+   "fuori": "Augsburg",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.43,
+    "fuori": 2.16,
+    "over25": 1.9,
+    "pari": 3.4,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2024-12-21",
+   "fuori": "St Pauli",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.54,
+    "over25": 1.62,
+    "pari": 4.61,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2024-12-21",
+   "fuori": "Union Berlin",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.35,
+    "over25": 2.09,
+    "pari": 3.26,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2024-12-21",
+   "fuori": "Freiburg",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.74,
+    "over25": 1.56,
+    "pari": 4.95,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2024-12-22",
+   "fuori": "Heidenheim",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.5,
+    "over25": 1.76,
+    "pari": 3.49,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2024-12-22",
+   "fuori": "Dortmund",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 3.18,
+    "fuori": 2.15,
+    "over25": 1.59,
+    "pari": 3.72,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2025-01-10",
+   "fuori": "Leverkusen",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.65,
+    "fuori": 1.97,
+    "over25": 1.51,
+    "pari": 3.76,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-01-11",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 6.6,
+    "over25": 1.51,
+    "pari": 4.87,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-01-11",
+   "fuori": "Union Berlin",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.16,
+    "fuori": 2.31,
+    "over25": 1.85,
+    "pari": 3.33,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2025-01-11",
+   "fuori": "Wolfsburg",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 3.02,
+    "over25": 1.7,
+    "pari": 3.44,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2025-01-11",
+   "fuori": "Bochum",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 5.18,
+    "over25": 1.86,
+    "pari": 3.95,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-01-11",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.15,
+    "over25": 1.78,
+    "pari": 3.42,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2025-01-11",
+   "fuori": "Bayern Munich",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 8.08,
+    "fuori": 1.34,
+    "over25": 1.38,
+    "pari": 5.65,
+    "under25": 3.04
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-01-12",
+   "fuori": "Werder Bremen",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.88,
+    "over25": 1.56,
+    "pari": 3.84,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2025-01-12",
+   "fuori": "Stuttgart",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 3.95,
+    "fuori": 1.92,
+    "over25": 1.78,
+    "pari": 3.65,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2025-01-14",
+   "fuori": "Dortmund",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 6.48,
+    "fuori": 1.46,
+    "over25": 1.48,
+    "pari": 4.79,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-01-14",
+   "fuori": "Freiburg",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.59,
+    "over25": 1.51,
+    "pari": 4.15,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2025-01-14",
+   "fuori": "Mainz",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 8.66,
+    "over25": 1.64,
+    "pari": 5.13,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2025-01-14",
+   "fuori": "M'gladbach",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 3.93,
+    "over25": 1.64,
+    "pari": 3.75,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-01-15",
+   "fuori": "St Pauli",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.89,
+    "over25": 1.99,
+    "pari": 3.21,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-01-15",
+   "fuori": "Hoffenheim",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.11,
+    "fuori": 20.64,
+    "over25": 1.24,
+    "pari": 10.48,
+    "under25": 3.92
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2025-01-15",
+   "fuori": "RB Leipzig",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.52,
+    "over25": 1.46,
+    "pari": 3.8,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-01-15",
+   "fuori": "Augsburg",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.62,
+    "over25": 2.13,
+    "pari": 3.28,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-01-15",
+   "fuori": "Heidenheim",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.44,
+    "over25": 1.62,
+    "pari": 3.99,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-01-17",
+   "fuori": "Dortmund",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.49,
+    "over25": 1.64,
+    "pari": 3.53,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-01-18",
+   "fuori": "Wolfsburg",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.15,
+    "fuori": 17.86,
+    "over25": 1.3,
+    "pari": 8.58,
+    "under25": 3.49
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-01-18",
+   "fuori": "RB Leipzig",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.33,
+    "fuori": 2.16,
+    "over25": 1.75,
+    "pari": 3.51,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-01-18",
+   "fuori": "St Pauli",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.99,
+    "over25": 1.94,
+    "pari": 3.4,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2025-01-18",
+   "fuori": "Hoffenheim",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.44,
+    "over25": 1.63,
+    "pari": 3.45,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2025-01-18",
+   "fuori": "Freiburg",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.4,
+    "over25": 1.6,
+    "pari": 4.33,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2025-01-18",
+   "fuori": "M'gladbach",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.26,
+    "fuori": 10.59,
+    "over25": 1.43,
+    "pari": 6.25,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-01-19",
+   "fuori": "Mainz",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.68,
+    "over25": 2.03,
+    "pari": 3.17,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-01-19",
+   "fuori": "Augsburg",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.91,
+    "over25": 1.78,
+    "pari": 3.72,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2025-01-24",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.34,
+    "over25": 1.45,
+    "pari": 4.87,
+    "under25": 2.76
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2025-01-25",
+   "fuori": "Heidenheim",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.89,
+    "over25": 1.88,
+    "pari": 3.53,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2025-01-25",
+   "fuori": "Werder Bremen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.86,
+    "over25": 1.44,
+    "pari": 4.71,
+    "under25": 2.77
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-01-25",
+   "fuori": "Bayern Munich",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 11.67,
+    "fuori": 1.23,
+    "over25": 1.39,
+    "pari": 6.69,
+    "under25": 2.98
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2025-01-25",
+   "fuori": "Stuttgart",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.23,
+    "over25": 1.78,
+    "pari": 3.45,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-01-25",
+   "fuori": "Leverkusen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.56,
+    "fuori": 2.07,
+    "over25": 1.79,
+    "pari": 3.53,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2025-01-25",
+   "fuori": "Bochum",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.49,
+    "over25": 1.56,
+    "pari": 3.97,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2025-01-26",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.08,
+    "over25": 1.47,
+    "pari": 3.79,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-01-26",
+   "fuori": "Union Berlin",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.24,
+    "over25": 2.14,
+    "pari": 3.15,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-01-31",
+   "fuori": "Mainz",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 3.05,
+    "over25": 1.79,
+    "pari": 3.39,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-02-01",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.04,
+    "fuori": 43.76,
+    "over25": 1.12,
+    "pari": 18.08,
+    "under25": 5.77
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-02-01",
+   "fuori": "Freiburg",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.59,
+    "over25": 1.92,
+    "pari": 3.3,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-02-01",
+   "fuori": "Dortmund",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.66,
+    "fuori": 1.7,
+    "over25": 1.58,
+    "pari": 4.07,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-02-01",
+   "fuori": "Augsburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.7,
+    "over25": 2.17,
+    "pari": 3.26,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2025-02-01",
+   "fuori": "M'gladbach",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.76,
+    "over25": 1.48,
+    "pari": 4.27,
+    "under25": 2.64
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-02-01",
+   "fuori": "RB Leipzig",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.05,
+    "fuori": 2.34,
+    "over25": 1.76,
+    "pari": 3.43,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-02-02",
+   "fuori": "Wolfsburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.55,
+    "over25": 1.63,
+    "pari": 3.58,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2025-02-02",
+   "fuori": "Hoffenheim",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.14,
+    "fuori": 16.32,
+    "over25": 1.26,
+    "pari": 9.33,
+    "under25": 3.83
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-02-07",
+   "fuori": "Werder Bremen",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.1,
+    "fuori": 20.3,
+    "over25": 1.2,
+    "pari": 11.95,
+    "under25": 4.37
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2025-02-08",
+   "fuori": "Stuttgart",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.62,
+    "over25": 1.49,
+    "pari": 3.87,
+    "under25": 2.64
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-02-08",
+   "fuori": "Heidenheim",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 5.11,
+    "over25": 1.77,
+    "pari": 3.81,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2025-02-08",
+   "fuori": "Union Berlin",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.03,
+    "over25": 1.73,
+    "pari": 3.5,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2025-02-08",
+   "fuori": "Augsburg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.74,
+    "over25": 2.06,
+    "pari": 3.56,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2025-02-08",
+   "fuori": "Leverkusen",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 2.13,
+    "over25": 1.81,
+    "pari": 3.34,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2025-02-08",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.63,
+    "over25": 1.5,
+    "pari": 3.6,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2025-02-09",
+   "fuori": "Bochum",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.06,
+    "over25": 1.73,
+    "pari": 3.54,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-02-09",
+   "fuori": "St Pauli",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 5.11,
+    "over25": 1.8,
+    "pari": 4.0,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2025-02-14",
+   "fuori": "RB Leipzig",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.06,
+    "fuori": 2.39,
+    "over25": 1.9,
+    "pari": 3.34,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-02-15",
+   "fuori": "Dortmund",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 5.51,
+    "fuori": 1.57,
+    "over25": 1.55,
+    "pari": 4.45,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-02-15",
+   "fuori": "Freiburg",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 3.12,
+    "over25": 2.23,
+    "pari": 3.11,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2025-02-15",
+   "fuori": "Wolfsburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.32,
+    "over25": 1.48,
+    "pari": 4.51,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-02-15",
+   "fuori": "M'gladbach",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.39,
+    "over25": 1.75,
+    "pari": 3.55,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2025-02-15",
+   "fuori": "Bayern Munich",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.05,
+    "fuori": 2.33,
+    "over25": 1.81,
+    "pari": 3.49,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-02-16",
+   "fuori": "Hoffenheim",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.97,
+    "over25": 1.57,
+    "pari": 3.81,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-02-16",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 8.46,
+    "over25": 1.44,
+    "pari": 5.66,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-02-16",
+   "fuori": "Mainz",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 3.72,
+    "fuori": 2.07,
+    "over25": 1.94,
+    "pari": 3.43,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-02-21",
+   "fuori": "Werder Bremen",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.93,
+    "over25": 1.89,
+    "pari": 3.49,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2025-02-22",
+   "fuori": "Leverkusen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 14.5,
+    "fuori": 1.2,
+    "over25": 1.49,
+    "pari": 6.98,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2025-02-22",
+   "fuori": "St Pauli",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 5.08,
+    "over25": 2.15,
+    "pari": 3.61,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2025-02-22",
+   "fuori": "Augsburg",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 4.0,
+    "over25": 1.86,
+    "pari": 3.6,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2025-02-22",
+   "fuori": "Bochum",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.09,
+    "over25": 1.56,
+    "pari": 4.3,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2025-02-22",
+   "fuori": "Union Berlin",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 6.39,
+    "over25": 1.62,
+    "pari": 4.58,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-02-23",
+   "fuori": "Heidenheim",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 9.48,
+    "over25": 1.48,
+    "pari": 5.65,
+    "under25": 2.68
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-02-23",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 10.11,
+    "over25": 1.37,
+    "pari": 6.63,
+    "under25": 3.13
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2025-02-23",
+   "fuori": "Stuttgart",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 3.42,
+    "fuori": 2.04,
+    "over25": 1.52,
+    "pari": 3.85,
+    "under25": 2.56
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2025-02-28",
+   "fuori": "Bayern Munich",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 4.46,
+    "fuori": 1.74,
+    "over25": 1.55,
+    "pari": 4.12,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-03-01",
+   "fuori": "Hoffenheim",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.89,
+    "over25": 1.7,
+    "pari": 3.47,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-03-01",
+   "fuori": "M'gladbach",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.61,
+    "over25": 1.71,
+    "pari": 3.43,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-03-01",
+   "fuori": "Mainz",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.89,
+    "over25": 1.74,
+    "pari": 3.72,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-03-01",
+   "fuori": "Dortmund",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.35,
+    "fuori": 1.86,
+    "over25": 1.87,
+    "pari": 3.64,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-03-01",
+   "fuori": "Wolfsburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.34,
+    "over25": 1.73,
+    "pari": 3.49,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-03-01",
+   "fuori": "Leverkusen",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 4.18,
+    "fuori": 1.83,
+    "over25": 1.57,
+    "pari": 3.89,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-03-02",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.83,
+    "over25": 1.79,
+    "pari": 4.25,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2025-03-02",
+   "fuori": "Freiburg",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 3.08,
+    "over25": 2.31,
+    "pari": 3.11,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2025-03-07",
+   "fuori": "Mainz",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.62,
+    "over25": 1.74,
+    "pari": 3.42,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-03-08",
+   "fuori": "Bochum",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.17,
+    "fuori": 14.6,
+    "over25": 1.33,
+    "pari": 8.18,
+    "under25": 3.38
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2025-03-08",
+   "fuori": "Augsburg",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 8.12,
+    "over25": 1.65,
+    "pari": 4.85,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2025-03-08",
+   "fuori": "Stuttgart",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 5.94,
+    "fuori": 1.5,
+    "over25": 1.46,
+    "pari": 4.74,
+    "under25": 2.74
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2025-03-08",
+   "fuori": "Werder Bremen",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 8.92,
+    "over25": 1.55,
+    "pari": 5.46,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2025-03-08",
+   "fuori": "St Pauli",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.61,
+    "over25": 1.97,
+    "pari": 3.56,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-03-08",
+   "fuori": "RB Leipzig",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.84,
+    "over25": 1.85,
+    "pari": 3.31,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-03-09",
+   "fuori": "Union Berlin",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.81,
+    "over25": 1.83,
+    "pari": 3.62,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2025-03-09",
+   "fuori": "Heidenheim",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.99,
+    "over25": 1.72,
+    "pari": 3.78,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-03-14",
+   "fuori": "Hoffenheim",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.31,
+    "over25": 2.11,
+    "pari": 3.24,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2025-03-15",
+   "fuori": "Wolfsburg",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 3.01,
+    "over25": 2.09,
+    "pari": 3.23,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2025-03-15",
+   "fuori": "Freiburg",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.54,
+    "over25": 2.0,
+    "pari": 3.52,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-03-15",
+   "fuori": "Bayern Munich",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 9.24,
+    "fuori": 1.33,
+    "over25": 1.56,
+    "pari": 5.43,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-03-15",
+   "fuori": "M'gladbach",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.09,
+    "over25": 1.57,
+    "pari": 3.66,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-03-15",
+   "fuori": "Dortmund",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.52,
+    "over25": 1.64,
+    "pari": 3.58,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-03-16",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.54,
+    "over25": 1.67,
+    "pari": 3.53,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-03-16",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.66,
+    "over25": 1.76,
+    "pari": 3.54,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2025-03-16",
+   "fuori": "Leverkusen",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.25,
+    "over25": 1.84,
+    "pari": 3.4,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2025-03-28",
+   "fuori": "Bochum",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 12.4,
+    "over25": 1.44,
+    "pari": 6.72,
+    "under25": 2.8
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-03-29",
+   "fuori": "St Pauli",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 22.65,
+    "over25": 1.34,
+    "pari": 9.26,
+    "under25": 3.21
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2025-03-29",
+   "fuori": "Augsburg",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.05,
+    "over25": 1.91,
+    "pari": 3.36,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2025-03-29",
+   "fuori": "Werder Bremen",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.11,
+    "fuori": 2.19,
+    "over25": 1.63,
+    "pari": 3.72,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2025-03-29",
+   "fuori": "RB Leipzig",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.36,
+    "over25": 1.49,
+    "pari": 3.61,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2025-03-29",
+   "fuori": "Heidenheim",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.88,
+    "over25": 1.73,
+    "pari": 3.92,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-03-29",
+   "fuori": "Stuttgart",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.59,
+    "over25": 1.49,
+    "pari": 3.72,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-03-30",
+   "fuori": "Union Berlin",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 4.06,
+    "over25": 2.03,
+    "pari": 3.42,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2025-03-30",
+   "fuori": "Mainz",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.92,
+    "over25": 1.68,
+    "pari": 4.12,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2025-04-04",
+   "fuori": "Bayern Munich",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 7.75,
+    "fuori": 1.4,
+    "over25": 1.57,
+    "pari": 4.86,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-04-05",
+   "fuori": "Stuttgart",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.69,
+    "over25": 1.57,
+    "pari": 3.53,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-04-05",
+   "fuori": "Dortmund",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.35,
+    "fuori": 2.12,
+    "over25": 1.69,
+    "pari": 3.6,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-04-05",
+   "fuori": "Leverkusen",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 6.15,
+    "fuori": 1.51,
+    "over25": 1.7,
+    "pari": 4.42,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2025-04-05",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 7.16,
+    "over25": 1.52,
+    "pari": 4.81,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-04-05",
+   "fuori": "Hoffenheim",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.72,
+    "over25": 1.48,
+    "pari": 4.24,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-04-05",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 2.91,
+    "over25": 1.52,
+    "pari": 3.63,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-04-06",
+   "fuori": "M'gladbach",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.11,
+    "over25": 1.81,
+    "pari": 3.49,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-04-06",
+   "fuori": "Wolfsburg",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.2,
+    "over25": 1.97,
+    "pari": 3.36,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2025-04-11",
+   "fuori": "RB Leipzig",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.41,
+    "over25": 1.53,
+    "pari": 3.68,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-04-12",
+   "fuori": "Augsburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.08,
+    "over25": 2.1,
+    "pari": 3.3,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2025-04-12",
+   "fuori": "Mainz",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.87,
+    "over25": 1.77,
+    "pari": 3.44,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2025-04-12",
+   "fuori": "St Pauli",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.44,
+    "fuori": 2.14,
+    "over25": 1.88,
+    "pari": 3.42,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2025-04-12",
+   "fuori": "Union Berlin",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 8.34,
+    "over25": 1.71,
+    "pari": 5.0,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2025-04-12",
+   "fuori": "Freiburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.0,
+    "over25": 1.56,
+    "pari": 3.67,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-04-12",
+   "fuori": "Dortmund",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.02,
+    "over25": 1.33,
+    "pari": 5.22,
+    "under25": 3.31
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2025-04-13",
+   "fuori": "Werder Bremen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.26,
+    "over25": 1.48,
+    "pari": 4.25,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-04-13",
+   "fuori": "Heidenheim",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.39,
+    "over25": 1.65,
+    "pari": 4.04,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-04-19",
+   "fuori": "Hoffenheim",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.87,
+    "over25": 1.7,
+    "pari": 3.76,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-04-19",
+   "fuori": "Bayern Munich",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 9.71,
+    "fuori": 1.27,
+    "over25": 1.3,
+    "pari": 6.36,
+    "under25": 3.53
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2025-04-19",
+   "fuori": "Wolfsburg",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.58,
+    "over25": 1.71,
+    "pari": 3.67,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-04-19",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.23,
+    "over25": 1.42,
+    "pari": 4.99,
+    "under25": 2.84
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-04-19",
+   "fuori": "Bochum",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.1,
+    "over25": 1.52,
+    "pari": 4.44,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-04-19",
+   "fuori": "Stuttgart",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.29,
+    "over25": 1.79,
+    "pari": 3.44,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2025-04-20",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.73,
+    "over25": 1.8,
+    "pari": 3.39,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2025-04-20",
+   "fuori": "M'gladbach",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 7.12,
+    "over25": 1.28,
+    "pari": 5.65,
+    "under25": 3.62
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-04-20",
+   "fuori": "Leverkusen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 4.96,
+    "fuori": 1.7,
+    "over25": 1.86,
+    "pari": 3.88,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2025-04-25",
+   "fuori": "Heidenheim",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.19,
+    "over25": 1.47,
+    "pari": 4.88,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-04-26",
+   "fuori": "Mainz",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 10.41,
+    "over25": 1.26,
+    "pari": 7.02,
+    "under25": 3.84
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2025-04-26",
+   "fuori": "Dortmund",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.97,
+    "fuori": 1.84,
+    "over25": 1.53,
+    "pari": 3.96,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2025-04-26",
+   "fuori": "M'gladbach",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.6,
+    "over25": 1.48,
+    "pari": 3.74,
+    "under25": 2.66
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2025-04-26",
+   "fuori": "Augsburg",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.24,
+    "over25": 1.63,
+    "pari": 4.67,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2025-04-26",
+   "fuori": "Freiburg",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.86,
+    "over25": 1.6,
+    "pari": 3.63,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-04-26",
+   "fuori": "RB Leipzig",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.35,
+    "over25": 1.45,
+    "pari": 3.94,
+    "under25": 2.76
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-04-27",
+   "fuori": "Union Berlin",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.04,
+    "over25": 1.88,
+    "pari": 3.37,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-04-27",
+   "fuori": "St Pauli",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.75,
+    "over25": 1.86,
+    "pari": 3.56,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-05-02",
+   "fuori": "Bochum",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 3.02,
+    "over25": 1.89,
+    "pari": 3.38,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2025-05-03",
+   "fuori": "Hoffenheim",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.84,
+    "over25": 1.36,
+    "pari": 3.95,
+    "under25": 3.11
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-05-03",
+   "fuori": "Bayern Munich",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.12,
+    "fuori": 1.71,
+    "over25": 1.3,
+    "pari": 4.52,
+    "under25": 3.48
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-05-03",
+   "fuori": "Stuttgart",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.5,
+    "over25": 1.79,
+    "pari": 3.46,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-05-03",
+   "fuori": "Werder Bremen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.12,
+    "fuori": 2.28,
+    "over25": 1.86,
+    "pari": 3.45,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2025-05-03",
+   "fuori": "Wolfsburg",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 9.43,
+    "over25": 1.31,
+    "pari": 6.36,
+    "under25": 3.4
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2025-05-04",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.23,
+    "over25": 1.64,
+    "pari": 3.97,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-05-04",
+   "fuori": "Leverkusen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.23,
+    "over25": 1.63,
+    "pari": 3.55,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2025-05-04",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.87,
+    "over25": 1.6,
+    "pari": 3.62,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Wolfsburg",
+   "data": "2025-05-09",
+   "fuori": "Hoffenheim",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.46,
+    "over25": 1.49,
+    "pari": 3.61,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2025-05-10",
+   "fuori": "Mainz",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.16,
+    "over25": 1.56,
+    "pari": 3.83,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Holstein Kiel",
+   "data": "2025-05-10",
+   "fuori": "Freiburg",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.43,
+    "fuori": 2.04,
+    "over25": 1.58,
+    "pari": 3.73,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Union Berlin",
+   "data": "2025-05-10",
+   "fuori": "Heidenheim",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.64,
+    "over25": 1.79,
+    "pari": 3.56,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Werder Bremen",
+   "data": "2025-05-10",
+   "fuori": "RB Leipzig",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.39,
+    "over25": 1.38,
+    "pari": 4.06,
+    "under25": 3.02
+   }
+  },
+  {
+   "casa": "Bayern Munich",
+   "data": "2025-05-10",
+   "fuori": "M'gladbach",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.14,
+    "fuori": 15.06,
+    "over25": 1.14,
+    "pari": 9.73,
+    "under25": 5.51
+   }
+  },
+  {
+   "casa": "Leverkusen",
+   "data": "2025-05-11",
+   "fuori": "Dortmund",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.55,
+    "over25": 1.47,
+    "pari": 3.8,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Ein Frankfurt",
+   "data": "2025-05-11",
+   "fuori": "St Pauli",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.66,
+    "over25": 1.65,
+    "pari": 4.29,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2025-05-11",
+   "fuori": "Augsburg",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.52,
+    "over25": 1.43,
+    "pari": 4.61,
+    "under25": 2.81
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2025-05-17",
+   "fuori": "Union Berlin",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 4.07,
+    "over25": 1.73,
+    "pari": 3.68,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2025-05-17",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 16.55,
+    "over25": 1.17,
+    "pari": 9.8,
+    "under25": 4.91
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2025-05-17",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 2.9,
+    "over25": 1.6,
+    "pari": 3.6,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2025-05-17",
+   "fuori": "Werder Bremen",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.48,
+    "over25": 1.46,
+    "pari": 3.8,
+    "under25": 2.71
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2025-05-17",
+   "fuori": "Bayern Munich",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 4.48,
+    "fuori": 1.65,
+    "over25": 1.32,
+    "pari": 4.56,
+    "under25": 3.38
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2025-05-17",
+   "fuori": "Leverkusen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.68,
+    "over25": 1.46,
+    "pari": 3.78,
+    "under25": 2.71
+   }
+  },
+  {
+   "casa": "M'gladbach",
+   "data": "2025-05-17",
+   "fuori": "Wolfsburg",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.74,
+    "over25": 1.33,
+    "pari": 4.06,
+    "under25": 3.29
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2025-05-17",
+   "fuori": "Stuttgart",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.39,
+    "over25": 1.29,
+    "pari": 4.34,
+    "under25": 3.56
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2025-05-17",
+   "fuori": "Bochum",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.42,
+    "over25": 1.62,
+    "pari": 4.04,
+    "under25": 2.3
+   }
+  }
+ ],
+ "stagione": "2024-25"
+}

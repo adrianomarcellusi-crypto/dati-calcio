@@ -1,0 +1,774 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "F2",
+ "nome": "Ligue 2",
+ "paese": "Francia",
+ "partite": [
+  {
+   "casa": "Boulogne",
+   "data": "2026-08-08",
+   "fuori": "Nancy",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.71,
+    "over25": 2.18,
+    "pari": 3.05,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Clermont",
+   "data": "2026-08-08",
+   "fuori": "Reims",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.75,
+    "fuori": 1.92,
+    "over25": 2.04,
+    "pari": 3.29,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2026-08-08",
+   "fuori": "Grenoble",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.58,
+    "over25": 1.92,
+    "pari": 3.32,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Metz",
+   "data": "2026-08-08",
+   "fuori": "Guingamp",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.54,
+    "over25": 1.91,
+    "pari": 3.33,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Montpellier",
+   "data": "2026-08-08",
+   "fuori": "Dijon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.95,
+    "over25": 2.0,
+    "pari": 3.35,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Nantes",
+   "data": "2026-08-08",
+   "fuori": "Red Star",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.56,
+    "over25": 1.94,
+    "pari": 3.5,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2026-08-08",
+   "fuori": "Annecy",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.57,
+    "over25": 1.93,
+    "pari": 3.18,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2026-08-08",
+   "fuori": "Laval",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.3,
+    "over25": 1.89,
+    "pari": 3.32,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Sochaux",
+   "data": "2026-08-08",
+   "fuori": "St Etienne",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 1.92,
+    "over25": 1.92,
+    "pari": 3.39,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2026-08-14",
+   "fuori": "Rodez",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.71,
+    "over25": 1.84,
+    "pari": 3.27,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Dijon",
+   "data": "2026-08-14",
+   "fuori": "Pau FC",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.6,
+    "over25": 2.0,
+    "pari": 3.32,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2026-08-14",
+   "fuori": "Metz",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.28,
+    "over25": 2.13,
+    "pari": 3.13,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2026-08-14",
+   "fuori": "Boulogne",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.47,
+    "over25": 2.11,
+    "pari": 3.31,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2026-08-14",
+   "fuori": "Nantes",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.53,
+    "fuori": 1.99,
+    "over25": 1.98,
+    "pari": 3.29,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Nancy",
+   "data": "2026-08-14",
+   "fuori": "Montpellier",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.56,
+    "over25": 2.01,
+    "pari": 3.18,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Red Star",
+   "data": "2026-08-14",
+   "fuori": "Sochaux",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 3.81,
+    "over25": 1.97,
+    "pari": 3.3,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Reims",
+   "data": "2026-08-14",
+   "fuori": "Dunkerque",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.4,
+    "over25": 1.79,
+    "pari": 3.66,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2026-08-14",
+   "fuori": "Clermont",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 7.01,
+    "over25": 1.7,
+    "pari": 4.37,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Boulogne",
+   "data": "2026-08-21",
+   "fuori": "Red Star",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 2.02,
+    "over25": 2.25,
+    "pari": 3.13,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Clermont",
+   "data": "2026-08-21",
+   "fuori": "Dijon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.48,
+    "over25": 2.07,
+    "pari": 3.07,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2026-08-21",
+   "fuori": "Montpellier",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 2.87,
+    "over25": 1.7,
+    "pari": 3.43,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2026-08-21",
+   "fuori": "Nancy",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.71,
+    "over25": 2.02,
+    "pari": 3.14,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Sochaux",
+   "data": "2026-08-21",
+   "fuori": "Guingamp",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.53,
+    "over25": 1.99,
+    "pari": 3.18,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Metz",
+   "data": "2026-08-22",
+   "fuori": "Laval",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.4,
+    "over25": 1.97,
+    "pari": 3.47,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Nantes",
+   "data": "2026-08-22",
+   "fuori": "Rodez",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 3.96,
+    "over25": 1.76,
+    "pari": 3.63,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2026-08-22",
+   "fuori": "Grenoble",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.32,
+    "fuori": 8.67,
+    "over25": 1.72,
+    "pari": 4.74,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Reims",
+   "data": "2026-08-24",
+   "fuori": "Annecy",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.94,
+    "over25": 2.0,
+    "pari": 3.35,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Clermont",
+   "data": "2026-08-28",
+   "fuori": "Sochaux",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.74,
+    "over25": 2.19,
+    "pari": 2.99,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2026-08-28",
+   "fuori": "Grenoble",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.58,
+    "over25": 2.07,
+    "pari": 3.11,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Montpellier",
+   "data": "2026-08-28",
+   "fuori": "Boulogne",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.63,
+    "over25": 2.16,
+    "pari": 3.32,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Nancy",
+   "data": "2026-08-28",
+   "fuori": "Dunkerque",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.85,
+    "over25": 1.83,
+    "pari": 3.3,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2026-08-28",
+   "fuori": "Pau FC",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.0,
+    "over25": 1.75,
+    "pari": 3.64,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Annecy",
+   "data": "2026-08-29",
+   "fuori": "Metz",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.49,
+    "over25": 2.12,
+    "pari": 3.1,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Red Star",
+   "data": "2026-08-29",
+   "fuori": "Reims",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.34,
+    "over25": 1.91,
+    "pari": 3.26,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2026-08-29",
+   "fuori": "Nantes",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.42,
+    "over25": 1.92,
+    "pari": 3.2,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Dijon",
+   "data": "2026-08-31",
+   "fuori": "St Etienne",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.84,
+    "fuori": 1.66,
+    "over25": 1.93,
+    "pari": 3.6,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Boulogne",
+   "data": "2026-09-04",
+   "fuori": "Dijon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.47,
+    "over25": 2.23,
+    "pari": 3.07,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2026-09-04",
+   "fuori": "Clermont",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.2,
+    "over25": 1.87,
+    "pari": 3.4,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2026-09-04",
+   "fuori": "Annecy",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.2,
+    "over25": 2.36,
+    "pari": 3.02,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Laval",
+   "data": "2026-09-04",
+   "fuori": "Red Star",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.3,
+    "over25": 2.01,
+    "pari": 3.15,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2026-09-04",
+   "fuori": "Sochaux",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.98,
+    "over25": 2.11,
+    "pari": 3.15,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Metz",
+   "data": "2026-09-05",
+   "fuori": "Rodez",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.71,
+    "over25": 1.72,
+    "pari": 3.52,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Reims",
+   "data": "2026-09-05",
+   "fuori": "Guingamp",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.53,
+    "over25": 1.7,
+    "pari": 3.64,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2026-09-05",
+   "fuori": "Montpellier",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.36,
+    "over25": 1.64,
+    "pari": 4.09,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Nantes",
+   "data": "2026-09-07",
+   "fuori": "Nancy",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.86,
+    "over25": 1.83,
+    "pari": 3.37,
+    "under25": 1.88
+   }
+  }
+ ],
+ "stagione": "2026-27"
+}

@@ -1,0 +1,5313 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "B1",
+ "nome": "Pro League",
+ "paese": "Belgio",
+ "partite": [
+  {
+   "casa": "Anderlecht",
+   "data": "2024-07-27",
+   "fuori": "St Truiden",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.63,
+    "over25": 1.56,
+    "pari": 5.02,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-07-27",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 3.2,
+    "fuori": 2.22,
+    "over25": 1.92,
+    "pari": 3.35,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2024-07-28",
+   "fuori": "Antwerp",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.57,
+    "fuori": 2.06,
+    "over25": 1.98,
+    "pari": 3.39,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-07-26",
+   "fuori": "Mechelen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 8.07,
+    "over25": 1.49,
+    "pari": 5.13,
+    "under25": 2.59
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-07-27",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.22,
+    "fuori": 1.6,
+    "over25": 1.61,
+    "pari": 4.14,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-07-28",
+   "fuori": "Standard",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.43,
+    "over25": 1.56,
+    "pari": 4.26,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-07-28",
+   "fuori": "Gent",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.0,
+    "fuori": 1.82,
+    "over25": 1.6,
+    "pari": 3.86,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-07-28",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.27,
+    "over25": 1.68,
+    "pari": 3.52,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-08-02",
+   "fuori": "Beerschot VA",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 9.85,
+    "over25": 1.51,
+    "pari": 5.7,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-08-03",
+   "fuori": "Westerlo",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 2.97,
+    "over25": 1.62,
+    "pari": 3.57,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-08-03",
+   "fuori": "Genk",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 3.0,
+    "fuori": 2.37,
+    "over25": 1.85,
+    "pari": 3.29,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-08-03",
+   "fuori": "Charleroi",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.44,
+    "over25": 1.84,
+    "pari": 3.35,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-08-04",
+   "fuori": "Anderlecht",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.07,
+    "over25": 1.73,
+    "pari": 3.76,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-08-04",
+   "fuori": "Kortrijk",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.2,
+    "over25": 1.6,
+    "pari": 4.46,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-08-04",
+   "fuori": "Club Brugge",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.5,
+    "fuori": 1.53,
+    "over25": 1.57,
+    "pari": 4.44,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-08-04",
+   "fuori": "Dender",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.69,
+    "over25": 1.59,
+    "pari": 4.44,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-08-09",
+   "fuori": "Mechelen",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.69,
+    "over25": 1.81,
+    "pari": 3.29,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-08-10",
+   "fuori": "Kortrijk",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.13,
+    "over25": 1.91,
+    "pari": 3.38,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-08-10",
+   "fuori": "St. Gilloise",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 3.53,
+    "fuori": 1.97,
+    "over25": 1.66,
+    "pari": 3.72,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2024-08-10",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.54,
+    "over25": 1.57,
+    "pari": 4.04,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-08-11",
+   "fuori": "Club Brugge",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.74,
+    "fuori": 1.9,
+    "over25": 1.63,
+    "pari": 3.77,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-08-11",
+   "fuori": "St Truiden",
+   "gol": [
+    6,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 8.19,
+    "over25": 1.76,
+    "pari": 4.76,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2024-08-11",
+   "fuori": "Gent",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.4,
+    "over25": 1.77,
+    "pari": 3.48,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-08-11",
+   "fuori": "Beerschot VA",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.84,
+    "over25": 1.56,
+    "pari": 4.53,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-08-16",
+   "fuori": "Charleroi",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.25,
+    "over25": 1.82,
+    "pari": 3.74,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-08-17",
+   "fuori": "Genk",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.08,
+    "fuori": 1.6,
+    "over25": 1.63,
+    "pari": 4.18,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-08-17",
+   "fuori": "Dender",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.51,
+    "over25": 1.96,
+    "pari": 3.33,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-08-17",
+   "fuori": "Anderlecht",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.23,
+    "over25": 1.64,
+    "pari": 3.55,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-08-18",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.46,
+    "over25": 1.6,
+    "pari": 3.95,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-08-18",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.75,
+    "over25": 1.66,
+    "pari": 3.51,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-08-18",
+   "fuori": "Standard",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.14,
+    "over25": 2.0,
+    "pari": 3.3,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-08-18",
+   "fuori": "Westerlo",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.41,
+    "over25": 1.52,
+    "pari": 3.83,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-08-24",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.03,
+    "over25": 1.61,
+    "pari": 3.5,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-08-24",
+   "fuori": "Mechelen",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.12,
+    "over25": 1.51,
+    "pari": 4.78,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-08-25",
+   "fuori": "Club Brugge",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 6.35,
+    "fuori": 1.47,
+    "over25": 1.65,
+    "pari": 4.49,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-08-25",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.68,
+    "fuori": 1.7,
+    "over25": 1.8,
+    "pari": 3.88,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-08-25",
+   "fuori": "Beerschot VA",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.69,
+    "over25": 1.96,
+    "pari": 3.44,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2024-08-25",
+   "fuori": "Kortrijk",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.41,
+    "over25": 1.86,
+    "pari": 3.68,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-08-30",
+   "fuori": "Westerlo",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.52,
+    "over25": 1.38,
+    "pari": 4.38,
+    "under25": 2.99
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-08-31",
+   "fuori": "Charleroi",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.46,
+    "over25": 1.75,
+    "pari": 3.47,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-08-31",
+   "fuori": "Dender",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.42,
+    "over25": 1.88,
+    "pari": 3.29,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-08-31",
+   "fuori": "Standard",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.91,
+    "over25": 1.98,
+    "pari": 3.4,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-09-01",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.4,
+    "over25": 1.48,
+    "pari": 4.37,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-09-01",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.67,
+    "over25": 1.7,
+    "pari": 3.52,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-09-01",
+   "fuori": "Anderlecht",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.69,
+    "over25": 1.81,
+    "pari": 3.56,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-09-01",
+   "fuori": "St Truiden",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.58,
+    "over25": 1.94,
+    "pari": 3.33,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-09-13",
+   "fuori": "Standard",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.87,
+    "over25": 2.08,
+    "pari": 3.31,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-09-14",
+   "fuori": "Genk",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.23,
+    "over25": 1.51,
+    "pari": 3.71,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-09-14",
+   "fuori": "Club Brugge",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 6.87,
+    "fuori": 1.41,
+    "over25": 1.56,
+    "pari": 4.8,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2024-09-14",
+   "fuori": "Westerlo",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.36,
+    "over25": 1.58,
+    "pari": 3.88,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-09-15",
+   "fuori": "St. Gilloise",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.62,
+    "over25": 1.85,
+    "pari": 3.38,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-09-15",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.89,
+    "fuori": 2.38,
+    "over25": 1.85,
+    "pari": 3.38,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2024-09-15",
+   "fuori": "Beerschot VA",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 6.32,
+    "over25": 1.77,
+    "pari": 4.26,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-09-15",
+   "fuori": "Mechelen",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.2,
+    "over25": 1.51,
+    "pari": 3.94,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2024-09-17",
+   "fuori": "Genk",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.56,
+    "over25": 1.58,
+    "pari": 3.57,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-09-20",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.68,
+    "fuori": 1.77,
+    "over25": 2.12,
+    "pari": 3.55,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-09-21",
+   "fuori": "St Truiden",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.73,
+    "over25": 1.9,
+    "pari": 3.29,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-09-21",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 3.13,
+    "fuori": 2.12,
+    "over25": 1.6,
+    "pari": 3.7,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2024-09-21",
+   "fuori": "Charleroi",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.08,
+    "over25": 1.8,
+    "pari": 3.47,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-09-22",
+   "fuori": "Gent",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.04,
+    "over25": 1.46,
+    "pari": 4.63,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-09-22",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.2,
+    "over25": 1.46,
+    "pari": 3.85,
+    "under25": 2.65
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-09-22",
+   "fuori": "Dender",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.06,
+    "over25": 1.53,
+    "pari": 4.57,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-09-22",
+   "fuori": "Kortrijk",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.48,
+    "over25": 1.8,
+    "pari": 3.74,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-09-26",
+   "fuori": "Gent",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.13,
+    "over25": 1.72,
+    "pari": 3.52,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2024-09-27",
+   "fuori": "Club Brugge",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.84,
+    "fuori": 1.88,
+    "over25": 1.67,
+    "pari": 3.79,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-09-28",
+   "fuori": "Mechelen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.67,
+    "over25": 1.38,
+    "pari": 5.13,
+    "under25": 3.0
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-09-28",
+   "fuori": "Westerlo",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.5,
+    "over25": 1.86,
+    "pari": 3.37,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-09-28",
+   "fuori": "Anderlecht",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.7,
+    "fuori": 1.95,
+    "over25": 1.72,
+    "pari": 3.66,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-09-29",
+   "fuori": "Beerschot VA",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 10.86,
+    "over25": 1.37,
+    "pari": 6.67,
+    "under25": 3.0
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-09-29",
+   "fuori": "Kortrijk",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 9.0,
+    "over25": 1.72,
+    "pari": 5.08,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-09-29",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.29,
+    "over25": 1.77,
+    "pari": 3.45,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-09-29",
+   "fuori": "St Truiden",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.81,
+    "over25": 1.78,
+    "pari": 3.6,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-10-04",
+   "fuori": "Beerschot VA",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.35,
+    "over25": 1.41,
+    "pari": 5.08,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-10-05",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.41,
+    "fuori": 2.86,
+    "over25": 1.82,
+    "pari": 3.39,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-10-05",
+   "fuori": "Genk",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 4.89,
+    "fuori": 1.63,
+    "over25": 1.64,
+    "pari": 4.15,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-10-05",
+   "fuori": "Charleroi",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.36,
+    "fuori": 2.2,
+    "over25": 2.08,
+    "pari": 3.25,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2024-10-06",
+   "fuori": "Standard",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.52,
+    "over25": 1.85,
+    "pari": 3.79,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-10-06",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.68,
+    "over25": 1.51,
+    "pari": 4.09,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-10-06",
+   "fuori": "St. Gilloise",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.5,
+    "over25": 1.84,
+    "pari": 3.43,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-10-06",
+   "fuori": "Gent",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.58,
+    "over25": 1.77,
+    "pari": 3.45,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-10-18",
+   "fuori": "Anderlecht",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 6.2,
+    "fuori": 1.47,
+    "over25": 1.54,
+    "pari": 4.59,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-10-19",
+   "fuori": "Club Brugge",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.69,
+    "fuori": 1.88,
+    "over25": 1.59,
+    "pari": 3.9,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-10-19",
+   "fuori": "Dender",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.78,
+    "over25": 1.75,
+    "pari": 3.64,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-10-19",
+   "fuori": "Gent",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.96,
+    "over25": 1.87,
+    "pari": 4.03,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-10-20",
+   "fuori": "St Truiden",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 6.0,
+    "over25": 1.53,
+    "pari": 4.5,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-10-20",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.45,
+    "over25": 1.89,
+    "pari": 3.39,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-10-20",
+   "fuori": "Charleroi",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.45,
+    "over25": 2.24,
+    "pari": 3.18,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-10-20",
+   "fuori": "Kortrijk",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.68,
+    "over25": 1.66,
+    "pari": 4.02,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-10-25",
+   "fuori": "Beerschot VA",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.39,
+    "over25": 1.72,
+    "pari": 3.77,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2024-10-26",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.72,
+    "over25": 2.15,
+    "pari": 3.32,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-10-26",
+   "fuori": "Mechelen",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.54,
+    "over25": 1.87,
+    "pari": 3.3,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-10-26",
+   "fuori": "Westerlo",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.63,
+    "over25": 1.55,
+    "pari": 3.64,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-10-27",
+   "fuori": "Anderlecht",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 4.93,
+    "over25": 1.49,
+    "pari": 4.33,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-10-27",
+   "fuori": "Standard",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.41,
+    "over25": 1.87,
+    "pari": 3.7,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-10-27",
+   "fuori": "Genk",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.34,
+    "over25": 1.62,
+    "pari": 3.5,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-10-27",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 7.18,
+    "over25": 1.74,
+    "pari": 4.65,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-11-01",
+   "fuori": "Dender",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 3.97,
+    "over25": 1.54,
+    "pari": 3.92,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-11-02",
+   "fuori": "St Truiden",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.18,
+    "over25": 2.08,
+    "pari": 3.23,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-11-02",
+   "fuori": "Club Brugge",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 4.66,
+    "fuori": 1.72,
+    "over25": 1.86,
+    "pari": 3.83,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-11-02",
+   "fuori": "St. Gilloise",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.13,
+    "over25": 1.76,
+    "pari": 3.6,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-11-03",
+   "fuori": "Antwerp",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.61,
+    "over25": 1.56,
+    "pari": 4.02,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-11-03",
+   "fuori": "Charleroi",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.21,
+    "over25": 1.85,
+    "pari": 3.41,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2024-11-03",
+   "fuori": "Kortrijk",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 5.93,
+    "over25": 1.56,
+    "pari": 4.6,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-11-03",
+   "fuori": "Gent",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 5.09,
+    "fuori": 1.61,
+    "over25": 1.7,
+    "pari": 4.1,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-11-08",
+   "fuori": "Mechelen",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.79,
+    "over25": 1.58,
+    "pari": 3.54,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-11-09",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.19,
+    "fuori": 2.19,
+    "over25": 1.77,
+    "pari": 3.46,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-11-09",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.24,
+    "over25": 2.07,
+    "pari": 3.33,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2024-11-09",
+   "fuori": "Westerlo",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.13,
+    "over25": 1.63,
+    "pari": 3.63,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-11-10",
+   "fuori": "Anderlecht",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.3,
+    "over25": 1.71,
+    "pari": 3.5,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-11-10",
+   "fuori": "Standard",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.32,
+    "over25": 1.95,
+    "pari": 3.55,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-11-10",
+   "fuori": "Genk",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.21,
+    "over25": 1.88,
+    "pari": 3.42,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-11-10",
+   "fuori": "Club Brugge",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 9.63,
+    "fuori": 1.27,
+    "over25": 1.53,
+    "pari": 5.93,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-11-22",
+   "fuori": "Dender",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.93,
+    "over25": 1.73,
+    "pari": 4.23,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-11-23",
+   "fuori": "St Truiden",
+   "gol": [
+    7,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 8.26,
+    "over25": 1.57,
+    "pari": 5.28,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-11-23",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.51,
+    "fuori": 2.8,
+    "over25": 2.03,
+    "pari": 3.28,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-11-23",
+   "fuori": "Charleroi",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.49,
+    "over25": 1.68,
+    "pari": 4.13,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-11-24",
+   "fuori": "Beerschot VA",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.71,
+    "over25": 1.54,
+    "pari": 4.89,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-11-24",
+   "fuori": "St. Gilloise",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.05,
+    "fuori": 1.97,
+    "over25": 2.3,
+    "pari": 3.28,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2024-11-24",
+   "fuori": "Gent",
+   "gol": [
+    6,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.74,
+    "over25": 1.73,
+    "pari": 3.59,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-11-24",
+   "fuori": "Kortrijk",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.35,
+    "over25": 1.57,
+    "pari": 3.92,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-11-29",
+   "fuori": "Mechelen",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.4,
+    "fuori": 2.05,
+    "over25": 1.78,
+    "pari": 3.62,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-11-30",
+   "fuori": "Dender",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 13.04,
+    "over25": 1.5,
+    "pari": 6.99,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2024-11-30",
+   "fuori": "Standard",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 4.44,
+    "over25": 2.42,
+    "pari": 3.23,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-12-01",
+   "fuori": "Genk",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.51,
+    "fuori": 1.95,
+    "over25": 1.6,
+    "pari": 3.84,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-12-01",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.91,
+    "fuori": 1.87,
+    "over25": 1.74,
+    "pari": 3.71,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-12-01",
+   "fuori": "Anderlecht",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.26,
+    "fuori": 2.19,
+    "over25": 1.92,
+    "pari": 3.37,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-12-01",
+   "fuori": "Antwerp",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.37,
+    "over25": 1.96,
+    "pari": 3.48,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-12-01",
+   "fuori": "Gent",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 2.96,
+    "over25": 1.55,
+    "pari": 3.68,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-12-07",
+   "fuori": "Kortrijk",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.52,
+    "over25": 1.65,
+    "pari": 4.82,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-12-07",
+   "fuori": "Club Brugge",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 4.83,
+    "fuori": 1.65,
+    "over25": 1.64,
+    "pari": 4.07,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-12-07",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.55,
+    "over25": 2.36,
+    "pari": 3.1,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-12-07",
+   "fuori": "St Truiden",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.54,
+    "over25": 1.68,
+    "pari": 3.92,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-12-08",
+   "fuori": "Charleroi",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.0,
+    "over25": 1.83,
+    "pari": 3.62,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-12-08",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.08,
+    "fuori": 1.82,
+    "over25": 1.8,
+    "pari": 3.77,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2024-12-08",
+   "fuori": "Beerschot VA",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 9.87,
+    "over25": 1.52,
+    "pari": 5.69,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-12-08",
+   "fuori": "Westerlo",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.41,
+    "over25": 1.66,
+    "pari": 3.45,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-12-13",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.86,
+    "over25": 1.92,
+    "pari": 3.32,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-12-14",
+   "fuori": "Standard",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.81,
+    "fuori": 2.49,
+    "over25": 2.03,
+    "pari": 3.32,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-12-14",
+   "fuori": "Charleroi",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 2.87,
+    "over25": 2.02,
+    "pari": 3.26,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-12-14",
+   "fuori": "Dender",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.64,
+    "over25": 2.07,
+    "pari": 3.31,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-12-15",
+   "fuori": "Genk",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.3,
+    "over25": 1.61,
+    "pari": 4.22,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-12-15",
+   "fuori": "Westerlo",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.7,
+    "over25": 1.44,
+    "pari": 5.03,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-12-15",
+   "fuori": "Anderlecht",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.49,
+    "fuori": 2.04,
+    "over25": 1.77,
+    "pari": 3.52,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-12-15",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.59,
+    "over25": 1.64,
+    "pari": 3.66,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2024-12-20",
+   "fuori": "Mechelen",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.91,
+    "over25": 1.6,
+    "pari": 3.55,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2024-12-21",
+   "fuori": "St Truiden",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.41,
+    "over25": 1.81,
+    "pari": 3.63,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2024-12-21",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 3.69,
+    "fuori": 1.99,
+    "over25": 1.93,
+    "pari": 3.45,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2024-12-21",
+   "fuori": "Kortrijk",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.27,
+    "fuori": 3.23,
+    "over25": 2.06,
+    "pari": 3.22,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2024-12-22",
+   "fuori": "Anderlecht",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.52,
+    "over25": 1.73,
+    "pari": 3.46,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2024-12-22",
+   "fuori": "Gent",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.94,
+    "fuori": 2.42,
+    "over25": 2.01,
+    "pari": 3.22,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2024-12-22",
+   "fuori": "Club Brugge",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.81,
+    "over25": 1.85,
+    "pari": 3.22,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2024-12-22",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.06,
+    "over25": 2.04,
+    "pari": 3.17,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2024-12-26",
+   "fuori": "Genk",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.81,
+    "over25": 1.83,
+    "pari": 3.35,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2024-12-26",
+   "fuori": "Westerlo",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 8.91,
+    "over25": 1.39,
+    "pari": 5.82,
+    "under25": 2.91
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2024-12-26",
+   "fuori": "Charleroi",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.88,
+    "fuori": 1.93,
+    "over25": 1.99,
+    "pari": 3.49,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2024-12-26",
+   "fuori": "Standard",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.08,
+    "over25": 1.78,
+    "pari": 3.87,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2024-12-26",
+   "fuori": "St. Gilloise",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.19,
+    "over25": 1.71,
+    "pari": 3.53,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2024-12-27",
+   "fuori": "Beerschot VA",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.72,
+    "over25": 1.77,
+    "pari": 3.85,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2024-12-27",
+   "fuori": "Dender",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.86,
+    "over25": 1.78,
+    "pari": 4.05,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2024-12-27",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.82,
+    "over25": 1.79,
+    "pari": 3.34,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-01-10",
+   "fuori": "Kortrijk",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.55,
+    "over25": 2.21,
+    "pari": 3.2,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-01-11",
+   "fuori": "St Truiden",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.41,
+    "over25": 1.53,
+    "pari": 3.72,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-01-11",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 6.14,
+    "over25": 1.62,
+    "pari": 4.39,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-01-11",
+   "fuori": "St. Gilloise",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.19,
+    "fuori": 2.23,
+    "over25": 1.93,
+    "pari": 3.34,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2025-01-12",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.19,
+    "fuori": 1.82,
+    "over25": 1.76,
+    "pari": 3.63,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-01-12",
+   "fuori": "Gent",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.17,
+    "fuori": 2.27,
+    "over25": 1.94,
+    "pari": 3.29,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-01-12",
+   "fuori": "Club Brugge",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 4.58,
+    "fuori": 1.76,
+    "over25": 1.75,
+    "pari": 3.62,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2025-01-12",
+   "fuori": "Mechelen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.81,
+    "over25": 1.92,
+    "pari": 3.26,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-01-17",
+   "fuori": "Charleroi",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.28,
+    "over25": 1.9,
+    "pari": 3.41,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-01-18",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.78,
+    "over25": 2.1,
+    "pari": 3.1,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2025-01-18",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.34,
+    "over25": 1.72,
+    "pari": 3.48,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-01-18",
+   "fuori": "Beerschot VA",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 11.4,
+    "over25": 1.44,
+    "pari": 6.63,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2025-01-19",
+   "fuori": "Anderlecht",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.54,
+    "fuori": 2.03,
+    "over25": 1.91,
+    "pari": 3.51,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-01-19",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.49,
+    "over25": 1.81,
+    "pari": 4.5,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2025-01-19",
+   "fuori": "Standard",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.44,
+    "over25": 1.75,
+    "pari": 3.68,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-01-19",
+   "fuori": "Westerlo",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.67,
+    "over25": 1.62,
+    "pari": 3.68,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2025-01-24",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.91,
+    "over25": 1.72,
+    "pari": 3.49,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-01-25",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.0,
+    "over25": 1.45,
+    "pari": 3.9,
+    "under25": 2.64
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-01-25",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.95,
+    "over25": 1.95,
+    "pari": 3.45,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-01-25",
+   "fuori": "Kortrijk",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 12.7,
+    "over25": 1.46,
+    "pari": 6.56,
+    "under25": 2.66
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-01-26",
+   "fuori": "Dender",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.95,
+    "over25": 2.23,
+    "pari": 3.02,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2025-01-26",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 7.24,
+    "fuori": 1.41,
+    "over25": 1.74,
+    "pari": 4.63,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-01-26",
+   "fuori": "Mechelen",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.6,
+    "over25": 1.94,
+    "pari": 3.39,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-01-26",
+   "fuori": "Gent",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.89,
+    "over25": 2.04,
+    "pari": 3.23,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-01-31",
+   "fuori": "Mechelen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 3.05,
+    "over25": 1.96,
+    "pari": 3.27,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-02-01",
+   "fuori": "Dender",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.5,
+    "over25": 1.99,
+    "pari": 3.4,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2025-02-01",
+   "fuori": "Standard",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.72,
+    "over25": 1.93,
+    "pari": 3.64,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-02-01",
+   "fuori": "Beerschot VA",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 13.87,
+    "over25": 1.4,
+    "pari": 7.12,
+    "under25": 2.85
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-02-02",
+   "fuori": "Club Brugge",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.5,
+    "fuori": 1.77,
+    "over25": 1.8,
+    "pari": 3.69,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-02-02",
+   "fuori": "St Truiden",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 8.23,
+    "over25": 1.56,
+    "pari": 4.82,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-02-02",
+   "fuori": "Anderlecht",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.51,
+    "over25": 1.96,
+    "pari": 3.28,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2025-02-02",
+   "fuori": "Westerlo",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 3.13,
+    "fuori": 2.19,
+    "over25": 1.67,
+    "pari": 3.52,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2025-02-07",
+   "fuori": "Gent",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.3,
+    "over25": 1.81,
+    "pari": 3.49,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-02-08",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.31,
+    "fuori": 9.42,
+    "over25": 1.6,
+    "pari": 5.37,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-02-08",
+   "fuori": "St Truiden",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.77,
+    "fuori": 2.53,
+    "over25": 1.91,
+    "pari": 3.34,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-02-08",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.89,
+    "over25": 1.79,
+    "pari": 3.87,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-02-09",
+   "fuori": "Antwerp",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.3,
+    "over25": 1.72,
+    "pari": 3.73,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2025-02-09",
+   "fuori": "St. Gilloise",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 6.02,
+    "fuori": 1.5,
+    "over25": 1.73,
+    "pari": 4.48,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-02-09",
+   "fuori": "Standard",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.52,
+    "over25": 1.57,
+    "pari": 4.01,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2025-02-09",
+   "fuori": "Charleroi",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 4.33,
+    "fuori": 1.82,
+    "over25": 1.87,
+    "pari": 3.63,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-02-14",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.64,
+    "fuori": 1.76,
+    "over25": 1.91,
+    "pari": 3.7,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-02-15",
+   "fuori": "Dender",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.83,
+    "over25": 2.16,
+    "pari": 3.08,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-02-15",
+   "fuori": "Kortrijk",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.94,
+    "over25": 1.84,
+    "pari": 3.99,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2025-02-15",
+   "fuori": "Club Brugge",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.81,
+    "fuori": 1.64,
+    "over25": 1.59,
+    "pari": 4.18,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-02-16",
+   "fuori": "Beerschot VA",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.26,
+    "over25": 1.64,
+    "pari": 4.2,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-02-16",
+   "fuori": "Mechelen",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.09,
+    "over25": 1.7,
+    "pari": 4.15,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-02-16",
+   "fuori": "Anderlecht",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.87,
+    "over25": 2.09,
+    "pari": 3.22,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2025-02-16",
+   "fuori": "Westerlo",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.04,
+    "over25": 1.68,
+    "pari": 3.51,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2025-02-21",
+   "fuori": "St Truiden",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.02,
+    "over25": 1.57,
+    "pari": 3.88,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-02-22",
+   "fuori": "Beerschot VA",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.56,
+    "over25": 1.83,
+    "pari": 3.75,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-02-22",
+   "fuori": "Charleroi",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.57,
+    "over25": 1.7,
+    "pari": 3.5,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-02-22",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.82,
+    "over25": 1.75,
+    "pari": 3.86,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-02-23",
+   "fuori": "Standard",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 10.59,
+    "over25": 1.63,
+    "pari": 5.73,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-02-23",
+   "fuori": "Gent",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.58,
+    "over25": 1.56,
+    "pari": 4.16,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-02-23",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.47,
+    "over25": 2.03,
+    "pari": 3.25,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2025-02-23",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.29,
+    "over25": 2.09,
+    "pari": 3.24,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-02-28",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.58,
+    "over25": 1.91,
+    "pari": 3.34,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2025-03-01",
+   "fuori": "Antwerp",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 3.1,
+    "over25": 2.13,
+    "pari": 3.24,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-03-01",
+   "fuori": "Club Brugge",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 1.92,
+    "over25": 1.65,
+    "pari": 3.77,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2025-03-01",
+   "fuori": "Kortrijk",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.43,
+    "over25": 1.81,
+    "pari": 3.73,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-03-01",
+   "fuori": "Dender",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.94,
+    "over25": 1.62,
+    "pari": 4.98,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2025-03-02",
+   "fuori": "Mechelen",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.61,
+    "fuori": 2.01,
+    "over25": 1.86,
+    "pari": 3.52,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-03-02",
+   "fuori": "Anderlecht",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.3,
+    "over25": 2.25,
+    "pari": 3.13,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-03-02",
+   "fuori": "Westerlo",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 3.12,
+    "over25": 1.88,
+    "pari": 3.42,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2025-03-07",
+   "fuori": "Beerschot VA",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.41,
+    "over25": 1.6,
+    "pari": 4.45,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2025-03-08",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.98,
+    "over25": 2.29,
+    "pari": 3.08,
+    "under25": 1.61
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-03-08",
+   "fuori": "Mechelen",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.37,
+    "over25": 1.93,
+    "pari": 3.38,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-03-08",
+   "fuori": "Genk",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.6,
+    "fuori": 1.75,
+    "over25": 1.87,
+    "pari": 3.7,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2025-03-09",
+   "fuori": "Club Brugge",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 5.15,
+    "fuori": 1.68,
+    "over25": 1.95,
+    "pari": 3.72,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-03-09",
+   "fuori": "Anderlecht",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.95,
+    "fuori": 2.32,
+    "over25": 1.72,
+    "pari": 3.48,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-03-09",
+   "fuori": "Gent",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.73,
+    "over25": 1.71,
+    "pari": 3.63,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-03-09",
+   "fuori": "Standard",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 8.78,
+    "over25": 1.66,
+    "pari": 5.2,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-03-15",
+   "fuori": "St. Gilloise",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.72,
+    "over25": 1.77,
+    "pari": 3.39,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-03-16",
+   "fuori": "Antwerp",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.5,
+    "over25": 2.24,
+    "pari": 3.08,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-03-16",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.89,
+    "over25": 2.18,
+    "pari": 3.25,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-03-16",
+   "fuori": "Charleroi",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.45,
+    "over25": 1.68,
+    "pari": 4.6,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-03-16",
+   "fuori": "Kortrijk",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.16,
+    "over25": 1.75,
+    "pari": 3.77,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2025-03-16",
+   "fuori": "Dender",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.69,
+    "over25": 1.81,
+    "pari": 3.55,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-03-16",
+   "fuori": "St Truiden",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.7,
+    "fuori": 2.78,
+    "over25": 2.03,
+    "pari": 3.07,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2025-03-16",
+   "fuori": "Westerlo",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:34",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.19,
+    "over25": 1.64,
+    "pari": 3.55,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-03-28",
+   "fuori": "Charleroi",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.66,
+    "over25": 2.06,
+    "pari": 3.08,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2025-03-29",
+   "fuori": "St Truiden",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.08,
+    "over25": 1.73,
+    "pari": 3.58,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-03-29",
+   "fuori": "Mechelen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.67,
+    "over25": 2.05,
+    "pari": 3.18,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-03-29",
+   "fuori": "Antwerp",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.82,
+    "over25": 1.71,
+    "pari": 4.59,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-03-30",
+   "fuori": "Anderlecht",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 6.42,
+    "over25": 1.72,
+    "pari": 4.09,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2025-03-30",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.94,
+    "over25": 2.2,
+    "pari": 3.05,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-03-30",
+   "fuori": "Gent",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.97,
+    "over25": 1.57,
+    "pari": 4.22,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-03-30",
+   "fuori": "Westerlo",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.33,
+    "fuori": 2.85,
+    "over25": 1.64,
+    "pari": 3.55,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2025-04-04",
+   "fuori": "Dender",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.09,
+    "over25": 1.8,
+    "pari": 3.69,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2025-04-05",
+   "fuori": "Beerschot VA",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 7.18,
+    "over25": 1.76,
+    "pari": 4.5,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-04-05",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.14,
+    "over25": 1.67,
+    "pari": 3.76,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-04-05",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.2,
+    "fuori": 1.82,
+    "over25": 1.72,
+    "pari": 3.76,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-04-06",
+   "fuori": "Club Brugge",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.8,
+    "fuori": 1.69,
+    "over25": 1.75,
+    "pari": 3.88,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2025-04-06",
+   "fuori": "Kortrijk",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.5,
+    "over25": 1.78,
+    "pari": 3.7,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-04-06",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.5,
+    "over25": 1.77,
+    "pari": 3.43,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-04-06",
+   "fuori": "Standard",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 4.06,
+    "over25": 2.17,
+    "pari": 3.36,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-04-11",
+   "fuori": "Charleroi",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.71,
+    "fuori": 2.47,
+    "over25": 1.7,
+    "pari": 3.43,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2025-04-12",
+   "fuori": "Beerschot VA",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.09,
+    "over25": 1.68,
+    "pari": 4.1,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2025-04-12",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.18,
+    "over25": 1.9,
+    "pari": 3.25,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-04-12",
+   "fuori": "Anderlecht",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.21,
+    "over25": 1.83,
+    "pari": 3.9,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-04-13",
+   "fuori": "Gent",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.48,
+    "over25": 1.64,
+    "pari": 3.68,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2025-04-13",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.29,
+    "over25": 1.68,
+    "pari": 3.79,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-04-13",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.74,
+    "over25": 1.6,
+    "pari": 4.11,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-04-13",
+   "fuori": "Standard",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.11,
+    "over25": 2.14,
+    "pari": 3.18,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-04-19",
+   "fuori": "Dender",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.4,
+    "over25": 1.97,
+    "pari": 3.29,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-04-19",
+   "fuori": "Mechelen",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.06,
+    "over25": 1.8,
+    "pari": 3.34,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-04-19",
+   "fuori": "Westerlo",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 2.97,
+    "over25": 1.87,
+    "pari": 3.34,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-04-20",
+   "fuori": "Antwerp",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.69,
+    "over25": 1.79,
+    "pari": 3.52,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-04-20",
+   "fuori": "St. Gilloise",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.71,
+    "over25": 1.86,
+    "pari": 3.35,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-04-20",
+   "fuori": "Club Brugge",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.14,
+    "fuori": 1.58,
+    "over25": 1.61,
+    "pari": 4.28,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-04-22",
+   "fuori": "Charleroi",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.12,
+    "over25": 1.78,
+    "pari": 3.45,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2025-04-22",
+   "fuori": "Westerlo",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 3.81,
+    "over25": 1.4,
+    "pari": 4.1,
+    "under25": 2.89
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-04-22",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.24,
+    "over25": 2.19,
+    "pari": 3.16,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-04-23",
+   "fuori": "Gent",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.2,
+    "over25": 1.88,
+    "pari": 3.55,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-04-23",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.2,
+    "over25": 1.63,
+    "pari": 3.64,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-04-24",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.89,
+    "over25": 1.95,
+    "pari": 3.47,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2025-04-25",
+   "fuori": "Kortrijk",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.94,
+    "fuori": 1.86,
+    "over25": 1.71,
+    "pari": 3.66,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-04-26",
+   "fuori": "Standard",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.39,
+    "over25": 2.13,
+    "pari": 3.28,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-04-26",
+   "fuori": "Mechelen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.63,
+    "over25": 1.48,
+    "pari": 3.66,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2025-04-26",
+   "fuori": "St Truiden",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.05,
+    "over25": 1.89,
+    "pari": 3.3,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-04-26",
+   "fuori": "Dender",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.44,
+    "over25": 1.66,
+    "pari": 4.21,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-04-27",
+   "fuori": "Anderlecht",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.25,
+    "over25": 1.81,
+    "pari": 3.28,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-04-27",
+   "fuori": "Antwerp",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.47,
+    "over25": 1.52,
+    "pari": 4.66,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-04-27",
+   "fuori": "Club Brugge",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.83,
+    "over25": 2.15,
+    "pari": 3.03,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-05-01",
+   "fuori": "Anderlecht",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.11,
+    "fuori": 3.28,
+    "over25": 1.74,
+    "pari": 3.51,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-05-01",
+   "fuori": "Gent",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 11.23,
+    "over25": 1.32,
+    "pari": 6.98,
+    "under25": 3.29
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-05-02",
+   "fuori": "Dender",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.28,
+    "over25": 1.4,
+    "pari": 4.2,
+    "under25": 2.87
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2025-05-03",
+   "fuori": "Kortrijk",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.38,
+    "over25": 1.98,
+    "pari": 3.57,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-05-03",
+   "fuori": "Mechelen",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.49,
+    "over25": 1.63,
+    "pari": 3.49,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-05-03",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.6,
+    "over25": 1.87,
+    "pari": 3.63,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-05-04",
+   "fuori": "Charleroi",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.99,
+    "fuori": 1.93,
+    "over25": 1.95,
+    "pari": 3.41,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2025-05-04",
+   "fuori": "Beerschot VA",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 6.95,
+    "over25": 1.35,
+    "pari": 5.27,
+    "under25": 3.08
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-05-09",
+   "fuori": "Westerlo",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.5,
+    "over25": 1.44,
+    "pari": 4.34,
+    "under25": 2.74
+   }
+  },
+  {
+   "casa": "Beerschot VA",
+   "data": "2025-05-10",
+   "fuori": "Cercle Brugge",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.24,
+    "fuori": 1.54,
+    "over25": 1.54,
+    "pari": 4.47,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Kortrijk",
+   "data": "2025-05-10",
+   "fuori": "St Truiden",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.08,
+    "over25": 1.62,
+    "pari": 3.65,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2025-05-10",
+   "fuori": "Standard",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.55,
+    "over25": 1.61,
+    "pari": 4.43,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-05-10",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.63,
+    "fuori": 2.1,
+    "over25": 2.07,
+    "pari": 3.25,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-05-11",
+   "fuori": "Antwerp",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.41,
+    "over25": 1.52,
+    "pari": 3.64,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-05-11",
+   "fuori": "Club Brugge",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.6,
+    "fuori": 1.93,
+    "over25": 1.56,
+    "pari": 3.83,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-05-11",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.76,
+    "over25": 1.63,
+    "pari": 3.51,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Oud-Heverlee Leuven",
+   "data": "2025-05-16",
+   "fuori": "Westerlo",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.5,
+    "over25": 1.5,
+    "pari": 3.7,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2025-05-17",
+   "fuori": "Dender",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.41,
+    "over25": 1.68,
+    "pari": 3.52,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Antwerp",
+   "data": "2025-05-17",
+   "fuori": "St. Gilloise",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.36,
+    "fuori": 1.61,
+    "over25": 1.82,
+    "pari": 3.91,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2025-05-18",
+   "fuori": "Club Brugge",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.67,
+    "fuori": 1.69,
+    "over25": 1.7,
+    "pari": 3.95,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2025-05-18",
+   "fuori": "Charleroi",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.05,
+    "over25": 1.52,
+    "pari": 3.7,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Gent",
+   "data": "2025-05-18",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 1.98,
+    "over25": 1.42,
+    "pari": 3.98,
+    "under25": 2.78
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2025-05-24",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.28,
+    "over25": 1.51,
+    "pari": 4.32,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Dender",
+   "data": "2025-05-24",
+   "fuori": "Mechelen",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.94,
+    "fuori": 2.14,
+    "over25": 1.35,
+    "pari": 3.92,
+    "under25": 3.08
+   }
+  },
+  {
+   "casa": "Westerlo",
+   "data": "2025-05-24",
+   "fuori": "Standard",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.12,
+    "over25": 1.52,
+    "pari": 4.03,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Club Brugge",
+   "data": "2025-05-25",
+   "fuori": "Antwerp",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 13.73,
+    "over25": 1.3,
+    "pari": 8.18,
+    "under25": 3.42
+   }
+  },
+  {
+   "casa": "Genk",
+   "data": "2025-05-25",
+   "fuori": "Anderlecht",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.57,
+    "over25": 1.6,
+    "pari": 3.64,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "St. Gilloise",
+   "data": "2025-05-25",
+   "fuori": "Gent",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.09,
+    "fuori": 23.73,
+    "over25": 1.33,
+    "pari": 9.89,
+    "under25": 3.24
+   }
+  }
+ ],
+ "stagione": "2024-25"
+}

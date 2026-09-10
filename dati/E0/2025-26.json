@@ -1,0 +1,6469 @@
+{
+ "aggiornato": "2026-09-10 09:55 UTC",
+ "codice": "E0",
+ "nome": "Premier League",
+ "paese": "Inghilterra",
+ "partite": [
+  {
+   "casa": "Liverpool",
+   "data": "2025-08-15",
+   "fuori": "Bournemouth",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 8.68,
+    "over25": 1.36,
+    "pari": 6.02,
+    "under25": 3.05
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2025-08-16",
+   "fuori": "Newcastle",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.93,
+    "over25": 1.75,
+    "pari": 3.41,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2025-08-16",
+   "fuori": "Fulham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.26,
+    "over25": 1.84,
+    "pari": 3.64,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2025-08-16",
+   "fuori": "West Ham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.4,
+    "fuori": 2.25,
+    "over25": 2.11,
+    "pari": 3.17,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2025-08-16",
+   "fuori": "Burnley",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 6.16,
+    "over25": 1.88,
+    "pari": 4.01,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2025-08-16",
+   "fuori": "Man City",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 6.24,
+    "fuori": 1.51,
+    "over25": 1.74,
+    "pari": 4.32,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-08-17",
+   "fuori": "Crystal Palace",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.26,
+    "over25": 1.71,
+    "pari": 3.72,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-08-17",
+   "fuori": "Brentford",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 4.16,
+    "over25": 1.99,
+    "pari": 3.44,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-08-17",
+   "fuori": "Arsenal",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 3.79,
+    "fuori": 1.93,
+    "over25": 1.69,
+    "pari": 3.7,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2025-08-18",
+   "fuori": "Everton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.16,
+    "over25": 2.13,
+    "pari": 3.21,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-08-22",
+   "fuori": "Chelsea",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 4.75,
+    "fuori": 1.72,
+    "over25": 1.72,
+    "pari": 3.82,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2025-08-23",
+   "fuori": "Tottenham",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.46,
+    "over25": 1.48,
+    "pari": 4.53,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2025-08-23",
+   "fuori": "Wolves",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.32,
+    "over25": 1.81,
+    "pari": 3.74,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2025-08-23",
+   "fuori": "Aston Villa",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.25,
+    "fuori": 2.18,
+    "over25": 1.85,
+    "pari": 3.45,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-08-23",
+   "fuori": "Sunderland",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.22,
+    "over25": 2.29,
+    "pari": 3.11,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-08-23",
+   "fuori": "Leeds",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 8.94,
+    "over25": 1.62,
+    "pari": 5.36,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2025-08-24",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 3.06,
+    "over25": 2.05,
+    "pari": 3.24,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2025-08-24",
+   "fuori": "Brighton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.43,
+    "over25": 1.89,
+    "pari": 3.34,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2025-08-24",
+   "fuori": "Man United",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 3.45,
+    "fuori": 2.08,
+    "over25": 1.76,
+    "pari": 3.51,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2025-08-25",
+   "fuori": "Liverpool",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.29,
+    "over25": 1.56,
+    "pari": 3.65,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-08-30",
+   "fuori": "Fulham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 5.03,
+    "over25": 1.79,
+    "pari": 3.93,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-08-30",
+   "fuori": "Burnley",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 7.6,
+    "over25": 1.56,
+    "pari": 5.06,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2025-08-30",
+   "fuori": "Brentford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.35,
+    "over25": 2.07,
+    "pari": 3.25,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2025-08-30",
+   "fuori": "Bournemouth",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.84,
+    "over25": 1.63,
+    "pari": 3.75,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2025-08-30",
+   "fuori": "Everton",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.33,
+    "fuori": 2.32,
+    "over25": 2.43,
+    "pari": 3.11,
+    "under25": 1.53
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2025-08-30",
+   "fuori": "Newcastle",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.67,
+    "fuori": 2.06,
+    "over25": 2.03,
+    "pari": 3.36,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2025-08-31",
+   "fuori": "Man City",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.47,
+    "fuori": 2.03,
+    "over25": 1.57,
+    "pari": 3.64,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-08-31",
+   "fuori": "West Ham",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.98,
+    "over25": 1.72,
+    "pari": 4.01,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2025-08-31",
+   "fuori": "Arsenal",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.01,
+    "over25": 1.77,
+    "pari": 3.33,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2025-08-31",
+   "fuori": "Crystal Palace",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.44,
+    "over25": 1.8,
+    "pari": 3.51,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-09-13",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.48,
+    "over25": 1.65,
+    "pari": 4.78,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2025-09-13",
+   "fuori": "Brighton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.82,
+    "over25": 1.62,
+    "pari": 3.51,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2025-09-13",
+   "fuori": "Sunderland",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 5.41,
+    "over25": 2.16,
+    "pari": 3.65,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2025-09-13",
+   "fuori": "Aston Villa",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.8,
+    "over25": 2.1,
+    "pari": 3.2,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2025-09-13",
+   "fuori": "Leeds",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.04,
+    "fuori": 3.76,
+    "over25": 2.06,
+    "pari": 3.37,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2025-09-13",
+   "fuori": "Wolves",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 8.48,
+    "over25": 1.68,
+    "pari": 5.0,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-09-13",
+   "fuori": "Tottenham",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.17,
+    "over25": 1.73,
+    "pari": 3.51,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2025-09-13",
+   "fuori": "Chelsea",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 4.21,
+    "fuori": 1.83,
+    "over25": 1.79,
+    "pari": 3.72,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-09-14",
+   "fuori": "Liverpool",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 8.63,
+    "fuori": 1.32,
+    "over25": 1.49,
+    "pari": 5.54,
+    "under25": 2.55
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2025-09-14",
+   "fuori": "Man United",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.83,
+    "over25": 1.53,
+    "pari": 4.14,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2025-09-20",
+   "fuori": "Everton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 6.31,
+    "over25": 1.69,
+    "pari": 4.35,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2025-09-20",
+   "fuori": "Tottenham",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.14,
+    "over25": 1.65,
+    "pari": 3.63,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-09-20",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.41,
+    "fuori": 2.18,
+    "over25": 2.04,
+    "pari": 3.31,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-09-20",
+   "fuori": "Crystal Palace",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.31,
+    "over25": 1.83,
+    "pari": 3.42,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2025-09-20",
+   "fuori": "Leeds",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.58,
+    "over25": 2.3,
+    "pari": 3.08,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-09-20",
+   "fuori": "Chelsea",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.51,
+    "over25": 1.57,
+    "pari": 3.62,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2025-09-20",
+   "fuori": "Brentford",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.58,
+    "over25": 2.02,
+    "pari": 3.29,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2025-09-21",
+   "fuori": "Newcastle",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.02,
+    "over25": 1.86,
+    "pari": 3.29,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2025-09-21",
+   "fuori": "Aston Villa",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.8,
+    "fuori": 2.04,
+    "over25": 2.05,
+    "pari": 3.32,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-09-21",
+   "fuori": "Man City",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.54,
+    "over25": 1.75,
+    "pari": 3.56,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2025-09-27",
+   "fuori": "Man United",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.3,
+    "fuori": 2.07,
+    "over25": 1.58,
+    "pari": 3.74,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-09-27",
+   "fuori": "Brighton",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.98,
+    "fuori": 3.57,
+    "over25": 1.64,
+    "pari": 3.75,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2025-09-27",
+   "fuori": "Liverpool",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.01,
+    "fuori": 1.87,
+    "over25": 1.71,
+    "pari": 3.71,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2025-09-27",
+   "fuori": "Bournemouth",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.96,
+    "fuori": 2.46,
+    "over25": 1.99,
+    "pari": 3.23,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2025-09-27",
+   "fuori": "Burnley",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.19,
+    "fuori": 14.17,
+    "over25": 1.44,
+    "pari": 7.02,
+    "under25": 2.74
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-09-27",
+   "fuori": "Sunderland",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.73,
+    "over25": 1.95,
+    "pari": 3.69,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2025-09-27",
+   "fuori": "Wolves",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 6.05,
+    "over25": 1.72,
+    "pari": 4.27,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2025-09-28",
+   "fuori": "Fulham",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.34,
+    "over25": 2.04,
+    "pari": 3.24,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2025-09-28",
+   "fuori": "Arsenal",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 3.4,
+    "fuori": 2.21,
+    "over25": 2.11,
+    "pari": 3.26,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2025-09-29",
+   "fuori": "West Ham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 5.28,
+    "over25": 1.86,
+    "pari": 3.87,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2025-10-03",
+   "fuori": "Fulham",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 4.01,
+    "over25": 2.06,
+    "pari": 3.43,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2025-10-04",
+   "fuori": "Tottenham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.55,
+    "over25": 1.91,
+    "pari": 3.35,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-10-04",
+   "fuori": "West Ham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 14.63,
+    "over25": 1.41,
+    "pari": 7.28,
+    "under25": 2.84
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-10-04",
+   "fuori": "Sunderland",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.1,
+    "over25": 1.64,
+    "pari": 4.22,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-10-04",
+   "fuori": "Liverpool",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.87,
+    "fuori": 2.31,
+    "over25": 1.55,
+    "pari": 3.64,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2025-10-05",
+   "fuori": "Burnley",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 6.13,
+    "over25": 1.88,
+    "pari": 4.05,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2025-10-05",
+   "fuori": "Crystal Palace",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.82,
+    "over25": 2.25,
+    "pari": 3.1,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2025-10-05",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 6.06,
+    "over25": 1.64,
+    "pari": 4.42,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2025-10-05",
+   "fuori": "Brighton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.08,
+    "over25": 1.77,
+    "pari": 3.53,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2025-10-05",
+   "fuori": "Man City",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 5.03,
+    "fuori": 1.62,
+    "over25": 1.58,
+    "pari": 4.18,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-10-18",
+   "fuori": "Chelsea",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.27,
+    "over25": 1.82,
+    "pari": 3.43,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2025-10-18",
+   "fuori": "Newcastle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.86,
+    "fuori": 2.42,
+    "over25": 1.75,
+    "pari": 3.44,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-10-18",
+   "fuori": "Leeds",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.48,
+    "fuori": 2.19,
+    "over25": 2.26,
+    "pari": 3.22,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2025-10-18",
+   "fuori": "Bournemouth",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.44,
+    "over25": 1.8,
+    "pari": 3.39,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2025-10-18",
+   "fuori": "Everton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 7.29,
+    "over25": 1.67,
+    "pari": 4.46,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2025-10-18",
+   "fuori": "Wolves",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 3.08,
+    "over25": 2.37,
+    "pari": 3.03,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2025-10-18",
+   "fuori": "Arsenal",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 6.77,
+    "fuori": 1.5,
+    "over25": 1.91,
+    "pari": 4.18,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2025-10-19",
+   "fuori": "Aston Villa",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 3.21,
+    "over25": 1.83,
+    "pari": 3.36,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2025-10-19",
+   "fuori": "Man United",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.55,
+    "over25": 1.44,
+    "pari": 4.3,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-10-20",
+   "fuori": "Brentford",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.57,
+    "over25": 1.9,
+    "pari": 3.29,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2025-10-24",
+   "fuori": "West Ham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.56,
+    "over25": 1.97,
+    "pari": 3.64,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-10-25",
+   "fuori": "Sunderland",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.44,
+    "fuori": 7.2,
+    "over25": 1.7,
+    "pari": 4.52,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2025-10-25",
+   "fuori": "Fulham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.62,
+    "over25": 1.8,
+    "pari": 3.99,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-10-25",
+   "fuori": "Brighton",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.41,
+    "over25": 1.5,
+    "pari": 3.85,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2025-10-25",
+   "fuori": "Liverpool",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.92,
+    "fuori": 1.82,
+    "over25": 1.53,
+    "pari": 4.01,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-10-26",
+   "fuori": "Crystal Palace",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 8.08,
+    "over25": 1.66,
+    "pari": 4.91,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2025-10-26",
+   "fuori": "Man City",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.16,
+    "fuori": 1.82,
+    "over25": 1.68,
+    "pari": 3.77,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2025-10-26",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.82,
+    "over25": 1.81,
+    "pari": 3.59,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2025-10-26",
+   "fuori": "Burnley",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 4.34,
+    "over25": 2.22,
+    "pari": 3.3,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2025-10-26",
+   "fuori": "Tottenham",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.32,
+    "over25": 1.92,
+    "pari": 3.34,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2025-11-01",
+   "fuori": "Leeds",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.93,
+    "fuori": 3.88,
+    "over25": 1.82,
+    "pari": 3.61,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-11-01",
+   "fuori": "Arsenal",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 13.66,
+    "fuori": 1.24,
+    "over25": 1.85,
+    "pari": 5.78,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2025-11-01",
+   "fuori": "Brentford",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.6,
+    "over25": 1.82,
+    "pari": 3.43,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2025-11-01",
+   "fuori": "Wolves",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 4.44,
+    "over25": 1.89,
+    "pari": 3.69,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-11-01",
+   "fuori": "Man United",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.12,
+    "over25": 1.7,
+    "pari": 3.63,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2025-11-01",
+   "fuori": "Chelsea",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.31,
+    "over25": 1.76,
+    "pari": 3.44,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2025-11-01",
+   "fuori": "Aston Villa",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.67,
+    "over25": 1.53,
+    "pari": 4.28,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-11-02",
+   "fuori": "Newcastle",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.99,
+    "fuori": 1.64,
+    "over25": 1.68,
+    "pari": 4.08,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2025-11-02",
+   "fuori": "Bournemouth",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.86,
+    "over25": 1.47,
+    "pari": 5.08,
+    "under25": 2.64
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2025-11-03",
+   "fuori": "Everton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.37,
+    "over25": 2.35,
+    "pari": 3.09,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2025-11-08",
+   "fuori": "Man United",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.9,
+    "fuori": 2.38,
+    "over25": 1.68,
+    "pari": 3.47,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2025-11-08",
+   "fuori": "Fulham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.23,
+    "over25": 2.12,
+    "pari": 3.21,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-11-08",
+   "fuori": "Burnley",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.23,
+    "over25": 1.95,
+    "pari": 3.56,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2025-11-08",
+   "fuori": "Arsenal",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 7.33,
+    "fuori": 1.46,
+    "over25": 2.13,
+    "pari": 4.23,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-11-08",
+   "fuori": "Wolves",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 8.12,
+    "over25": 1.56,
+    "pari": 5.1,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2025-11-09",
+   "fuori": "Bournemouth",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.1,
+    "over25": 1.83,
+    "pari": 3.37,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2025-11-09",
+   "fuori": "Newcastle",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.47,
+    "over25": 1.81,
+    "pari": 3.38,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2025-11-09",
+   "fuori": "Brighton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 2.97,
+    "over25": 1.81,
+    "pari": 3.39,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-11-09",
+   "fuori": "Leeds",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.46,
+    "over25": 2.3,
+    "pari": 3.14,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2025-11-09",
+   "fuori": "Liverpool",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.69,
+    "over25": 1.46,
+    "pari": 3.94,
+    "under25": 2.68
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-11-22",
+   "fuori": "Chelsea",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 5.46,
+    "fuori": 1.58,
+    "over25": 1.67,
+    "pari": 4.14,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2025-11-22",
+   "fuori": "West Ham",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.67,
+    "fuori": 4.95,
+    "over25": 1.67,
+    "pari": 3.97,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2025-11-22",
+   "fuori": "Brentford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.47,
+    "over25": 1.72,
+    "pari": 3.44,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2025-11-22",
+   "fuori": "Sunderland",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.81,
+    "over25": 2.06,
+    "pari": 3.33,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2025-11-22",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 6.58,
+    "over25": 1.56,
+    "pari": 4.6,
+    "under25": 2.37
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2025-11-22",
+   "fuori": "Crystal Palace",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.43,
+    "fuori": 1.81,
+    "over25": 1.93,
+    "pari": 3.65,
+    "under25": 1.84
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2025-11-22",
+   "fuori": "Man City",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.67,
+    "fuori": 1.95,
+    "over25": 1.6,
+    "pari": 3.7,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2025-11-23",
+   "fuori": "Aston Villa",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.27,
+    "over25": 2.07,
+    "pari": 3.3,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-11-23",
+   "fuori": "Tottenham",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 7.15,
+    "over25": 1.92,
+    "pari": 4.29,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-11-24",
+   "fuori": "Everton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.09,
+    "over25": 1.78,
+    "pari": 3.69,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2025-11-29",
+   "fuori": "Burnley",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.61,
+    "over25": 1.77,
+    "pari": 4.36,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2025-11-29",
+   "fuori": "Leeds",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.22,
+    "fuori": 11.56,
+    "over25": 1.41,
+    "pari": 6.58,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2025-11-29",
+   "fuori": "Bournemouth",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.3,
+    "over25": 1.96,
+    "pari": 3.3,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2025-11-29",
+   "fuori": "Newcastle",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.65,
+    "over25": 1.87,
+    "pari": 3.3,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2025-11-29",
+   "fuori": "Fulham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 3.04,
+    "over25": 1.82,
+    "pari": 3.35,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2025-11-30",
+   "fuori": "Man United",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.4,
+    "over25": 1.71,
+    "pari": 3.6,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2025-11-30",
+   "fuori": "Wolves",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:05",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.83,
+    "over25": 1.75,
+    "pari": 4.46,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-11-30",
+   "fuori": "Brighton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:05",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.51,
+    "over25": 1.9,
+    "pari": 3.29,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-11-30",
+   "fuori": "Liverpool",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:05",
+   "quote": {
+    "casa": 5.07,
+    "fuori": 1.58,
+    "over25": 1.49,
+    "pari": 4.49,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-11-30",
+   "fuori": "Arsenal",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.46,
+    "over25": 2.05,
+    "pari": 3.14,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2025-12-02",
+   "fuori": "Everton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.34,
+    "over25": 1.79,
+    "pari": 3.4,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2025-12-02",
+   "fuori": "Man City",
+   "gol": [
+    4,
+    5
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 5.14,
+    "fuori": 1.63,
+    "over25": 1.68,
+    "pari": 4.08,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2025-12-02",
+   "fuori": "Tottenham",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.07,
+    "over25": 1.66,
+    "pari": 3.78,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-12-03",
+   "fuori": "Brentford",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.43,
+    "fuori": 7.43,
+    "over25": 1.85,
+    "pari": 4.53,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2025-12-03",
+   "fuori": "Aston Villa",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.17,
+    "over25": 1.83,
+    "pari": 3.42,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-12-03",
+   "fuori": "Crystal Palace",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 4.99,
+    "fuori": 1.73,
+    "over25": 2.14,
+    "pari": 3.62,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2025-12-03",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.37,
+    "over25": 2.12,
+    "pari": 3.23,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2025-12-03",
+   "fuori": "Chelsea",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 3.94,
+    "fuori": 1.95,
+    "over25": 1.96,
+    "pari": 3.45,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2025-12-03",
+   "fuori": "Sunderland",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 7.98,
+    "over25": 1.59,
+    "pari": 5.25,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-12-04",
+   "fuori": "West Ham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 7.21,
+    "over25": 1.5,
+    "pari": 5.03,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2025-12-06",
+   "fuori": "Arsenal",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 4.18,
+    "fuori": 1.9,
+    "over25": 2.04,
+    "pari": 3.47,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2025-12-06",
+   "fuori": "Chelsea",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.33,
+    "fuori": 2.05,
+    "over25": 1.59,
+    "pari": 3.75,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2025-12-06",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.72,
+    "over25": 2.09,
+    "pari": 3.28,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2025-12-06",
+   "fuori": "Sunderland",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 10.59,
+    "over25": 1.44,
+    "pari": 6.18,
+    "under25": 2.72
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2025-12-06",
+   "fuori": "Burnley",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 9.5,
+    "over25": 1.57,
+    "pari": 5.53,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2025-12-06",
+   "fuori": "Brentford",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.9,
+    "over25": 1.9,
+    "pari": 3.35,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2025-12-06",
+   "fuori": "Liverpool",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 4.4,
+    "fuori": 1.76,
+    "over25": 1.75,
+    "pari": 3.88,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2025-12-07",
+   "fuori": "West Ham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.16,
+    "over25": 1.58,
+    "pari": 4.24,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2025-12-07",
+   "fuori": "Crystal Palace",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.85,
+    "over25": 1.93,
+    "pari": 3.32,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2025-12-08",
+   "fuori": "Man United",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 5.04,
+    "fuori": 1.64,
+    "over25": 1.68,
+    "pari": 4.09,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-12-13",
+   "fuori": "Everton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.77,
+    "over25": 1.82,
+    "pari": 3.84,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2025-12-13",
+   "fuori": "Brighton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.37,
+    "over25": 1.58,
+    "pari": 3.98,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-12-13",
+   "fuori": "Fulham",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.88,
+    "fuori": 1.99,
+    "over25": 2.05,
+    "pari": 3.41,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-12-13",
+   "fuori": "Wolves",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 22.31,
+    "over25": 1.47,
+    "pari": 8.9,
+    "under25": 2.61
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2025-12-14",
+   "fuori": "Man City",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.01,
+    "fuori": 1.85,
+    "over25": 1.69,
+    "pari": 3.73,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-12-14",
+   "fuori": "Tottenham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.7,
+    "over25": 1.92,
+    "pari": 3.31,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2025-12-14",
+   "fuori": "Newcastle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.41,
+    "fuori": 2.16,
+    "over25": 1.89,
+    "pari": 3.35,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-12-14",
+   "fuori": "Aston Villa",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.31,
+    "fuori": 2.18,
+    "over25": 1.75,
+    "pari": 3.42,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2025-12-14",
+   "fuori": "Leeds",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.56,
+    "over25": 2.09,
+    "pari": 3.25,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-12-15",
+   "fuori": "Bournemouth",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.1,
+    "over25": 1.47,
+    "pari": 4.18,
+    "under25": 2.64
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2025-12-20",
+   "fuori": "Chelsea",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.41,
+    "over25": 1.63,
+    "pari": 3.53,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2025-12-20",
+   "fuori": "Burnley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.47,
+    "over25": 1.57,
+    "pari": 4.62,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2025-12-20",
+   "fuori": "Sunderland",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.27,
+    "over25": 1.83,
+    "pari": 3.65,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2025-12-20",
+   "fuori": "West Ham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.2,
+    "fuori": 12.02,
+    "over25": 1.34,
+    "pari": 7.44,
+    "under25": 3.17
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2025-12-20",
+   "fuori": "Brentford",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.42,
+    "fuori": 2.15,
+    "over25": 1.96,
+    "pari": 3.37,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2025-12-20",
+   "fuori": "Liverpool",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.54,
+    "fuori": 2.02,
+    "over25": 1.76,
+    "pari": 3.59,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2025-12-20",
+   "fuori": "Arsenal",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 6.26,
+    "fuori": 1.54,
+    "over25": 1.94,
+    "pari": 4.02,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2025-12-20",
+   "fuori": "Crystal Palace",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.83,
+    "fuori": 2.66,
+    "over25": 2.35,
+    "pari": 3.06,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2025-12-21",
+   "fuori": "Man United",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.53,
+    "over25": 1.61,
+    "pari": 3.67,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2025-12-22",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.55,
+    "fuori": 2.75,
+    "over25": 1.88,
+    "pari": 3.33,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-12-26",
+   "fuori": "Newcastle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.47,
+    "fuori": 2.66,
+    "over25": 1.58,
+    "pari": 3.64,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-12-27",
+   "fuori": "Man City",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 5.17,
+    "fuori": 1.61,
+    "over25": 1.6,
+    "pari": 4.16,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-12-27",
+   "fuori": "Brighton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.32,
+    "fuori": 8.87,
+    "over25": 1.53,
+    "pari": 5.45,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2025-12-27",
+   "fuori": "Bournemouth",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.04,
+    "over25": 1.8,
+    "pari": 3.47,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-12-27",
+   "fuori": "Everton",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 2.18,
+    "over25": 2.41,
+    "pari": 3.1,
+    "under25": 1.55
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2025-12-27",
+   "fuori": "Wolves",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.24,
+    "fuori": 11.22,
+    "over25": 1.45,
+    "pari": 6.43,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-12-27",
+   "fuori": "Fulham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.39,
+    "over25": 1.86,
+    "pari": 3.33,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-12-27",
+   "fuori": "Aston Villa",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.23,
+    "over25": 1.67,
+    "pari": 3.94,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2025-12-28",
+   "fuori": "Leeds",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.63,
+    "over25": 2.31,
+    "pari": 3.1,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2025-12-28",
+   "fuori": "Tottenham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.23,
+    "fuori": 3.22,
+    "over25": 1.86,
+    "pari": 3.38,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2025-12-30",
+   "fuori": "Newcastle",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 5.71,
+    "fuori": 1.56,
+    "over25": 1.77,
+    "pari": 4.12,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2025-12-30",
+   "fuori": "Bournemouth",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.25,
+    "over25": 1.45,
+    "pari": 4.45,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2025-12-30",
+   "fuori": "Everton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.29,
+    "over25": 2.21,
+    "pari": 3.37,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2025-12-30",
+   "fuori": "Brighton",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 2.1,
+    "over25": 1.69,
+    "pari": 3.59,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2025-12-30",
+   "fuori": "Aston Villa",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.76,
+    "over25": 1.66,
+    "pari": 5.03,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2025-12-30",
+   "fuori": "Wolves",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.63,
+    "over25": 1.53,
+    "pari": 5.04,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-01-01",
+   "fuori": "Fulham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.34,
+    "over25": 2.06,
+    "pari": 3.27,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-01-01",
+   "fuori": "Leeds",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.68,
+    "over25": 1.69,
+    "pari": 4.45,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-01-01",
+   "fuori": "Tottenham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 2.91,
+    "over25": 1.91,
+    "pari": 3.4,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-01-01",
+   "fuori": "Man City",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 7.23,
+    "fuori": 1.42,
+    "over25": 1.63,
+    "pari": 4.7,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-01-03",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.9,
+    "fuori": 4.1,
+    "over25": 1.83,
+    "pari": 3.51,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-01-03",
+   "fuori": "Burnley",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 7.0,
+    "over25": 1.67,
+    "pari": 4.51,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-01-03",
+   "fuori": "West Ham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.66,
+    "over25": 1.86,
+    "pari": 3.36,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-01-03",
+   "fuori": "Arsenal",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.95,
+    "fuori": 1.51,
+    "over25": 1.61,
+    "pari": 4.43,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-01-04",
+   "fuori": "Man United",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.73,
+    "fuori": 2.59,
+    "over25": 1.95,
+    "pari": 3.3,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-01-04",
+   "fuori": "Brentford",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.46,
+    "fuori": 3.01,
+    "over25": 2.15,
+    "pari": 3.16,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-01-04",
+   "fuori": "Crystal Palace",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.9,
+    "over25": 1.71,
+    "pari": 3.93,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-01-04",
+   "fuori": "Sunderland",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.95,
+    "over25": 2.09,
+    "pari": 3.39,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-01-04",
+   "fuori": "Liverpool",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:15",
+   "quote": {
+    "casa": 4.07,
+    "fuori": 1.88,
+    "over25": 1.87,
+    "pari": 3.61,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-01-04",
+   "fuori": "Chelsea",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 5.88,
+    "over25": 1.37,
+    "pari": 4.9,
+    "under25": 3.02
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-01-06",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.39,
+    "over25": 1.83,
+    "pari": 3.39,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-01-07",
+   "fuori": "Tottenham",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.17,
+    "fuori": 3.21,
+    "over25": 1.72,
+    "pari": 3.51,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-01-07",
+   "fuori": "Sunderland",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 4.07,
+    "over25": 2.31,
+    "pari": 3.22,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-01-07",
+   "fuori": "Aston Villa",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.99,
+    "fuori": 2.38,
+    "over25": 1.84,
+    "pari": 3.33,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-01-07",
+   "fuori": "Wolves",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.51,
+    "over25": 2.01,
+    "pari": 3.46,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-01-07",
+   "fuori": "Chelsea",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.61,
+    "fuori": 2.01,
+    "over25": 1.84,
+    "pari": 3.56,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-01-07",
+   "fuori": "Brighton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.79,
+    "over25": 1.43,
+    "pari": 4.62,
+    "under25": 2.75
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-01-07",
+   "fuori": "Man United",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 4.8,
+    "fuori": 1.72,
+    "over25": 1.81,
+    "pari": 3.76,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-01-07",
+   "fuori": "Leeds",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.56,
+    "over25": 1.78,
+    "pari": 3.94,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2026-01-08",
+   "fuori": "Liverpool",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 5.65,
+    "over25": 1.77,
+    "pari": 4.16,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2026-01-17",
+   "fuori": "Man City",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.01,
+    "fuori": 2.23,
+    "over25": 1.5,
+    "pari": 3.63,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2026-01-17",
+   "fuori": "Brentford",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.93,
+    "over25": 1.61,
+    "pari": 3.78,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-01-17",
+   "fuori": "Fulham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.31,
+    "fuori": 3.1,
+    "over25": 1.91,
+    "pari": 3.34,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-01-17",
+   "fuori": "Burnley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 11.91,
+    "over25": 1.53,
+    "pari": 6.38,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-01-17",
+   "fuori": "Crystal Palace",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.38,
+    "fuori": 3.15,
+    "over25": 2.23,
+    "pari": 3.13,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-01-17",
+   "fuori": "West Ham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.13,
+    "over25": 1.71,
+    "pari": 3.72,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-01-17",
+   "fuori": "Arsenal",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 5.79,
+    "fuori": 1.6,
+    "over25": 1.99,
+    "pari": 3.87,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-01-18",
+   "fuori": "Newcastle",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.5,
+    "fuori": 1.72,
+    "over25": 1.6,
+    "pari": 3.98,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-01-18",
+   "fuori": "Everton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 5.77,
+    "over25": 1.81,
+    "pari": 3.94,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-01-19",
+   "fuori": "Bournemouth",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.55,
+    "over25": 1.51,
+    "pari": 3.79,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-01-24",
+   "fuori": "Sunderland",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.28,
+    "over25": 2.02,
+    "pari": 3.32,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-01-24",
+   "fuori": "Tottenham",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.85,
+    "fuori": 2.01,
+    "over25": 2.1,
+    "pari": 3.33,
+    "under25": 1.71
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-01-24",
+   "fuori": "Brighton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.76,
+    "over25": 1.84,
+    "pari": 3.28,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-01-24",
+   "fuori": "Wolves",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 9.5,
+    "over25": 1.54,
+    "pari": 5.63,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-01-24",
+   "fuori": "Liverpool",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 4.21,
+    "fuori": 1.77,
+    "over25": 1.53,
+    "pari": 3.98,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-01-25",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.38,
+    "over25": 1.93,
+    "pari": 3.5,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-01-25",
+   "fuori": "Chelsea",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.39,
+    "fuori": 2.11,
+    "over25": 1.78,
+    "pari": 3.48,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-01-25",
+   "fuori": "Aston Villa",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.26,
+    "over25": 1.64,
+    "pari": 3.53,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2026-01-25",
+   "fuori": "Man United",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.69,
+    "over25": 1.66,
+    "pari": 4.32,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-01-26",
+   "fuori": "Leeds",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 3.03,
+    "over25": 2.24,
+    "pari": 3.07,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-01-31",
+   "fuori": "Everton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 4.08,
+    "over25": 1.98,
+    "pari": 3.47,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-01-31",
+   "fuori": "Arsenal",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.87,
+    "fuori": 1.57,
+    "over25": 1.87,
+    "pari": 3.99,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-01-31",
+   "fuori": "Bournemouth",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.94,
+    "fuori": 2.37,
+    "over25": 1.79,
+    "pari": 3.41,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2026-01-31",
+   "fuori": "West Ham",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.11,
+    "over25": 1.51,
+    "pari": 4.34,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-01-31",
+   "fuori": "Newcastle",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 4.78,
+    "over25": 1.45,
+    "pari": 4.22,
+    "under25": 2.68
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-02-01",
+   "fuori": "Brentford",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 3.13,
+    "over25": 1.85,
+    "pari": 3.32,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2026-02-01",
+   "fuori": "Fulham",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.47,
+    "over25": 1.47,
+    "pari": 4.63,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-02-01",
+   "fuori": "Crystal Palace",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.73,
+    "over25": 2.16,
+    "pari": 3.22,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-02-01",
+   "fuori": "Man City",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 4.98,
+    "fuori": 1.65,
+    "over25": 1.61,
+    "pari": 4.01,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-02-02",
+   "fuori": "Burnley",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.91,
+    "fuori": 4.46,
+    "over25": 2.42,
+    "pari": 3.23,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-02-06",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.4,
+    "over25": 1.91,
+    "pari": 3.37,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2026-02-07",
+   "fuori": "Tottenham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 4.95,
+    "over25": 1.47,
+    "pari": 4.38,
+    "under25": 2.64
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2026-02-07",
+   "fuori": "Sunderland",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.26,
+    "fuori": 12.04,
+    "over25": 1.79,
+    "pari": 5.65,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-02-07",
+   "fuori": "Aston Villa",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.35,
+    "over25": 1.63,
+    "pari": 3.58,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-02-07",
+   "fuori": "West Ham",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.11,
+    "fuori": 2.19,
+    "over25": 1.7,
+    "pari": 3.58,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-02-07",
+   "fuori": "Everton",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.4,
+    "over25": 1.89,
+    "pari": 3.41,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-02-07",
+   "fuori": "Chelsea",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.31,
+    "fuori": 1.58,
+    "over25": 1.62,
+    "pari": 4.19,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-02-07",
+   "fuori": "Brentford",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.77,
+    "over25": 1.64,
+    "pari": 3.7,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-02-08",
+   "fuori": "Crystal Palace",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.39,
+    "over25": 1.91,
+    "pari": 3.27,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-02-08",
+   "fuori": "Man City",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.01,
+    "over25": 1.45,
+    "pari": 3.84,
+    "under25": 2.66
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2026-02-10",
+   "fuori": "Leeds",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 6.03,
+    "over25": 1.61,
+    "pari": 4.4,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-02-10",
+   "fuori": "Bournemouth",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 3.0,
+    "over25": 1.7,
+    "pari": 3.41,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-02-10",
+   "fuori": "Newcastle",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.0,
+    "fuori": 2.25,
+    "over25": 1.56,
+    "pari": 3.6,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-02-10",
+   "fuori": "Man United",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 4.47,
+    "fuori": 1.69,
+    "over25": 1.48,
+    "pari": 4.15,
+    "under25": 2.59
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-02-11",
+   "fuori": "Brighton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.34,
+    "over25": 1.61,
+    "pari": 3.69,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-02-11",
+   "fuori": "Burnley",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.9,
+    "over25": 1.73,
+    "pari": 4.45,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-02-11",
+   "fuori": "Fulham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.38,
+    "over25": 1.43,
+    "pari": 5.23,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-02-11",
+   "fuori": "Wolves",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.66,
+    "over25": 1.76,
+    "pari": 3.79,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-02-11",
+   "fuori": "Liverpool",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 4.45,
+    "fuori": 1.75,
+    "over25": 1.73,
+    "pari": 3.83,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-02-12",
+   "fuori": "Arsenal",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 5.08,
+    "fuori": 1.68,
+    "over25": 1.85,
+    "pari": 3.77,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-02-18",
+   "fuori": "Arsenal",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 12.35,
+    "fuori": 1.24,
+    "over25": 1.69,
+    "pari": 5.93,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-02-21",
+   "fuori": "Leeds",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.18,
+    "over25": 1.77,
+    "pari": 3.68,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-02-21",
+   "fuori": "Brighton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.13,
+    "over25": 1.75,
+    "pari": 3.39,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2026-02-21",
+   "fuori": "Burnley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 11.6,
+    "over25": 1.45,
+    "pari": 6.31,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-02-21",
+   "fuori": "Bournemouth",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.46,
+    "over25": 1.55,
+    "pari": 3.62,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-02-21",
+   "fuori": "Newcastle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.31,
+    "over25": 1.43,
+    "pari": 4.63,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-02-22",
+   "fuori": "Wolves",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.44,
+    "over25": 1.87,
+    "pari": 3.71,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-02-22",
+   "fuori": "Liverpool",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.83,
+    "fuori": 1.87,
+    "over25": 1.64,
+    "pari": 3.78,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-02-22",
+   "fuori": "Fulham",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.55,
+    "over25": 2.01,
+    "pari": 3.18,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-02-22",
+   "fuori": "Arsenal",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 7.2,
+    "fuori": 1.45,
+    "over25": 1.82,
+    "pari": 4.35,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-02-23",
+   "fuori": "Man United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.52,
+    "fuori": 1.99,
+    "over25": 1.74,
+    "pari": 3.62,
+    "under25": 2.05
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-02-27",
+   "fuori": "Aston Villa",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 4.6,
+    "fuori": 1.74,
+    "over25": 1.87,
+    "pari": 3.74,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-02-28",
+   "fuori": "Sunderland",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.27,
+    "over25": 1.82,
+    "pari": 3.68,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-02-28",
+   "fuori": "Brentford",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.34,
+    "fuori": 1.77,
+    "over25": 1.74,
+    "pari": 3.79,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-02-28",
+   "fuori": "West Ham",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.69,
+    "over25": 1.43,
+    "pari": 4.98,
+    "under25": 2.75
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-02-28",
+   "fuori": "Everton",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 4.34,
+    "over25": 1.76,
+    "pari": 3.73,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-02-28",
+   "fuori": "Man City",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 4.77,
+    "fuori": 1.69,
+    "over25": 1.76,
+    "pari": 3.91,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-03-01",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.48,
+    "over25": 1.88,
+    "pari": 3.39,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-03-01",
+   "fuori": "Tottenham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.45,
+    "over25": 1.66,
+    "pari": 3.66,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2026-03-01",
+   "fuori": "Crystal Palace",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.51,
+    "fuori": 5.95,
+    "over25": 1.67,
+    "pari": 4.35,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2026-03-01",
+   "fuori": "Chelsea",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 6.05,
+    "over25": 1.66,
+    "pari": 4.36,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-03-03",
+   "fuori": "Brentford",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.5,
+    "fuori": 2.65,
+    "over25": 1.6,
+    "pari": 3.56,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-03-03",
+   "fuori": "Burnley",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.73,
+    "over25": 2.04,
+    "pari": 3.78,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-03-03",
+   "fuori": "Sunderland",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.51,
+    "over25": 2.03,
+    "pari": 3.51,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-03-03",
+   "fuori": "Liverpool",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 6.85,
+    "fuori": 1.43,
+    "over25": 1.58,
+    "pari": 4.71,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-03-04",
+   "fuori": "Chelsea",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.54,
+    "over25": 1.71,
+    "pari": 3.48,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-03-04",
+   "fuori": "Arsenal",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 5.03,
+    "fuori": 1.67,
+    "over25": 1.86,
+    "pari": 3.84,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-03-04",
+   "fuori": "West Ham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.13,
+    "over25": 1.62,
+    "pari": 3.51,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-03-04",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 7.62,
+    "over25": 1.62,
+    "pari": 4.83,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-03-04",
+   "fuori": "Man United",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.52,
+    "over25": 1.56,
+    "pari": 3.62,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-03-05",
+   "fuori": "Crystal Palace",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.83,
+    "over25": 1.84,
+    "pari": 3.37,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-03-14",
+   "fuori": "Bournemouth",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.92,
+    "fuori": 1.82,
+    "over25": 1.58,
+    "pari": 3.93,
+    "under25": 2.31
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-03-14",
+   "fuori": "Brighton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.64,
+    "fuori": 2.01,
+    "over25": 1.99,
+    "pari": 3.46,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2026-03-14",
+   "fuori": "Everton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 8.58,
+    "over25": 1.85,
+    "pari": 4.65,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2026-03-14",
+   "fuori": "Newcastle",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.3,
+    "over25": 1.48,
+    "pari": 4.24,
+    "under25": 2.59
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-03-14",
+   "fuori": "Man City",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 4.81,
+    "fuori": 1.63,
+    "over25": 1.58,
+    "pari": 4.16,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-03-15",
+   "fuori": "Leeds",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.69,
+    "over25": 2.04,
+    "pari": 3.23,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2026-03-15",
+   "fuori": "Aston Villa",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.56,
+    "over25": 1.61,
+    "pari": 4.0,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-03-15",
+   "fuori": "Fulham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 3.13,
+    "over25": 1.98,
+    "pari": 3.31,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-03-15",
+   "fuori": "Tottenham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 8.24,
+    "over25": 1.34,
+    "pari": 5.87,
+    "under25": 3.13
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-03-16",
+   "fuori": "Wolves",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.78,
+    "over25": 1.67,
+    "pari": 4.29,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-03-20",
+   "fuori": "Man United",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.07,
+    "fuori": 2.15,
+    "over25": 1.52,
+    "pari": 3.72,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-03-21",
+   "fuori": "Liverpool",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 3.05,
+    "fuori": 2.19,
+    "over25": 1.57,
+    "pari": 3.62,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-03-21",
+   "fuori": "Burnley",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.92,
+    "over25": 1.65,
+    "pari": 4.29,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-03-21",
+   "fuori": "Chelsea",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.15,
+    "fuori": 2.22,
+    "over25": 1.82,
+    "pari": 3.43,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-03-21",
+   "fuori": "Brentford",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.95,
+    "over25": 1.85,
+    "pari": 3.41,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-03-22",
+   "fuori": "Sunderland",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.83,
+    "over25": 1.69,
+    "pari": 4.2,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-03-22",
+   "fuori": "West Ham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:15",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.55,
+    "over25": 1.7,
+    "pari": 3.79,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-03-22",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "14:15",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 3.0,
+    "over25": 2.0,
+    "pari": 3.29,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-04-10",
+   "fuori": "Wolves",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 4.38,
+    "over25": 1.77,
+    "pari": 3.74,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2026-04-11",
+   "fuori": "Bournemouth",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 6.4,
+    "over25": 1.57,
+    "pari": 4.47,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-04-11",
+   "fuori": "Everton",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.37,
+    "over25": 1.88,
+    "pari": 3.34,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-04-11",
+   "fuori": "Brighton",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.29,
+    "fuori": 1.59,
+    "over25": 1.66,
+    "pari": 4.13,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-04-11",
+   "fuori": "Fulham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.38,
+    "over25": 1.5,
+    "pari": 4.06,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-04-12",
+   "fuori": "Newcastle",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.91,
+    "fuori": 2.42,
+    "over25": 1.85,
+    "pari": 3.3,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-04-12",
+   "fuori": "Aston Villa",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.99,
+    "over25": 1.87,
+    "pari": 3.32,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-04-12",
+   "fuori": "Tottenham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.75,
+    "fuori": 2.53,
+    "over25": 1.81,
+    "pari": 3.31,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2026-04-12",
+   "fuori": "Man City",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 3.48,
+    "fuori": 1.94,
+    "over25": 1.5,
+    "pari": 3.89,
+    "under25": 2.55
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2026-04-13",
+   "fuori": "Leeds",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.08,
+    "over25": 1.64,
+    "pari": 4.07,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-04-18",
+   "fuori": "Fulham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.52,
+    "over25": 1.62,
+    "pari": 3.75,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-04-18",
+   "fuori": "Wolves",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 6.26,
+    "over25": 1.79,
+    "pari": 4.11,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-04-18",
+   "fuori": "Bournemouth",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.04,
+    "over25": 1.5,
+    "pari": 3.67,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-04-18",
+   "fuori": "Brighton",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.21,
+    "over25": 1.62,
+    "pari": 3.76,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2026-04-18",
+   "fuori": "Man United",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.21,
+    "over25": 1.49,
+    "pari": 3.69,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-04-19",
+   "fuori": "Sunderland",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.73,
+    "fuori": 4.8,
+    "over25": 1.92,
+    "pari": 3.66,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-04-19",
+   "fuori": "Liverpool",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.2,
+    "fuori": 2.24,
+    "over25": 1.8,
+    "pari": 3.33,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-04-19",
+   "fuori": "Burnley",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.46,
+    "fuori": 6.84,
+    "over25": 1.7,
+    "pari": 4.39,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-04-19",
+   "fuori": "Arsenal",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.22,
+    "over25": 1.9,
+    "pari": 3.59,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-04-20",
+   "fuori": "West Ham",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.53,
+    "fuori": 2.76,
+    "over25": 1.82,
+    "pari": 3.33,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-04-21",
+   "fuori": "Chelsea",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.01,
+    "over25": 1.83,
+    "pari": 3.43,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-04-22",
+   "fuori": "Leeds",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.02,
+    "over25": 1.59,
+    "pari": 3.78,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-04-22",
+   "fuori": "Man City",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 15.78,
+    "fuori": 1.15,
+    "over25": 1.34,
+    "pari": 8.1,
+    "under25": 3.19
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-04-24",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    0,
+    5
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.75,
+    "over25": 2.19,
+    "pari": 3.1,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-04-25",
+   "fuori": "Aston Villa",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.7,
+    "over25": 1.71,
+    "pari": 3.55,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-04-25",
+   "fuori": "Crystal Palace",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.21,
+    "over25": 1.5,
+    "pari": 4.37,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-04-25",
+   "fuori": "Everton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.82,
+    "over25": 1.8,
+    "pari": 3.38,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-04-25",
+   "fuori": "Tottenham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.62,
+    "fuori": 1.64,
+    "over25": 1.62,
+    "pari": 4.17,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2026-04-25",
+   "fuori": "Newcastle",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 7.59,
+    "over25": 1.65,
+    "pari": 4.87,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2026-04-27",
+   "fuori": "Brentford",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.53,
+    "over25": 1.56,
+    "pari": 3.73,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-05-01",
+   "fuori": "Burnley",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 8.54,
+    "over25": 1.69,
+    "pari": 4.93,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-05-02",
+   "fuori": "West Ham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.8,
+    "over25": 1.57,
+    "pari": 3.86,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-05-02",
+   "fuori": "Brighton",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.66,
+    "fuori": 2.46,
+    "over25": 1.65,
+    "pari": 3.6,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-05-02",
+   "fuori": "Sunderland",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.67,
+    "fuori": 1.98,
+    "over25": 1.96,
+    "pari": 3.52,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2026-05-02",
+   "fuori": "Fulham",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 7.02,
+    "over25": 1.83,
+    "pari": 4.42,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-05-03",
+   "fuori": "Crystal Palace",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.36,
+    "over25": 1.63,
+    "pari": 4.23,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2026-05-03",
+   "fuori": "Liverpool",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.74,
+    "over25": 1.49,
+    "pari": 3.71,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-05-03",
+   "fuori": "Tottenham",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.24,
+    "fuori": 2.99,
+    "over25": 1.67,
+    "pari": 3.54,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2026-05-04",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 7.11,
+    "over25": 1.6,
+    "pari": 4.78,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-05-04",
+   "fuori": "Man City",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 6.69,
+    "fuori": 1.44,
+    "over25": 1.57,
+    "pari": 4.61,
+    "under25": 2.35
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-05-09",
+   "fuori": "Chelsea",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.48,
+    "over25": 1.58,
+    "pari": 3.69,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-05-09",
+   "fuori": "Wolves",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.27,
+    "fuori": 9.93,
+    "over25": 1.5,
+    "pari": 5.95,
+    "under25": 2.53
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-05-09",
+   "fuori": "Bournemouth",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.47,
+    "over25": 1.59,
+    "pari": 3.6,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-05-09",
+   "fuori": "Man United",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.21,
+    "fuori": 2.15,
+    "over25": 1.71,
+    "pari": 3.51,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-05-09",
+   "fuori": "Brentford",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.34,
+    "fuori": 7.32,
+    "over25": 1.35,
+    "pari": 5.57,
+    "under25": 3.12
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-05-10",
+   "fuori": "Aston Villa",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 6.34,
+    "fuori": 1.48,
+    "over25": 1.69,
+    "pari": 4.42,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-05-10",
+   "fuori": "Everton",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.54,
+    "over25": 1.98,
+    "pari": 3.25,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-05-10",
+   "fuori": "Newcastle",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.15,
+    "over25": 1.78,
+    "pari": 3.44,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-05-10",
+   "fuori": "Arsenal",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 5.83,
+    "fuori": 1.54,
+    "over25": 1.8,
+    "pari": 4.14,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-05-11",
+   "fuori": "Leeds",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.15,
+    "over25": 1.79,
+    "pari": 3.73,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-05-13",
+   "fuori": "Crystal Palace",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.3,
+    "fuori": 8.53,
+    "over25": 1.43,
+    "pari": 5.7,
+    "under25": 2.76
+   }
+  },
+  {
+   "casa": "Aston Villa",
+   "data": "2026-05-15",
+   "fuori": "Liverpool",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.68,
+    "fuori": 2.5,
+    "over25": 1.79,
+    "pari": 3.42,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Man United",
+   "data": "2026-05-17",
+   "fuori": "Nott'm Forest",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.56,
+    "fuori": 5.12,
+    "over25": 1.5,
+    "pari": 4.42,
+    "under25": 2.51
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-05-17",
+   "fuori": "Crystal Palace",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.41,
+    "over25": 1.67,
+    "pari": 3.9,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-05-17",
+   "fuori": "Sunderland",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.13,
+    "over25": 1.85,
+    "pari": 3.58,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-05-17",
+   "fuori": "Brighton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.43,
+    "fuori": 2.04,
+    "over25": 1.81,
+    "pari": 3.48,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-05-17",
+   "fuori": "Fulham",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 4.03,
+    "fuori": 1.84,
+    "over25": 1.8,
+    "pari": 3.63,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-05-17",
+   "fuori": "West Ham",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.15,
+    "over25": 1.52,
+    "pari": 3.81,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Arsenal",
+   "data": "2026-05-18",
+   "fuori": "Burnley",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.09,
+    "fuori": 22.69,
+    "over25": 1.36,
+    "pari": 10.11,
+    "under25": 3.04
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-05-19",
+   "fuori": "Man City",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 4.62,
+    "fuori": 1.63,
+    "over25": 1.51,
+    "pari": 4.24,
+    "under25": 2.49
+   }
+  },
+  {
+   "casa": "Chelsea",
+   "data": "2026-05-19",
+   "fuori": "Tottenham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.25,
+    "over25": 1.86,
+    "pari": 3.28,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-05-24",
+   "fuori": "Man United",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 3.49,
+    "over25": 1.43,
+    "pari": 4.08,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-05-24",
+   "fuori": "Wolves",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.82,
+    "over25": 1.73,
+    "pari": 3.42,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Crystal Palace",
+   "data": "2026-05-24",
+   "fuori": "Arsenal",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 3.97,
+    "fuori": 1.86,
+    "over25": 1.72,
+    "pari": 3.66,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-05-24",
+   "fuori": "Newcastle",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.53,
+    "over25": 1.48,
+    "pari": 3.63,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Liverpool",
+   "data": "2026-05-24",
+   "fuori": "Brentford",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.77,
+    "fuori": 3.96,
+    "over25": 1.4,
+    "pari": 4.06,
+    "under25": 2.87
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-05-24",
+   "fuori": "Aston Villa",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.39,
+    "fuori": 6.71,
+    "over25": 1.38,
+    "pari": 5.15,
+    "under25": 2.97
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-05-24",
+   "fuori": "Bournemouth",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 3.54,
+    "fuori": 1.96,
+    "over25": 1.6,
+    "pari": 3.7,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Sunderland",
+   "data": "2026-05-24",
+   "fuori": "Chelsea",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 3.39,
+    "fuori": 2.03,
+    "over25": 1.71,
+    "pari": 3.65,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-05-24",
+   "fuori": "Everton",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.87,
+    "fuori": 4.1,
+    "over25": 1.95,
+    "pari": 3.48,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-05-24",
+   "fuori": "Leeds",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.35,
+    "over25": 1.57,
+    "pari": 4.11,
+    "under25": 2.34
+   }
+  }
+ ],
+ "stagione": "2025-26"
+}
