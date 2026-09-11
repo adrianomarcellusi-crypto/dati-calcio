@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-10 09:55 UTC",
+ "aggiornato": "2026-09-11 09:53 UTC",
  "codice": "E1",
  "nome": "Championship",
  "paese": "Inghilterra",
@@ -1022,6 +1022,159 @@
     "over25": 1.85,
     "pari": 3.37,
     "under25": 1.89
+   }
+  },
+  {
+   "casa": "Blackburn",
+   "data": "2026-09-08",
+   "fuori": "Sheffield United",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.39,
+    "over25": 1.83,
+    "pari": 3.39,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Cardiff",
+   "data": "2026-09-08",
+   "fuori": "Stoke",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.29,
+    "over25": 1.6,
+    "pari": 3.64,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Southampton",
+   "data": "2026-09-08",
+   "fuori": "Swansea",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 3.96,
+    "over25": 1.68,
+    "pari": 3.78,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Watford",
+   "data": "2026-09-08",
+   "fuori": "Preston",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.19,
+    "fuori": 3.23,
+    "over25": 1.98,
+    "pari": 3.34,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Wrexham",
+   "data": "2026-09-08",
+   "fuori": "Burnley",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.08,
+    "fuori": 3.54,
+    "over25": 2.14,
+    "pari": 3.31,
+    "under25": 1.66
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2026-09-08",
+   "fuori": "West Ham",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 4.43,
+    "fuori": 1.69,
+    "over25": 1.56,
+    "pari": 4.03,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Derby",
+   "data": "2026-09-09",
+   "fuori": "West Brom",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.37,
+    "fuori": 2.13,
+    "over25": 1.99,
+    "pari": 3.33,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Norwich",
+   "data": "2026-09-09",
+   "fuori": "Birmingham",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.81,
+    "over25": 1.75,
+    "pari": 3.57,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "Charlton",
+   "data": "2026-09-09",
+   "fuori": "QPR",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.18,
+    "fuori": 2.23,
+    "over25": 1.94,
+    "pari": 3.34,
+    "under25": 1.81
    }
   }
  ],

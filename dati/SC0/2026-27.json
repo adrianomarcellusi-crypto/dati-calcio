@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-10 09:55 UTC",
+ "aggiornato": "2026-09-11 09:53 UTC",
  "codice": "SC0",
  "nome": "Premiership",
  "paese": "Scozia",
@@ -529,6 +529,40 @@
     "over25": 1.83,
     "pari": 3.36,
     "under25": 1.9
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2026-09-09",
+   "fuori": "St Mirren",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 11.38,
+    "over25": 1.44,
+    "pari": 6.42,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "St Johnstone",
+   "data": "2026-09-09",
+   "fuori": "Celtic",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 5.33,
+    "fuori": 1.52,
+    "over25": 1.52,
+    "pari": 4.45,
+    "under25": 2.41
    }
   }
  ],

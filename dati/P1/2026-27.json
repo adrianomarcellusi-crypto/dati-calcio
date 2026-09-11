@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-10 09:55 UTC",
+ "aggiornato": "2026-09-11 09:53 UTC",
  "codice": "P1",
  "nome": "Primeira Liga",
  "paese": "Portogallo",
@@ -716,6 +716,40 @@
     "over25": 1.79,
     "pari": 3.37,
     "under25": 1.94
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2026-09-09",
+   "fuori": "Benfica",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "20:45",
+   "quote": {
+    "casa": 17.46,
+    "fuori": 1.12,
+    "over25": 1.39,
+    "pari": 8.39,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2026-09-10",
+   "fuori": "Sp Braga",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 5.81,
+    "fuori": 1.54,
+    "over25": 1.94,
+    "pari": 3.84,
+    "under25": 1.79
    }
   }
  ],

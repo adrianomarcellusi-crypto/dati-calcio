@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-10 09:55 UTC",
+ "aggiornato": "2026-09-11 09:53 UTC",
  "codice": "G1",
  "nome": "Super League",
  "paese": "Grecia",
@@ -342,6 +342,23 @@
     "over25": 2.18,
     "pari": 3.16,
     "under25": 1.62
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2026-09-10",
+   "fuori": "Kifisia",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:15",
+   "quote": {
+    "casa": 1.24,
+    "fuori": 10.23,
+    "over25": 1.57,
+    "pari": 5.43,
+    "under25": 2.27
    }
   }
  ],

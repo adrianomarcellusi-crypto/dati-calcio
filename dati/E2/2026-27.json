@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-10 09:55 UTC",
+ "aggiornato": "2026-09-11 09:53 UTC",
  "codice": "E2",
  "nome": "League One",
  "paese": "Inghilterra",
@@ -1005,6 +1005,23 @@
     "over25": 1.93,
     "pari": 3.38,
     "under25": 1.8
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2026-09-10",
+   "fuori": "Luton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.33,
+    "fuori": 2.1,
+    "over25": 1.98,
+    "pari": 3.36,
+    "under25": 1.76
    }
   }
  ],
