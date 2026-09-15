@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-14 10:51 UTC",
+ "aggiornato": "2026-09-15 10:15 UTC",
  "codice": "F2",
  "nome": "Ligue 2",
  "paese": "Francia",
@@ -767,6 +767,159 @@
     "over25": 1.83,
     "pari": 3.37,
     "under25": 1.88
+   }
+  },
+  {
+   "casa": "Clermont",
+   "data": "2026-09-11",
+   "fuori": "Boulogne",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.65,
+    "fuori": 2.64,
+    "over25": 2.13,
+    "pari": 3.03,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Dijon",
+   "data": "2026-09-11",
+   "fuori": "Laval",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.52,
+    "over25": 1.78,
+    "pari": 3.39,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Montpellier",
+   "data": "2026-09-11",
+   "fuori": "Pau FC",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 4.12,
+    "over25": 1.9,
+    "pari": 3.45,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Nancy",
+   "data": "2026-09-11",
+   "fuori": "Reims",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.12,
+    "fuori": 2.17,
+    "over25": 1.9,
+    "pari": 3.29,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Rodez",
+   "data": "2026-09-11",
+   "fuori": "Grenoble",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 3.94,
+    "over25": 1.73,
+    "pari": 3.46,
+    "under25": 2.0
+   }
+  },
+  {
+   "casa": "Guingamp",
+   "data": "2026-09-12",
+   "fuori": "Annecy",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.49,
+    "over25": 1.85,
+    "pari": 3.37,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Sochaux",
+   "data": "2026-09-12",
+   "fuori": "Nantes",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 3.35,
+    "fuori": 2.06,
+    "over25": 1.87,
+    "pari": 3.31,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2026-09-12",
+   "fuori": "St Etienne",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 4.95,
+    "fuori": 1.56,
+    "over25": 1.56,
+    "pari": 4.11,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Red Star",
+   "data": "2026-09-14",
+   "fuori": "Metz",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.34,
+    "fuori": 2.81,
+    "over25": 1.82,
+    "pari": 3.26,
+    "under25": 1.89
    }
   }
  ],

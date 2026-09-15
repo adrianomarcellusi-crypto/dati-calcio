@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-14 10:51 UTC",
+ "aggiornato": "2026-09-15 10:15 UTC",
  "codice": "E3",
  "nome": "League Two",
  "paese": "Inghilterra",
@@ -1022,6 +1022,210 @@
     "over25": 1.94,
     "pari": 3.32,
     "under25": 1.79
+   }
+  },
+  {
+   "casa": "Crawley Town",
+   "data": "2026-09-12",
+   "fuori": "Cheltenham",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.63,
+    "fuori": 2.41,
+    "over25": 1.58,
+    "pari": 3.6,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2026-09-12",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.85,
+    "over25": 1.71,
+    "pari": 3.54,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Barnet",
+   "data": "2026-09-12",
+   "fuori": "Accrington",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.46,
+    "over25": 1.52,
+    "pari": 4.3,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Colchester",
+   "data": "2026-09-12",
+   "fuori": "Crewe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.12,
+    "fuori": 3.09,
+    "over25": 1.65,
+    "pari": 3.59,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2026-09-12",
+   "fuori": "Tranmere",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.57,
+    "fuori": 2.65,
+    "over25": 1.99,
+    "pari": 3.27,
+    "under25": 1.75
+   }
+  },
+  {
+   "casa": "Newport County",
+   "data": "2026-09-12",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.04,
+    "fuori": 2.21,
+    "over25": 1.81,
+    "pari": 3.42,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Oldham",
+   "data": "2026-09-12",
+   "fuori": "Chesterfield",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.13,
+    "over25": 1.8,
+    "pari": 3.44,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2026-09-12",
+   "fuori": "Exeter",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.95,
+    "fuori": 3.75,
+    "over25": 2.02,
+    "pari": 3.4,
+    "under25": 1.72
+   }
+  },
+  {
+   "casa": "Rotherham",
+   "data": "2026-09-12",
+   "fuori": "Salford",
+   "gol": [
+    3,
+    3
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.07,
+    "over25": 1.69,
+    "pari": 3.71,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Shrewsbury",
+   "data": "2026-09-12",
+   "fuori": "Northampton",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.74,
+    "over25": 2.27,
+    "pari": 3.12,
+    "under25": 1.57
+   }
+  },
+  {
+   "casa": "Walsall",
+   "data": "2026-09-12",
+   "fuori": "Rochdale",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.27,
+    "over25": 1.72,
+    "pari": 3.76,
+    "under25": 2.02
+   }
+  },
+  {
+   "casa": "York",
+   "data": "2026-09-12",
+   "fuori": "Swindon",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 4.88,
+    "over25": 1.45,
+    "pari": 4.34,
+    "under25": 2.6
    }
   }
  ],
