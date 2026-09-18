@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-16 10:09 UTC",
+ "aggiornato": "2026-09-18 09:57 UTC",
  "codice": "N1",
  "nome": "Eredivisie",
  "paese": "Olanda",
@@ -903,6 +903,23 @@
     "over25": 1.17,
     "pari": 7.9,
     "under25": 4.63
+   }
+  },
+  {
+   "casa": "Ajax",
+   "data": "2026-09-15",
+   "fuori": "Willem II",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.1,
+    "fuori": 18.19,
+    "over25": 1.21,
+    "pari": 9.67,
+    "under25": 4.14
    }
   }
  ],

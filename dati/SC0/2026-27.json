@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-16 10:09 UTC",
+ "aggiornato": "2026-09-18 09:57 UTC",
  "codice": "SC0",
  "nome": "Premiership",
  "paese": "Scozia",
@@ -563,6 +563,57 @@
     "over25": 1.52,
     "pari": 4.45,
     "under25": 2.41
+   }
+  },
+  {
+   "casa": "Falkirk",
+   "data": "2026-09-15",
+   "fuori": "Hearts",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 1.91,
+    "over25": 1.69,
+    "pari": 3.66,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2026-09-15",
+   "fuori": "Kilmarnock",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.7,
+    "over25": 1.48,
+    "pari": 4.88,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2026-09-15",
+   "fuori": "Aberdeen",
+   "gol": [
+    0,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 3.96,
+    "over25": 1.69,
+    "pari": 3.73,
+    "under25": 2.09
    }
   }
  ],

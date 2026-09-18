@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-16 10:09 UTC",
+ "aggiornato": "2026-09-18 09:57 UTC",
  "codice": "SC1",
  "nome": "Championship",
  "paese": "Scozia",
@@ -495,6 +495,23 @@
     "over25": 2.13,
     "pari": 3.4,
     "under25": 1.64
+   }
+  },
+  {
+   "casa": "Stenhousemuir",
+   "data": "2026-09-15",
+   "fuori": "Partick",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.2,
+    "fuori": 1.55,
+    "over25": 1.84,
+    "pari": 3.82,
+    "under25": 1.86
    }
   }
  ],

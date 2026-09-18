@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-16 10:09 UTC",
+ "aggiornato": "2026-09-18 09:57 UTC",
  "codice": "E1",
  "nome": "Championship",
  "paese": "Inghilterra",
@@ -1379,6 +1379,40 @@
     "over25": 1.8,
     "pari": 3.44,
     "under25": 1.96
+   }
+  },
+  {
+   "casa": "Bristol City",
+   "data": "2026-09-15",
+   "fuori": "Lincoln",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 4.13,
+    "over25": 1.95,
+    "pari": 3.55,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Middlesbrough",
+   "data": "2026-09-15",
+   "fuori": "Millwall",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 6.9,
+    "over25": 1.5,
+    "pari": 4.9,
+    "under25": 2.5
    }
   }
  ],

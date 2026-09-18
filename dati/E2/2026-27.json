@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-16 10:09 UTC",
+ "aggiornato": "2026-09-18 09:57 UTC",
  "codice": "E2",
  "nome": "League One",
  "paese": "Inghilterra",
@@ -1209,6 +1209,23 @@
     "over25": 1.52,
     "pari": 4.0,
     "under25": 2.41
+   }
+  },
+  {
+   "casa": "AFC Wimbledon",
+   "data": "2026-09-17",
+   "fuori": "Milton Keynes Dons",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.02,
+    "fuori": 2.3,
+    "over25": 1.98,
+    "pari": 3.32,
+    "under25": 1.77
    }
   }
  ],
