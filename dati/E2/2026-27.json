@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-27 10:39 UTC",
+ "aggiornato": "2026-09-28 11:51 UTC",
  "codice": "E2",
  "nome": "League One",
  "paese": "Inghilterra",
@@ -1413,6 +1413,74 @@
     "over25": 1.71,
     "pari": 3.42,
     "under25": 2.05
+   }
+  },
+  {
+   "casa": "Cambridge",
+   "data": "2026-09-26",
+   "fuori": "AFC Wimbledon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.71,
+    "fuori": 4.5,
+    "over25": 1.74,
+    "pari": 3.83,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Plymouth",
+   "data": "2026-09-26",
+   "fuori": "Burton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.49,
+    "fuori": 5.73,
+    "over25": 1.57,
+    "pari": 4.39,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Stockport",
+   "data": "2026-09-26",
+   "fuori": "Peterboro",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 7.05,
+    "over25": 1.35,
+    "pari": 5.19,
+    "under25": 3.03
+   }
+  },
+  {
+   "casa": "Wycombe",
+   "data": "2026-09-26",
+   "fuori": "Reading",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.56,
+    "fuori": 2.51,
+    "over25": 1.63,
+    "pari": 3.58,
+    "under25": 2.18
    }
   }
  ],
