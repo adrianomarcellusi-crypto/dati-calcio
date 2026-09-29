@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-09-28 11:51 UTC",
+ "aggiornato": "2026-09-29 11:28 UTC",
  "codice": "SP2",
  "nome": "La Liga 2",
  "paese": "Spagna",
@@ -1294,6 +1294,23 @@
     "over25": 2.38,
     "pari": 3.0,
     "under25": 1.53
+   }
+  },
+  {
+   "casa": "Leganes",
+   "data": "2026-09-28",
+   "fuori": "Castellon",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.2,
+    "fuori": 2.12,
+    "over25": 1.83,
+    "pari": 3.28,
+    "under25": 1.89
    }
   }
  ],
