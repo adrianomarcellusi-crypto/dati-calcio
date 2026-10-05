@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-04 11:12 UTC",
+ "aggiornato": "2026-10-05 12:27 UTC",
  "codice": "E3",
  "nome": "League Two",
  "paese": "Inghilterra",
@@ -1600,6 +1600,142 @@
     "over25": 1.76,
     "pari": 3.48,
     "under25": 1.99
+   }
+  },
+  {
+   "casa": "Chesterfield",
+   "data": "2026-10-03",
+   "fuori": "Tranmere",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.78,
+    "over25": 1.62,
+    "pari": 4.12,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Accrington",
+   "data": "2026-10-03",
+   "fuori": "Cheltenham",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.56,
+    "over25": 1.85,
+    "pari": 3.4,
+    "under25": 1.89
+   }
+  },
+  {
+   "casa": "Crewe",
+   "data": "2026-10-03",
+   "fuori": "Bristol Rvs",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.88,
+    "fuori": 2.32,
+    "over25": 1.78,
+    "pari": 3.41,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Exeter",
+   "data": "2026-10-03",
+   "fuori": "Rotherham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.45,
+    "fuori": 2.76,
+    "over25": 1.86,
+    "pari": 3.32,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Gillingham",
+   "data": "2026-10-03",
+   "fuori": "Newport County",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.96,
+    "fuori": 3.69,
+    "over25": 1.91,
+    "pari": 3.46,
+    "under25": 1.82
+   }
+  },
+  {
+   "casa": "Grimsby",
+   "data": "2026-10-03",
+   "fuori": "Shrewsbury",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 4.88,
+    "over25": 1.77,
+    "pari": 3.95,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Rochdale",
+   "data": "2026-10-03",
+   "fuori": "Swindon",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 2.97,
+    "over25": 1.61,
+    "pari": 3.66,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Salford",
+   "data": "2026-10-03",
+   "fuori": "Fleetwood Town",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.95,
+    "over25": 1.63,
+    "pari": 4.06,
+    "under25": 2.18
    }
   }
  ],
