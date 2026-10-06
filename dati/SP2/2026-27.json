@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-05 12:27 UTC",
+ "aggiornato": "2026-10-06 12:08 UTC",
  "codice": "SP2",
  "nome": "La Liga 2",
  "paese": "Spagna",
@@ -1481,6 +1481,23 @@
     "over25": 1.98,
     "pari": 3.18,
     "under25": 1.74
+   }
+  },
+  {
+   "casa": "Cordoba",
+   "data": "2026-10-05",
+   "fuori": "Tenerife",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 3.89,
+    "over25": 1.79,
+    "pari": 3.43,
+    "under25": 1.92
    }
   }
  ],
