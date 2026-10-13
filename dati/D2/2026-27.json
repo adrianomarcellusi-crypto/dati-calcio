@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-12 13:22 UTC",
+ "aggiornato": "2026-10-13 12:51 UTC",
  "codice": "D2",
  "nome": "2. Bundesliga",
  "paese": "Germania",
@@ -920,6 +920,159 @@
     "over25": 1.45,
     "pari": 3.82,
     "under25": 2.6
+   }
+  },
+  {
+   "casa": "Braunschweig",
+   "data": "2026-10-09",
+   "fuori": "Holstein Kiel",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.27,
+    "over25": 1.44,
+    "pari": 3.7,
+    "under25": 2.59
+   }
+  },
+  {
+   "casa": "Heidenheim",
+   "data": "2026-10-09",
+   "fuori": "Kaiserslautern",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.19,
+    "over25": 1.49,
+    "pari": 3.62,
+    "under25": 2.48
+   }
+  },
+  {
+   "casa": "Darmstadt",
+   "data": "2026-10-10",
+   "fuori": "Cottbus",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 2.98,
+    "over25": 1.32,
+    "pari": 3.89,
+    "under25": 3.13
+   }
+  },
+  {
+   "casa": "Magdeburg",
+   "data": "2026-10-10",
+   "fuori": "Hannover",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.3,
+    "fuori": 2.64,
+    "over25": 1.44,
+    "pari": 3.65,
+    "under25": 2.6
+   }
+  },
+  {
+   "casa": "Osnabruck",
+   "data": "2026-10-10",
+   "fuori": "Dresden",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.67,
+    "over25": 1.62,
+    "pari": 3.49,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Nurnberg",
+   "data": "2026-10-10",
+   "fuori": "Wolfsburg",
+   "gol": [
+    4,
+    4
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.35,
+    "fuori": 2.57,
+    "over25": 1.44,
+    "pari": 3.68,
+    "under25": 2.62
+   }
+  },
+  {
+   "casa": "Bochum",
+   "data": "2026-10-11",
+   "fuori": "Bielefeld",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.99,
+    "fuori": 3.39,
+    "over25": 1.7,
+    "pari": 3.46,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Hertha",
+   "data": "2026-10-11",
+   "fuori": "Greuther Furth",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 4.99,
+    "over25": 1.34,
+    "pari": 4.52,
+    "under25": 3.06
+   }
+  },
+  {
+   "casa": "St Pauli",
+   "data": "2026-10-11",
+   "fuori": "Karlsruhe",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.39,
+    "over25": 1.54,
+    "pari": 3.94,
+    "under25": 2.34
    }
   }
  ],

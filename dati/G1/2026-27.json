@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-12 13:22 UTC",
+ "aggiornato": "2026-10-13 12:51 UTC",
  "codice": "G1",
  "nome": "Super League",
  "paese": "Grecia",
@@ -597,6 +597,125 @@
     "over25": 1.72,
     "pari": 4.26,
     "under25": 2.02
+   }
+  },
+  {
+   "casa": "AEK",
+   "data": "2026-10-10",
+   "fuori": "OFI Crete",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.25,
+    "fuori": 9.43,
+    "over25": 1.51,
+    "pari": 5.43,
+    "under25": 2.42
+   }
+  },
+  {
+   "casa": "Asteras Tripolis",
+   "data": "2026-10-10",
+   "fuori": "Atromitos",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.36,
+    "fuori": 2.92,
+    "over25": 2.23,
+    "pari": 3.06,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Iraklis",
+   "data": "2026-10-11",
+   "fuori": "Levadeiakos",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.27,
+    "over25": 2.24,
+    "pari": 3.04,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Kifisia",
+   "data": "2026-10-11",
+   "fuori": "Panetolikos",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 4.03,
+    "over25": 2.08,
+    "pari": 3.3,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Aris",
+   "data": "2026-10-11",
+   "fuori": "Volos NFC",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.55,
+    "over25": 1.73,
+    "pari": 4.28,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Olympiakos",
+   "data": "2026-10-11",
+   "fuori": "Panathinaikos",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.18,
+    "fuori": 3.23,
+    "over25": 2.09,
+    "pari": 3.08,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2026-10-12",
+   "fuori": "Kalamata",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 10.72,
+    "over25": 1.51,
+    "pari": 5.88,
+    "under25": 2.4
    }
   }
  ],

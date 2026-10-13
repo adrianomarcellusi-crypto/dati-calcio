@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-12 13:22 UTC",
+ "aggiornato": "2026-10-13 12:51 UTC",
  "codice": "F1",
  "nome": "Ligue 1",
  "paese": "Francia",
@@ -767,6 +767,159 @@
     "over25": 1.36,
     "pari": 5.08,
     "under25": 3.02
+   }
+  },
+  {
+   "casa": "Lens",
+   "data": "2026-10-09",
+   "fuori": "Lyon",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.56,
+    "over25": 1.51,
+    "pari": 3.63,
+    "under25": 2.45
+   }
+  },
+  {
+   "casa": "Lille",
+   "data": "2026-10-10",
+   "fuori": "Le Havre",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.59,
+    "over25": 1.62,
+    "pari": 4.36,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Brest",
+   "data": "2026-10-10",
+   "fuori": "Angers",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 4.06,
+    "over25": 1.7,
+    "pari": 3.69,
+    "under25": 2.09
+   }
+  },
+  {
+   "casa": "Lorient",
+   "data": "2026-10-10",
+   "fuori": "Paris FC",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.68,
+    "fuori": 2.08,
+    "over25": 2.09,
+    "pari": 3.24,
+    "under25": 1.68
+   }
+  },
+  {
+   "casa": "Monaco",
+   "data": "2026-10-10",
+   "fuori": "Toulouse",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 4.92,
+    "over25": 1.51,
+    "pari": 4.17,
+    "under25": 2.44
+   }
+  },
+  {
+   "casa": "Paris SG",
+   "data": "2026-10-10",
+   "fuori": "Le Mans",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.16,
+    "fuori": 13.78,
+    "over25": 1.29,
+    "pari": 8.12,
+    "under25": 3.43
+   }
+  },
+  {
+   "casa": "Nice",
+   "data": "2026-10-11",
+   "fuori": "Strasbourg",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.19,
+    "over25": 1.55,
+    "pari": 3.69,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Rennes",
+   "data": "2026-10-11",
+   "fuori": "Auxerre",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.65,
+    "over25": 1.42,
+    "pari": 4.88,
+    "under25": 2.71
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2026-10-11",
+   "fuori": "Marseille",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.47,
+    "fuori": 2.03,
+    "over25": 1.71,
+    "pari": 3.54,
+    "under25": 2.06
    }
   }
  ],

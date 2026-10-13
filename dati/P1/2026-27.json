@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-12 13:22 UTC",
+ "aggiornato": "2026-10-13 12:51 UTC",
  "codice": "P1",
  "nome": "Primeira Liga",
  "paese": "Portogallo",
@@ -1056,6 +1056,159 @@
     "over25": 1.85,
     "pari": 3.26,
     "under25": 1.87
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2026-10-09",
+   "fuori": "Gil Vicente",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "18:45",
+   "quote": {
+    "casa": 3.28,
+    "fuori": 2.22,
+    "over25": 2.26,
+    "pari": 3.11,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2026-10-09",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.42,
+    "over25": 2.14,
+    "pari": 3.12,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Maritimo",
+   "data": "2026-10-10",
+   "fuori": "Porto",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 9.47,
+    "fuori": 1.3,
+    "over25": 1.79,
+    "pari": 4.9,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Academico Viseu",
+   "data": "2026-10-10",
+   "fuori": "Estoril",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.13,
+    "fuori": 3.22,
+    "over25": 1.85,
+    "pari": 3.37,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2026-10-10",
+   "fuori": "Santa Clara",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 3.58,
+    "fuori": 2.07,
+    "over25": 2.16,
+    "pari": 3.19,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2026-10-11",
+   "fuori": "Nacional",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.42,
+    "over25": 1.87,
+    "pari": 3.28,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2026-10-11",
+   "fuori": "Guimaraes",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.21,
+    "fuori": 10.97,
+    "over25": 1.39,
+    "pari": 6.48,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2026-10-11",
+   "fuori": "Estrela",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.24,
+    "over25": 1.79,
+    "pari": 3.43,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2026-10-12",
+   "fuori": "Alverca",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 4.09,
+    "over25": 1.98,
+    "pari": 3.31,
+    "under25": 1.76
    }
   }
  ],
