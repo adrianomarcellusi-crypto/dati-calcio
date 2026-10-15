@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-14 10:24 UTC",
+ "aggiornato": "2026-10-15 10:09 UTC",
  "codice": "SC1",
  "nome": "Championship",
  "paese": "Scozia",
@@ -801,6 +801,23 @@
     "over25": 1.92,
     "pari": 3.81,
     "under25": 1.79
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-10-13",
+   "fuori": "Inverness C",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.6,
+    "fuori": 1.65,
+    "over25": 1.88,
+    "pari": 3.58,
+    "under25": 1.82
    }
   }
  ],
