@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-18 09:46 UTC",
+ "aggiornato": "2026-10-20 10:15 UTC",
  "codice": "E0",
  "nome": "Premier League",
  "paese": "Inghilterra",
@@ -1022,6 +1022,176 @@
     "over25": 1.58,
     "pari": 3.72,
     "under25": 2.31
+   }
+  },
+  {
+   "casa": "Everton",
+   "data": "2026-10-17",
+   "fuori": "Chelsea",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.32,
+    "over25": 1.65,
+    "pari": 3.54,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Brentford",
+   "data": "2026-10-17",
+   "fuori": "Liverpool",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.67,
+    "fuori": 2.43,
+    "over25": 1.54,
+    "pari": 3.58,
+    "under25": 2.41
+   }
+  },
+  {
+   "casa": "Fulham",
+   "data": "2026-10-17",
+   "fuori": "Hull",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 5.01,
+    "over25": 1.7,
+    "pari": 4.0,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Man City",
+   "data": "2026-10-17",
+   "fuori": "Ipswich",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 10.15,
+    "over25": 1.31,
+    "pari": 6.72,
+    "under25": 3.3
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-10-17",
+   "fuori": "Aston Villa",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.05,
+    "over25": 1.5,
+    "pari": 3.74,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Bournemouth",
+   "data": "2026-10-18",
+   "fuori": "Sunderland",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.05,
+    "fuori": 3.82,
+    "over25": 2.27,
+    "pari": 3.21,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Brighton",
+   "data": "2026-10-18",
+   "fuori": "Crystal Palace",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.62,
+    "over25": 1.52,
+    "pari": 4.83,
+    "under25": 2.46
+   }
+  },
+  {
+   "casa": "Leeds",
+   "data": "2026-10-18",
+   "fuori": "Man United",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.76,
+    "over25": 1.89,
+    "pari": 3.35,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Nott'm Forest",
+   "data": "2026-10-18",
+   "fuori": "Arsenal",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 6.55,
+    "fuori": 1.49,
+    "over25": 1.86,
+    "pari": 4.16,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Tottenham",
+   "data": "2026-10-19",
+   "fuori": "Coventry",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.53,
+    "fuori": 5.43,
+    "over25": 1.52,
+    "pari": 4.47,
+    "under25": 2.42
    }
   }
  ],

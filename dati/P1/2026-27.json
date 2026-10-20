@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-18 09:46 UTC",
+ "aggiornato": "2026-10-20 10:15 UTC",
  "codice": "P1",
  "nome": "Primeira Liga",
  "paese": "Portogallo",
@@ -1209,6 +1209,23 @@
     "over25": 1.98,
     "pari": 3.31,
     "under25": 1.76
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2026-10-19",
+   "fuori": "Gil Vicente",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.68,
+    "over25": 2.14,
+    "pari": 3.44,
+    "under25": 1.65
    }
   }
  ],

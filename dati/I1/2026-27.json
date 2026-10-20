@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-18 09:46 UTC",
+ "aggiornato": "2026-10-20 10:15 UTC",
  "codice": "I1",
  "nome": "Serie A",
  "paese": "Italia",
@@ -1022,6 +1022,176 @@
     "over25": 2.23,
     "pari": 2.99,
     "under25": 1.62
+   }
+  },
+  {
+   "casa": "Frosinone",
+   "data": "2026-10-16",
+   "fuori": "Sassuolo",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.65,
+    "over25": 1.44,
+    "pari": 3.63,
+    "under25": 2.69
+   }
+  },
+  {
+   "casa": "Venezia",
+   "data": "2026-10-17",
+   "fuori": "Napoli",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 4.23,
+    "fuori": 1.79,
+    "over25": 1.7,
+    "pari": 3.73,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2026-10-17",
+   "fuori": "Inter",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.5,
+    "fuori": 1.56,
+    "over25": 1.56,
+    "pari": 4.19,
+    "under25": 2.34
+   }
+  },
+  {
+   "casa": "Roma",
+   "data": "2026-10-17",
+   "fuori": "Genoa",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.76,
+    "over25": 1.88,
+    "pari": 3.87,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2026-10-18",
+   "fuori": "Lecce",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.8,
+    "fuori": 4.51,
+    "over25": 2.03,
+    "pari": 3.48,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2026-10-18",
+   "fuori": "Como",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.22,
+    "over25": 1.59,
+    "pari": 3.54,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2026-10-18",
+   "fuori": "Atalanta",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.62,
+    "fuori": 4.92,
+    "over25": 1.58,
+    "pari": 4.14,
+    "under25": 2.3
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2026-10-18",
+   "fuori": "Lazio",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.63,
+    "fuori": 5.12,
+    "over25": 1.78,
+    "pari": 3.93,
+    "under25": 1.97
+   }
+  },
+  {
+   "casa": "Monza",
+   "data": "2026-10-19",
+   "fuori": "Cagliari",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.54,
+    "fuori": 2.85,
+    "over25": 2.0,
+    "pari": 3.15,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Parma",
+   "data": "2026-10-19",
+   "fuori": "Torino",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.46,
+    "fuori": 2.26,
+    "over25": 2.31,
+    "pari": 3.03,
+    "under25": 1.58
    }
   }
  ],

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-18 09:46 UTC",
+ "aggiornato": "2026-10-20 10:15 UTC",
  "codice": "SP1",
  "nome": "La Liga",
  "paese": "Spagna",
@@ -1328,6 +1328,176 @@
     "over25": 2.03,
     "pari": 3.24,
     "under25": 1.73
+   }
+  },
+  {
+   "casa": "La Coruna",
+   "data": "2026-10-16",
+   "fuori": "Levante",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.62,
+    "over25": 1.89,
+    "pari": 3.45,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Espanol",
+   "data": "2026-10-17",
+   "fuori": "Ath Madrid",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 4.91,
+    "fuori": 1.66,
+    "over25": 1.68,
+    "pari": 3.96,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Villarreal",
+   "data": "2026-10-17",
+   "fuori": "Elche",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "15:15",
+   "quote": {
+    "casa": 1.42,
+    "fuori": 6.4,
+    "over25": 1.41,
+    "pari": 5.04,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Betis",
+   "data": "2026-10-17",
+   "fuori": "Barcelona",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 6.04,
+    "fuori": 1.4,
+    "over25": 1.22,
+    "pari": 5.43,
+    "under25": 4.0
+   }
+  },
+  {
+   "casa": "Valencia",
+   "data": "2026-10-17",
+   "fuori": "Ath Bilbao",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.14,
+    "fuori": 2.31,
+    "over25": 2.13,
+    "pari": 3.22,
+    "under25": 1.67
+   }
+  },
+  {
+   "casa": "Osasuna",
+   "data": "2026-10-18",
+   "fuori": "Santander",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.97,
+    "fuori": 3.54,
+    "over25": 1.64,
+    "pari": 3.68,
+    "under25": 2.2
+   }
+  },
+  {
+   "casa": "Celta",
+   "data": "2026-10-18",
+   "fuori": "Alaves",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:15",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.53,
+    "over25": 2.46,
+    "pari": 3.09,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Malaga",
+   "data": "2026-10-18",
+   "fuori": "Sociedad",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.27,
+    "fuori": 2.09,
+    "over25": 1.61,
+    "pari": 3.6,
+    "under25": 2.25
+   }
+  },
+  {
+   "casa": "Real Madrid",
+   "data": "2026-10-18",
+   "fuori": "Sevilla",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 10.55,
+    "over25": 1.35,
+    "pari": 6.66,
+    "under25": 3.11
+   }
+  },
+  {
+   "casa": "Getafe",
+   "data": "2026-10-19",
+   "fuori": "Vallecano",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.0,
+    "fuori": 2.6,
+    "over25": 2.69,
+    "pari": 2.9,
+    "under25": 1.44
    }
   }
  ],

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-18 09:46 UTC",
+ "aggiornato": "2026-10-20 10:15 UTC",
  "codice": "N1",
  "nome": "Eredivisie",
  "paese": "Olanda",
@@ -1226,6 +1226,159 @@
     "over25": 1.53,
     "pari": 3.56,
     "under25": 2.37
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-10-16",
+   "fuori": "Excelsior",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.57,
+    "fuori": 4.87,
+    "over25": 1.39,
+    "pari": 4.35,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Den Haag",
+   "data": "2026-10-17",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 8.15,
+    "fuori": 1.29,
+    "over25": 1.34,
+    "pari": 5.78,
+    "under25": 3.06
+   }
+  },
+  {
+   "casa": "Telstar",
+   "data": "2026-10-17",
+   "fuori": "Feyenoord",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 7.61,
+    "fuori": 1.32,
+    "over25": 1.37,
+    "pari": 5.32,
+    "under25": 2.9
+   }
+  },
+  {
+   "casa": "Sparta Rotterdam",
+   "data": "2026-10-17",
+   "fuori": "Willem II",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 5.16,
+    "over25": 1.47,
+    "pari": 4.35,
+    "under25": 2.55
+   }
+  },
+  {
+   "casa": "Zwolle",
+   "data": "2026-10-18",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 1.85,
+    "over25": 1.52,
+    "pari": 3.82,
+    "under25": 2.4
+   }
+  },
+  {
+   "casa": "Cambuur",
+   "data": "2026-10-18",
+   "fuori": "AZ Alkmaar",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 6.07,
+    "fuori": 1.43,
+    "over25": 1.38,
+    "pari": 4.79,
+    "under25": 2.85
+   }
+  },
+  {
+   "casa": "Groningen",
+   "data": "2026-10-18",
+   "fuori": "Ajax",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 3.32,
+    "fuori": 1.92,
+    "over25": 1.36,
+    "pari": 3.96,
+    "under25": 2.95
+   }
+  },
+  {
+   "casa": "Nijmegen",
+   "data": "2026-10-18",
+   "fuori": "For Sittard",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.23,
+    "over25": 1.47,
+    "pari": 3.97,
+    "under25": 2.55
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-10-18",
+   "fuori": "Utrecht",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 7.52,
+    "over25": 1.4,
+    "pari": 5.26,
+    "under25": 2.79
    }
   }
  ],
