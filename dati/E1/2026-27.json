@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21 10:25 UTC",
+ "aggiornato": "2026-10-22 10:24 UTC",
  "codice": "E1",
  "nome": "Championship",
  "paese": "Inghilterra",
@@ -2229,6 +2229,23 @@
     "over25": 1.84,
     "pari": 4.04,
     "under25": 1.91
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-10-20",
+   "fuori": "Portsmouth",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.6,
+    "over25": 1.76,
+    "pari": 4.14,
+    "under25": 1.98
    }
   }
  ],

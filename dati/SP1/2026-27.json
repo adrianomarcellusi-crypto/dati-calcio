@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21 10:25 UTC",
+ "aggiornato": "2026-10-22 10:24 UTC",
  "codice": "SP1",
  "nome": "La Liga",
  "paese": "Spagna",
@@ -1498,6 +1498,23 @@
     "over25": 2.69,
     "pari": 2.9,
     "under25": 1.44
+   }
+  },
+  {
+   "casa": "Levante",
+   "data": "2026-10-21",
+   "fuori": "Ath Bilbao",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.22,
+    "fuori": 2.25,
+    "over25": 1.93,
+    "pari": 3.25,
+    "under25": 1.82
    }
   }
  ],
