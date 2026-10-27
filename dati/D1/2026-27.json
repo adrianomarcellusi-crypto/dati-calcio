@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26 11:21 UTC",
+ "aggiornato": "2026-10-27 10:45 UTC",
  "codice": "D1",
  "nome": "Bundesliga",
  "paese": "Germania",
@@ -920,6 +920,159 @@
     "over25": 1.34,
     "pari": 3.95,
     "under25": 3.15
+   }
+  },
+  {
+   "casa": "Stuttgart",
+   "data": "2026-10-23",
+   "fuori": "M'gladbach",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 7.44,
+    "over25": 1.27,
+    "pari": 5.73,
+    "under25": 3.65
+   }
+  },
+  {
+   "casa": "Augsburg",
+   "data": "2026-10-24",
+   "fuori": "Union Berlin",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.31,
+    "over25": 1.43,
+    "pari": 4.15,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "FC Koln",
+   "data": "2026-10-24",
+   "fuori": "Schalke 04",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.1,
+    "over25": 1.66,
+    "pari": 3.59,
+    "under25": 2.15
+   }
+  },
+  {
+   "casa": "Mainz",
+   "data": "2026-10-24",
+   "fuori": "Werder Bremen",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.11,
+    "over25": 1.48,
+    "pari": 4.09,
+    "under25": 2.58
+   }
+  },
+  {
+   "casa": "Paderborn",
+   "data": "2026-10-24",
+   "fuori": "Hamburg",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 2.15,
+    "fuori": 3.07,
+    "over25": 1.53,
+    "pari": 3.69,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "RB Leipzig",
+   "data": "2026-10-24",
+   "fuori": "Elversberg",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.02,
+    "over25": 1.28,
+    "pari": 4.88,
+    "under25": 3.54
+   }
+  },
+  {
+   "casa": "Dortmund",
+   "data": "2026-10-24",
+   "fuori": "Ein Frankfurt",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 6.55,
+    "over25": 1.35,
+    "pari": 5.29,
+    "under25": 3.11
+   }
+  },
+  {
+   "casa": "Hoffenheim",
+   "data": "2026-10-25",
+   "fuori": "Leverkusen",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "14:30",
+   "quote": {
+    "casa": 3.1,
+    "fuori": 2.03,
+    "over25": 1.31,
+    "pari": 4.06,
+    "under25": 3.33
+   }
+  },
+  {
+   "casa": "Freiburg",
+   "data": "2026-10-25",
+   "fuori": "Bayern Munich",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "16:30",
+   "quote": {
+    "casa": 6.03,
+    "fuori": 1.41,
+    "over25": 1.28,
+    "pari": 5.38,
+    "under25": 3.55
    }
   }
  ],

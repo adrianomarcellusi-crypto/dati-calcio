@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26 11:21 UTC",
+ "aggiornato": "2026-10-27 10:45 UTC",
  "codice": "SC0",
  "nome": "Premiership",
  "paese": "Scozia",
@@ -920,6 +920,108 @@
     "over25": 1.44,
     "pari": 4.33,
     "under25": 2.63
+   }
+  },
+  {
+   "casa": "Dundee United",
+   "data": "2026-10-24",
+   "fuori": "Aberdeen",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.53,
+    "over25": 1.66,
+    "pari": 3.66,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Falkirk",
+   "data": "2026-10-24",
+   "fuori": "Kilmarnock",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.66,
+    "over25": 1.62,
+    "pari": 3.72,
+    "under25": 2.21
+   }
+  },
+  {
+   "casa": "Rangers",
+   "data": "2026-10-24",
+   "fuori": "St Johnstone",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.18,
+    "fuori": 13.53,
+    "over25": 1.48,
+    "pari": 6.82,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "St Mirren",
+   "data": "2026-10-24",
+   "fuori": "Dundee",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 2.93,
+    "over25": 1.63,
+    "pari": 3.58,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Hibernian",
+   "data": "2026-10-25",
+   "fuori": "Celtic",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 4.47,
+    "fuori": 1.62,
+    "over25": 1.43,
+    "pari": 4.37,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2026-10-25",
+   "fuori": "Hearts",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.63,
+    "fuori": 1.87,
+    "over25": 1.57,
+    "pari": 3.83,
+    "under25": 2.3
    }
   }
  ],

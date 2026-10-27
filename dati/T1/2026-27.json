@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26 11:21 UTC",
+ "aggiornato": "2026-10-27 10:45 UTC",
  "codice": "T1",
  "nome": "Super Lig",
  "paese": "Turchia",
@@ -1226,6 +1226,159 @@
     "over25": 1.41,
     "pari": 3.73,
     "under25": 2.73
+   }
+  },
+  {
+   "casa": "Alanyaspor",
+   "data": "2026-10-23",
+   "fuori": "Kocaelispor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.06,
+    "fuori": 3.54,
+    "over25": 2.12,
+    "pari": 3.14,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Eyupspor",
+   "data": "2026-10-24",
+   "fuori": "Kasimpasa",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 4.81,
+    "fuori": 1.68,
+    "over25": 1.96,
+    "pari": 3.61,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Gaziantep",
+   "data": "2026-10-24",
+   "fuori": "Erzurumspor",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.16,
+    "fuori": 3.23,
+    "over25": 1.95,
+    "pari": 3.21,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Samsunspor",
+   "data": "2026-10-24",
+   "fuori": "Amedspor",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.92,
+    "fuori": 2.25,
+    "over25": 1.78,
+    "pari": 3.38,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-10-25",
+   "fuori": "Genclerbirligi",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.76,
+    "fuori": 4.42,
+    "over25": 1.93,
+    "pari": 3.48,
+    "under25": 1.8
+   }
+  },
+  {
+   "casa": "Goztep",
+   "data": "2026-10-25",
+   "fuori": "Corum",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 2.97,
+    "over25": 1.71,
+    "pari": 3.42,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Besiktas",
+   "data": "2026-10-26",
+   "fuori": "Buyuksehyr",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.35,
+    "fuori": 6.89,
+    "over25": 1.39,
+    "pari": 5.04,
+    "under25": 2.83
+   }
+  },
+  {
+   "casa": "Rizespor",
+   "data": "2026-10-26",
+   "fuori": "Trabzonspor",
+   "gol": [
+    3,
+    4
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 3.81,
+    "fuori": 1.78,
+    "over25": 1.48,
+    "pari": 3.82,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-10-26",
+   "fuori": "Fenerbahce",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.94,
+    "fuori": 3.3,
+    "over25": 1.51,
+    "pari": 3.76,
+    "under25": 2.44
    }
   }
  ],
