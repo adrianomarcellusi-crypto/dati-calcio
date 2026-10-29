@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-28 11:29 UTC",
+ "aggiornato": "2026-10-29 11:38 UTC",
  "codice": "E2",
  "nome": "League One",
  "paese": "Inghilterra",
@@ -2348,6 +2348,91 @@
     "over25": 2.0,
     "pari": 3.34,
     "under25": 1.75
+   }
+  },
+  {
+   "casa": "Leicester",
+   "data": "2026-10-27",
+   "fuori": "Wigan",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.05,
+    "over25": 1.47,
+    "pari": 4.92,
+    "under25": 2.54
+   }
+  },
+  {
+   "casa": "Luton",
+   "data": "2026-10-27",
+   "fuori": "Doncaster",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 5.89,
+    "over25": 1.41,
+    "pari": 4.76,
+    "under25": 2.73
+   }
+  },
+  {
+   "casa": "Milton Keynes Dons",
+   "data": "2026-10-27",
+   "fuori": "Bromley",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.5,
+    "fuori": 5.84,
+    "over25": 1.67,
+    "pari": 4.29,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Oxford",
+   "data": "2026-10-27",
+   "fuori": "Stockport",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.41,
+    "fuori": 1.96,
+    "over25": 1.6,
+    "pari": 3.74,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Sheffield Weds",
+   "data": "2026-10-27",
+   "fuori": "Cambridge",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.0,
+    "fuori": 3.39,
+    "over25": 1.59,
+    "pari": 3.69,
+    "under25": 2.24
    }
   }
  ],

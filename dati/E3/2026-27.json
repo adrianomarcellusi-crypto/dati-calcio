@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-28 11:29 UTC",
+ "aggiornato": "2026-10-29 11:38 UTC",
  "codice": "E3",
  "nome": "League Two",
  "paese": "Inghilterra",
@@ -2552,6 +2552,23 @@
     "over25": 1.67,
     "pari": 3.51,
     "under25": 2.08
+   }
+  },
+  {
+   "casa": "Barnet",
+   "data": "2026-10-27",
+   "fuori": "York",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 2.94,
+    "over25": 1.59,
+    "pari": 3.59,
+    "under25": 2.24
    }
   }
  ],
