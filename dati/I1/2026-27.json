@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-29 11:38 UTC",
+ "aggiornato": "2026-10-30 11:30 UTC",
  "codice": "I1",
  "nome": "Serie A",
  "paese": "Italia",
@@ -1498,6 +1498,40 @@
     "over25": 1.57,
     "pari": 4.31,
     "under25": 2.32
+   }
+  },
+  {
+   "casa": "Frosinone",
+   "data": "2026-10-29",
+   "fuori": "Lecce",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.19,
+    "over25": 1.36,
+    "pari": 4.17,
+    "under25": 3.02
+   }
+  },
+  {
+   "casa": "Fiorentina",
+   "data": "2026-10-29",
+   "fuori": "Atalanta",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.8,
+    "over25": 1.46,
+    "pari": 3.7,
+    "under25": 2.62
    }
   }
  ],
