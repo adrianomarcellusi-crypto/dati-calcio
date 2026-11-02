@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-01 11:56 UTC",
+ "aggiornato": "2026-11-02 13:43 UTC",
  "codice": "B1",
  "nome": "Pro League",
  "paese": "Belgio",
@@ -1362,6 +1362,159 @@
     "over25": 1.48,
     "pari": 5.21,
     "under25": 2.51
+   }
+  },
+  {
+   "casa": "Waregem",
+   "data": "2026-10-30",
+   "fuori": "Club Brugge",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 6.38,
+    "fuori": 1.4,
+    "over25": 1.38,
+    "pari": 4.96,
+    "under25": 2.87
+   }
+  },
+  {
+   "casa": "Mechelen",
+   "data": "2026-10-31",
+   "fuori": "Genk",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.6,
+    "fuori": 1.87,
+    "over25": 1.56,
+    "pari": 3.73,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Standard",
+   "data": "2026-10-31",
+   "fuori": "Kortrijk",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:15",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 4.87,
+    "over25": 1.63,
+    "pari": 3.98,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Anderlecht",
+   "data": "2026-10-31",
+   "fuori": "Westerlo",
+   "gol": [
+    4,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.54,
+    "fuori": 4.92,
+    "over25": 1.42,
+    "pari": 4.4,
+    "under25": 2.7
+   }
+  },
+  {
+   "casa": "Beveren",
+   "data": "2026-10-31",
+   "fuori": "St. Gilloise",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 6.22,
+    "fuori": 1.43,
+    "over25": 1.49,
+    "pari": 4.66,
+    "under25": 2.47
+   }
+  },
+  {
+   "casa": "Cercle Brugge",
+   "data": "2026-11-01",
+   "fuori": "Antwerp",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.2,
+    "over25": 1.7,
+    "pari": 3.52,
+    "under25": 2.06
+   }
+  },
+  {
+   "casa": "St Truiden",
+   "data": "2026-11-01",
+   "fuori": "Oud-Heverlee Leuven",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.65,
+    "fuori": 4.51,
+    "over25": 1.57,
+    "pari": 4.01,
+    "under25": 2.29
+   }
+  },
+  {
+   "casa": "Lommel SK",
+   "data": "2026-11-01",
+   "fuori": "Gent",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.78,
+    "fuori": 1.84,
+    "over25": 1.6,
+    "pari": 3.7,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Charleroi",
+   "data": "2026-11-01",
+   "fuori": "RAAL La Louviere",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "18:15",
+   "quote": {
+    "casa": 1.58,
+    "fuori": 5.31,
+    "over25": 1.84,
+    "pari": 3.93,
+    "under25": 1.88
    }
   }
  ],

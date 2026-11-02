@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-01 11:56 UTC",
+ "aggiornato": "2026-11-02 13:43 UTC",
  "codice": "I1",
  "nome": "Serie A",
  "paese": "Italia",
@@ -1532,6 +1532,142 @@
     "over25": 1.46,
     "pari": 3.7,
     "under25": 2.62
+   }
+  },
+  {
+   "casa": "Bologna",
+   "data": "2026-10-31",
+   "fuori": "Monza",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.64,
+    "fuori": 5.17,
+    "over25": 1.81,
+    "pari": 3.87,
+    "under25": 1.95
+   }
+  },
+  {
+   "casa": "Udinese",
+   "data": "2026-10-31",
+   "fuori": "Roma",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 5.65,
+    "fuori": 1.52,
+    "over25": 1.54,
+    "pari": 4.45,
+    "under25": 2.38
+   }
+  },
+  {
+   "casa": "Milan",
+   "data": "2026-10-31",
+   "fuori": "Inter",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 2.01,
+    "over25": 1.75,
+    "pari": 3.5,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Como",
+   "data": "2026-11-01",
+   "fuori": "Venezia",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "11:30",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 8.93,
+    "over25": 1.37,
+    "pari": 5.92,
+    "under25": 2.98
+   }
+  },
+  {
+   "casa": "Frosinone",
+   "data": "2026-11-01",
+   "fuori": "Torino",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.07,
+    "fuori": 3.08,
+    "over25": 1.36,
+    "pari": 3.92,
+    "under25": 3.02
+   }
+  },
+  {
+   "casa": "Lazio",
+   "data": "2026-11-01",
+   "fuori": "Cagliari",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 6.23,
+    "over25": 1.68,
+    "pari": 4.39,
+    "under25": 2.13
+   }
+  },
+  {
+   "casa": "Lecce",
+   "data": "2026-11-01",
+   "fuori": "Genoa",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 3.25,
+    "fuori": 2.4,
+    "over25": 2.2,
+    "pari": 2.96,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Juventus",
+   "data": "2026-11-01",
+   "fuori": "Napoli",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.2,
+    "fuori": 3.23,
+    "over25": 1.79,
+    "pari": 3.36,
+    "under25": 1.96
    }
   }
  ],

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-01 11:56 UTC",
+ "aggiornato": "2026-11-02 13:43 UTC",
  "codice": "G1",
  "nome": "Super League",
  "paese": "Grecia",
@@ -937,6 +937,91 @@
     "over25": 1.75,
     "pari": 3.73,
     "under25": 1.98
+   }
+  },
+  {
+   "casa": "Kifisia",
+   "data": "2026-10-31",
+   "fuori": "Olympiakos",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 6.97,
+    "fuori": 1.41,
+    "over25": 1.81,
+    "pari": 4.18,
+    "under25": 1.9
+   }
+  },
+  {
+   "casa": "Levadeiakos",
+   "data": "2026-11-01",
+   "fuori": "Aris",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 3.05,
+    "fuori": 2.3,
+    "over25": 2.33,
+    "pari": 3.02,
+    "under25": 1.54
+   }
+  },
+  {
+   "casa": "Panetolikos",
+   "data": "2026-11-01",
+   "fuori": "OFI Crete",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 3.11,
+    "fuori": 2.19,
+    "over25": 1.89,
+    "pari": 3.17,
+    "under25": 1.83
+   }
+  },
+  {
+   "casa": "PAOK",
+   "data": "2026-11-01",
+   "fuori": "Asteras Tripolis",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.29,
+    "fuori": 8.43,
+    "over25": 1.56,
+    "pari": 5.12,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Panathinaikos",
+   "data": "2026-11-01",
+   "fuori": "AEK",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.03,
+    "fuori": 3.29,
+    "over25": 1.76,
+    "pari": 3.34,
+    "under25": 1.96
    }
   }
  ],

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-01 11:56 UTC",
+ "aggiornato": "2026-11-02 13:43 UTC",
  "codice": "P1",
  "nome": "Primeira Liga",
  "paese": "Portogallo",
@@ -1379,6 +1379,125 @@
     "over25": 1.59,
     "pari": 4.83,
     "under25": 2.25
+   }
+  },
+  {
+   "casa": "Casa Pia",
+   "data": "2026-10-30",
+   "fuori": "Sp Lisbon",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 8.37,
+    "fuori": 1.3,
+    "over25": 1.49,
+    "pari": 5.31,
+    "under25": 2.5
+   }
+  },
+  {
+   "casa": "Moreirense",
+   "data": "2026-10-31",
+   "fuori": "Estrela",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.46,
+    "over25": 1.98,
+    "pari": 3.25,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Porto",
+   "data": "2026-10-31",
+   "fuori": "Estoril",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 16.91,
+    "over25": 1.41,
+    "pari": 7.89,
+    "under25": 2.76
+   }
+  },
+  {
+   "casa": "Arouca",
+   "data": "2026-11-01",
+   "fuori": "Nacional",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 1.61,
+    "fuori": 5.16,
+    "over25": 1.81,
+    "pari": 3.85,
+    "under25": 1.92
+   }
+  },
+  {
+   "casa": "Academico Viseu",
+   "data": "2026-11-01",
+   "fuori": "Rio Ave",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.85,
+    "fuori": 3.97,
+    "over25": 1.86,
+    "pari": 3.54,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Maritimo",
+   "data": "2026-11-01",
+   "fuori": "Santa Clara",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 3.09,
+    "fuori": 2.33,
+    "over25": 2.3,
+    "pari": 3.09,
+    "under25": 1.56
+   }
+  },
+  {
+   "casa": "Sp Braga",
+   "data": "2026-11-01",
+   "fuori": "Famalicao",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.72,
+    "fuori": 4.55,
+    "over25": 1.91,
+    "pari": 3.62,
+    "under25": 1.82
    }
   }
  ],

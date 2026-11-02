@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-01 11:56 UTC",
+ "aggiornato": "2026-11-02 13:43 UTC",
  "codice": "SC0",
  "nome": "Premiership",
  "paese": "Scozia",
@@ -1124,6 +1124,57 @@
     "over25": 1.59,
     "pari": 3.72,
     "under25": 2.26
+   }
+  },
+  {
+   "casa": "Kilmarnock",
+   "data": "2026-10-31",
+   "fuori": "St Johnstone",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.09,
+    "fuori": 3.18,
+    "over25": 1.64,
+    "pari": 3.61,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Motherwell",
+   "data": "2026-10-31",
+   "fuori": "St Mirren",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.81,
+    "fuori": 3.88,
+    "over25": 1.6,
+    "pari": 3.85,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Falkirk",
+   "data": "2026-11-01",
+   "fuori": "Celtic",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 5.98,
+    "fuori": 1.43,
+    "over25": 1.45,
+    "pari": 4.88,
+    "under25": 2.61
    }
   }
  ],

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-01 11:56 UTC",
+ "aggiornato": "2026-11-02 13:43 UTC",
  "codice": "SP2",
  "nome": "La Liga 2",
  "paese": "Spagna",
@@ -2059,6 +2059,125 @@
     "over25": 2.08,
     "pari": 3.18,
     "under25": 1.69
+   }
+  },
+  {
+   "casa": "Sociedad B",
+   "data": "2026-10-31",
+   "fuori": "Girona",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 3.34,
+    "fuori": 1.97,
+    "over25": 1.66,
+    "pari": 3.55,
+    "under25": 2.1
+   }
+  },
+  {
+   "casa": "Eibar",
+   "data": "2026-10-31",
+   "fuori": "Almeria",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:15",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 2.73,
+    "over25": 1.61,
+    "pari": 3.46,
+    "under25": 2.19
+   }
+  },
+  {
+   "casa": "Celta B",
+   "data": "2026-10-31",
+   "fuori": "Cordoba",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.63,
+    "fuori": 1.79,
+    "over25": 1.43,
+    "pari": 3.88,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Albacete",
+   "data": "2026-10-31",
+   "fuori": "Sabadell",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.92,
+    "over25": 2.21,
+    "pari": 3.02,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Eldense",
+   "data": "2026-11-01",
+   "fuori": "Granada",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.92,
+    "over25": 1.86,
+    "pari": 3.25,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Ceuta",
+   "data": "2026-11-01",
+   "fuori": "Sp Gijon",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:15",
+   "quote": {
+    "casa": 2.37,
+    "fuori": 2.85,
+    "over25": 2.05,
+    "pari": 3.17,
+    "under25": 1.69
+   }
+  },
+  {
+   "casa": "Burgos",
+   "data": "2026-11-01",
+   "fuori": "Castellon",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.62,
+    "fuori": 1.97,
+    "over25": 1.87,
+    "pari": 3.28,
+    "under25": 1.85
    }
   }
  ],

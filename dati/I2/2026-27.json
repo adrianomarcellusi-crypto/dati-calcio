@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-01 11:56 UTC",
+ "aggiornato": "2026-11-02 13:43 UTC",
  "codice": "I2",
  "nome": "Serie B",
  "paese": "Italia",
@@ -1532,6 +1532,176 @@
     "over25": 1.76,
     "pari": 3.24,
     "under25": 1.96
+   }
+  },
+  {
+   "casa": "Cremonese",
+   "data": "2026-10-31",
+   "fuori": "Benevento",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.22,
+    "fuori": 3.1,
+    "over25": 1.96,
+    "pari": 3.18,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Modena",
+   "data": "2026-10-31",
+   "fuori": "Mantova",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.89,
+    "fuori": 3.69,
+    "over25": 1.68,
+    "pari": 3.48,
+    "under25": 2.08
+   }
+  },
+  {
+   "casa": "Sudtirol",
+   "data": "2026-10-31",
+   "fuori": "Cesena",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.42,
+    "fuori": 2.85,
+    "over25": 2.11,
+    "pari": 3.06,
+    "under25": 1.65
+   }
+  },
+  {
+   "casa": "Catanzaro",
+   "data": "2026-10-31",
+   "fuori": "Padova",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 2.26,
+    "fuori": 2.93,
+    "over25": 1.75,
+    "pari": 3.27,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Sampdoria",
+   "data": "2026-10-31",
+   "fuori": "Virtus Entella",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 2.28,
+    "fuori": 3.16,
+    "over25": 2.18,
+    "pari": 3.0,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Arezzo",
+   "data": "2026-11-01",
+   "fuori": "Ascoli",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 3.35,
+    "fuori": 2.05,
+    "over25": 1.84,
+    "pari": 3.31,
+    "under25": 1.87
+   }
+  },
+  {
+   "casa": "Avellino",
+   "data": "2026-11-01",
+   "fuori": "Pisa",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.79,
+    "fuori": 2.4,
+    "over25": 1.95,
+    "pari": 3.18,
+    "under25": 1.77
+   }
+  },
+  {
+   "casa": "Empoli",
+   "data": "2026-11-01",
+   "fuori": "Juve Stabia",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 2.84,
+    "fuori": 2.39,
+    "over25": 1.91,
+    "pari": 3.11,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Verona",
+   "data": "2026-11-01",
+   "fuori": "Carrarese",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 1.68,
+    "fuori": 4.56,
+    "over25": 1.79,
+    "pari": 3.65,
+    "under25": 1.93
+   }
+  },
+  {
+   "casa": "Palermo",
+   "data": "2026-11-01",
+   "fuori": "Vicenza",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "18:30",
+   "quote": {
+    "casa": 1.45,
+    "fuori": 5.99,
+    "over25": 1.55,
+    "pari": 4.29,
+    "under25": 2.31
    }
   }
  ],

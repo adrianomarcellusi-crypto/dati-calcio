@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-01 11:56 UTC",
+ "aggiornato": "2026-11-02 13:43 UTC",
  "codice": "F1",
  "nome": "Ligue 1",
  "paese": "Francia",
@@ -1226,6 +1226,142 @@
     "over25": 1.33,
     "pari": 5.62,
     "under25": 3.19
+   }
+  },
+  {
+   "casa": "Le Havre",
+   "data": "2026-10-30",
+   "fuori": "Paris SG",
+   "gol": [
+    1,
+    5
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 8.82,
+    "fuori": 1.28,
+    "over25": 1.4,
+    "pari": 6.13,
+    "under25": 2.82
+   }
+  },
+  {
+   "casa": "Nice",
+   "data": "2026-10-30",
+   "fuori": "Rennes",
+   "gol": [
+    5,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 2.59,
+    "fuori": 2.52,
+    "over25": 1.59,
+    "pari": 3.56,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Lille",
+   "data": "2026-10-30",
+   "fuori": "Lens",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:05",
+   "quote": {
+    "casa": 2.6,
+    "fuori": 2.68,
+    "over25": 1.97,
+    "pari": 3.31,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Troyes",
+   "data": "2026-10-31",
+   "fuori": "Le Mans",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.25,
+    "fuori": 3.14,
+    "over25": 1.88,
+    "pari": 3.34,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Strasbourg",
+   "data": "2026-11-01",
+   "fuori": "Auxerre",
+   "gol": [
+    5,
+    1
+   ],
+   "ora": "14:00",
+   "quote": {
+    "casa": 1.84,
+    "fuori": 3.82,
+    "over25": 1.55,
+    "pari": 3.85,
+    "under25": 2.36
+   }
+  },
+  {
+   "casa": "Lyon",
+   "data": "2026-11-01",
+   "fuori": "Angers",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 1.4,
+    "fuori": 7.27,
+    "over25": 1.66,
+    "pari": 4.78,
+    "under25": 2.17
+   }
+  },
+  {
+   "casa": "Paris FC",
+   "data": "2026-11-01",
+   "fuori": "Monaco",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "16:15",
+   "quote": {
+    "casa": 2.44,
+    "fuori": 2.75,
+    "over25": 1.75,
+    "pari": 3.47,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Marseille",
+   "data": "2026-11-01",
+   "fuori": "Toulouse",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.88,
+    "fuori": 3.66,
+    "over25": 1.52,
+    "pari": 3.88,
+    "under25": 2.42
    }
   }
  ],
