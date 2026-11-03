@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-02 13:43 UTC",
+ "aggiornato": "2026-11-03 12:55 UTC",
  "codice": "I1",
  "nome": "Serie A",
  "paese": "Italia",
@@ -1668,6 +1668,40 @@
     "over25": 1.79,
     "pari": 3.36,
     "under25": 1.96
+   }
+  },
+  {
+   "casa": "Sassuolo",
+   "data": "2026-11-02",
+   "fuori": "Fiorentina",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.98,
+    "fuori": 2.23,
+    "over25": 1.57,
+    "pari": 3.61,
+    "under25": 2.33
+   }
+  },
+  {
+   "casa": "Atalanta",
+   "data": "2026-11-02",
+   "fuori": "Parma",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.38,
+    "fuori": 7.33,
+    "over25": 1.48,
+    "pari": 5.03,
+    "under25": 2.56
    }
   }
  ],

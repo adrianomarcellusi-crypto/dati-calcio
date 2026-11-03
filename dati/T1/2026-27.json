@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-02 13:43 UTC",
+ "aggiornato": "2026-11-03 12:55 UTC",
  "codice": "T1",
  "nome": "Super Lig",
  "paese": "Turchia",
@@ -1515,6 +1515,23 @@
     "over25": 1.51,
     "pari": 4.38,
     "under25": 2.43
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-11-02",
+   "fuori": "Alanyaspor",
+   "gol": [
+    5,
+    0
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 2.62,
+    "fuori": 2.53,
+    "over25": 1.95,
+    "pari": 3.25,
+    "under25": 1.78
    }
   }
  ],

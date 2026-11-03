@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-02 13:43 UTC",
+ "aggiornato": "2026-11-03 12:55 UTC",
  "codice": "P1",
  "nome": "Primeira Liga",
  "paese": "Portogallo",
@@ -1498,6 +1498,40 @@
     "over25": 1.91,
     "pari": 3.62,
     "under25": 1.82
+   }
+  },
+  {
+   "casa": "Benfica",
+   "data": "2026-11-02",
+   "fuori": "Alverca",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 1.12,
+    "fuori": 15.41,
+    "over25": 1.22,
+    "pari": 8.95,
+    "under25": 3.99
+   }
+  },
+  {
+   "casa": "Gil Vicente",
+   "data": "2026-11-02",
+   "fuori": "Guimaraes",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:15",
+   "quote": {
+    "casa": 2.93,
+    "fuori": 2.41,
+    "over25": 2.05,
+    "pari": 3.15,
+    "under25": 1.71
    }
   }
  ],

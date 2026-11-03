@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-02 13:43 UTC",
+ "aggiornato": "2026-11-03 12:55 UTC",
  "codice": "SP2",
  "nome": "La Liga 2",
  "paese": "Spagna",
@@ -2178,6 +2178,57 @@
     "over25": 1.87,
     "pari": 3.28,
     "under25": 1.85
+   }
+  },
+  {
+   "casa": "Oviedo",
+   "data": "2026-11-02",
+   "fuori": "Las Palmas",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "15:15",
+   "quote": {
+    "casa": 1.66,
+    "fuori": 4.59,
+    "over25": 1.83,
+    "pari": 3.69,
+    "under25": 1.88
+   }
+  },
+  {
+   "casa": "Valladolid",
+   "data": "2026-11-02",
+   "fuori": "Leganes",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.05,
+    "over25": 1.97,
+    "pari": 3.41,
+    "under25": 1.76
+   }
+  },
+  {
+   "casa": "Mallorca",
+   "data": "2026-11-02",
+   "fuori": "Cadiz",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 1.41,
+    "fuori": 6.6,
+    "over25": 1.79,
+    "pari": 4.26,
+    "under25": 1.93
    }
   }
  ],

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-02 13:43 UTC",
+ "aggiornato": "2026-11-03 12:55 UTC",
  "codice": "F2",
  "nome": "Ligue 2",
  "paese": "Francia",
@@ -1651,6 +1651,40 @@
     "over25": 1.78,
     "pari": 3.49,
     "under25": 1.94
+   }
+  },
+  {
+   "casa": "Red Star",
+   "data": "2026-11-02",
+   "fuori": "Nancy",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.72,
+    "over25": 1.93,
+    "pari": 3.19,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Reims",
+   "data": "2026-11-02",
+   "fuori": "Sochaux",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.7,
+    "fuori": 4.33,
+    "over25": 1.75,
+    "pari": 3.64,
+    "under25": 1.97
    }
   }
  ],

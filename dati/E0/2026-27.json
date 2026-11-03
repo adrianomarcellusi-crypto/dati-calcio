@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-02 13:43 UTC",
+ "aggiornato": "2026-11-03 12:55 UTC",
  "codice": "E0",
  "nome": "Premier League",
  "paese": "Inghilterra",
@@ -1515,6 +1515,23 @@
     "over25": 1.63,
     "pari": 3.53,
     "under25": 2.2
+   }
+  },
+  {
+   "casa": "Newcastle",
+   "data": "2026-11-02",
+   "fuori": "Everton",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.25,
+    "over25": 1.75,
+    "pari": 3.47,
+    "under25": 2.03
    }
   }
  ],

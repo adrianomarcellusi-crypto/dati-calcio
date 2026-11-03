@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-02 13:43 UTC",
+ "aggiornato": "2026-11-03 12:55 UTC",
  "codice": "G1",
  "nome": "Super League",
  "paese": "Grecia",
@@ -1022,6 +1022,40 @@
     "over25": 1.76,
     "pari": 3.34,
     "under25": 1.96
+   }
+  },
+  {
+   "casa": "Atromitos",
+   "data": "2026-11-02",
+   "fuori": "Volos NFC",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.75,
+    "fuori": 4.19,
+    "over25": 1.93,
+    "pari": 3.46,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Kalamata",
+   "data": "2026-11-02",
+   "fuori": "Iraklis",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.65,
+    "over25": 2.05,
+    "pari": 3.12,
+    "under25": 1.69
    }
   }
  ],
