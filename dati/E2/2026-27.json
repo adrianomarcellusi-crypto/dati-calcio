@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-04 13:09 UTC",
+ "aggiornato": "2026-11-05 13:23 UTC",
  "codice": "E2",
  "nome": "League One",
  "paese": "Inghilterra",
@@ -2637,6 +2637,57 @@
     "over25": 1.54,
     "pari": 3.88,
     "under25": 2.37
+   }
+  },
+  {
+   "casa": "Huddersfield",
+   "data": "2026-11-03",
+   "fuori": "Luton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.55,
+    "over25": 1.61,
+    "pari": 3.71,
+    "under25": 2.22
+   }
+  },
+  {
+   "casa": "Wigan",
+   "data": "2026-11-03",
+   "fuori": "Mansfield",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.76,
+    "fuori": 2.35,
+    "over25": 1.66,
+    "pari": 3.5,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Oxford Utd",
+   "data": "2026-11-04",
+   "fuori": "Reading",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.42,
+    "over25": 1.8,
+    "pari": 3.38,
+    "under25": 1.93
    }
   }
  ],

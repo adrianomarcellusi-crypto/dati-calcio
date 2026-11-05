@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-04 13:09 UTC",
+ "aggiornato": "2026-11-05 13:23 UTC",
  "codice": "E3",
  "nome": "League Two",
  "paese": "Inghilterra",
@@ -2773,6 +2773,23 @@
     "over25": 1.82,
     "pari": 3.53,
     "under25": 1.9
+   }
+  },
+  {
+   "casa": "Northampton",
+   "data": "2026-11-03",
+   "fuori": "Oldham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.4,
+    "fuori": 3.01,
+    "over25": 2.39,
+    "pari": 3.06,
+    "under25": 1.52
    }
   }
  ],
