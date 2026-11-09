@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08 12:03 UTC",
+ "aggiornato": "2026-11-09 14:09 UTC",
  "codice": "F2",
  "nome": "Ligue 2",
  "paese": "Francia",
@@ -1685,6 +1685,159 @@
     "over25": 1.75,
     "pari": 3.64,
     "under25": 1.97
+   }
+  },
+  {
+   "casa": "Boulogne",
+   "data": "2026-11-06",
+   "fuori": "Annecy",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.14,
+    "fuori": 3.38,
+    "over25": 2.25,
+    "pari": 3.02,
+    "under25": 1.58
+   }
+  },
+  {
+   "casa": "Dijon",
+   "data": "2026-11-06",
+   "fuori": "Red Star",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.64,
+    "fuori": 2.4,
+    "over25": 1.64,
+    "pari": 3.36,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Dunkerque",
+   "data": "2026-11-06",
+   "fuori": "Guingamp",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.69,
+    "fuori": 2.34,
+    "over25": 1.71,
+    "pari": 3.36,
+    "under25": 2.03
+   }
+  },
+  {
+   "casa": "Grenoble",
+   "data": "2026-11-06",
+   "fuori": "Reims",
+   "gol": [
+    3,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 4.17,
+    "fuori": 1.77,
+    "over25": 1.94,
+    "pari": 3.43,
+    "under25": 1.78
+   }
+  },
+  {
+   "casa": "Montpellier",
+   "data": "2026-11-06",
+   "fuori": "Metz",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.02,
+    "fuori": 3.27,
+    "over25": 1.72,
+    "pari": 3.41,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Nancy",
+   "data": "2026-11-06",
+   "fuori": "Sochaux",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.59,
+    "fuori": 5.09,
+    "over25": 1.85,
+    "pari": 3.71,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "Clermont",
+   "data": "2026-11-07",
+   "fuori": "Rodez",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.97,
+    "fuori": 2.19,
+    "over25": 1.8,
+    "pari": 3.32,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Pau FC",
+   "data": "2026-11-07",
+   "fuori": "Nantes",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 3.24,
+    "fuori": 2.14,
+    "over25": 2.16,
+    "pari": 3.12,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "St Etienne",
+   "data": "2026-11-07",
+   "fuori": "Laval",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 1.33,
+    "fuori": 7.8,
+    "over25": 1.61,
+    "pari": 4.78,
+    "under25": 2.19
    }
   }
  ],

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08 12:03 UTC",
+ "aggiornato": "2026-11-09 14:09 UTC",
  "codice": "N1",
  "nome": "Eredivisie",
  "paese": "Olanda",
@@ -1685,6 +1685,159 @@
     "over25": 1.42,
     "pari": 4.09,
     "under25": 2.71
+   }
+  },
+  {
+   "casa": "Willem II",
+   "data": "2026-11-06",
+   "fuori": "Zwolle",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.78,
+    "fuori": 2.36,
+    "over25": 1.64,
+    "pari": 3.47,
+    "under25": 2.16
+   }
+  },
+  {
+   "casa": "For Sittard",
+   "data": "2026-11-07",
+   "fuori": "Telstar",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.18,
+    "over25": 1.69,
+    "pari": 3.51,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Den Haag",
+   "data": "2026-11-07",
+   "fuori": "Sparta Rotterdam",
+   "gol": [
+    3,
+    1
+   ],
+   "ora": "17:45",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.42,
+    "over25": 1.48,
+    "pari": 3.69,
+    "under25": 2.52
+   }
+  },
+  {
+   "casa": "Excelsior",
+   "data": "2026-11-07",
+   "fuori": "Go Ahead Eagles",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.43,
+    "fuori": 2.61,
+    "over25": 1.55,
+    "pari": 3.58,
+    "under25": 2.32
+   }
+  },
+  {
+   "casa": "Heerenveen",
+   "data": "2026-11-08",
+   "fuori": "Feyenoord",
+   "gol": [
+    5,
+    3
+   ],
+   "ora": "11:15",
+   "quote": {
+    "casa": 4.06,
+    "fuori": 1.69,
+    "over25": 1.33,
+    "pari": 4.31,
+    "under25": 3.13
+   }
+  },
+  {
+   "casa": "Twente",
+   "data": "2026-11-08",
+   "fuori": "Ajax",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "13:30",
+   "quote": {
+    "casa": 1.78,
+    "fuori": 3.73,
+    "over25": 1.37,
+    "pari": 4.12,
+    "under25": 2.92
+   }
+  },
+  {
+   "casa": "AZ Alkmaar",
+   "data": "2026-11-08",
+   "fuori": "Groningen",
+   "gol": [
+    4,
+    3
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 1.47,
+    "fuori": 5.65,
+    "over25": 1.38,
+    "pari": 4.7,
+    "under25": 2.85
+   }
+  },
+  {
+   "casa": "Cambuur",
+   "data": "2026-11-08",
+   "fuori": "PSV Eindhoven",
+   "gol": [
+    2,
+    5
+   ],
+   "ora": "15:45",
+   "quote": {
+    "casa": 5.82,
+    "fuori": 1.4,
+    "over25": 1.23,
+    "pari": 5.36,
+    "under25": 3.89
+   }
+  },
+  {
+   "casa": "Utrecht",
+   "data": "2026-11-08",
+   "fuori": "Nijmegen",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.36,
+    "over25": 1.43,
+    "pari": 3.82,
+    "under25": 2.69
    }
   }
  ],

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08 12:03 UTC",
+ "aggiornato": "2026-11-09 14:09 UTC",
  "codice": "P1",
  "nome": "Primeira Liga",
  "paese": "Portogallo",
@@ -1532,6 +1532,142 @@
     "over25": 2.05,
     "pari": 3.15,
     "under25": 1.71
+   }
+  },
+  {
+   "casa": "Famalicao",
+   "data": "2026-11-06",
+   "fuori": "Arouca",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:45",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.83,
+    "over25": 2.19,
+    "pari": 3.1,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Alverca",
+   "data": "2026-11-07",
+   "fuori": "Casa Pia",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 4.12,
+    "over25": 1.92,
+    "pari": 3.51,
+    "under25": 1.81
+   }
+  },
+  {
+   "casa": "Sp Lisbon",
+   "data": "2026-11-07",
+   "fuori": "Moreirense",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 1.13,
+    "fuori": 16.72,
+    "over25": 1.38,
+    "pari": 8.07,
+    "under25": 2.84
+   }
+  },
+  {
+   "casa": "Nacional",
+   "data": "2026-11-08",
+   "fuori": "Academico Viseu",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.85,
+    "fuori": 2.41,
+    "over25": 2.0,
+    "pari": 3.22,
+    "under25": 1.74
+   }
+  },
+  {
+   "casa": "Santa Clara",
+   "data": "2026-11-08",
+   "fuori": "Gil Vicente",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "15:30",
+   "quote": {
+    "casa": 2.39,
+    "fuori": 2.99,
+    "over25": 2.23,
+    "pari": 3.09,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Guimaraes",
+   "data": "2026-11-08",
+   "fuori": "Porto",
+   "gol": [
+    1,
+    2
+   ],
+   "ora": "18:00",
+   "quote": {
+    "casa": 6.22,
+    "fuori": 1.47,
+    "over25": 1.77,
+    "pari": 4.28,
+    "under25": 1.96
+   }
+  },
+  {
+   "casa": "Estrela",
+   "data": "2026-11-08",
+   "fuori": "Benfica",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 11.23,
+    "fuori": 1.19,
+    "over25": 1.33,
+    "pari": 6.96,
+    "under25": 3.17
+   }
+  },
+  {
+   "casa": "Rio Ave",
+   "data": "2026-11-08",
+   "fuori": "Sp Braga",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "20:30",
+   "quote": {
+    "casa": 5.76,
+    "fuori": 1.5,
+    "over25": 1.64,
+    "pari": 4.28,
+    "under25": 2.14
    }
   }
  ],
