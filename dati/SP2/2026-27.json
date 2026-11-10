@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09 14:09 UTC",
+ "aggiornato": "2026-11-10 13:40 UTC",
  "codice": "SP2",
  "nome": "La Liga 2",
  "paese": "Spagna",
@@ -2348,6 +2348,40 @@
     "over25": 2.02,
     "pari": 3.15,
     "under25": 1.72
+   }
+  },
+  {
+   "casa": "Las Palmas",
+   "data": "2026-11-09",
+   "fuori": "Eldense",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 2.01,
+    "fuori": 3.3,
+    "over25": 1.72,
+    "pari": 3.42,
+    "under25": 2.01
+   }
+  },
+  {
+   "casa": "Sabadell",
+   "data": "2026-11-09",
+   "fuori": "Sociedad B",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.83,
+    "fuori": 4.04,
+    "over25": 1.95,
+    "pari": 3.36,
+    "under25": 1.77
    }
   }
  ],
