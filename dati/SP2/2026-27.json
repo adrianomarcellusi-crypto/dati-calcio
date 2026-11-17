@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-16 13:52 UTC",
+ "aggiornato": "2026-11-17 14:45 UTC",
  "codice": "SP2",
  "nome": "La Liga 2",
  "paese": "Spagna",
@@ -2552,6 +2552,23 @@
     "over25": 2.43,
     "pari": 2.91,
     "under25": 1.5
+   }
+  },
+  {
+   "casa": "Albacete",
+   "data": "2026-11-16",
+   "fuori": "Celta B",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.52,
+    "fuori": 5.22,
+    "over25": 1.57,
+    "pari": 4.17,
+    "under25": 2.27
    }
   }
  ],
