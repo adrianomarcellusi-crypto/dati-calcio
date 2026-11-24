@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-23 16:18 UTC",
+ "aggiornato": "2026-11-24 16:05 UTC",
  "codice": "T1",
  "nome": "Super Lig",
  "paese": "Turchia",
@@ -1685,6 +1685,159 @@
     "over25": 1.33,
     "pari": 7.56,
     "under25": 3.12
+   }
+  },
+  {
+   "casa": "Genclerbirligi",
+   "data": "2026-11-21",
+   "fuori": "Gaziantep",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "10:30",
+   "quote": {
+    "casa": 2.32,
+    "fuori": 2.69,
+    "over25": 1.57,
+    "pari": 3.52,
+    "under25": 2.27
+   }
+  },
+  {
+   "casa": "Amedspor",
+   "data": "2026-11-21",
+   "fuori": "Rizespor",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 3.67,
+    "over25": 1.51,
+    "pari": 3.78,
+    "under25": 2.43
+   }
+  },
+  {
+   "casa": "Galatasaray",
+   "data": "2026-11-21",
+   "fuori": "Samsunspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.28,
+    "fuori": 7.79,
+    "over25": 1.31,
+    "pari": 5.64,
+    "under25": 3.26
+   }
+  },
+  {
+   "casa": "Kocaelispor",
+   "data": "2026-11-21",
+   "fuori": "Fenerbahce",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 4.95,
+    "fuori": 1.58,
+    "over25": 1.62,
+    "pari": 4.03,
+    "under25": 2.18
+   }
+  },
+  {
+   "casa": "Erzurumspor",
+   "data": "2026-11-22",
+   "fuori": "Goztep",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "10:30",
+   "quote": {
+    "casa": 2.61,
+    "fuori": 2.63,
+    "over25": 2.18,
+    "pari": 3.1,
+    "under25": 1.62
+   }
+  },
+  {
+   "casa": "Kasimpasa",
+   "data": "2026-11-22",
+   "fuori": "Alanyaspor",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.82,
+    "fuori": 3.99,
+    "over25": 1.85,
+    "pari": 3.49,
+    "under25": 1.86
+   }
+  },
+  {
+   "casa": "Konyaspor",
+   "data": "2026-11-22",
+   "fuori": "Besiktas",
+   "gol": [
+    2,
+    4
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 5.39,
+    "fuori": 1.53,
+    "over25": 1.7,
+    "pari": 4.04,
+    "under25": 2.07
+   }
+  },
+  {
+   "casa": "Trabzonspor",
+   "data": "2026-11-22",
+   "fuori": "Eyupspor",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "16:00",
+   "quote": {
+    "casa": 1.07,
+    "fuori": 20.28,
+    "over25": 1.2,
+    "pari": 10.48,
+    "under25": 4.17
+   }
+  },
+  {
+   "casa": "Buyuksehyr",
+   "data": "2026-11-23",
+   "fuori": "Corum",
+   "gol": [
+    4,
+    2
+   ],
+   "ora": "17:00",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.56,
+    "over25": 1.51,
+    "pari": 3.74,
+    "under25": 2.43
    }
   }
  ],

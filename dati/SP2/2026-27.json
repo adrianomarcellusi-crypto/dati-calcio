@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-23 16:18 UTC",
+ "aggiornato": "2026-11-24 16:05 UTC",
  "codice": "SP2",
  "nome": "La Liga 2",
  "paese": "Spagna",
@@ -2569,6 +2569,193 @@
     "over25": 1.57,
     "pari": 4.17,
     "under25": 2.27
+   }
+  },
+  {
+   "casa": "Andorra",
+   "data": "2026-11-20",
+   "fuori": "Leganes",
+   "gol": [
+    1,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.79,
+    "fuori": 3.96,
+    "over25": 1.71,
+    "pari": 3.57,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Sabadell",
+   "data": "2026-11-21",
+   "fuori": "Granada",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 2.48,
+    "fuori": 2.84,
+    "over25": 2.23,
+    "pari": 2.96,
+    "under25": 1.59
+   }
+  },
+  {
+   "casa": "Sociedad B",
+   "data": "2026-11-21",
+   "fuori": "Cadiz",
+   "gol": [
+    0,
+    3
+   ],
+   "ora": "15:15",
+   "quote": {
+    "casa": 1.69,
+    "fuori": 4.22,
+    "over25": 1.56,
+    "pari": 3.81,
+    "under25": 2.28
+   }
+  },
+  {
+   "casa": "Castellon",
+   "data": "2026-11-21",
+   "fuori": "Eldense",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.36,
+    "fuori": 6.99,
+    "over25": 1.59,
+    "pari": 4.62,
+    "under25": 2.24
+   }
+  },
+  {
+   "casa": "Tenerife",
+   "data": "2026-11-21",
+   "fuori": "Mallorca",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 3.03,
+    "fuori": 2.36,
+    "over25": 2.42,
+    "pari": 2.94,
+    "under25": 1.51
+   }
+  },
+  {
+   "casa": "Cordoba",
+   "data": "2026-11-22",
+   "fuori": "Oviedo",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "13:00",
+   "quote": {
+    "casa": 1.92,
+    "fuori": 3.42,
+    "over25": 1.59,
+    "pari": 3.61,
+    "under25": 2.23
+   }
+  },
+  {
+   "casa": "Sp Gijon",
+   "data": "2026-11-22",
+   "fuori": "Las Palmas",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:15",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.02,
+    "over25": 1.93,
+    "pari": 3.23,
+    "under25": 1.79
+   }
+  },
+  {
+   "casa": "Celta B",
+   "data": "2026-11-22",
+   "fuori": "Valladolid",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 3.29,
+    "fuori": 1.99,
+    "over25": 1.66,
+    "pari": 3.52,
+    "under25": 2.12
+   }
+  },
+  {
+   "casa": "Girona",
+   "data": "2026-11-22",
+   "fuori": "Eibar",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "17:30",
+   "quote": {
+    "casa": 1.86,
+    "fuori": 3.74,
+    "over25": 1.78,
+    "pari": 3.45,
+    "under25": 1.94
+   }
+  },
+  {
+   "casa": "Burgos",
+   "data": "2026-11-22",
+   "fuori": "Albacete",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "20:00",
+   "quote": {
+    "casa": 2.1,
+    "fuori": 3.42,
+    "over25": 2.21,
+    "pari": 3.08,
+    "under25": 1.6
+   }
+  },
+  {
+   "casa": "Ceuta",
+   "data": "2026-11-23",
+   "fuori": "Almeria",
+   "gol": [
+    2,
+    3
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 3.41,
+    "fuori": 1.93,
+    "over25": 1.69,
+    "pari": 3.56,
+    "under25": 2.05
    }
   }
  ],

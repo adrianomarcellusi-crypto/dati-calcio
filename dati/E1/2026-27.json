@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-23 16:18 UTC",
+ "aggiornato": "2026-11-24 16:05 UTC",
  "codice": "E1",
  "nome": "Championship",
  "paese": "Inghilterra",
@@ -3062,6 +3062,210 @@
     "over25": 1.85,
     "pari": 3.53,
     "under25": 1.88
+   }
+  },
+  {
+   "casa": "Millwall",
+   "data": "2026-11-21",
+   "fuori": "QPR",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 2.52,
+    "fuori": 2.62,
+    "over25": 1.73,
+    "pari": 3.46,
+    "under25": 2.04
+   }
+  },
+  {
+   "casa": "Norwich",
+   "data": "2026-11-21",
+   "fuori": "Cardiff",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 4.52,
+    "over25": 1.29,
+    "pari": 4.56,
+    "under25": 3.47
+   }
+  },
+  {
+   "casa": "Southampton",
+   "data": "2026-11-21",
+   "fuori": "Derby",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "12:30",
+   "quote": {
+    "casa": 1.48,
+    "fuori": 5.88,
+    "over25": 1.6,
+    "pari": 4.49,
+    "under25": 2.26
+   }
+  },
+  {
+   "casa": "Bolton",
+   "data": "2026-11-21",
+   "fuori": "Portsmouth",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.58,
+    "fuori": 2.59,
+    "over25": 1.76,
+    "pari": 3.43,
+    "under25": 1.99
+   }
+  },
+  {
+   "casa": "Lincoln",
+   "data": "2026-11-21",
+   "fuori": "Wrexham",
+   "gol": [
+    0,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.6,
+    "over25": 2.19,
+    "pari": 3.15,
+    "under25": 1.63
+   }
+  },
+  {
+   "casa": "Middlesbrough",
+   "data": "2026-11-21",
+   "fuori": "Bristol City",
+   "gol": [
+    2,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.37,
+    "fuori": 7.08,
+    "over25": 1.47,
+    "pari": 5.07,
+    "under25": 2.57
+   }
+  },
+  {
+   "casa": "Sheffield United",
+   "data": "2026-11-21",
+   "fuori": "Watford",
+   "gol": [
+    4,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.55,
+    "fuori": 5.66,
+    "over25": 1.77,
+    "pari": 4.1,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Stoke",
+   "data": "2026-11-21",
+   "fuori": "Birmingham",
+   "gol": [
+    1,
+    0
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.74,
+    "fuori": 2.55,
+    "over25": 2.07,
+    "pari": 3.22,
+    "under25": 1.7
+   }
+  },
+  {
+   "casa": "Swansea",
+   "data": "2026-11-21",
+   "fuori": "West Brom",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.49,
+    "fuori": 2.72,
+    "over25": 1.89,
+    "pari": 3.34,
+    "under25": 1.85
+   }
+  },
+  {
+   "casa": "West Ham",
+   "data": "2026-11-21",
+   "fuori": "Preston",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.24,
+    "fuori": 9.98,
+    "over25": 1.42,
+    "pari": 6.2,
+    "under25": 2.76
+   }
+  },
+  {
+   "casa": "Wolves",
+   "data": "2026-11-21",
+   "fuori": "Charlton",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 1.23,
+    "fuori": 11.34,
+    "over25": 1.54,
+    "pari": 6.08,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Burnley",
+   "data": "2026-11-22",
+   "fuori": "Blackburn",
+   "gol": [
+    2,
+    2
+   ],
+   "ora": "12:00",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.3,
+    "over25": 1.69,
+    "pari": 3.84,
+    "under25": 2.09
    }
   }
  ],

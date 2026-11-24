@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-23 16:18 UTC",
+ "aggiornato": "2026-11-24 16:05 UTC",
  "codice": "SC1",
  "nome": "Championship",
  "paese": "Scozia",
@@ -1242,6 +1242,74 @@
     "fuori": 3.97,
     "over25": 2.0,
     "pari": 3.35,
+    "under25": 1.73
+   }
+  },
+  {
+   "casa": "Inverness C",
+   "data": "2026-11-20",
+   "fuori": "Ayr",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:30",
+   "quote": {
+    "casa": 1.6,
+    "fuori": 4.8,
+    "over25": 1.8,
+    "pari": 3.76,
+    "under25": 1.91
+   }
+  },
+  {
+   "casa": "Arbroath",
+   "data": "2026-11-21",
+   "fuori": "Stenhousemuir",
+   "gol": [
+    2,
+    1
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.29,
+    "fuori": 2.9,
+    "over25": 2.12,
+    "pari": 3.12,
+    "under25": 1.64
+   }
+  },
+  {
+   "casa": "Queens Park",
+   "data": "2026-11-21",
+   "fuori": "Livingston",
+   "gol": [
+    1,
+    4
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 5.68,
+    "fuori": 1.47,
+    "over25": 1.74,
+    "pari": 4.07,
+    "under25": 1.98
+   }
+  },
+  {
+   "casa": "Raith Rvs",
+   "data": "2026-11-21",
+   "fuori": "Partick",
+   "gol": [
+    0,
+    2
+   ],
+   "ora": "15:00",
+   "quote": {
+    "casa": 2.72,
+    "fuori": 2.41,
+    "over25": 1.99,
+    "pari": 3.14,
     "under25": 1.73
    }
   }
