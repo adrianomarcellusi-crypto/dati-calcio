@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-25 15:53 UTC",
+ "aggiornato": "2026-11-26 15:33 UTC",
  "codice": "E2",
  "nome": "League One",
  "paese": "Inghilterra",
@@ -2977,6 +2977,74 @@
     "over25": 1.49,
     "pari": 3.79,
     "under25": 2.47
+   }
+  },
+  {
+   "casa": "Blackpool",
+   "data": "2026-11-24",
+   "fuori": "Leicester",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 4.4,
+    "fuori": 1.65,
+    "over25": 1.43,
+    "pari": 4.22,
+    "under25": 2.67
+   }
+  },
+  {
+   "casa": "Bradford",
+   "data": "2026-11-24",
+   "fuori": "Barnsley",
+   "gol": [
+    3,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 1.74,
+    "fuori": 4.11,
+    "over25": 1.53,
+    "pari": 3.93,
+    "under25": 2.39
+   }
+  },
+  {
+   "casa": "Bromley",
+   "data": "2026-11-24",
+   "fuori": "Wycombe",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 5.06,
+    "fuori": 1.59,
+    "over25": 1.67,
+    "pari": 4.08,
+    "under25": 2.11
+   }
+  },
+  {
+   "casa": "Stevenage",
+   "data": "2026-11-24",
+   "fuori": "Sheffield Weds",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.13,
+    "fuori": 2.2,
+    "over25": 1.96,
+    "pari": 3.33,
+    "under25": 1.77
    }
   }
  ],

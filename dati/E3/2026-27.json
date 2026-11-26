@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-25 15:53 UTC",
+ "aggiornato": "2026-11-26 15:33 UTC",
  "codice": "E3",
  "nome": "League Two",
  "paese": "Inghilterra",
@@ -3164,6 +3164,40 @@
     "over25": 1.49,
     "pari": 3.91,
     "under25": 2.46
+   }
+  },
+  {
+   "casa": "Crawley Town",
+   "data": "2026-11-24",
+   "fuori": "Barnet",
+   "gol": [
+    0,
+    0
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 3.66,
+    "fuori": 1.87,
+    "over25": 1.64,
+    "pari": 3.65,
+    "under25": 2.14
+   }
+  },
+  {
+   "casa": "Port Vale",
+   "data": "2026-11-24",
+   "fuori": "Northampton",
+   "gol": [
+    1,
+    1
+   ],
+   "ora": "19:45",
+   "quote": {
+    "casa": 2.21,
+    "fuori": 3.36,
+    "over25": 2.38,
+    "pari": 3.04,
+    "under25": 1.52
    }
   }
  ],
